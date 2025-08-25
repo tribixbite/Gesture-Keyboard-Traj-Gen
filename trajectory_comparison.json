@@ -1,0 +1,89 @@
+{
+  "precise_slow": {
+    "bell": {
+      "path_length": 768.9662351610647,
+      "avg_velocity": 678.1669768665457,
+      "max_velocity": 3401.0827096985795,
+      "avg_jerk": 917480.5376996064,
+      "max_jerk": 4049815.2517263484,
+      "duration": 1.1250000000000002,
+      "n_points": 112
+    },
+    "uniform": {
+      "path_length": 2124.8255748779707,
+      "avg_velocity": 1871.9670644787034,
+      "max_velocity": 9818.068866250398,
+      "avg_jerk": 1425842.9546416781,
+      "max_jerk": 11597049.042564334,
+      "duration": 1.1250000000000002,
+      "n_points": 112
+    },
+    "realistic": {
+      "path_length": 2143.4458749934643,
+      "avg_velocity": 2105.00061932376,
+      "max_velocity": 6701.0322873728865,
+      "avg_jerk": 1434511.461119186,
+      "max_jerk": 7833758.612357204,
+      "duration": 1.1250000000000002,
+      "n_points": 112
+    }
+  },
+  "fast_sloppy": {
+    "bell": {
+      "path_length": 876.690534029559,
+      "avg_velocity": 1661.0900585798695,
+      "max_velocity": 5817.467397915059,
+      "avg_jerk": 5050755.821411586,
+      "max_jerk": 16005021.325627021,
+      "duration": 0.525,
+      "n_points": 52
+    },
+    "uniform": {
+      "path_length": 2025.668493288074,
+      "avg_velocity": 3846.595597009765,
+      "max_velocity": 11459.264274651949,
+      "avg_jerk": 6726360.477058108,
+      "max_jerk": 19911990.250229377,
+      "duration": 0.525,
+      "n_points": 52
+    },
+    "realistic": {
+      "path_length": 2019.4513777376665,
+      "avg_velocity": 4483.9687155443935,
+      "max_velocity": 12675.52006866361,
+      "avg_jerk": 7290345.962595486,
+      "max_jerk": 27457995.122211073,
+      "duration": 0.525,
+      "n_points": 52
+    }
+  },
+  "normal": {
+    "bell": {
+      "path_length": 831.9819232127595,
+      "avg_velocity": 1045.4919427788182,
+      "max_velocity": 4588.991233460723,
+      "avg_jerk": 2292693.960354871,
+      "max_jerk": 8798574.02661974,
+      "duration": 0.7875000000000001,
+      "n_points": 78
+    },
+    "uniform": {
+      "path_length": 2148.9535894273654,
+      "avg_velocity": 2695.653289497983,
+      "max_velocity": 11738.573583271593,
+      "avg_jerk": 3806310.8188296105,
+      "max_jerk": 19527626.00682147,
+      "duration": 0.7875000000000001,
+      "n_points": 78
+    },
+    "realistic": {
+      "path_length": 2126.4002849150443,
+      "avg_velocity": 3048.0104121797094,
+      "max_velocity": 8239.445636022485,
+      "avg_jerk": 3902426.3345246604,
+      "max_jerk": 13279611.578675749,
+      "duration": 0.7875000000000001,
+      "n_points": 78
+    }
+  }
+}
