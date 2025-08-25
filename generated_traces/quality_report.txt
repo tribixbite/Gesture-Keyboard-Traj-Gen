@@ -1,0 +1,9 @@
+TRACE GENERATION QUALITY REPORT
+Generated: 2025-08-25T16:37:37.052535
+Total traces: 100
+Success rate: 100.0%
+
+Key Metrics:
+- Avg quality score: 0.321
+- Avg jerk: 14668694 units/s³
+- Avg path/char: 335.8 units
