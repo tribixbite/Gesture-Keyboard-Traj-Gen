@@ -1,0 +1,52 @@
+============================================================
+UNIFIED MODEL TRAINING PIPELINE
+============================================================
+Started at: 2025-08-26 13:52:09
+Using device: cpu
+
+Loading dataset...
+✅ Loaded 82467 total traces
+   - Real traces: 82461
+   - Synthetic traces: 0
+   - Vocabulary size: 42
+
+============================================================
+TRAINING ATTENTION RNN
+============================================================
+  Epoch 1/2 [0/2578] Loss: 3.1294
+  Epoch 1/2 [50/2578] Loss: 1.6053
+  Epoch 1/2 [100/2578] Loss: 0.6254
+⚠️ Attention RNN training failed: list index out of range
+
+============================================================
+TRAINING WGAN-GP
+============================================================
+⚠️ WGAN-GP training failed: mat1 and mat2 shapes cannot be multiplied (32x4928 and 4672x512)
+
+============================================================
+TRAINING TRANSFORMER
+============================================================
+  Epoch 1/2 [0/5155] Loss: 4.2952
+  Epoch 1/2 [50/5155] Loss: 1.8381
+⚠️ Transformer training failed: list index out of range
+
+============================================================
+MODEL EVALUATION
+============================================================
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/git/Gesture-Keyboard-Traj-Gen/train_all_models.py", line 416, in <module>
+    
+  File "/data/data/com.termux/files/home/git/Gesture-Keyboard-Traj-Gen/train_all_models.py", line 379, in main
+    print(f"⚠️ WGAN-GP training failed: {e}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/git/Gesture-Keyboard-Traj-Gen/train_all_models.py", line 304, in evaluate_models
+    print("\n" + "="*60)
+                     ^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/torch/serialization.py", line 1470, in load
+    raise pickle.UnpicklingError(_get_wo_message(str(e))) from None
+_pickle.UnpicklingError: Weights only load failed. This file can still be loaded, to do so you have two options, [1mdo those steps only if you trust the source of the checkpoint[0m. 
+	(1) In PyTorch 2.6, we changed the default value of the `weights_only` argument in `torch.load` from `False` to `True`. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+	(2) Alternatively, to load with `weights_only=True` please check the recommended steps in the following error message.
+	WeightsUnpickler error: Unsupported global: GLOBAL numpy._core.multiarray.scalar was not an allowed global by default. Please use `torch.serialization.add_safe_globals([scalar])` or the `torch.serialization.safe_globals([scalar])` context manager to allowlist this global if you trust this class/function.
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
