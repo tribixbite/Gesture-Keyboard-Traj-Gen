@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "validation_passed": false,
+    "words_tested": 20,
+    "percent_valid": 0.0
+  },
+  "aggregate_metrics": {
+    "mean_dtw_normalized": 123.97015254368155,
+    "mean_frechet": 757.0140048158574,
+    "mean_velocity_ks_pvalue": 0.7199276480772994,
+    "mean_curvature_ks_pvalue": 0.8553912484570955,
+    "mean_path_length_ratio": 9.758910538055137,
+    "mean_jerk_ratio": 1.234221637707185,
+    "percent_valid": 0.0
+  },
+  "word_details": {
+    "over": {
+      "valid": false,
+      "dtw_normalized": 128.41166367739874,
+      "frechet_distance": 721.1384931715113,
+      "velocity_match": 
