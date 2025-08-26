@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  gesture-api:
+    build: .
+    container_name: gesture-trajectory-api
+    ports:
+      - "8080:8080"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - NUM_WORKERS=4
+      - LOG_LEVEL=INFO
+    volumes:
+      - ./synthetic_traces:/app/synthetic_traces
+      - ./logs:/app/logs
+      - ./memory:/app/memory
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - gesture-net
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2G
+        reservations:
+          cpus: '1.0'
+          memory: 1G
+
+  nginx:
+    image: nginx:alpine
+    container_name: gesture-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - gesture-api
+    networks:
+      - gesture-net
+    restart: unless-stopped
+
+networks:
+  gesture-net:
+    driver: bridge
