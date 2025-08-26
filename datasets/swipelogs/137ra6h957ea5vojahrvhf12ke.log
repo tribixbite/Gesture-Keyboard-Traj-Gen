@@ -1,0 +1,326 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+hope_your_trip_to_florida_was_good 1581265348269 360 221 touchstart 227 99 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348305 360 221 touchmove 231 95 0.2783203125 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348321 360 221 touchmove 236 92 0.2783203125 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348338 360 221 touchmove 245 86 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348355 360 221 touchmove 254 79 0.347900390625 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348371 360 221 touchmove 266 70 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348388 360 221 touchmove 274 63 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348405 360 221 touchmove 281 57 0.2783203125 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348422 360 221 touchmove 288 50 0.347900390625 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348439 360 221 touchmove 294 45 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348455 360 221 touchmove 299 40 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348471 360 221 touchmove 304 36 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348488 360 221 touchmove 308 33 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348505 360 221 touchmove 311 32 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348522 360 221 touchmove 315 31 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348539 360 221 touchmove 317 32 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348555 360 221 touchmove 318 34 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348572 360 221 touchmove 319 35 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348589 360 221 touchmove 319 37 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348606 360 221 touchmove 319 39 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348621 360 221 touchmove 319 41 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348638 360 221 touchmove 319 44 0.2783203125 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348656 360 221 touchmove 317 50 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348672 360 221 touchmove 307 59 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348689 360 221 touchmove 292 65 0.2783203125 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348705 360 221 touchmove 270 67 0.2783203125 0.41748046875 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348727 360 221 touchmove 247 66 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348739 360 221 touchmove 224 65 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348756 360 221 touchmove 201 63 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348773 360 221 touchmove 176 60 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348789 360 221 touchmove 155 58 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348806 360 221 touchmove 137 56 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348822 360 221 touchmove 126 54 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348839 360 221 touchmove 115 52 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348856 360 221 touchmove 107 49 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348872 360 221 touchmove 98 45 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348889 360 221 touchmove 93 42 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348906 360 221 touchmove 88 41 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348922 360 221 touchmove 84 41 0.2783203125 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348940 360 221 touchmove 81 41 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348956 360 221 touchmove 80 42 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348973 360 221 touchmove 80 42 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265348979 360 221 touchend 80 42 0.208740234375 0.2783203125 0 hope 0
+hope_your_trip_to_florida_was_good 1581265349495 360 221 touchmove 309 47 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349507 360 221 touchmove 308 45 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349523 360 221 touchmove 304 40 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349540 360 221 touchmove 300 35 0.2783203125 0.41748046875 0 your 0
+hope_your_trip_to_florida_was_good 1581265349557 360 221 touchmove 294 33 0.2783203125 0.41748046875 0 your 0
+hope_your_trip_to_florida_was_good 1581265349574 360 221 touchmove 287 31 0.2783203125 0.41748046875 0 your 0
+hope_your_trip_to_florida_was_good 1581265349593 360 221 touchmove 264 29 0.2783203125 0.41748046875 0 your 0
+hope_your_trip_to_florida_was_good 1581265349607 360 221 touchmove 255 28 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349624 360 221 touchmove 235 28 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349640 360 221 touchmove 218 28 0.208740234375 0.41748046875 0 your 0
+hope_your_trip_to_florida_was_good 1581265349657 360 221 touchmove 203 30 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349674 360 221 touchmove 189 32 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349691 360 221 touchmove 178 36 0.2783203125 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349708 360 221 touchmove 167 38 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349725 360 221 touchmove 158 41 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349742 360 221 touchmove 150 42 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349758 360 221 touchmove 144 42 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349775 360 221 touchmove 141 43 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349791 360 221 touchmove 141 42 0.208740234375 0.2783203125 0 your 0
+hope_your_trip_to_florida_was_good 1581265349817 360 221 touchmove 141 43 0.208740234375 0.208740234375 0 your 0
+hope_your_trip_to_florida_was_good 1581265349832 360 221 touchend 141 43 0.208740234375 0.208740234375 0 your 0
+hope_your_trip_to_florida_was_good 1581265351322 360 221 touchstart 166 26 0.208740234375 0.208740234375 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351348 360 221 touchmove 164 26 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351360 360 221 touchmove 162 27 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351378 360 221 touchmove 154 28 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351394 360 221 touchmove 142 29 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351410 360 221 touchmove 133 31 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351427 360 221 touchmove 128 32 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351444 360 221 touchmove 126 33 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351494 360 221 touchmove 127 33 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351511 360 221 touchmove 170 32 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351528 360 221 touchmove 194 29 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351544 360 221 touchmove 212 28 0.2783203125 0.41748046875 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351561 360 221 touchmove 227 28 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351577 360 221 touchmove 240 30 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351597 360 221 touchmove 253 31 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351614 360 221 touchmove 266 32 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351628 360 221 touchmove 280 32 0.2783203125 0.41748046875 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351644 360 221 touchmove 297 31 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351661 360 221 touchmove 308 32 0.2783203125 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351678 360 221 touchmove 315 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351695 360 221 touchmove 319 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351711 360 221 touchmove 321 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351728 360 221 touchmove 323 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351745 360 221 touchmove 324 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351762 360 221 touchmove 325 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351828 360 221 touchmove 326 31 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351845 360 221 touchmove 326 30 0.208740234375 0.2783203125 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351862 360 221 touchmove 326 30 0.13916015625 0.208740234375 0 trip 0
+hope_your_trip_to_florida_was_good 1581265351872 360 221 touchend 326 30 0.13916015625 0.208740234375 0 trip 0
+hope_your_trip_to_florida_was_good 1581265352819 360 221 touchstart 167 29 0.208740234375 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265352847 360 221 touchmove 168 29 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265352864 360 221 touchmove 171 30 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265352881 360 221 touchmove 178 30 0.2783203125 0.41748046875 0 to 0
+hope_your_trip_to_florida_was_good 1581265352898 360 221 touchmove 194 32 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265352915 360 221 touchmove 217 35 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265352934 360 221 touchmove 253 38 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265352950 360 221 touchmove 264 38 0.2783203125 0.41748046875 0 to 0
+hope_your_trip_to_florida_was_good 1581265352968 360 221 touchmove 282 38 0.2783203125 0.41748046875 0 to 0
+hope_your_trip_to_florida_was_good 1581265352981 360 221 touchmove 294 39 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265353001 360 221 touchmove 301 40 0.2783203125 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265353014 360 221 touchmove 306 41 0.208740234375 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265353021 360 221 touchend 306 41 0.208740234375 0.2783203125 0 to 0
+hope_your_trip_to_florida_was_good 1581265354102 360 221 touchstart 152 92 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354121 360 221 touchmove 153 91 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354138 360 221 touchmove 157 89 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354149 360 221 touchmove 160 88 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354166 360 221 touchmove 169 84 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354183 360 221 touchmove 184 82 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354199 360 221 touchmove 206 82 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354216 360 221 touchmove 232 84 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354233 360 221 touchmove 251 86 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354250 360 221 touchmove 269 87 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354267 360 221 touchmove 286 90 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354283 360 221 touchmove 300 92 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354300 360 221 touchmove 308 94 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354317 360 221 touchmove 313 96 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354333 360 221 touchmove 316 98 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354350 360 221 touchmove 318 100 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354367 360 221 touchmove 319 101 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354383 360 221 touchmove 320 101 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354400 360 221 touchmove 320 101 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354417 360 221 touchmove 320 100 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354434 360 221 touchmove 320 97 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354450 360 221 touchmove 319 87 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354467 360 221 touchmove 316 77 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354483 360 221 touchmove 314 72 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354500 360 221 touchmove 312 68 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354517 360 221 touchmove 309 62 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354534 360 221 touchmove 302 52 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354551 360 221 touchmove 290 38 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354567 360 221 touchmove 280 32 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354584 360 221 touchmove 274 32 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354602 360 221 touchmove 265 32 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354617 360 221 touchmove 251 33 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354634 360 221 touchmove 229 34 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354651 360 221 touchmove 208 33 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354667 360 221 touchmove 188 33 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354684 360 221 touchmove 173 33 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354702 360 221 touchmove 160 32 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354718 360 221 touchmove 150 31 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354734 360 221 touchmove 143 30 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354751 360 221 touchmove 141 29 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354768 360 221 touchmove 143 28 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354784 360 221 touchmove 148 27 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354801 360 221 touchmove 158 24 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354818 360 221 touchmove 180 21 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354835 360 221 touchmove 208 19 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354881 360 221 touchmove 239 21 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354904 360 221 touchmove 280 33 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354919 360 221 touchmove 281 34 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354935 360 221 touchmove 282 35 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354951 360 221 touchmove 282 37 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354969 360 221 touchmove 281 38 0.2783203125 0.41748046875 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354985 360 221 touchmove 278 39 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355001 360 221 touchmove 265 42 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355018 360 221 touchmove 237 45 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355035 360 221 touchmove 194 48 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355051 360 221 touchmove 180 50 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355068 360 221 touchmove 154 54 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355085 360 221 touchmove 136 58 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355101 360 221 touchmove 123 63 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355118 360 221 touchmove 116 67 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355135 360 221 touchmove 112 71 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355152 360 221 touchmove 108 77 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355169 360 221 touchmove 107 78 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355185 360 221 touchmove 105 82 0.2783203125 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355202 360 221 touchmove 100 88 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355219 360 221 touchmove 97 90 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355236 360 221 touchmove 86 94 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355252 360 221 touchmove 76 94 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355269 360 221 touchmove 66 92 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355285 360 221 touchmove 58 89 0.208740234375 0.2783203125 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355303 360 221 touchmove 51 87 0.13916015625 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355319 360 221 touchmove 43 85 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355335 360 221 touchmove 38 82 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355352 360 221 touchmove 36 81 0.208740234375 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355369 360 221 touchmove 33 79 0.13916015625 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355387 360 221 touchmove 31 77 0.13916015625 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355402 360 221 touchmove 31 76 0.13916015625 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265355411 360 221 touchend 31 76 0.13916015625 0.208740234375 0 florida 0
+hope_your_trip_to_florida_was_good 1581265354102 360 221 touchstart 152 92 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354121 360 221 touchmove 153 91 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354138 360 221 touchmove 157 89 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354149 360 221 touchmove 160 88 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354166 360 221 touchmove 169 84 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354183 360 221 touchmove 184 82 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354199 360 221 touchmove 206 82 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354216 360 221 touchmove 232 84 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354233 360 221 touchmove 251 86 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354250 360 221 touchmove 269 87 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354267 360 221 touchmove 286 90 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354283 360 221 touchmove 300 92 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354300 360 221 touchmove 308 94 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354317 360 221 touchmove 313 96 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354333 360 221 touchmove 316 98 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354350 360 221 touchmove 318 100 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354367 360 221 touchmove 319 101 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354383 360 221 touchmove 320 101 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354400 360 221 touchmove 320 101 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354417 360 221 touchmove 320 100 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354434 360 221 touchmove 320 97 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354450 360 221 touchmove 319 87 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354467 360 221 touchmove 316 77 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354483 360 221 touchmove 314 72 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354500 360 221 touchmove 312 68 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354517 360 221 touchmove 309 62 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354534 360 221 touchmove 302 52 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354551 360 221 touchmove 290 38 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354567 360 221 touchmove 280 32 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354584 360 221 touchmove 274 32 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354602 360 221 touchmove 265 32 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354617 360 221 touchmove 251 33 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354634 360 221 touchmove 229 34 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354651 360 221 touchmove 208 33 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354667 360 221 touchmove 188 33 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354684 360 221 touchmove 173 33 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354702 360 221 touchmove 160 32 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354718 360 221 touchmove 150 31 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354734 360 221 touchmove 143 30 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354751 360 221 touchmove 141 29 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354768 360 221 touchmove 143 28 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354784 360 221 touchmove 148 27 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354801 360 221 touchmove 158 24 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354818 360 221 touchmove 180 21 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354835 360 221 touchmove 208 19 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354881 360 221 touchmove 239 21 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354904 360 221 touchmove 280 33 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354919 360 221 touchmove 281 34 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354935 360 221 touchmove 282 35 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354951 360 221 touchmove 282 37 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354969 360 221 touchmove 281 38 0.2783203125 0.41748046875 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265354985 360 221 touchmove 278 39 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355001 360 221 touchmove 265 42 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355018 360 221 touchmove 237 45 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355035 360 221 touchmove 194 48 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355051 360 221 touchmove 180 50 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355068 360 221 touchmove 154 54 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355085 360 221 touchmove 136 58 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355101 360 221 touchmove 123 63 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355118 360 221 touchmove 116 67 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355135 360 221 touchmove 112 71 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355152 360 221 touchmove 108 77 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355169 360 221 touchmove 107 78 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355185 360 221 touchmove 105 82 0.2783203125 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355202 360 221 touchmove 100 88 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355219 360 221 touchmove 97 90 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355236 360 221 touchmove 86 94 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355252 360 221 touchmove 76 94 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355269 360 221 touchmove 66 92 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355285 360 221 touchmove 58 89 0.208740234375 0.2783203125 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355303 360 221 touchmove 51 87 0.13916015625 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355319 360 221 touchmove 43 85 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355335 360 221 touchmove 38 82 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355352 360 221 touchmove 36 81 0.208740234375 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355369 360 221 touchmove 33 79 0.13916015625 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355387 360 221 touchmove 31 77 0.13916015625 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355402 360 221 touchmove 31 76 0.13916015625 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355411 360 221 touchend 31 76 0.13916015625 0.208740234375 0 florida 0 0
+hope_your_trip_to_florida_was_good 1581265355730 360 221 touchstart 55 42 0.208740234375 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265355803 360 221 touchmove 47 49 0.208740234375 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355819 360 221 touchmove 40 56 0.208740234375 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265355837 360 221 touchmove 34 63 0.208740234375 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355853 360 221 touchmove 30 68 0.13916015625 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355870 360 221 touchmove 29 70 0.13916015625 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355886 360 221 touchmove 29 71 0.13916015625 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355904 360 221 touchmove 31 72 0.208740234375 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355920 360 221 touchmove 34 75 0.208740234375 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355937 360 221 touchmove 40 78 0.208740234375 0.208740234375 0 was 0
+hope_your_trip_to_florida_was_good 1581265355954 360 221 touchmove 48 82 0.2783203125 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265355970 360 221 touchmove 57 84 0.2783203125 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265355987 360 221 touchmove 65 85 0.2783203125 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356004 360 221 touchmove 74 83 0.2783203125 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356021 360 221 touchmove 79 83 0.2783203125 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356038 360 221 touchmove 83 85 0.2783203125 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356053 360 221 touchmove 86 88 0.208740234375 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356070 360 221 touchmove 88 90 0.208740234375 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356077 360 221 touchend 88 90 0.208740234375 0.2783203125 0 was 0
+hope_your_trip_to_florida_was_good 1581265356521 360 221 touchmove 72 96 0.208740234375 0.208740234375 0 good 1
+hope_your_trip_to_florida_was_good 1581265356553 360 221 touchmove 72 96 0.208740234375 0.208740234375 0 good 1
+hope_your_trip_to_florida_was_good 1581265356603 360 221 touchmove 73 95 0.208740234375 0.208740234375 0 good 1
+hope_your_trip_to_florida_was_good 1581265356671 360 221 touchmove 72 95 0.208740234375 0.208740234375 0 good 1
+hope_your_trip_to_florida_was_good 1581265356702 360 221 touchmove 72 95 0.208740234375 0.208740234375 0 good 1
+hope_your_trip_to_florida_was_good 1581265356718 360 221 touchend 72 95 0.208740234375 0.208740234375 0 good 1
+hope_your_trip_to_florida_was_good 1581265356521 360 221 touchmove 72 96 0.208740234375 0.208740234375 0 good 1 1
+hope_your_trip_to_florida_was_good 1581265356553 360 221 touchmove 72 96 0.208740234375 0.208740234375 0 good 1 1
+hope_your_trip_to_florida_was_good 1581265356603 360 221 touchmove 73 95 0.208740234375 0.208740234375 0 good 1 1
+hope_your_trip_to_florida_was_good 1581265356671 360 221 touchmove 72 95 0.208740234375 0.208740234375 0 good 1 1
+hope_your_trip_to_florida_was_good 1581265356702 360 221 touchmove 72 95 0.208740234375 0.208740234375 0 good 1 1
+hope_your_trip_to_florida_was_good 1581265356718 360 221 touchend 72 95 0.208740234375 0.208740234375 0 good 1 1
+hope_your_trip_to_florida_was_good 1581265357072 360 221 touchstart 329 145 0.208740234375 0.2783203125 0 good 1
+hope_your_trip_to_florida_was_good 1581265357122 360 221 touchmove 327 144 0.208740234375 0.2783203125 0 good 1
+hope_your_trip_to_florida_was_good 1581265357152 360 221 touchend 327 144 0.208740234375 0.2783203125 0 good 1
+hope_your_trip_to_florida_was_good 1581265357999 360 221 touchstart 190 96 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358024 360 221 touchmove 191 95 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358040 360 221 touchmove 197 92 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358058 360 221 touchmove 206 87 0.2783203125 0.41748046875 0 good 0
+hope_your_trip_to_florida_was_good 1581265358074 360 221 touchmove 220 81 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358090 360 221 touchmove 237 76 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358107 360 221 touchmove 254 72 0.2783203125 0.41748046875 0 good 0
+hope_your_trip_to_florida_was_good 1581265358124 360 221 touchmove 271 68 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358141 360 221 touchmove 282 65 0.2783203125 0.41748046875 0 good 0
+hope_your_trip_to_florida_was_good 1581265358157 360 221 touchmove 293 62 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358175 360 221 touchmove 299 60 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358191 360 221 touchmove 304 58 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358208 360 221 touchmove 307 57 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358224 360 221 touchmove 309 56 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358241 360 221 touchmove 309 55 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358258 360 221 touchmove 308 54 0.2783203125 0.41748046875 0 good 0
+hope_your_trip_to_florida_was_good 1581265358275 360 221 touchmove 306 50 0.2783203125 0.41748046875 0 good 0
+hope_your_trip_to_florida_was_good 1581265358291 360 221 touchmove 289 36 0.2783203125 0.41748046875 0 good 0
+hope_your_trip_to_florida_was_good 1581265358307 360 221 touchmove 257 22 0.2783203125 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358324 360 221 touchmove 223 19 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358341 360 221 touchmove 190 24 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358358 360 221 touchmove 164 34 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358374 360 221 touchmove 149 47 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358391 360 221 touchmove 142 59 0.208740234375 0.208740234375 0 good 0
+hope_your_trip_to_florida_was_good 1581265358408 360 221 touchmove 137 70 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358425 360 221 touchmove 133 80 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358442 360 221 touchmove 131 87 0.208740234375 0.2783203125 0 good 0
+hope_your_trip_to_florida_was_good 1581265358458 360 221 touchmove 129 91 0.208740234375 0.208740234375 0 good 0
+hope_your_trip_to_florida_was_good 1581265358471 360 221 touchend 129 91 0.208740234375 0.208740234375 0 good 0

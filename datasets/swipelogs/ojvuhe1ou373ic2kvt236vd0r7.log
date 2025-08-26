@@ -1,0 +1,919 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+they_have_capacity_now 1579737816107 360 175 touchstart 161 32 0 0 0 they 0
+they_have_capacity_now 1579737816120 360 175 touchmove 161 32 0 0 0 they 0
+they_have_capacity_now 1579737816131 360 175 touchmove 161 32 0 0 0 they 0
+they_have_capacity_now 1579737816141 360 175 touchmove 161 32 0 0 0 they 0
+they_have_capacity_now 1579737816151 360 175 touchmove 161 32 0 0 0 they 0
+they_have_capacity_now 1579737816167 360 175 touchmove 161 32 0 0 0 they 0
+they_have_capacity_now 1579737816185 360 175 touchmove 161 34 0 0 0 they 0
+they_have_capacity_now 1579737816201 360 175 touchmove 162 36 0 0 0 they 0
+they_have_capacity_now 1579737816218 360 175 touchmove 164 39 0 0 0 they 0
+they_have_capacity_now 1579737816241 360 175 touchmove 166 44 0 0 0 they 0
+they_have_capacity_now 1579737816253 360 175 touchmove 170 49 0 0 0 they 0
+they_have_capacity_now 1579737816268 360 175 touchmove 173 54 0 0 0 they 0
+they_have_capacity_now 1579737816284 360 175 touchmove 176 59 0 0 0 they 0
+they_have_capacity_now 1579737816302 360 175 touchmove 179 63 0 0 0 they 0
+they_have_capacity_now 1579737816318 360 175 touchmove 184 67 0 0 0 they 0
+they_have_capacity_now 1579737816340 360 175 touchmove 189 71 0 0 0 they 0
+they_have_capacity_now 1579737816356 360 175 touchmove 194 73 0 0 0 they 0
+they_have_capacity_now 1579737816370 360 175 touchmove 199 76 0 0 0 they 0
+they_have_capacity_now 1579737816387 360 175 touchmove 203 77 0 0 0 they 0
+they_have_capacity_now 1579737816401 360 175 touchmove 206 78 0 0 0 they 0
+they_have_capacity_now 1579737816418 360 175 touchmove 209 78 0 0 0 they 0
+they_have_capacity_now 1579737816436 360 175 touchmove 211 78 0 0 0 they 0
+they_have_capacity_now 1579737816453 360 175 touchmove 214 78 0 0 0 they 0
+they_have_capacity_now 1579737816469 360 175 touchmove 216 77 0 0 0 they 0
+they_have_capacity_now 1579737816485 360 175 touchmove 217 76 0 0 0 they 0
+they_have_capacity_now 1579737816505 360 175 touchmove 218 76 0 0 0 they 0
+they_have_capacity_now 1579737816520 360 175 touchmove 219 75 0 0 0 they 0
+they_have_capacity_now 1579737816537 360 175 touchmove 219 75 0 0 0 they 0
+they_have_capacity_now 1579737816552 360 175 touchmove 219 75 0 0 0 they 0
+they_have_capacity_now 1579737816570 360 175 touchmove 219 75 0 0 0 they 0
+they_have_capacity_now 1579737816586 360 175 touchmove 219 75 0 0 0 they 0
+they_have_capacity_now 1579737816619 360 175 touchmove 219 75 0 0 0 they 0
+they_have_capacity_now 1579737816638 360 175 touchmove 218 75 0 0 0 they 0
+they_have_capacity_now 1579737816653 360 175 touchmove 217 76 0 0 0 they 0
+they_have_capacity_now 1579737816671 360 175 touchmove 215 76 0 0 0 they 0
+they_have_capacity_now 1579737816687 360 175 touchmove 213 77 0 0 0 they 0
+they_have_capacity_now 1579737816702 360 175 touchmove 210 78 0 0 0 they 0
+they_have_capacity_now 1579737816722 360 175 touchmove 205 78 0 0 0 they 0
+they_have_capacity_now 1579737816735 360 175 touchmove 197 77 0 0 0 they 0
+they_have_capacity_now 1579737816753 360 175 touchmove 185 75 0 0 0 they 0
+they_have_capacity_now 1579737816769 360 175 touchmove 174 73 0 0 0 they 0
+they_have_capacity_now 1579737816785 360 175 touchmove 164 70 0 0 0 they 0
+they_have_capacity_now 1579737816805 360 175 touchmove 156 67 0 0 0 they 0
+they_have_capacity_now 1579737816820 360 175 touchmove 148 64 0 0 0 they 0
+they_have_capacity_now 1579737816843 360 175 touchmove 142 61 0 0 0 they 0
+they_have_capacity_now 1579737816856 360 175 touchmove 135 57 0 0 0 they 0
+they_have_capacity_now 1579737816873 360 175 touchmove 129 54 0 0 0 they 0
+they_have_capacity_now 1579737816886 360 175 touchmove 123 52 0 0 0 they 0
+they_have_capacity_now 1579737816903 360 175 touchmove 118 50 0 0 0 they 0
+they_have_capacity_now 1579737816920 360 175 touchmove 113 48 0 0 0 they 0
+they_have_capacity_now 1579737816936 360 175 touchmove 109 46 0 0 0 they 0
+they_have_capacity_now 1579737816953 360 175 touchmove 105 44 0 0 0 they 0
+they_have_capacity_now 1579737816969 360 175 touchmove 103 42 0 0 0 they 0
+they_have_capacity_now 1579737816986 360 175 touchmove 100 40 0 0 0 they 0
+they_have_capacity_now 1579737817003 360 175 touchmove 98 38 0 0 0 they 0
+they_have_capacity_now 1579737817020 360 175 touchmove 97 37 0 0 0 they 0
+they_have_capacity_now 1579737817037 360 175 touchmove 95 36 0 0 0 they 0
+they_have_capacity_now 1579737817053 360 175 touchmove 95 34 0 0 0 they 0
+they_have_capacity_now 1579737817070 360 175 touchmove 94 34 0 0 0 they 0
+they_have_capacity_now 1579737817089 360 175 touchmove 94 33 0 0 0 they 0
+they_have_capacity_now 1579737817139 360 175 touchmove 95 32 0 0 0 they 0
+they_have_capacity_now 1579737817147 360 175 touchmove 100 32 0 0 0 they 0
+they_have_capacity_now 1579737817160 360 175 touchmove 110 33 0 0 0 they 0
+they_have_capacity_now 1579737817171 360 175 touchmove 122 36 0 0 0 they 0
+they_have_capacity_now 1579737817189 360 175 touchmove 136 39 0 0 0 they 0
+they_have_capacity_now 1579737817203 360 175 touchmove 148 41 0 0 0 they 0
+they_have_capacity_now 1579737817220 360 175 touchmove 158 41 0 0 0 they 0
+they_have_capacity_now 1579737817238 360 175 touchmove 165 41 0 0 0 they 0
+they_have_capacity_now 1579737817254 360 175 touchmove 171 41 0 0 0 they 0
+they_have_capacity_now 1579737817273 360 175 touchmove 176 41 0 0 0 they 0
+they_have_capacity_now 1579737817289 360 175 touchmove 180 40 0 0 0 they 0
+they_have_capacity_now 1579737817305 360 175 touchmove 183 39 0 0 0 they 0
+they_have_capacity_now 1579737817321 360 175 touchmove 185 37 0 0 0 they 0
+they_have_capacity_now 1579737817339 360 175 touchmove 187 36 0 0 0 they 0
+they_have_capacity_now 1579737817357 360 175 touchmove 189 35 0 0 0 they 0
+they_have_capacity_now 1579737817373 360 175 touchmove 190 34 0 0 0 they 0
+they_have_capacity_now 1579737817388 360 175 touchmove 191 34 0 0 0 they 0
+they_have_capacity_now 1579737817407 360 175 touchmove 191 33 0 0 0 they 0
+they_have_capacity_now 1579737817422 360 175 touchmove 192 32 0 0 0 they 0
+they_have_capacity_now 1579737817438 360 175 touchmove 192 32 0 0 0 they 0
+they_have_capacity_now 1579737817454 360 175 touchmove 192 31 0 0 0 they 0
+they_have_capacity_now 1579737817473 360 175 touchmove 192 31 0 0 0 they 0
+they_have_capacity_now 1579737817484 360 175 touchmove 192 31 0 0 0 they 0
+they_have_capacity_now 1579737817497 360 175 touchend 192 31 0 0 0 they 0
+they_have_capacity_now 1579737819199 360 175 touchmove 112 118 0 0 0 have 0
+they_have_capacity_now 1579737819211 360 175 touchmove 126 123 0 0 0 have 0
+they_have_capacity_now 1579737819228 360 175 touchmove 137 126 0 0 0 have 0
+they_have_capacity_now 1579737819246 360 175 touchmove 144 127 0 0 0 have 0
+they_have_capacity_now 1579737819263 360 175 touchmove 151 128 0 0 0 have 0
+they_have_capacity_now 1579737819280 360 175 touchmove 156 129 0 0 0 have 0
+they_have_capacity_now 1579737819296 360 175 touchmove 161 129 0 0 0 have 0
+they_have_capacity_now 1579737819312 360 175 touchmove 164 129 0 0 0 have 0
+they_have_capacity_now 1579737819328 360 175 touchmove 167 128 0 0 0 have 0
+they_have_capacity_now 1579737819344 360 175 touchmove 169 128 0 0 0 have 0
+they_have_capacity_now 1579737819362 360 175 touchmove 171 127 0 0 0 have 0
+they_have_capacity_now 1579737819378 360 175 touchmove 173 126 0 0 0 have 0
+they_have_capacity_now 1579737819396 360 175 touchmove 174 126 0 0 0 have 0
+they_have_capacity_now 1579737819413 360 175 touchmove 175 125 0 0 0 have 0
+they_have_capacity_now 1579737819430 360 175 touchmove 175 124 0 0 0 have 0
+they_have_capacity_now 1579737819447 360 175 touchmove 175 124 0 0 0 have 0
+they_have_capacity_now 1579737819462 360 175 touchmove 173 120 0 0 0 have 0
+they_have_capacity_now 1579737819483 360 175 touchmove 169 110 0 0 0 have 0
+they_have_capacity_now 1579737819498 360 175 touchmove 163 99 0 0 0 have 0
+they_have_capacity_now 1579737819512 360 175 touchmove 156 86 0 0 0 have 0
+they_have_capacity_now 1579737819528 360 175 touchmove 149 75 0 0 0 have 0
+they_have_capacity_now 1579737819546 360 175 touchmove 143 62 0 0 0 have 0
+they_have_capacity_now 1579737819561 360 175 touchmove 138 53 0 0 0 have 0
+they_have_capacity_now 1579737819582 360 175 touchmove 134 46 0 0 0 have 0
+they_have_capacity_now 1579737819598 360 175 touchmove 131 40 0 0 0 have 0
+they_have_capacity_now 1579737819613 360 175 touchmove 128 35 0 0 0 have 0
+they_have_capacity_now 1579737819660 360 175 touchmove 124 32 0 0 0 have 0
+they_have_capacity_now 1579737819665 360 175 touchmove 116 24 0 0 0 have 0
+they_have_capacity_now 1579737819678 360 175 touchmove 113 22 0 0 0 have 0
+they_have_capacity_now 1579737819695 360 175 touchmove 110 19 0 0 0 have 0
+they_have_capacity_now 1579737819712 360 175 touchmove 107 17 0 0 0 have 0
+they_have_capacity_now 1579737819729 360 175 touchmove 105 15 0 0 0 have 0
+they_have_capacity_now 1579737819746 360 175 touchmove 103 13 0 0 0 have 0
+they_have_capacity_now 1579737819762 360 175 touchmove 102 12 0 0 0 have 0
+they_have_capacity_now 1579737819781 360 175 touchmove 101 11 0 0 0 have 0
+they_have_capacity_now 1579737819797 360 175 touchmove 101 11 0 0 0 have 0
+they_have_capacity_now 1579737819812 360 175 touchmove 100 10 0 0 0 have 0
+they_have_capacity_now 1579737819829 360 175 touchmove 99 9 0 0 0 have 0
+they_have_capacity_now 1579737819850 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737819863 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737819883 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737819896 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737819963 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737819996 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737820017 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737820034 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737820051 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737820071 360 175 touchmove 99 8 0 0 0 have 0
+they_have_capacity_now 1579737820085 360 175 touchmove 100 8 0 0 0 have 0
+they_have_capacity_now 1579737820098 360 175 touchmove 101 8 0 0 0 have 0
+they_have_capacity_now 1579737820111 360 175 touchmove 102 8 0 0 0 have 0
+they_have_capacity_now 1579737820120 360 175 touchend 102 8 0 0 0 have 0
+they_have_capacity_now 1579737821443 360 175 touchstart 148 131 0 0 0 capacity 0
+they_have_capacity_now 1579737821522 360 175 touchmove 148 131 0 0 0 capacity 0
+they_have_capacity_now 1579737821528 360 175 touchmove 142 129 0 0 0 capacity 0
+they_have_capacity_now 1579737821536 360 175 touchmove 138 127 0 0 0 capacity 0
+they_have_capacity_now 1579737821552 360 175 touchmove 131 125 0 0 0 capacity 0
+they_have_capacity_now 1579737821570 360 175 touchmove 122 123 0 0 0 capacity 0
+they_have_capacity_now 1579737821591 360 175 touchmove 114 121 0 0 0 capacity 0
+they_have_capacity_now 1579737821604 360 175 touchmove 107 119 0 0 0 capacity 0
+they_have_capacity_now 1579737821624 360 175 touchmove 100 117 0 0 0 capacity 0
+they_have_capacity_now 1579737821636 360 175 touchmove 92 115 0 0 0 capacity 0
+they_have_capacity_now 1579737821653 360 175 touchmove 85 113 0 0 0 capacity 0
+they_have_capacity_now 1579737821668 360 175 touchmove 77 110 0 0 0 capacity 0
+they_have_capacity_now 1579737821686 360 175 touchmove 70 106 0 0 0 capacity 0
+they_have_capacity_now 1579737821702 360 175 touchmove 63 103 0 0 0 capacity 0
+they_have_capacity_now 1579737821718 360 175 touchmove 55 99 0 0 0 capacity 0
+they_have_capacity_now 1579737821734 360 175 touchmove 48 95 0 0 0 capacity 0
+they_have_capacity_now 1579737821752 360 175 touchmove 42 92 0 0 0 capacity 0
+they_have_capacity_now 1579737821768 360 175 touchmove 37 89 0 0 0 capacity 0
+they_have_capacity_now 1579737821785 360 175 touchmove 33 86 0 0 0 capacity 0
+they_have_capacity_now 1579737821801 360 175 touchmove 30 83 0 0 0 capacity 0
+they_have_capacity_now 1579737821819 360 175 touchmove 28 81 0 0 0 capacity 0
+they_have_capacity_now 1579737821836 360 175 touchmove 26 79 0 0 0 capacity 0
+they_have_capacity_now 1579737821852 360 175 touchmove 24 78 0 0 0 capacity 0
+they_have_capacity_now 1579737821869 360 175 touchmove 23 77 0 0 0 capacity 0
+they_have_capacity_now 1579737821886 360 175 touchmove 23 76 0 0 0 capacity 0
+they_have_capacity_now 1579737821903 360 175 touchmove 22 75 0 0 0 capacity 0
+they_have_capacity_now 1579737821918 360 175 touchmove 22 74 0 0 0 capacity 0
+they_have_capacity_now 1579737821937 360 175 touchmove 22 74 0 0 0 capacity 0
+they_have_capacity_now 1579737821952 360 175 touchmove 22 73 0 0 0 capacity 0
+they_have_capacity_now 1579737821970 360 175 touchmove 22 72 0 0 0 capacity 0
+they_have_capacity_now 1579737821987 360 175 touchmove 23 71 0 0 0 capacity 0
+they_have_capacity_now 1579737822004 360 175 touchmove 24 70 0 0 0 capacity 0
+they_have_capacity_now 1579737822019 360 175 touchmove 25 70 0 0 0 capacity 0
+they_have_capacity_now 1579737822036 360 175 touchmove 27 69 0 0 0 capacity 0
+they_have_capacity_now 1579737822052 360 175 touchmove 29 69 0 0 0 capacity 0
+they_have_capacity_now 1579737822071 360 175 touchmove 32 69 0 0 0 capacity 0
+they_have_capacity_now 1579737822086 360 175 touchmove 36 69 0 0 0 capacity 0
+they_have_capacity_now 1579737822103 360 175 touchmove 43 70 0 0 0 capacity 0
+they_have_capacity_now 1579737822120 360 175 touchmove 56 71 0 0 0 capacity 0
+they_have_capacity_now 1579737822136 360 175 touchmove 72 71 0 0 0 capacity 0
+they_have_capacity_now 1579737822153 360 175 touchmove 89 71 0 0 0 capacity 0
+they_have_capacity_now 1579737822170 360 175 touchmove 106 72 0 0 0 capacity 0
+they_have_capacity_now 1579737822186 360 175 touchmove 122 72 0 0 0 capacity 0
+they_have_capacity_now 1579737822202 360 175 touchmove 139 72 0 0 0 capacity 0
+they_have_capacity_now 1579737822219 360 175 touchmove 157 70 0 0 0 capacity 0
+they_have_capacity_now 1579737822238 360 175 touchmove 176 68 0 0 0 capacity 0
+they_have_capacity_now 1579737822254 360 175 touchmove 191 67 0 0 0 capacity 0
+they_have_capacity_now 1579737822271 360 175 touchmove 208 64 0 0 0 capacity 0
+they_have_capacity_now 1579737822286 360 175 touchmove 224 61 0 0 0 capacity 0
+they_have_capacity_now 1579737822303 360 175 touchmove 238 58 0 0 0 capacity 0
+they_have_capacity_now 1579737822320 360 175 touchmove 252 55 0 0 0 capacity 0
+they_have_capacity_now 1579737822341 360 175 touchmove 265 52 0 0 0 capacity 0
+they_have_capacity_now 1579737822357 360 175 touchmove 277 50 0 0 0 capacity 0
+they_have_capacity_now 1579737822372 360 175 touchmove 288 47 0 0 0 capacity 0
+they_have_capacity_now 1579737822387 360 175 touchmove 297 44 0 0 0 capacity 0
+they_have_capacity_now 1579737822405 360 175 touchmove 308 41 0 0 0 capacity 0
+they_have_capacity_now 1579737822421 360 175 touchmove 316 38 0 0 0 capacity 0
+they_have_capacity_now 1579737822438 360 175 touchmove 324 35 0 0 0 capacity 0
+they_have_capacity_now 1579737822455 360 175 touchmove 330 33 0 0 0 capacity 0
+they_have_capacity_now 1579737822474 360 175 touchmove 335 31 0 0 0 capacity 0
+they_have_capacity_now 1579737822488 360 175 touchmove 337 29 0 0 0 capacity 0
+they_have_capacity_now 1579737822504 360 175 touchmove 340 28 0 0 0 capacity 0
+they_have_capacity_now 1579737822520 360 175 touchmove 341 26 0 0 0 capacity 0
+they_have_capacity_now 1579737822542 360 175 touchmove 342 25 0 0 0 capacity 0
+they_have_capacity_now 1579737822555 360 175 touchmove 342 25 0 0 0 capacity 0
+they_have_capacity_now 1579737822571 360 175 touchmove 342 24 0 0 0 capacity 0
+they_have_capacity_now 1579737822589 360 175 touchmove 342 23 0 0 0 capacity 0
+they_have_capacity_now 1579737822604 360 175 touchmove 342 23 0 0 0 capacity 0
+they_have_capacity_now 1579737822623 360 175 touchmove 342 23 0 0 0 capacity 0
+they_have_capacity_now 1579737822640 360 175 touchmove 342 23 0 0 0 capacity 0
+they_have_capacity_now 1579737822655 360 175 touchmove 341 23 0 0 0 capacity 0
+they_have_capacity_now 1579737822672 360 175 touchmove 341 23 0 0 0 capacity 0
+they_have_capacity_now 1579737822688 360 175 touchmove 340 24 0 0 0 capacity 0
+they_have_capacity_now 1579737822705 360 175 touchmove 338 25 0 0 0 capacity 0
+they_have_capacity_now 1579737822721 360 175 touchmove 334 26 0 0 0 capacity 0
+they_have_capacity_now 1579737822738 360 175 touchmove 329 28 0 0 0 capacity 0
+they_have_capacity_now 1579737822754 360 175 touchmove 323 30 0 0 0 capacity 0
+they_have_capacity_now 1579737822771 360 175 touchmove 314 32 0 0 0 capacity 0
+they_have_capacity_now 1579737822788 360 175 touchmove 285 41 0 0 0 capacity 0
+they_have_capacity_now 1579737822806 360 175 touchmove 257 49 0 0 0 capacity 0
+they_have_capacity_now 1579737822823 360 175 touchmove 229 55 0 0 0 capacity 0
+they_have_capacity_now 1579737822841 360 175 touchmove 206 61 0 0 0 capacity 0
+they_have_capacity_now 1579737822855 360 175 touchmove 186 64 0 0 0 capacity 0
+they_have_capacity_now 1579737822873 360 175 touchmove 165 66 0 0 0 capacity 0
+they_have_capacity_now 1579737822889 360 175 touchmove 142 68 0 0 0 capacity 0
+they_have_capacity_now 1579737822905 360 175 touchmove 120 72 0 0 0 capacity 0
+they_have_capacity_now 1579737822922 360 175 touchmove 101 74 0 0 0 capacity 0
+they_have_capacity_now 1579737822940 360 175 touchmove 87 75 0 0 0 capacity 0
+they_have_capacity_now 1579737822957 360 175 touchmove 76 75 0 0 0 capacity 0
+they_have_capacity_now 1579737822973 360 175 touchmove 67 75 0 0 0 capacity 0
+they_have_capacity_now 1579737822991 360 175 touchmove 61 74 0 0 0 capacity 0
+they_have_capacity_now 1579737823006 360 175 touchmove 55 73 0 0 0 capacity 0
+they_have_capacity_now 1579737823022 360 175 touchmove 49 73 0 0 0 capacity 0
+they_have_capacity_now 1579737823039 360 175 touchmove 45 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823057 360 175 touchmove 40 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823073 360 175 touchmove 36 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823092 360 175 touchmove 33 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823107 360 175 touchmove 31 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823124 360 175 touchmove 29 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823141 360 175 touchmove 29 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823156 360 175 touchmove 28 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823173 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823190 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823206 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823223 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823240 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823256 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823273 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823307 360 175 touchmove 27 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823323 360 175 touchmove 28 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823340 360 175 touchmove 30 72 0 0 0 capacity 0
+they_have_capacity_now 1579737823357 360 175 touchmove 33 73 0 0 0 capacity 0
+they_have_capacity_now 1579737823374 360 175 touchmove 37 74 0 0 0 capacity 0
+they_have_capacity_now 1579737823391 360 175 touchmove 42 76 0 0 0 capacity 0
+they_have_capacity_now 1579737823407 360 175 touchmove 49 80 0 0 0 capacity 0
+they_have_capacity_now 1579737823424 360 175 touchmove 57 85 0 0 0 capacity 0
+they_have_capacity_now 1579737823441 360 175 touchmove 68 92 0 0 0 capacity 0
+they_have_capacity_now 1579737823458 360 175 touchmove 78 99 0 0 0 capacity 0
+they_have_capacity_now 1579737823476 360 175 touchmove 87 106 0 0 0 capacity 0
+they_have_capacity_now 1579737823492 360 175 touchmove 96 112 0 0 0 capacity 0
+they_have_capacity_now 1579737823509 360 175 touchmove 104 117 0 0 0 capacity 0
+they_have_capacity_now 1579737823525 360 175 touchmove 111 122 0 0 0 capacity 0
+they_have_capacity_now 1579737823542 360 175 touchmove 116 125 0 0 0 capacity 0
+they_have_capacity_now 1579737823557 360 175 touchmove 121 128 0 0 0 capacity 0
+they_have_capacity_now 1579737823576 360 175 touchmove 125 130 0 0 0 capacity 0
+they_have_capacity_now 1579737823593 360 175 touchmove 129 131 0 0 0 capacity 0
+they_have_capacity_now 1579737823609 360 175 touchmove 133 132 0 0 0 capacity 0
+they_have_capacity_now 1579737823624 360 175 touchmove 136 133 0 0 0 capacity 0
+they_have_capacity_now 1579737823641 360 175 touchmove 139 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823658 360 175 touchmove 141 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823674 360 175 touchmove 143 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823691 360 175 touchmove 145 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823709 360 175 touchmove 147 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823724 360 175 touchmove 147 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823741 360 175 touchmove 148 134 0 0 0 capacity 0
+they_have_capacity_now 1579737823777 360 175 touchmove 148 133 0 0 0 capacity 0
+they_have_capacity_now 1579737823794 360 175 touchmove 148 133 0 0 0 capacity 0
+they_have_capacity_now 1579737823810 360 175 touchmove 148 133 0 0 0 capacity 0
+they_have_capacity_now 1579737823827 360 175 touchmove 148 132 0 0 0 capacity 0
+they_have_capacity_now 1579737823842 360 175 touchmove 147 132 0 0 0 capacity 0
+they_have_capacity_now 1579737823860 360 175 touchmove 148 132 0 0 0 capacity 0
+they_have_capacity_now 1579737823876 360 175 touchmove 148 131 0 0 0 capacity 0
+they_have_capacity_now 1579737823895 360 175 touchmove 148 131 0 0 0 capacity 0
+they_have_capacity_now 1579737823909 360 175 touchmove 148 131 0 0 0 capacity 0
+they_have_capacity_now 1579737823927 360 175 touchmove 148 130 0 0 0 capacity 0
+they_have_capacity_now 1579737823942 360 175 touchmove 148 130 0 0 0 capacity 0
+they_have_capacity_now 1579737823960 360 175 touchmove 148 129 0 0 0 capacity 0
+they_have_capacity_now 1579737823976 360 175 touchmove 148 129 0 0 0 capacity 0
+they_have_capacity_now 1579737823994 360 175 touchmove 148 128 0 0 0 capacity 0
+they_have_capacity_now 1579737824010 360 175 touchmove 148 127 0 0 0 capacity 0
+they_have_capacity_now 1579737824028 360 175 touchmove 148 126 0 0 0 capacity 0
+they_have_capacity_now 1579737824042 360 175 touchmove 149 125 0 0 0 capacity 0
+they_have_capacity_now 1579737824059 360 175 touchmove 151 124 0 0 0 capacity 0
+they_have_capacity_now 1579737824076 360 175 touchmove 153 122 0 0 0 capacity 0
+they_have_capacity_now 1579737824094 360 175 touchmove 157 118 0 0 0 capacity 0
+they_have_capacity_now 1579737824110 360 175 touchmove 163 113 0 0 0 capacity 0
+they_have_capacity_now 1579737824126 360 175 touchmove 173 106 0 0 0 capacity 0
+they_have_capacity_now 1579737824143 360 175 touchmove 185 98 0 0 0 capacity 0
+they_have_capacity_now 1579737824159 360 175 touchmove 194 92 0 0 0 capacity 0
+they_have_capacity_now 1579737824176 360 175 touchmove 204 85 0 0 0 capacity 0
+they_have_capacity_now 1579737824195 360 175 touchmove 212 79 0 0 0 capacity 0
+they_have_capacity_now 1579737824211 360 175 touchmove 220 73 0 0 0 capacity 0
+they_have_capacity_now 1579737824226 360 175 touchmove 228 67 0 0 0 capacity 0
+they_have_capacity_now 1579737824243 360 175 touchmove 236 61 0 0 0 capacity 0
+they_have_capacity_now 1579737824260 360 175 touchmove 242 56 0 0 0 capacity 0
+they_have_capacity_now 1579737824280 360 175 touchmove 247 52 0 0 0 capacity 0
+they_have_capacity_now 1579737824294 360 175 touchmove 252 49 0 0 0 capacity 0
+they_have_capacity_now 1579737824310 360 175 touchmove 256 46 0 0 0 capacity 0
+they_have_capacity_now 1579737824327 360 175 touchmove 260 42 0 0 0 capacity 0
+they_have_capacity_now 1579737824345 360 175 touchmove 263 40 0 0 0 capacity 0
+they_have_capacity_now 1579737824364 360 175 touchmove 266 37 0 0 0 capacity 0
+they_have_capacity_now 1579737824378 360 175 touchmove 269 36 0 0 0 capacity 0
+they_have_capacity_now 1579737824394 360 175 touchmove 271 34 0 0 0 capacity 0
+they_have_capacity_now 1579737824411 360 175 touchmove 273 33 0 0 0 capacity 0
+they_have_capacity_now 1579737824429 360 175 touchmove 274 32 0 0 0 capacity 0
+they_have_capacity_now 1579737824445 360 175 touchmove 274 31 0 0 0 capacity 0
+they_have_capacity_now 1579737824461 360 175 touchmove 274 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824478 360 175 touchmove 274 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824494 360 175 touchmove 273 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824511 360 175 touchmove 272 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824528 360 175 touchmove 270 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824544 360 175 touchmove 267 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824561 360 175 touchmove 263 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824578 360 175 touchmove 258 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824596 360 175 touchmove 253 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824614 360 175 touchmove 248 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824629 360 175 touchmove 241 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824646 360 175 touchmove 233 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824663 360 175 touchmove 222 30 0 0 0 capacity 0
+they_have_capacity_now 1579737824678 360 175 touchmove 213 31 0 0 0 capacity 0
+they_have_capacity_now 1579737824695 360 175 touchmove 205 32 0 0 0 capacity 0
+they_have_capacity_now 1579737824712 360 175 touchmove 198 32 0 0 0 capacity 0
+they_have_capacity_now 1579737824728 360 175 touchmove 192 33 0 0 0 capacity 0
+they_have_capacity_now 1579737824745 360 175 touchmove 187 34 0 0 0 capacity 0
+they_have_capacity_now 1579737824762 360 175 touchmove 182 34 0 0 0 capacity 0
+they_have_capacity_now 1579737824779 360 175 touchmove 178 35 0 0 0 capacity 0
+they_have_capacity_now 1579737824797 360 175 touchmove 173 35 0 0 0 capacity 0
+they_have_capacity_now 1579737824812 360 175 touchmove 170 35 0 0 0 capacity 0
+they_have_capacity_now 1579737824829 360 175 touchmove 167 35 0 0 0 capacity 0
+they_have_capacity_now 1579737824847 360 175 touchmove 166 34 0 0 0 capacity 0
+they_have_capacity_now 1579737824863 360 175 touchmove 165 34 0 0 0 capacity 0
+they_have_capacity_now 1579737824879 360 175 touchmove 164 33 0 0 0 capacity 0
+they_have_capacity_now 1579737824896 360 175 touchmove 164 32 0 0 0 capacity 0
+they_have_capacity_now 1579737824913 360 175 touchmove 164 31 0 0 0 capacity 0
+they_have_capacity_now 1579737824931 360 175 touchmove 165 31 0 0 0 capacity 0
+they_have_capacity_now 1579737824948 360 175 touchmove 168 29 0 0 0 capacity 0
+they_have_capacity_now 1579737824962 360 175 touchmove 171 29 0 0 0 capacity 0
+they_have_capacity_now 1579737824979 360 175 touchmove 174 28 0 0 0 capacity 0
+they_have_capacity_now 1579737824998 360 175 touchmove 177 28 0 0 0 capacity 0
+they_have_capacity_now 1579737825013 360 175 touchmove 180 29 0 0 0 capacity 0
+they_have_capacity_now 1579737825030 360 175 touchmove 184 30 0 0 0 capacity 0
+they_have_capacity_now 1579737825049 360 175 touchmove 188 31 0 0 0 capacity 0
+they_have_capacity_now 1579737825063 360 175 touchmove 192 33 0 0 0 capacity 0
+they_have_capacity_now 1579737825079 360 175 touchmove 197 33 0 0 0 capacity 0
+they_have_capacity_now 1579737825098 360 175 touchmove 202 34 0 0 0 capacity 0
+they_have_capacity_now 1579737825113 360 175 touchmove 205 34 0 0 0 capacity 0
+they_have_capacity_now 1579737825130 360 175 touchmove 209 34 0 0 0 capacity 0
+they_have_capacity_now 1579737825149 360 175 touchmove 212 33 0 0 0 capacity 0
+they_have_capacity_now 1579737825165 360 175 touchmove 213 32 0 0 0 capacity 0
+they_have_capacity_now 1579737825184 360 175 touchmove 213 32 0 0 0 capacity 0
+they_have_capacity_now 1579737825202 360 175 touchmove 213 31 0 0 0 capacity 0
+they_have_capacity_now 1579737825215 360 175 touchmove 213 30 0 0 0 capacity 0
+they_have_capacity_now 1579737825232 360 175 touchmove 213 30 0 0 0 capacity 0
+they_have_capacity_now 1579737825248 360 175 touchmove 213 29 0 0 0 capacity 0
+they_have_capacity_now 1579737825264 360 175 touchmove 212 28 0 0 0 capacity 0
+they_have_capacity_now 1579737825280 360 175 touchmove 211 28 0 0 0 capacity 0
+they_have_capacity_now 1579737825298 360 175 touchmove 211 27 0 0 0 capacity 0
+they_have_capacity_now 1579737825314 360 175 touchmove 210 26 0 0 0 capacity 0
+they_have_capacity_now 1579737825331 360 175 touchmove 209 26 0 0 0 capacity 0
+they_have_capacity_now 1579737825348 360 175 touchmove 209 26 0 0 0 capacity 0
+they_have_capacity_now 1579737825366 360 175 touchmove 209 26 0 0 0 capacity 0
+they_have_capacity_now 1579737825381 360 175 touchmove 209 26 0 0 0 capacity 0
+they_have_capacity_now 1579737825395 360 175 touchmove 210 25 0 0 0 capacity 0
+they_have_capacity_now 1579737825404 360 175 touchend 210 25 0 0 0 capacity 0
+they_have_capacity_now 1579737821443 360 175 touchstart 148 131 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821522 360 175 touchmove 148 131 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821528 360 175 touchmove 142 129 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821536 360 175 touchmove 138 127 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821552 360 175 touchmove 131 125 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821570 360 175 touchmove 122 123 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821591 360 175 touchmove 114 121 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821604 360 175 touchmove 107 119 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821624 360 175 touchmove 100 117 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821636 360 175 touchmove 92 115 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821653 360 175 touchmove 85 113 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821668 360 175 touchmove 77 110 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821686 360 175 touchmove 70 106 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821702 360 175 touchmove 63 103 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821718 360 175 touchmove 55 99 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821734 360 175 touchmove 48 95 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821752 360 175 touchmove 42 92 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821768 360 175 touchmove 37 89 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821785 360 175 touchmove 33 86 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821801 360 175 touchmove 30 83 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821819 360 175 touchmove 28 81 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821836 360 175 touchmove 26 79 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821852 360 175 touchmove 24 78 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821869 360 175 touchmove 23 77 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821886 360 175 touchmove 23 76 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821903 360 175 touchmove 22 75 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821918 360 175 touchmove 22 74 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821937 360 175 touchmove 22 74 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821952 360 175 touchmove 22 73 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821970 360 175 touchmove 22 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737821987 360 175 touchmove 23 71 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822004 360 175 touchmove 24 70 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822019 360 175 touchmove 25 70 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822036 360 175 touchmove 27 69 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822052 360 175 touchmove 29 69 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822071 360 175 touchmove 32 69 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822086 360 175 touchmove 36 69 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822103 360 175 touchmove 43 70 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822120 360 175 touchmove 56 71 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822136 360 175 touchmove 72 71 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822153 360 175 touchmove 89 71 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822170 360 175 touchmove 106 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822186 360 175 touchmove 122 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822202 360 175 touchmove 139 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822219 360 175 touchmove 157 70 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822238 360 175 touchmove 176 68 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822254 360 175 touchmove 191 67 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822271 360 175 touchmove 208 64 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822286 360 175 touchmove 224 61 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822303 360 175 touchmove 238 58 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822320 360 175 touchmove 252 55 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822341 360 175 touchmove 265 52 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822357 360 175 touchmove 277 50 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822372 360 175 touchmove 288 47 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822387 360 175 touchmove 297 44 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822405 360 175 touchmove 308 41 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822421 360 175 touchmove 316 38 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822438 360 175 touchmove 324 35 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822455 360 175 touchmove 330 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822474 360 175 touchmove 335 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822488 360 175 touchmove 337 29 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822504 360 175 touchmove 340 28 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822520 360 175 touchmove 341 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822542 360 175 touchmove 342 25 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822555 360 175 touchmove 342 25 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822571 360 175 touchmove 342 24 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822589 360 175 touchmove 342 23 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822604 360 175 touchmove 342 23 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822623 360 175 touchmove 342 23 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822640 360 175 touchmove 342 23 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822655 360 175 touchmove 341 23 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822672 360 175 touchmove 341 23 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822688 360 175 touchmove 340 24 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822705 360 175 touchmove 338 25 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822721 360 175 touchmove 334 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822738 360 175 touchmove 329 28 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822754 360 175 touchmove 323 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822771 360 175 touchmove 314 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822788 360 175 touchmove 285 41 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822806 360 175 touchmove 257 49 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822823 360 175 touchmove 229 55 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822841 360 175 touchmove 206 61 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822855 360 175 touchmove 186 64 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822873 360 175 touchmove 165 66 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822889 360 175 touchmove 142 68 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822905 360 175 touchmove 120 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822922 360 175 touchmove 101 74 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822940 360 175 touchmove 87 75 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822957 360 175 touchmove 76 75 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822973 360 175 touchmove 67 75 0 0 0 capacity 0 0
+they_have_capacity_now 1579737822991 360 175 touchmove 61 74 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823006 360 175 touchmove 55 73 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823022 360 175 touchmove 49 73 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823039 360 175 touchmove 45 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823057 360 175 touchmove 40 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823073 360 175 touchmove 36 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823092 360 175 touchmove 33 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823107 360 175 touchmove 31 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823124 360 175 touchmove 29 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823141 360 175 touchmove 29 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823156 360 175 touchmove 28 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823173 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823190 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823206 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823223 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823240 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823256 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823273 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823307 360 175 touchmove 27 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823323 360 175 touchmove 28 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823340 360 175 touchmove 30 72 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823357 360 175 touchmove 33 73 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823374 360 175 touchmove 37 74 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823391 360 175 touchmove 42 76 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823407 360 175 touchmove 49 80 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823424 360 175 touchmove 57 85 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823441 360 175 touchmove 68 92 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823458 360 175 touchmove 78 99 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823476 360 175 touchmove 87 106 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823492 360 175 touchmove 96 112 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823509 360 175 touchmove 104 117 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823525 360 175 touchmove 111 122 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823542 360 175 touchmove 116 125 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823557 360 175 touchmove 121 128 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823576 360 175 touchmove 125 130 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823593 360 175 touchmove 129 131 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823609 360 175 touchmove 133 132 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823624 360 175 touchmove 136 133 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823641 360 175 touchmove 139 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823658 360 175 touchmove 141 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823674 360 175 touchmove 143 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823691 360 175 touchmove 145 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823709 360 175 touchmove 147 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823724 360 175 touchmove 147 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823741 360 175 touchmove 148 134 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823777 360 175 touchmove 148 133 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823794 360 175 touchmove 148 133 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823810 360 175 touchmove 148 133 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823827 360 175 touchmove 148 132 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823842 360 175 touchmove 147 132 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823860 360 175 touchmove 148 132 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823876 360 175 touchmove 148 131 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823895 360 175 touchmove 148 131 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823909 360 175 touchmove 148 131 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823927 360 175 touchmove 148 130 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823942 360 175 touchmove 148 130 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823960 360 175 touchmove 148 129 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823976 360 175 touchmove 148 129 0 0 0 capacity 0 0
+they_have_capacity_now 1579737823994 360 175 touchmove 148 128 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824010 360 175 touchmove 148 127 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824028 360 175 touchmove 148 126 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824042 360 175 touchmove 149 125 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824059 360 175 touchmove 151 124 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824076 360 175 touchmove 153 122 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824094 360 175 touchmove 157 118 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824110 360 175 touchmove 163 113 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824126 360 175 touchmove 173 106 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824143 360 175 touchmove 185 98 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824159 360 175 touchmove 194 92 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824176 360 175 touchmove 204 85 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824195 360 175 touchmove 212 79 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824211 360 175 touchmove 220 73 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824226 360 175 touchmove 228 67 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824243 360 175 touchmove 236 61 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824260 360 175 touchmove 242 56 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824280 360 175 touchmove 247 52 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824294 360 175 touchmove 252 49 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824310 360 175 touchmove 256 46 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824327 360 175 touchmove 260 42 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824345 360 175 touchmove 263 40 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824364 360 175 touchmove 266 37 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824378 360 175 touchmove 269 36 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824394 360 175 touchmove 271 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824411 360 175 touchmove 273 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824429 360 175 touchmove 274 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824445 360 175 touchmove 274 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824461 360 175 touchmove 274 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824478 360 175 touchmove 274 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824494 360 175 touchmove 273 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824511 360 175 touchmove 272 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824528 360 175 touchmove 270 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824544 360 175 touchmove 267 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824561 360 175 touchmove 263 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824578 360 175 touchmove 258 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824596 360 175 touchmove 253 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824614 360 175 touchmove 248 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824629 360 175 touchmove 241 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824646 360 175 touchmove 233 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824663 360 175 touchmove 222 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824678 360 175 touchmove 213 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824695 360 175 touchmove 205 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824712 360 175 touchmove 198 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824728 360 175 touchmove 192 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824745 360 175 touchmove 187 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824762 360 175 touchmove 182 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824779 360 175 touchmove 178 35 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824797 360 175 touchmove 173 35 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824812 360 175 touchmove 170 35 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824829 360 175 touchmove 167 35 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824847 360 175 touchmove 166 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824863 360 175 touchmove 165 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824879 360 175 touchmove 164 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824896 360 175 touchmove 164 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824913 360 175 touchmove 164 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824931 360 175 touchmove 165 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824948 360 175 touchmove 168 29 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824962 360 175 touchmove 171 29 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824979 360 175 touchmove 174 28 0 0 0 capacity 0 0
+they_have_capacity_now 1579737824998 360 175 touchmove 177 28 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825013 360 175 touchmove 180 29 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825030 360 175 touchmove 184 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825049 360 175 touchmove 188 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825063 360 175 touchmove 192 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825079 360 175 touchmove 197 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825098 360 175 touchmove 202 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825113 360 175 touchmove 205 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825130 360 175 touchmove 209 34 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825149 360 175 touchmove 212 33 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825165 360 175 touchmove 213 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825184 360 175 touchmove 213 32 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825202 360 175 touchmove 213 31 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825215 360 175 touchmove 213 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825232 360 175 touchmove 213 30 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825248 360 175 touchmove 213 29 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825264 360 175 touchmove 212 28 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825280 360 175 touchmove 211 28 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825298 360 175 touchmove 211 27 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825314 360 175 touchmove 210 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825331 360 175 touchmove 209 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825348 360 175 touchmove 209 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825366 360 175 touchmove 209 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825381 360 175 touchmove 209 26 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825395 360 175 touchmove 210 25 0 0 0 capacity 0 0
+they_have_capacity_now 1579737825404 360 175 touchend 210 25 0 0 0 capacity 0 0
+they_have_capacity_now 1579737826874 360 175 touchstart 241 133 0 0 0 now 0
+they_have_capacity_now 1579737826888 360 175 touchmove 241 133 0 0 0 now 0
+they_have_capacity_now 1579737826902 360 175 touchmove 241 133 0 0 0 now 0
+they_have_capacity_now 1579737826919 360 175 touchmove 242 132 0 0 0 now 0
+they_have_capacity_now 1579737826946 360 175 touchmove 242 131 0 0 0 now 0
+they_have_capacity_now 1579737826954 360 175 touchmove 243 129 0 0 0 now 0
+they_have_capacity_now 1579737826971 360 175 touchmove 245 127 0 0 0 now 0
+they_have_capacity_now 1579737826989 360 175 touchmove 247 124 0 0 0 now 0
+they_have_capacity_now 1579737827009 360 175 touchmove 251 120 0 0 0 now 0
+they_have_capacity_now 1579737827023 360 175 touchmove 255 115 0 0 0 now 0
+they_have_capacity_now 1579737827038 360 175 touchmove 260 110 0 0 0 now 0
+they_have_capacity_now 1579737827053 360 175 touchmove 265 104 0 0 0 now 0
+they_have_capacity_now 1579737827071 360 175 touchmove 271 96 0 0 0 now 0
+they_have_capacity_now 1579737827088 360 175 touchmove 276 87 0 0 0 now 0
+they_have_capacity_now 1579737827105 360 175 touchmove 279 80 0 0 0 now 0
+they_have_capacity_now 1579737827119 360 175 touchmove 283 74 0 0 0 now 0
+they_have_capacity_now 1579737827136 360 175 touchmove 286 68 0 0 0 now 0
+they_have_capacity_now 1579737827153 360 175 touchmove 288 63 0 0 0 now 0
+they_have_capacity_now 1579737827170 360 175 touchmove 290 59 0 0 0 now 0
+they_have_capacity_now 1579737827186 360 175 touchmove 292 55 0 0 0 now 0
+they_have_capacity_now 1579737827205 360 175 touchmove 293 51 0 0 0 now 0
+they_have_capacity_now 1579737827220 360 175 touchmove 294 48 0 0 0 now 0
+they_have_capacity_now 1579737827237 360 175 touchmove 295 46 0 0 0 now 0
+they_have_capacity_now 1579737827254 360 175 touchmove 295 43 0 0 0 now 0
+they_have_capacity_now 1579737827272 360 175 touchmove 296 41 0 0 0 now 0
+they_have_capacity_now 1579737827287 360 175 touchmove 296 39 0 0 0 now 0
+they_have_capacity_now 1579737827303 360 175 touchmove 296 38 0 0 0 now 0
+they_have_capacity_now 1579737827322 360 175 touchmove 296 37 0 0 0 now 0
+they_have_capacity_now 1579737827340 360 175 touchmove 296 36 0 0 0 now 0
+they_have_capacity_now 1579737827354 360 175 touchmove 296 36 0 0 0 now 0
+they_have_capacity_now 1579737827371 360 175 touchmove 295 35 0 0 0 now 0
+they_have_capacity_now 1579737827391 360 175 touchmove 294 35 0 0 0 now 0
+they_have_capacity_now 1579737827404 360 175 touchmove 293 34 0 0 0 now 0
+they_have_capacity_now 1579737827422 360 175 touchmove 289 34 0 0 0 now 0
+they_have_capacity_now 1579737827437 360 175 touchmove 283 33 0 0 0 now 0
+they_have_capacity_now 1579737827454 360 175 touchmove 272 33 0 0 0 now 0
+they_have_capacity_now 1579737827472 360 175 touchmove 250 33 0 0 0 now 0
+they_have_capacity_now 1579737827488 360 175 touchmove 230 35 0 0 0 now 0
+they_have_capacity_now 1579737827505 360 175 touchmove 210 37 0 0 0 now 0
+they_have_capacity_now 1579737827521 360 175 touchmove 190 40 0 0 0 now 0
+they_have_capacity_now 1579737827538 360 175 touchmove 171 43 0 0 0 now 0
+they_have_capacity_now 1579737827554 360 175 touchmove 153 46 0 0 0 now 0
+they_have_capacity_now 1579737827571 360 175 touchmove 136 49 0 0 0 now 0
+they_have_capacity_now 1579737827590 360 175 touchmove 120 50 0 0 0 now 0
+they_have_capacity_now 1579737827605 360 175 touchmove 107 51 0 0 0 now 0
+they_have_capacity_now 1579737827621 360 175 touchmove 97 50 0 0 0 now 0
+they_have_capacity_now 1579737827639 360 175 touchmove 89 49 0 0 0 now 0
+they_have_capacity_now 1579737827655 360 175 touchmove 82 48 0 0 0 now 0
+they_have_capacity_now 1579737827673 360 175 touchmove 77 46 0 0 0 now 0
+they_have_capacity_now 1579737827689 360 175 touchmove 74 45 0 0 0 now 0
+they_have_capacity_now 1579737827709 360 175 touchmove 71 44 0 0 0 now 0
+they_have_capacity_now 1579737827723 360 175 touchmove 70 42 0 0 0 now 0
+they_have_capacity_now 1579737827738 360 175 touchmove 69 40 0 0 0 now 0
+they_have_capacity_now 1579737827755 360 175 touchmove 67 38 0 0 0 now 0
+they_have_capacity_now 1579737827774 360 175 touchmove 67 37 0 0 0 now 0
+they_have_capacity_now 1579737827788 360 175 touchmove 66 35 0 0 0 now 0
+they_have_capacity_now 1579737827806 360 175 touchmove 65 34 0 0 0 now 0
+they_have_capacity_now 1579737827822 360 175 touchmove 65 33 0 0 0 now 0
+they_have_capacity_now 1579737827840 360 175 touchmove 64 33 0 0 0 now 0
+they_have_capacity_now 1579737827855 360 175 touchmove 63 32 0 0 0 now 0
+they_have_capacity_now 1579737827872 360 175 touchmove 63 31 0 0 0 now 0
+they_have_capacity_now 1579737827890 360 175 touchmove 63 31 0 0 0 now 0
+they_have_capacity_now 1579737827906 360 175 touchmove 63 30 0 0 0 now 0
+they_have_capacity_now 1579737827922 360 175 touchmove 63 29 0 0 0 now 0
+they_have_capacity_now 1579737827939 360 175 touchmove 63 29 0 0 0 now 0
+they_have_capacity_now 1579737827948 360 175 touchmove 63 29 0 0 0 now 0
+they_have_capacity_now 1579737827952 360 175 touchend 63 29 0 0 0 now 0
+visual_nonferrous_exp_curve 1579737848454 360 175 touchstart 183 124 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848464 360 175 touchmove 183 124 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848472 360 175 touchmove 183 124 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848483 360 175 touchmove 183 124 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848501 360 175 touchmove 183 124 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848516 360 175 touchmove 183 124 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848530 360 175 touchmove 184 123 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848545 360 175 touchmove 186 122 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848559 360 175 touchmove 189 120 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848582 360 175 touchmove 193 117 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848597 360 175 touchmove 197 114 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848607 360 175 touchmove 202 109 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848623 360 175 touchmove 206 104 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848639 360 175 touchmove 211 100 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848656 360 175 touchmove 216 96 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848672 360 175 touchmove 221 90 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848690 360 175 touchmove 225 85 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848704 360 175 touchmove 229 81 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848721 360 175 touchmove 233 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848739 360 175 touchmove 237 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848755 360 175 touchmove 241 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848772 360 175 touchmove 244 67 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848790 360 175 touchmove 246 64 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848807 360 175 touchmove 249 61 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848823 360 175 touchmove 251 59 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848840 360 175 touchmove 253 56 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848855 360 175 touchmove 255 54 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848872 360 175 touchmove 256 52 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848891 360 175 touchmove 258 50 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848905 360 175 touchmove 259 48 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848922 360 175 touchmove 260 47 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848939 360 175 touchmove 262 45 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848955 360 175 touchmove 263 44 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848972 360 175 touchmove 264 43 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737848989 360 175 touchmove 264 41 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849005 360 175 touchmove 265 40 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849022 360 175 touchmove 265 39 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849039 360 175 touchmove 265 38 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849055 360 175 touchmove 265 38 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849072 360 175 touchmove 265 37 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849090 360 175 touchmove 264 37 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849106 360 175 touchmove 262 37 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849124 360 175 touchmove 260 38 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849141 360 175 touchmove 255 39 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849158 360 175 touchmove 239 44 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849173 360 175 touchmove 219 51 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849189 360 175 touchmove 202 58 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849206 360 175 touchmove 188 64 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849226 360 175 touchmove 177 69 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849241 360 175 touchmove 166 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849256 360 175 touchmove 155 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849275 360 175 touchmove 142 81 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849289 360 175 touchmove 131 83 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849308 360 175 touchmove 124 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849323 360 175 touchmove 119 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849341 360 175 touchmove 116 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849358 360 175 touchmove 113 83 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849374 360 175 touchmove 110 82 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849390 360 175 touchmove 107 81 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849407 360 175 touchmove 104 79 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849425 360 175 touchmove 101 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849440 360 175 touchmove 98 76 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849458 360 175 touchmove 95 75 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849477 360 175 touchmove 92 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849493 360 175 touchmove 90 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849508 360 175 touchmove 89 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849526 360 175 touchmove 88 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849544 360 175 touchmove 87 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849557 360 175 touchmove 86 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849574 360 175 touchmove 86 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849592 360 175 touchmove 85 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849607 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849628 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849642 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849677 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849693 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849708 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849727 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849742 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849758 360 175 touchmove 83 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849791 360 175 touchmove 84 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849807 360 175 touchmove 86 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849824 360 175 touchmove 90 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849841 360 175 touchmove 96 70 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849861 360 175 touchmove 107 70 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849875 360 175 touchmove 122 68 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849893 360 175 touchmove 138 64 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849910 360 175 touchmove 152 59 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849925 360 175 touchmove 165 55 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849942 360 175 touchmove 177 52 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849960 360 175 touchmove 187 50 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849977 360 175 touchmove 196 47 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737849993 360 175 touchmove 203 44 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850009 360 175 touchmove 208 41 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850026 360 175 touchmove 214 37 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850042 360 175 touchmove 217 35 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850060 360 175 touchmove 220 33 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850076 360 175 touchmove 223 31 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850096 360 175 touchmove 225 29 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850111 360 175 touchmove 227 27 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850127 360 175 touchmove 229 25 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850142 360 175 touchmove 231 23 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850159 360 175 touchmove 232 21 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850179 360 175 touchmove 233 20 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850193 360 175 touchmove 234 19 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850212 360 175 touchmove 234 18 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850226 360 175 touchmove 234 18 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850243 360 175 touchmove 233 19 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850260 360 175 touchmove 232 19 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850277 360 175 touchmove 230 20 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850293 360 175 touchmove 228 21 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850310 360 175 touchmove 225 23 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850327 360 175 touchmove 220 25 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850345 360 175 touchmove 215 28 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850360 360 175 touchmove 207 33 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850378 360 175 touchmove 185 45 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850393 360 175 touchmove 160 58 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850411 360 175 touchmove 138 69 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850429 360 175 touchmove 119 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850443 360 175 touchmove 105 82 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850460 360 175 touchmove 95 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850478 360 175 touchmove 87 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850495 360 175 touchmove 80 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850510 360 175 touchmove 73 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850527 360 175 touchmove 66 84 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850546 360 175 touchmove 61 83 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850561 360 175 touchmove 56 83 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850577 360 175 touchmove 52 81 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850594 360 175 touchmove 49 80 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850610 360 175 touchmove 47 79 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850628 360 175 touchmove 46 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850646 360 175 touchmove 44 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850661 360 175 touchmove 44 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850677 360 175 touchmove 42 76 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850695 360 175 touchmove 41 75 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850711 360 175 touchmove 40 75 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850730 360 175 touchmove 39 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850746 360 175 touchmove 38 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850762 360 175 touchmove 37 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850780 360 175 touchmove 36 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850795 360 175 touchmove 35 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850811 360 175 touchmove 35 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850831 360 175 touchmove 36 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850847 360 175 touchmove 36 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850864 360 175 touchmove 36 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850884 360 175 touchmove 38 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850897 360 175 touchmove 40 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850912 360 175 touchmove 44 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850932 360 175 touchmove 51 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850946 360 175 touchmove 64 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850962 360 175 touchmove 81 75 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850979 360 175 touchmove 103 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737850997 360 175 touchmove 127 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851013 360 175 touchmove 150 76 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851029 360 175 touchmove 172 76 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851045 360 175 touchmove 193 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851062 360 175 touchmove 214 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851080 360 175 touchmove 231 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851096 360 175 touchmove 247 79 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851113 360 175 touchmove 261 79 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851130 360 175 touchmove 274 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851146 360 175 touchmove 284 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851163 360 175 touchmove 295 78 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851179 360 175 touchmove 304 77 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851197 360 175 touchmove 311 76 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851213 360 175 touchmove 317 76 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851232 360 175 touchmove 322 75 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851248 360 175 touchmove 326 75 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851263 360 175 touchmove 329 74 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851280 360 175 touchmove 332 73 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851297 360 175 touchmove 335 72 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851314 360 175 touchmove 337 71 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851330 360 175 touchmove 338 70 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851398 360 175 touchmove 338 70 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851403 360 175 touchmove 338 68 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851431 360 175 touchmove 338 68 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851446 360 175 touchmove 338 68 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737851453 360 175 touchend 338 68 0 0 0 visual 0
+visual_nonferrous_exp_curve 1579737861855 360 175 touchstart 93 24 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861873 360 175 touchmove 93 24 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861882 360 175 touchmove 93 24 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861890 360 175 touchmove 93 24 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861910 360 175 touchmove 93 24 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861927 360 175 touchmove 93 24 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861942 360 175 touchmove 93 25 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861958 360 175 touchmove 93 28 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737861986 360 175 touchmove 94 33 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862009 360 175 touchmove 97 50 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862018 360 175 touchmove 98 59 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862033 360 175 touchmove 100 68 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862050 360 175 touchmove 101 78 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862066 360 175 touchmove 102 85 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862082 360 175 touchmove 102 91 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862100 360 175 touchmove 103 97 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862118 360 175 touchmove 104 103 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862134 360 175 touchmove 104 108 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862149 360 175 touchmove 105 114 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862167 360 175 touchmove 105 118 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862187 360 175 touchmove 106 123 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862201 360 175 touchmove 107 127 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862217 360 175 touchmove 108 130 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862234 360 175 touchmove 109 132 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862250 360 175 touchmove 109 135 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862268 360 175 touchmove 110 136 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862287 360 175 touchmove 111 137 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862301 360 175 touchmove 111 137 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862318 360 175 touchmove 112 138 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862337 360 175 touchmove 114 138 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862351 360 175 touchmove 116 138 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862368 360 175 touchmove 120 137 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862384 360 175 touchmove 127 132 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862400 360 175 touchmove 142 123 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862417 360 175 touchmove 158 114 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862436 360 175 touchmove 174 105 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862451 360 175 touchmove 190 98 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862467 360 175 touchmove 205 93 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862483 360 175 touchmove 218 88 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862500 360 175 touchmove 230 83 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862521 360 175 touchmove 241 80 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862534 360 175 touchmove 250 77 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862554 360 175 touchmove 259 75 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862568 360 175 touchmove 268 74 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862584 360 175 touchmove 277 72 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862603 360 175 touchmove 286 70 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862620 360 175 touchmove 295 67 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862634 360 175 touchmove 302 65 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862653 360 175 touchmove 310 62 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862668 360 175 touchmove 315 59 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862686 360 175 touchmove 321 57 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862701 360 175 touchmove 326 54 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862718 360 175 touchmove 330 52 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862735 360 175 touchmove 333 50 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862751 360 175 touchmove 336 47 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862769 360 175 touchmove 338 45 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862785 360 175 touchmove 339 42 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862802 360 175 touchmove 341 40 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862818 360 175 touchmove 342 37 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862838 360 175 touchmove 343 35 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862853 360 175 touchmove 344 33 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862870 360 175 touchmove 345 32 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862887 360 175 touchmove 345 31 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862903 360 175 touchmove 346 29 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862919 360 175 touchmove 347 28 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862937 360 175 touchmove 347 28 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862953 360 175 touchmove 348 27 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862966 360 175 touchmove 349 27 0 0 0 exp 0
+visual_nonferrous_exp_curve 1579737862974 360 175 touchend 349 27 0 0 0 exp 0

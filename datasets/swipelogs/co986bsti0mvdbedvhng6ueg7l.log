@@ -1,0 +1,517 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+im_in_stans_office 1582361075569 360 217 touchstart 281 26 1.5 1.5 0 im 0
+im_in_stans_office 1582361075651 360 217 touchmove 280 26 2.25 2.25 0 im 0
+im_in_stans_office 1582361075668 360 217 touchmove 275 27 2.25 2.25 0 im 0
+im_in_stans_office 1582361075685 360 217 touchmove 266 29 2.25 2.25 0 im 0
+im_in_stans_office 1582361075702 360 217 touchmove 258 32 2.25 2.25 0 im 0
+im_in_stans_office 1582361075723 360 217 touchmove 246 35 2.25 2.25 0 im 0
+im_in_stans_office 1582361075734 360 217 touchmove 243 37 2.25 2.25 0 im 0
+im_in_stans_office 1582361075751 360 217 touchmove 235 40 2.25 2.25 0 im 0
+im_in_stans_office 1582361075768 360 217 touchmove 227 43 2.5 2.5 0 im 0
+im_in_stans_office 1582361075784 360 217 touchmove 218 46 2.25 2.25 0 im 0
+im_in_stans_office 1582361075801 360 217 touchmove 208 50 2.25 2.25 0 im 0
+im_in_stans_office 1582361075827 360 217 touchmove 193 55 2.5 2.5 0 im 0
+im_in_stans_office 1582361075837 360 217 touchmove 179 59 2.25 2.25 0 im 0
+im_in_stans_office 1582361075851 360 217 touchmove 167 63 2.5 2.5 0 im 0
+im_in_stans_office 1582361075867 360 217 touchmove 156 67 2.25 2.25 0 im 0
+im_in_stans_office 1582361075885 360 217 touchmove 146 70 2.5 2.5 0 im 0
+im_in_stans_office 1582361075900 360 217 touchmove 136 73 2.25 2.25 0 im 0
+im_in_stans_office 1582361075918 360 217 touchmove 126 76 2.25 2.25 0 im 0
+im_in_stans_office 1582361075934 360 217 touchmove 117 79 2.25 2.25 0 im 0
+im_in_stans_office 1582361075953 360 217 touchmove 111 80 2.25 2.25 0 im 0
+im_in_stans_office 1582361075968 360 217 touchmove 105 81 2.5 2.5 0 im 0
+im_in_stans_office 1582361075985 360 217 touchmove 100 82 2.5 2.5 0 im 0
+im_in_stans_office 1582361076000 360 217 touchmove 95 82 2.25 2.25 0 im 0
+im_in_stans_office 1582361076017 360 217 touchmove 91 82 2.5 2.5 0 im 0
+im_in_stans_office 1582361076033 360 217 touchmove 86 82 2.5 2.5 0 im 0
+im_in_stans_office 1582361076050 360 217 touchmove 82 82 2.25 2.25 0 im 0
+im_in_stans_office 1582361076069 360 217 touchmove 78 82 2.5 2.5 0 im 0
+im_in_stans_office 1582361076084 360 217 touchmove 75 81 2.75 2.75 0 im 0
+im_in_stans_office 1582361076101 360 217 touchmove 72 81 2.5 2.5 0 im 0
+im_in_stans_office 1582361076117 360 217 touchmove 68 81 2.75 2.75 0 im 0
+im_in_stans_office 1582361076134 360 217 touchmove 65 81 2.25 2.25 0 im 0
+im_in_stans_office 1582361076152 360 217 touchmove 62 81 2.25 2.25 0 im 0
+im_in_stans_office 1582361076169 360 217 touchmove 59 81 2.5 2.5 0 im 0
+im_in_stans_office 1582361076184 360 217 touchmove 57 81 2.5 2.5 0 im 0
+im_in_stans_office 1582361076201 360 217 touchmove 55 82 2.5 2.5 0 im 0
+im_in_stans_office 1582361076218 360 217 touchmove 53 82 2.5 2.5 0 im 0
+im_in_stans_office 1582361076233 360 217 touchmove 52 83 2.5 2.5 0 im 0
+im_in_stans_office 1582361076252 360 217 touchmove 50 83 2.5 2.5 0 im 0
+im_in_stans_office 1582361076267 360 217 touchmove 49 83 2.5 2.5 0 im 0
+im_in_stans_office 1582361076286 360 217 touchmove 49 84 2.5 2.5 0 im 0
+im_in_stans_office 1582361076301 360 217 touchmove 48 84 2.5 2.5 0 im 0
+im_in_stans_office 1582361076316 360 217 touchmove 47 84 2.25 2.25 0 im 0
+im_in_stans_office 1582361076334 360 217 touchmove 47 85 2.5 2.5 0 im 0
+im_in_stans_office 1582361076352 360 217 touchmove 47 85 2.25 2.25 0 im 0
+im_in_stans_office 1582361076383 360 217 touchmove 47 85 2.25 2.25 0 im 0
+im_in_stans_office 1582361076417 360 217 touchmove 46 86 2.5 2.5 0 im 0
+im_in_stans_office 1582361076438 360 217 touchmove 48 88 2.25 2.25 0 im 0
+im_in_stans_office 1582361076454 360 217 touchmove 56 94 2.5 2.5 0 im 0
+im_in_stans_office 1582361076470 360 217 touchmove 67 99 2.25 2.25 0 im 0
+im_in_stans_office 1582361076484 360 217 touchmove 81 103 2 2 0 im 0
+im_in_stans_office 1582361076501 360 217 touchmove 96 106 2.5 2.5 0 im 0
+im_in_stans_office 1582361076527 360 217 touchmove 112 109 2.25 2.25 0 im 0
+im_in_stans_office 1582361076537 360 217 touchmove 128 111 2 2 0 im 0
+im_in_stans_office 1582361076550 360 217 touchmove 144 114 2.25 2.25 0 im 0
+im_in_stans_office 1582361076567 360 217 touchmove 159 117 2 2 0 im 0
+im_in_stans_office 1582361076585 360 217 touchmove 173 120 2.5 2.5 0 im 0
+im_in_stans_office 1582361076602 360 217 touchmove 184 124 2.25 2.25 0 im 0
+im_in_stans_office 1582361076618 360 217 touchmove 194 127 2.25 2.25 0 im 0
+im_in_stans_office 1582361076634 360 217 touchmove 199 129 2.25 2.25 0 im 0
+im_in_stans_office 1582361076653 360 217 touchmove 205 131 2.25 2.25 0 im 0
+im_in_stans_office 1582361076670 360 217 touchmove 211 132 2.25 2.25 0 im 0
+im_in_stans_office 1582361076685 360 217 touchmove 217 134 2.5 2.5 0 im 0
+im_in_stans_office 1582361076702 360 217 touchmove 222 136 2.5 2.5 0 im 0
+im_in_stans_office 1582361076722 360 217 touchmove 228 137 2.5 2.5 0 im 0
+im_in_stans_office 1582361076736 360 217 touchmove 234 139 2.5 2.5 0 im 0
+im_in_stans_office 1582361076753 360 217 touchmove 240 139 2.25 2.25 0 im 0
+im_in_stans_office 1582361076769 360 217 touchmove 247 140 2.25 2.25 0 im 0
+im_in_stans_office 1582361076785 360 217 touchmove 255 140 2.75 2.75 0 im 0
+im_in_stans_office 1582361076802 360 217 touchmove 261 140 2.5 2.5 0 im 0
+im_in_stans_office 1582361076821 360 217 touchmove 267 140 2.25 2.25 0 im 0
+im_in_stans_office 1582361076834 360 217 touchmove 273 140 2.5 2.5 0 im 0
+im_in_stans_office 1582361076855 360 217 touchmove 278 141 2.75 2.75 0 im 0
+im_in_stans_office 1582361076869 360 217 touchmove 282 141 2.5 2.5 0 im 0
+im_in_stans_office 1582361076885 360 217 touchmove 285 141 2.5 2.5 0 im 0
+im_in_stans_office 1582361076901 360 217 touchmove 288 142 2.75 2.75 0 im 0
+im_in_stans_office 1582361076920 360 217 touchmove 291 142 2.25 2.25 0 im 0
+im_in_stans_office 1582361076937 360 217 touchmove 293 143 2.25 2.25 0 im 0
+im_in_stans_office 1582361076952 360 217 touchmove 295 144 2.25 2.25 0 im 0
+im_in_stans_office 1582361076969 360 217 touchmove 295 144 2.25 2.25 0 im 0
+im_in_stans_office 1582361076976 360 217 touchend 295 144 2.25 2.25 0 im 0
+im_in_stans_office 1582361079101 360 217 touchstart 269 23 2 2 0 in 0
+im_in_stans_office 1582361079170 360 217 touchmove 268 25 2.25 2.25 0 in 0
+im_in_stans_office 1582361079190 360 217 touchmove 263 35 2.25 2.25 0 in 0
+im_in_stans_office 1582361079204 360 217 touchmove 257 51 2.25 2.25 0 in 0
+im_in_stans_office 1582361079220 360 217 touchmove 252 67 2.5 2.5 0 in 0
+im_in_stans_office 1582361079238 360 217 touchmove 248 81 2.25 2.25 0 in 0
+im_in_stans_office 1582361079253 360 217 touchmove 245 94 2 2 0 in 0
+im_in_stans_office 1582361079270 360 217 touchmove 244 100 2.5 2.5 0 in 0
+im_in_stans_office 1582361079287 360 217 touchmove 243 108 2.25 2.25 0 in 0
+im_in_stans_office 1582361079305 360 217 touchmove 242 115 2.25 2.25 0 in 0
+im_in_stans_office 1582361079322 360 217 touchmove 242 122 2.25 2.25 0 in 0
+im_in_stans_office 1582361079341 360 217 touchmove 242 128 2.25 2.25 0 in 0
+im_in_stans_office 1582361079358 360 217 touchmove 243 134 2.25 2.25 0 in 0
+im_in_stans_office 1582361079371 360 217 touchmove 243 138 2 2 0 in 0
+im_in_stans_office 1582361079389 360 217 touchmove 244 142 2.25 2.25 0 in 0
+im_in_stans_office 1582361079412 360 217 touchmove 244 144 2 2 0 in 0
+im_in_stans_office 1582361079422 360 217 touchmove 245 146 2.25 2.25 0 in 0
+im_in_stans_office 1582361079444 360 217 touchmove 245 147 2.5 2.5 0 in 0
+im_in_stans_office 1582361079454 360 217 touchmove 245 148 2.5 2.5 0 in 0
+im_in_stans_office 1582361079471 360 217 touchmove 245 149 2.5 2.5 0 in 0
+im_in_stans_office 1582361079504 360 217 touchmove 246 150 2 2 0 in 0
+im_in_stans_office 1582361079511 360 217 touchend 246 150 2 2 0 in 0
+im_in_stans_office 1582361081810 360 217 touchstart 74 90 2.25 2.25 0 stans 0
+im_in_stans_office 1582361081814 360 217 touchmove 76 89 2.5 2.5 0 stans 0
+im_in_stans_office 1582361081826 360 217 touchmove 79 88 2.5 2.5 0 stans 0
+im_in_stans_office 1582361081841 360 217 touchmove 92 84 2.25 2.25 0 stans 0
+im_in_stans_office 1582361081857 360 217 touchmove 101 78 2.25 2.25 0 stans 0
+im_in_stans_office 1582361081874 360 217 touchmove 111 73 2.5 2.5 0 stans 0
+im_in_stans_office 1582361081895 360 217 touchmove 120 68 2.5 2.5 0 stans 0
+im_in_stans_office 1582361081910 360 217 touchmove 127 62 3 3 0 stans 0
+im_in_stans_office 1582361081924 360 217 touchmove 136 57 2.75 2.75 0 stans 0
+im_in_stans_office 1582361081941 360 217 touchmove 141 54 2.75 2.75 0 stans 0
+im_in_stans_office 1582361081959 360 217 touchmove 147 49 3 3 0 stans 0
+im_in_stans_office 1582361081974 360 217 touchmove 154 44 2.75 2.75 0 stans 0
+im_in_stans_office 1582361081992 360 217 touchmove 161 39 3 3 0 stans 0
+im_in_stans_office 1582361082008 360 217 touchmove 166 35 3 3 0 stans 0
+im_in_stans_office 1582361082024 360 217 touchmove 172 30 3.25 3.25 0 stans 0
+im_in_stans_office 1582361082041 360 217 touchmove 175 27 3 3 0 stans 0
+im_in_stans_office 1582361082058 360 217 touchmove 177 25 3.25 3.25 0 stans 0
+im_in_stans_office 1582361082076 360 217 touchmove 179 23 3.25 3.25 0 stans 0
+im_in_stans_office 1582361082092 360 217 touchmove 180 23 3.25 3.25 0 stans 0
+im_in_stans_office 1582361082123 360 217 touchmove 179 23 3 3 0 stans 0
+im_in_stans_office 1582361082144 360 217 touchmove 165 26 3 3 0 stans 0
+im_in_stans_office 1582361082157 360 217 touchmove 150 32 3 3 0 stans 0
+im_in_stans_office 1582361082175 360 217 touchmove 134 39 2.25 2.25 0 stans 0
+im_in_stans_office 1582361082194 360 217 touchmove 118 47 2.5 2.5 0 stans 0
+im_in_stans_office 1582361082208 360 217 touchmove 102 55 2 2 0 stans 0
+im_in_stans_office 1582361082225 360 217 touchmove 88 63 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082243 360 217 touchmove 78 69 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082257 360 217 touchmove 72 72 2 2 0 stans 0
+im_in_stans_office 1582361082275 360 217 touchmove 65 75 1.5 1.5 0 stans 0
+im_in_stans_office 1582361082291 360 217 touchmove 58 78 1.5 1.5 0 stans 0
+im_in_stans_office 1582361082310 360 217 touchmove 51 80 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082329 360 217 touchmove 45 81 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082341 360 217 touchmove 39 83 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082359 360 217 touchmove 35 83 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082375 360 217 touchmove 32 84 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082393 360 217 touchmove 30 85 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082408 360 217 touchmove 28 85 1.5 1.5 0 stans 0
+im_in_stans_office 1582361082425 360 217 touchmove 27 86 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082445 360 217 touchmove 25 86 1.5 1.5 0 stans 0
+im_in_stans_office 1582361082458 360 217 touchmove 25 87 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082476 360 217 touchmove 24 87 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082493 360 217 touchmove 24 88 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082508 360 217 touchmove 25 89 1.5 1.5 0 stans 0
+im_in_stans_office 1582361082525 360 217 touchmove 28 93 2 2 0 stans 0
+im_in_stans_office 1582361082542 360 217 touchmove 38 99 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082562 360 217 touchmove 50 104 2 2 0 stans 0
+im_in_stans_office 1582361082577 360 217 touchmove 63 109 1.75 1.75 0 stans 0
+im_in_stans_office 1582361082592 360 217 touchmove 76 114 2 2 0 stans 0
+im_in_stans_office 1582361082612 360 217 touchmove 90 119 2 2 0 stans 0
+im_in_stans_office 1582361082628 360 217 touchmove 105 123 2 2 0 stans 0
+im_in_stans_office 1582361082641 360 217 touchmove 121 127 2 2 0 stans 0
+im_in_stans_office 1582361082664 360 217 touchmove 140 130 2 2 0 stans 0
+im_in_stans_office 1582361082676 360 217 touchmove 159 134 2 2 0 stans 0
+im_in_stans_office 1582361082694 360 217 touchmove 175 138 2 2 0 stans 0
+im_in_stans_office 1582361082709 360 217 touchmove 189 141 2.25 2.25 0 stans 0
+im_in_stans_office 1582361082725 360 217 touchmove 201 143 2 2 0 stans 0
+im_in_stans_office 1582361082742 360 217 touchmove 212 144 2.5 2.5 0 stans 0
+im_in_stans_office 1582361082759 360 217 touchmove 218 145 2.5 2.5 0 stans 0
+im_in_stans_office 1582361082777 360 217 touchmove 225 145 2.25 2.25 0 stans 0
+im_in_stans_office 1582361082791 360 217 touchmove 232 145 2.5 2.5 0 stans 0
+im_in_stans_office 1582361082809 360 217 touchmove 237 145 2.5 2.5 0 stans 0
+im_in_stans_office 1582361082825 360 217 touchmove 242 145 2.25 2.25 0 stans 0
+im_in_stans_office 1582361082842 360 217 touchmove 245 145 2.75 2.75 0 stans 0
+im_in_stans_office 1582361082860 360 217 touchmove 248 146 2 2 0 stans 0
+im_in_stans_office 1582361082875 360 217 touchmove 249 146 2.25 2.25 0 stans 0
+im_in_stans_office 1582361082892 360 217 touchmove 250 146 2.25 2.25 0 stans 0
+im_in_stans_office 1582361082909 360 217 touchmove 251 146 2.5 2.5 0 stans 0
+im_in_stans_office 1582361082927 360 217 touchmove 251 146 2.5 2.5 0 stans 0
+im_in_stans_office 1582361083095 360 217 touchmove 252 146 2.5 2.5 0 stans 0
+im_in_stans_office 1582361083113 360 217 touchmove 252 146 2.5 2.5 0 stans 0
+im_in_stans_office 1582361083259 360 217 touchmove 251 145 2.5 2.5 0 stans 0
+im_in_stans_office 1582361083275 360 217 touchmove 246 142 2.5 2.5 0 stans 0
+im_in_stans_office 1582361083292 360 217 touchmove 239 139 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083311 360 217 touchmove 232 137 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083325 360 217 touchmove 225 134 2 2 0 stans 0
+im_in_stans_office 1582361083342 360 217 touchmove 217 132 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083361 360 217 touchmove 210 130 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083376 360 217 touchmove 202 129 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083394 360 217 touchmove 194 127 2.5 2.5 0 stans 0
+im_in_stans_office 1582361083414 360 217 touchmove 185 124 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083437 360 217 touchmove 163 118 2 2 0 stans 0
+im_in_stans_office 1582361083451 360 217 touchmove 150 115 2 2 0 stans 0
+im_in_stans_office 1582361083460 360 217 touchmove 143 113 2 2 0 stans 0
+im_in_stans_office 1582361083495 360 217 touchmove 123 108 1.75 1.75 0 stans 0
+im_in_stans_office 1582361083500 360 217 touchmove 113 105 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083508 360 217 touchmove 108 104 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083525 360 217 touchmove 103 102 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083541 360 217 touchmove 99 101 2 2 0 stans 0
+im_in_stans_office 1582361083559 360 217 touchmove 93 99 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083575 360 217 touchmove 86 95 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083591 360 217 touchmove 80 92 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083612 360 217 touchmove 76 90 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083625 360 217 touchmove 73 88 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083642 360 217 touchmove 70 86 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083660 360 217 touchmove 67 85 2.25 2.25 0 stans 0
+im_in_stans_office 1582361083679 360 217 touchmove 64 84 2 2 0 stans 0
+im_in_stans_office 1582361083692 360 217 touchmove 63 83 1.75 1.75 0 stans 0
+im_in_stans_office 1582361083699 360 217 touchend 63 83 1.75 1.75 0 stans 0
+im_in_stans_office 1582361085689 360 217 touchstart 309 43 2.5 2.5 0 office 0
+im_in_stans_office 1582361085811 360 217 touchmove 306 43 2.75 2.75 0 office 0
+im_in_stans_office 1582361085831 360 217 touchmove 293 45 2.5 2.5 0 office 0
+im_in_stans_office 1582361085844 360 217 touchmove 272 48 2.5 2.5 0 office 0
+im_in_stans_office 1582361085861 360 217 touchmove 258 51 2.5 2.5 0 office 0
+im_in_stans_office 1582361085878 360 217 touchmove 243 56 2.5 2.5 0 office 0
+im_in_stans_office 1582361085894 360 217 touchmove 229 60 2.75 2.75 0 office 0
+im_in_stans_office 1582361085911 360 217 touchmove 214 65 2.75 2.75 0 office 0
+im_in_stans_office 1582361085932 360 217 touchmove 201 69 2.25 2.25 0 office 0
+im_in_stans_office 1582361085944 360 217 touchmove 187 73 2.5 2.5 0 office 0
+im_in_stans_office 1582361085961 360 217 touchmove 176 77 2.75 2.75 0 office 0
+im_in_stans_office 1582361085978 360 217 touchmove 166 80 2.5 2.5 0 office 0
+im_in_stans_office 1582361085994 360 217 touchmove 160 82 2.5 2.5 0 office 0
+im_in_stans_office 1582361086011 360 217 touchmove 154 84 2.25 2.25 0 office 0
+im_in_stans_office 1582361086029 360 217 touchmove 148 86 2.25 2.25 0 office 0
+im_in_stans_office 1582361086044 360 217 touchmove 144 87 2.25 2.25 0 office 0
+im_in_stans_office 1582361086062 360 217 touchmove 141 87 2.5 2.5 0 office 0
+im_in_stans_office 1582361086081 360 217 touchmove 140 88 2.5 2.5 0 office 0
+im_in_stans_office 1582361086095 360 217 touchmove 138 89 2.5 2.5 0 office 0
+im_in_stans_office 1582361086113 360 217 touchmove 138 89 2.5 2.5 0 office 0
+im_in_stans_office 1582361086132 360 217 touchmove 137 89 2.5 2.5 0 office 0
+im_in_stans_office 1582361086364 360 217 touchmove 138 89 2.5 2.5 0 office 0
+im_in_stans_office 1582361086383 360 217 touchmove 139 90 2.25 2.25 0 office 0
+im_in_stans_office 1582361086404 360 217 touchmove 141 89 2.25 2.25 0 office 0
+im_in_stans_office 1582361086421 360 217 touchmove 143 88 2.5 2.5 0 office 0
+im_in_stans_office 1582361086435 360 217 touchmove 144 88 2.5 2.5 0 office 0
+im_in_stans_office 1582361086462 360 217 touchmove 145 88 2.25 2.25 0 office 0
+im_in_stans_office 1582361086480 360 217 touchmove 145 87 2.5 2.5 0 office 0
+im_in_stans_office 1582361086496 360 217 touchmove 145 86 2.5 2.5 0 office 0
+im_in_stans_office 1582361086513 360 217 touchmove 144 84 2.75 2.75 0 office 0
+im_in_stans_office 1582361086530 360 217 touchmove 143 83 2.5 2.5 0 office 0
+im_in_stans_office 1582361086546 360 217 touchmove 142 82 2.5 2.5 0 office 0
+im_in_stans_office 1582361086563 360 217 touchmove 140 81 2.5 2.5 0 office 0
+im_in_stans_office 1582361086579 360 217 touchmove 138 81 2.5 2.5 0 office 0
+im_in_stans_office 1582361086597 360 217 touchmove 136 80 2.25 2.25 0 office 0
+im_in_stans_office 1582361086613 360 217 touchmove 135 80 2.5 2.5 0 office 0
+im_in_stans_office 1582361086630 360 217 touchmove 134 81 2.75 2.75 0 office 0
+im_in_stans_office 1582361086650 360 217 touchmove 133 81 2.5 2.5 0 office 0
+im_in_stans_office 1582361086681 360 217 touchmove 132 81 2.5 2.5 0 office 0
+im_in_stans_office 1582361087083 360 217 touchmove 132 81 2.5 2.5 0 office 0
+im_in_stans_office 1582361087131 360 217 touchmove 133 82 2.5 2.5 0 office 0
+im_in_stans_office 1582361087164 360 217 touchmove 133 82 2.5 2.5 0 office 0
+im_in_stans_office 1582361087185 360 217 touchmove 133 82 2.75 2.75 0 office 0
+im_in_stans_office 1582361087199 360 217 touchmove 134 83 2.5 2.5 0 office 0
+im_in_stans_office 1582361087221 360 217 touchmove 134 83 2.75 2.75 0 office 0
+im_in_stans_office 1582361087232 360 217 touchmove 135 84 2.5 2.5 0 office 0
+im_in_stans_office 1582361087246 360 217 touchmove 135 84 2.75 2.75 0 office 0
+im_in_stans_office 1582361087263 360 217 touchmove 136 85 2.5 2.5 0 office 0
+im_in_stans_office 1582361087282 360 217 touchmove 137 85 2.5 2.5 0 office 0
+im_in_stans_office 1582361087296 360 217 touchmove 138 85 2.5 2.5 0 office 0
+im_in_stans_office 1582361087315 360 217 touchmove 140 86 2.75 2.75 0 office 0
+im_in_stans_office 1582361087332 360 217 touchmove 141 86 2.5 2.5 0 office 0
+im_in_stans_office 1582361087348 360 217 touchmove 142 87 2.5 2.5 0 office 0
+im_in_stans_office 1582361087365 360 217 touchmove 143 87 2.5 2.5 0 office 0
+im_in_stans_office 1582361087381 360 217 touchmove 146 87 2.5 2.5 0 office 0
+im_in_stans_office 1582361087400 360 217 touchmove 151 87 2.5 2.5 0 office 0
+im_in_stans_office 1582361087416 360 217 touchmove 157 85 2.5 2.5 0 office 0
+im_in_stans_office 1582361087436 360 217 touchmove 164 83 2.5 2.5 0 office 0
+im_in_stans_office 1582361087448 360 217 touchmove 173 80 2.75 2.75 0 office 0
+im_in_stans_office 1582361087466 360 217 touchmove 187 75 2.5 2.5 0 office 0
+im_in_stans_office 1582361087485 360 217 touchmove 198 70 2.5 2.5 0 office 0
+im_in_stans_office 1582361087498 360 217 touchmove 209 64 2.5 2.5 0 office 0
+im_in_stans_office 1582361087516 360 217 touchmove 219 57 2.75 2.75 0 office 0
+im_in_stans_office 1582361087533 360 217 touchmove 229 52 2.25 2.25 0 office 0
+im_in_stans_office 1582361087552 360 217 touchmove 238 45 2.5 2.5 0 office 0
+im_in_stans_office 1582361087569 360 217 touchmove 245 39 2.75 2.75 0 office 0
+im_in_stans_office 1582361087581 360 217 touchmove 252 33 2.25 2.25 0 office 0
+im_in_stans_office 1582361087597 360 217 touchmove 256 30 2.5 2.5 0 office 0
+im_in_stans_office 1582361087615 360 217 touchmove 261 26 2.25 2.25 0 office 0
+im_in_stans_office 1582361087632 360 217 touchmove 265 22 2.25 2.25 0 office 0
+im_in_stans_office 1582361087647 360 217 touchmove 268 20 2.25 2.25 0 office 0
+im_in_stans_office 1582361087665 360 217 touchmove 270 18 2.25 2.25 0 office 0
+im_in_stans_office 1582361087683 360 217 touchmove 272 17 2.75 2.75 0 office 0
+im_in_stans_office 1582361087750 360 217 touchmove 265 25 2.75 2.75 0 office 0
+im_in_stans_office 1582361087765 360 217 touchmove 256 34 2.5 2.5 0 office 0
+im_in_stans_office 1582361087781 360 217 touchmove 247 44 2.5 2.5 0 office 0
+im_in_stans_office 1582361087800 360 217 touchmove 239 55 2.75 2.75 0 office 0
+im_in_stans_office 1582361087816 360 217 touchmove 230 66 2.5 2.5 0 office 0
+im_in_stans_office 1582361087832 360 217 touchmove 222 77 2.5 2.5 0 office 0
+im_in_stans_office 1582361087850 360 217 touchmove 215 87 2.25 2.25 0 office 0
+im_in_stans_office 1582361087866 360 217 touchmove 208 97 2.25 2.25 0 office 0
+im_in_stans_office 1582361087883 360 217 touchmove 202 106 2.25 2.25 0 office 0
+im_in_stans_office 1582361087898 360 217 touchmove 199 111 2.5 2.5 0 office 0
+im_in_stans_office 1582361087915 360 217 touchmove 195 117 2.25 2.25 0 office 0
+im_in_stans_office 1582361087933 360 217 touchmove 193 122 2.25 2.25 0 office 0
+im_in_stans_office 1582361087950 360 217 touchmove 190 127 2.25 2.25 0 office 0
+im_in_stans_office 1582361087966 360 217 touchmove 188 131 2 2 0 office 0
+im_in_stans_office 1582361087984 360 217 touchmove 186 136 2 2 0 office 0
+im_in_stans_office 1582361088001 360 217 touchmove 184 139 2 2 0 office 0
+im_in_stans_office 1582361088017 360 217 touchmove 182 143 2 2 0 office 0
+im_in_stans_office 1582361088033 360 217 touchmove 181 146 1.75 1.75 0 office 0
+im_in_stans_office 1582361088051 360 217 touchmove 179 148 2 2 0 office 0
+im_in_stans_office 1582361088068 360 217 touchmove 178 150 2 2 0 office 0
+im_in_stans_office 1582361088083 360 217 touchmove 177 151 2 2 0 office 0
+im_in_stans_office 1582361088099 360 217 touchmove 176 152 2.25 2.25 0 office 0
+im_in_stans_office 1582361088116 360 217 touchmove 176 152 2 2 0 office 0
+im_in_stans_office 1582361088133 360 217 touchmove 175 153 2 2 0 office 0
+im_in_stans_office 1582361088149 360 217 touchmove 174 154 2 2 0 office 0
+im_in_stans_office 1582361088165 360 217 touchmove 172 155 2 2 0 office 0
+im_in_stans_office 1582361088182 360 217 touchmove 170 155 2 2 0 office 0
+im_in_stans_office 1582361088198 360 217 touchmove 168 156 2 2 0 office 0
+im_in_stans_office 1582361088216 360 217 touchmove 165 156 2.25 2.25 0 office 0
+im_in_stans_office 1582361088233 360 217 touchmove 162 157 2.25 2.25 0 office 0
+im_in_stans_office 1582361088250 360 217 touchmove 160 157 2 2 0 office 0
+im_in_stans_office 1582361088266 360 217 touchmove 158 157 2.25 2.25 0 office 0
+im_in_stans_office 1582361088283 360 217 touchmove 155 157 2 2 0 office 0
+im_in_stans_office 1582361088299 360 217 touchmove 153 158 2 2 0 office 0
+im_in_stans_office 1582361088314 360 217 touchmove 150 158 2 2 0 office 0
+im_in_stans_office 1582361088333 360 217 touchmove 147 158 2 2 0 office 0
+im_in_stans_office 1582361088351 360 217 touchmove 145 158 2 2 0 office 0
+im_in_stans_office 1582361088366 360 217 touchmove 143 158 2 2 0 office 0
+im_in_stans_office 1582361088383 360 217 touchmove 142 158 2.25 2.25 0 office 0
+im_in_stans_office 1582361088398 360 217 touchmove 140 158 2 2 0 office 0
+im_in_stans_office 1582361088418 360 217 touchmove 139 158 2.25 2.25 0 office 0
+im_in_stans_office 1582361088435 360 217 touchmove 138 158 2 2 0 office 0
+im_in_stans_office 1582361088451 360 217 touchmove 137 158 2 2 0 office 0
+im_in_stans_office 1582361088467 360 217 touchmove 137 158 2 2 0 office 0
+im_in_stans_office 1582361088499 360 217 touchmove 136 158 2 2 0 office 0
+im_in_stans_office 1582361088533 360 217 touchmove 136 158 2 2 0 office 0
+im_in_stans_office 1582361088550 360 217 touchmove 135 158 2 2 0 office 0
+im_in_stans_office 1582361088569 360 217 touchmove 134 158 2 2 0 office 0
+im_in_stans_office 1582361088583 360 217 touchmove 133 158 2 2 0 office 0
+im_in_stans_office 1582361088600 360 217 touchmove 133 158 2 2 0 office 0
+im_in_stans_office 1582361088616 360 217 touchmove 132 158 1.75 1.75 0 office 0
+im_in_stans_office 1582361088633 360 217 touchmove 131 158 2 2 0 office 0
+im_in_stans_office 1582361088651 360 217 touchmove 131 158 2 2 0 office 0
+im_in_stans_office 1582361088683 360 217 touchmove 130 158 2 2 0 office 0
+im_in_stans_office 1582361088750 360 217 touchmove 130 158 1.75 1.75 0 office 0
+im_in_stans_office 1582361088850 360 217 touchmove 130 158 2 2 0 office 0
+im_in_stans_office 1582361089818 360 217 touchmove 129 149 2.25 2.25 0 office 0
+im_in_stans_office 1582361089838 360 217 touchmove 127 132 2.25 2.25 0 office 0
+im_in_stans_office 1582361089855 360 217 touchmove 123 117 2.25 2.25 0 office 0
+im_in_stans_office 1582361089868 360 217 touchmove 118 100 2.5 2.5 0 office 0
+im_in_stans_office 1582361089884 360 217 touchmove 112 83 2.5 2.5 0 office 0
+im_in_stans_office 1582361089901 360 217 touchmove 106 65 2.5 2.5 0 office 0
+im_in_stans_office 1582361089918 360 217 touchmove 101 52 2.75 2.75 0 office 0
+im_in_stans_office 1582361089935 360 217 touchmove 97 40 3 3 0 office 0
+im_in_stans_office 1582361089949 360 217 touchmove 96 35 3 3 0 office 0
+im_in_stans_office 1582361089966 360 217 touchmove 94 32 3 3 0 office 0
+im_in_stans_office 1582361089983 360 217 touchmove 94 29 3 3 0 office 0
+im_in_stans_office 1582361090000 360 217 touchmove 93 28 3.25 3.25 0 office 0
+im_in_stans_office 1582361090016 360 217 touchmove 92 27 3 3 0 office 0
+im_in_stans_office 1582361090033 360 217 touchmove 92 26 3 3 0 office 0
+im_in_stans_office 1582361090054 360 217 touchmove 92 25 3 3 0 office 0
+im_in_stans_office 1582361090070 360 217 touchmove 92 25 3 3 0 office 0
+im_in_stans_office 1582361090084 360 217 touchmove 92 24 2.75 2.75 0 office 0
+im_in_stans_office 1582361090090 360 217 touchend 92 24 2.75 2.75 0 office 0
+i_think_those_are_the_right_dates 1582361099498 360 217 touchstart 273 35 1.75 1.75 0 मैं  0
+i_think_those_are_the_right_dates 1582361099926 360 217 touchend 273 35 1.75 1.75 0 मैं  0
+i_think_those_are_the_right_dates 1582361102504 360 217 touchstart 326 100 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102521 360 217 touchmove 320 101 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102535 360 217 touchmove 302 101 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102554 360 217 touchmove 281 99 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102572 360 217 touchmove 258 98 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102586 360 217 touchmove 234 98 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102599 360 217 touchmove 212 100 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102617 360 217 touchmove 191 101 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102633 360 217 touchmove 171 102 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102650 360 217 touchmove 151 101 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102669 360 217 touchmove 131 101 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102683 360 217 touchmove 111 100 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102707 360 217 touchmove 86 99 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102717 360 217 touchmove 80 98 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102733 360 217 touchmove 69 97 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102751 360 217 touchmove 63 97 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102767 360 217 touchmove 57 96 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102784 360 217 touchmove 51 95 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102800 360 217 touchmove 45 95 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102818 360 217 touchmove 40 95 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102835 360 217 touchmove 37 94 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102851 360 217 touchmove 33 94 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102867 360 217 touchmove 32 94 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102888 360 217 touchmove 30 94 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102901 360 217 touchmove 29 94 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361102983 360 217 touchmove 32 93 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103002 360 217 touchmove 35 92 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103018 360 217 touchmove 38 92 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103034 360 217 touchmove 42 92 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103050 360 217 touchmove 46 92 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103068 360 217 touchmove 52 92 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103084 360 217 touchmove 66 93 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103100 360 217 touchmove 77 92 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103118 360 217 touchmove 90 91 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103135 360 217 touchmove 102 90 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103152 360 217 touchmove 115 89 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103168 360 217 touchmove 130 87 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103185 360 217 touchmove 147 87 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103202 360 217 touchmove 164 88 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103218 360 217 touchmove 177 89 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103234 360 217 touchmove 189 90 3 3 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103251 360 217 touchmove 194 91 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103273 360 217 touchmove 197 91 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103285 360 217 touchmove 199 92 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103302 360 217 touchmove 201 92 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103319 360 217 touchmove 202 92 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103335 360 217 touchmove 203 92 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103385 360 217 touchmove 202 92 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103403 360 217 touchmove 189 91 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103419 360 217 touchmove 173 90 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103436 360 217 touchmove 155 90 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103452 360 217 touchmove 129 91 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103470 360 217 touchmove 102 93 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103488 360 217 touchmove 80 95 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103502 360 217 touchmove 70 96 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103517 360 217 touchmove 61 97 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103536 360 217 touchmove 53 98 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103554 360 217 touchmove 47 99 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103568 360 217 touchmove 42 99 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103585 360 217 touchmove 38 99 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103603 360 217 touchmove 35 99 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103637 360 217 touchmove 34 99 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103645 360 217 touchmove 33 99 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103701 360 217 touchmove 39 98 2.25 2.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103718 360 217 touchmove 51 95 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103735 360 217 touchmove 62 91 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103752 360 217 touchmove 74 85 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103768 360 217 touchmove 84 80 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103785 360 217 touchmove 94 76 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103804 360 217 touchmove 104 71 3 3 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103817 360 217 touchmove 114 66 3.25 3.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103837 360 217 touchmove 125 60 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103851 360 217 touchmove 136 54 3 3 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103868 360 217 touchmove 146 48 3 3 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103884 360 217 touchmove 156 43 3.25 3.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103901 360 217 touchmove 162 40 3 3 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103918 360 217 touchmove 167 37 3.25 3.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103935 360 217 touchmove 172 34 3.25 3.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103952 360 217 touchmove 175 32 3.25 3.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103968 360 217 touchmove 177 31 3.5 3.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361103985 360 217 touchmove 178 30 3.5 3.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104002 360 217 touchmove 178 30 3.75 3.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104034 360 217 touchmove 168 29 3.5 3.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104055 360 217 touchmove 153 33 3 3 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104070 360 217 touchmove 133 39 2.75 2.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104089 360 217 touchmove 113 47 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104102 360 217 touchmove 94 57 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104118 360 217 touchmove 78 67 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104135 360 217 touchmove 64 77 2.5 2.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104154 360 217 touchmove 53 86 2 2 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104171 360 217 touchmove 43 95 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104185 360 217 touchmove 39 98 1.75 1.75 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104204 360 217 touchmove 34 101 1.5 1.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104221 360 217 touchmove 31 104 1.5 1.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104235 360 217 touchmove 28 105 1.5 1.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104251 360 217 touchmove 27 106 1.5 1.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104268 360 217 touchmove 25 107 1.5 1.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104285 360 217 touchmove 24 108 1.5 1.5 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104303 360 217 touchmove 24 108 1.25 1.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361104311 360 217 touchend 24 108 1.25 1.25 0 लगता है कि  0
+i_think_those_are_the_right_dates 1582361106517 360 217 touchstart 211 97 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106539 360 217 touchmove 204 92 3.25 3.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106559 360 217 touchmove 180 81 3 3 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106577 360 217 touchmove 150 72 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106593 360 217 touchmove 123 67 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106610 360 217 touchmove 112 67 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106626 360 217 touchmove 104 67 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106642 360 217 touchmove 99 67 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106656 360 217 touchmove 97 68 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106674 360 217 touchmove 98 72 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106692 360 217 touchmove 112 82 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106709 360 217 touchmove 135 94 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106729 360 217 touchmove 173 109 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106743 360 217 touchmove 185 113 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106758 360 217 touchmove 206 117 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106774 360 217 touchmove 225 117 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106792 360 217 touchmove 239 114 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106807 360 217 touchmove 249 108 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106828 360 217 touchmove 255 100 3 3 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106840 360 217 touchmove 256 93 3.25 3.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106857 360 217 touchmove 255 85 3.25 3.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106875 360 217 touchmove 247 76 3.5 3.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106891 360 217 touchmove 232 66 3.5 3.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106908 360 217 touchmove 208 55 3.75 3.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106926 360 217 touchmove 175 45 3.5 3.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106943 360 217 touchmove 140 41 3.25 3.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106960 360 217 touchmove 116 42 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106977 360 217 touchmove 98 46 2.75 2.75 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361106992 360 217 touchmove 85 53 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361107009 360 217 touchmove 76 62 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361107026 360 217 touchmove 72 73 2.5 2.5 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361107041 360 217 touchmove 76 86 2.25 2.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361107057 360 217 touchmove 91 105 2.25 2.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361107074 360 217 touchend 91 105 2.25 2.25 0 उन लोगों के  0
+i_think_those_are_the_right_dates 1582361108196 360 217 touchstart 250 80 3 3 0 हैं  0
+i_think_those_are_the_right_dates 1582361108200 360 217 touchmove 246 79 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108211 360 217 touchmove 243 77 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108224 360 217 touchmove 220 69 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108240 360 217 touchmove 194 61 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108256 360 217 touchmove 168 56 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108273 360 217 touchmove 148 52 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108291 360 217 touchmove 140 51 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108308 360 217 touchmove 132 50 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108325 360 217 touchmove 126 49 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108341 360 217 touchmove 121 48 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108358 360 217 touchmove 118 48 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108373 360 217 touchmove 117 47 3 3 0 हैं  0
+i_think_those_are_the_right_dates 1582361108390 360 217 touchmove 116 46 3 3 0 हैं  0
+i_think_those_are_the_right_dates 1582361108407 360 217 touchmove 120 39 2.5 2.5 0 हैं  0
+i_think_those_are_the_right_dates 1582361108424 360 217 touchmove 132 32 2 2 0 हैं  0
+i_think_those_are_the_right_dates 1582361108440 360 217 touchmove 153 28 2.5 2.5 0 हैं  0
+i_think_those_are_the_right_dates 1582361108457 360 217 touchmove 175 29 2.5 2.5 0 हैं  0
+i_think_those_are_the_right_dates 1582361108473 360 217 touchmove 196 35 2.25 2.25 0 हैं  0
+i_think_those_are_the_right_dates 1582361108491 360 217 touchmove 215 43 2.25 2.25 0 हैं  0
+i_think_those_are_the_right_dates 1582361108507 360 217 touchmove 230 52 2.5 2.5 0 हैं  0
+i_think_those_are_the_right_dates 1582361108524 360 217 touchmove 241 61 3 3 0 हैं  0
+i_think_those_are_the_right_dates 1582361108542 360 217 touchmove 249 69 2.5 2.5 0 हैं  0
+i_think_those_are_the_right_dates 1582361108558 360 217 touchmove 255 77 2.75 2.75 0 हैं  0
+i_think_those_are_the_right_dates 1582361108576 360 217 touchmove 259 85 3 3 0 हैं  0
+i_think_those_are_the_right_dates 1582361108593 360 217 touchmove 259 90 2.5 2.5 0 हैं  0
+i_think_those_are_the_right_dates 1582361108612 360 217 touchmove 259 95 2.25 2.25 0 हैं  0
+i_think_those_are_the_right_dates 1582361108625 360 217 touchmove 256 100 2 2 0 हैं  0
+i_think_those_are_the_right_dates 1582361108635 360 217 touchend 256 100 2 2 0 हैं  0
+i_think_those_are_the_right_dates 1582361109205 360 217 touchstart 276 101 1.75 1.75 0 सही दिनांक 0
+i_think_those_are_the_right_dates 1582361109297 360 217 touchmove 272 101 2.5 2.5 0 सही दिनांक 0
+i_think_those_are_the_right_dates 1582361109310 360 217 touchmove 197 115 1.5 1.5 0 सही दिनांक 0
+i_think_those_are_the_right_dates 1582361109321 360 217 touchend 197 115 1.5 1.5 0 सही दिनांक 0

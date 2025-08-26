@@ -1,0 +1,6 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+leather_echo_integer_western 1580823217182 360 197 touchmove 157 190 0.7491871714592 0.7491871714592 0 leather 1
+leather_echo_integer_western 1580823217199 360 197 touchmove 156 179 0.49945810437202 0.7491871714592 0 leather 1
+leather_echo_integer_western 1580823217217 360 197 touchmove 155 165 0.7491871714592 0.49945810437202 0 leather 1
+leather_echo_integer_western 1580823217233 360 197 touchmove 154 156 0.49945810437202 0.49945810437202 0 leather 1
+leather_echo_integer_western 1580823217252 360 197 touchend 154 156 0.49945810437202 0.49945810437202 0 leather 1

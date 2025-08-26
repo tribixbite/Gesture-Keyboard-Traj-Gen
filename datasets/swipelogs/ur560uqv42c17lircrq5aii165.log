@@ -1,0 +1,802 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+ive_never_worked_with_her 1582134914258 360 234 touchstart 250 144 0 0 0 he  0
+ive_never_worked_with_her 1582134914341 360 234 touchmove 250 141 0 0 0 he  0
+ive_never_worked_with_her 1582134914351 360 234 touchmove 248 125 0 0 0 he  0
+ive_never_worked_with_her 1582134914368 360 234 touchmove 242 104 0 0 0 he  0
+ive_never_worked_with_her 1582134914384 360 234 touchmove 235 83 0 0 0 he  0
+ive_never_worked_with_her 1582134914400 360 234 touchmove 231 64 0 0 0 he  0
+ive_never_worked_with_her 1582134914417 360 234 touchmove 226 47 0 0 0 he  0
+ive_never_worked_with_her 1582134914434 360 234 touchmove 222 34 0 0 0 he  0
+ive_never_worked_with_her 1582134914452 360 234 touchmove 220 26 0 0 0 he  0
+ive_never_worked_with_her 1582134914467 360 234 touchmove 219 22 0 0 0 he  0
+ive_never_worked_with_her 1582134914483 360 234 touchmove 219 22 0 0 0 he  0
+ive_never_worked_with_her 1582134914501 360 234 touchmove 219 23 0 0 0 he  0
+ive_never_worked_with_her 1582134914517 360 234 touchmove 219 34 0 0 0 he  0
+ive_never_worked_with_her 1582134914534 360 234 touchmove 218 58 0 0 0 he  0
+ive_never_worked_with_her 1582134914554 360 234 touchmove 216 82 0 0 0 he  0
+ive_never_worked_with_her 1582134914567 360 234 touchmove 214 103 0 0 0 he  0
+ive_never_worked_with_her 1582134914583 360 234 touchmove 212 121 0 0 0 he  0
+ive_never_worked_with_her 1582134914600 360 234 touchmove 210 135 0 0 0 he  0
+ive_never_worked_with_her 1582134914617 360 234 touchmove 207 147 0 0 0 he  0
+ive_never_worked_with_her 1582134914634 360 234 touchmove 203 155 0 0 0 he  0
+ive_never_worked_with_her 1582134914650 360 234 touchmove 199 160 0 0 0 he  0
+ive_never_worked_with_her 1582134914670 360 234 touchmove 195 162 0 0 0 he  0
+ive_never_worked_with_her 1582134914683 360 234 touchmove 192 162 0 0 0 he  0
+ive_never_worked_with_her 1582134914700 360 234 touchmove 185 161 0 0 0 he  0
+ive_never_worked_with_her 1582134914722 360 234 touchmove 172 154 0 0 0 he  0
+ive_never_worked_with_her 1582134914733 360 234 touchmove 156 143 0 0 0 he  0
+ive_never_worked_with_her 1582134914750 360 234 touchmove 138 131 0 0 0 he  0
+ive_never_worked_with_her 1582134914768 360 234 touchmove 117 116 0 0 0 he  0
+ive_never_worked_with_her 1582134914784 360 234 touchmove 96 103 0 0 0 he  0
+ive_never_worked_with_her 1582134914800 360 234 touchmove 77 94 0 0 0 he  0
+ive_never_worked_with_her 1582134914817 360 234 touchmove 60 87 0 0 0 he  0
+ive_never_worked_with_her 1582134914833 360 234 touchmove 46 82 0 0 0 he  0
+ive_never_worked_with_her 1582134914850 360 234 touchmove 36 79 0 0 0 he  0
+ive_never_worked_with_her 1582134914868 360 234 touchmove 29 77 0 0 0 he  0
+ive_never_worked_with_her 1582134914883 360 234 touchend 29 77 0 0 0 he  0
+ive_never_worked_with_her 1582134916332 360 234 touchend 188 218 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134917879 360 234 touchstart 195 100 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134917933 360 234 touchmove 185 94 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134917952 360 234 touchmove 170 84 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134917968 360 234 touchmove 152 72 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134917983 360 234 touchmove 134 59 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134917999 360 234 touchmove 117 48 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134918019 360 234 touchmove 104 39 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134918035 360 234 touchmove 93 33 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134918050 360 234 touchmove 90 30 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134918067 360 234 touchmove 89 30 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134918082 360 234 touchmove 88 30 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134918089 360 234 touchend 88 30 0 0 0 Nunca  1
+ive_never_worked_with_her 1582134919087 360 234 touchend 194 221 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920110 360 234 touchstart 260 168 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920215 360 234 touchmove 258 162 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920232 360 234 touchmove 256 156 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920250 360 234 touchmove 252 147 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920265 360 234 touchmove 246 136 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920282 360 234 touchmove 239 121 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920298 360 234 touchmove 232 105 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920315 360 234 touchmove 229 96 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920331 360 234 touchmove 221 72 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920347 360 234 touchmove 218 58 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920364 360 234 touchmove 216 47 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920381 360 234 touchmove 214 40 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920398 360 234 touchmove 214 35 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920415 360 234 touchmove 213 31 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920432 360 234 touchmove 213 30 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920448 360 234 touchmove 213 29 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920499 360 234 touchmove 214 30 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920517 360 234 touchmove 216 33 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920533 360 234 touchmove 218 40 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920553 360 234 touchmove 220 53 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920567 360 234 touchmove 223 78 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920581 360 234 touchmove 227 105 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920598 360 234 touchmove 232 127 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920615 360 234 touchmove 237 145 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920632 360 234 touchmove 240 159 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920648 360 234 touchmove 241 169 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920666 360 234 touchmove 240 174 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920681 360 234 touchmove 239 177 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920698 360 234 touchmove 235 179 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920716 360 234 touchmove 223 179 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920732 360 234 touchmove 208 177 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920750 360 234 touchmove 196 175 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920765 360 234 touchmove 186 174 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920783 360 234 touchmove 178 173 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920798 360 234 touchmove 167 170 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920816 360 234 touchmove 151 163 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920831 360 234 touchmove 133 153 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920848 360 234 touchmove 117 142 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920866 360 234 touchmove 102 131 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920882 360 234 touchmove 88 120 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920899 360 234 touchmove 73 110 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920915 360 234 touchmove 58 102 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920934 360 234 touchmove 43 98 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920948 360 234 touchmove 31 96 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920965 360 234 touchmove 22 95 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920981 360 234 touchmove 16 95 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134920999 360 234 touchmove 14 95 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134921011 360 234 touchend 14 95 0 0 0 Nunca  0
+ive_never_worked_with_her 1582134922137 360 234 touchstart 204 100 0 0 0 he  0
+ive_never_worked_with_her 1582134922181 360 234 touchmove 195 92 0 0 0 he  0
+ive_never_worked_with_her 1582134922199 360 234 touchmove 182 82 0 0 0 he  0
+ive_never_worked_with_her 1582134922215 360 234 touchmove 166 73 0 0 0 he  0
+ive_never_worked_with_her 1582134922231 360 234 touchmove 156 69 0 0 0 he  0
+ive_never_worked_with_her 1582134922248 360 234 touchmove 126 57 0 0 0 he  0
+ive_never_worked_with_her 1582134922264 360 234 touchmove 110 51 0 0 0 he  0
+ive_never_worked_with_her 1582134922281 360 234 touchmove 96 47 0 0 0 he  0
+ive_never_worked_with_her 1582134922298 360 234 touchmove 90 44 0 0 0 he  0
+ive_never_worked_with_her 1582134922314 360 234 touchmove 87 42 0 0 0 he  0
+ive_never_worked_with_her 1582134922331 360 234 touchmove 86 42 0 0 0 he  0
+ive_never_worked_with_her 1582134922340 360 234 touchend 86 42 0 0 0 he  0
+ive_never_worked_with_her 1582134923724 360 234 touchend 183 223 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134924569 360 234 touchend 188 219 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925291 360 234 touchstart 154 30 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925348 360 234 touchmove 151 31 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925364 360 234 touchmove 143 34 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925381 360 234 touchmove 130 37 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925397 360 234 touchmove 112 42 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925414 360 234 touchmove 90 50 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925430 360 234 touchmove 71 57 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925447 360 234 touchmove 55 65 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925465 360 234 touchmove 42 72 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925484 360 234 touchmove 34 78 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925497 360 234 touchmove 29 82 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925514 360 234 touchmove 28 85 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925530 360 234 touchmove 28 87 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925548 360 234 touchmove 30 90 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925563 360 234 touchmove 38 96 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925580 360 234 touchmove 52 104 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925597 360 234 touchmove 70 112 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925619 360 234 touchmove 91 120 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925631 360 234 touchmove 114 126 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925647 360 234 touchmove 140 132 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925664 360 234 touchmove 165 137 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925682 360 234 touchmove 189 141 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925697 360 234 touchmove 208 145 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925714 360 234 touchmove 217 147 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925730 360 234 touchmove 221 148 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925747 360 234 touchmove 223 149 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925764 360 234 touchmove 222 150 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925788 360 234 touchmove 210 149 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925798 360 234 touchmove 184 144 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925814 360 234 touchmove 154 135 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925830 360 234 touchmove 125 125 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925847 360 234 touchmove 101 117 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925863 360 234 touchmove 81 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925880 360 234 touchmove 64 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925898 360 234 touchmove 52 102 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925914 360 234 touchmove 45 100 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925930 360 234 touchmove 42 99 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134925947 360 234 touchmove 41 99 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926031 360 234 touchmove 41 100 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926050 360 234 touchmove 42 101 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926065 360 234 touchmove 44 102 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926080 360 234 touchmove 47 103 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926097 360 234 touchmove 50 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926114 360 234 touchmove 52 106 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926130 360 234 touchmove 54 106 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926147 360 234 touchmove 58 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926163 360 234 touchmove 63 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926180 360 234 touchmove 69 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926197 360 234 touchmove 73 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926214 360 234 touchmove 77 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926230 360 234 touchmove 80 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926271 360 234 touchmove 82 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926280 360 234 touchmove 84 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926298 360 234 touchmove 85 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926313 360 234 touchmove 88 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926330 360 234 touchmove 91 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926346 360 234 touchmove 95 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926363 360 234 touchmove 98 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926379 360 234 touchmove 100 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926397 360 234 touchmove 101 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926413 360 234 touchmove 102 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926429 360 234 touchmove 102 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926446 360 234 touchmove 103 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926462 360 234 touchmove 103 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926496 360 234 touchmove 103 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926512 360 234 touchmove 104 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926529 360 234 touchmove 105 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926545 360 234 touchmove 107 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926562 360 234 touchmove 110 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926579 360 234 touchmove 114 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926596 360 234 touchmove 120 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926612 360 234 touchmove 128 109 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926630 360 234 touchmove 136 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926646 360 234 touchmove 145 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926663 360 234 touchmove 154 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926680 360 234 touchmove 162 107 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926696 360 234 touchmove 170 107 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926713 360 234 touchmove 177 106 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926730 360 234 touchmove 184 106 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926748 360 234 touchmove 191 106 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926764 360 234 touchmove 199 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926780 360 234 touchmove 208 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926800 360 234 touchmove 217 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926813 360 234 touchmove 226 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926831 360 234 touchmove 233 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926846 360 234 touchmove 239 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926862 360 234 touchmove 243 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926879 360 234 touchmove 245 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926896 360 234 touchmove 246 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926913 360 234 touchmove 245 104 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926930 360 234 touchmove 239 103 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926947 360 234 touchmove 224 100 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926966 360 234 touchmove 203 98 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926980 360 234 touchmove 178 97 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134926996 360 234 touchmove 146 94 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927013 360 234 touchmove 111 91 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927030 360 234 touchmove 80 90 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927047 360 234 touchmove 56 92 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927066 360 234 touchmove 42 94 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927079 360 234 touchmove 35 95 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927097 360 234 touchmove 33 95 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927114 360 234 touchmove 32 95 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927131 360 234 touchmove 32 95 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927147 360 234 touchmove 33 96 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927164 360 234 touchmove 35 99 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927181 360 234 touchmove 40 104 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927196 360 234 touchmove 49 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927213 360 234 touchmove 59 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927230 360 234 touchmove 70 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927246 360 234 touchmove 84 107 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927263 360 234 touchmove 97 104 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927280 360 234 touchmove 107 102 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927300 360 234 touchmove 116 100 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927313 360 234 touchmove 124 98 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927330 360 234 touchmove 130 97 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927347 360 234 touchmove 137 96 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927364 360 234 touchmove 147 95 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927379 360 234 touchmove 160 91 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927397 360 234 touchmove 178 84 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927413 360 234 touchmove 198 73 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927429 360 234 touchmove 218 61 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927448 360 234 touchmove 236 50 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927463 360 234 touchmove 252 41 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927479 360 234 touchmove 266 34 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927496 360 234 touchmove 277 31 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927513 360 234 touchmove 285 29 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927529 360 234 touchmove 292 27 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927546 360 234 touchmove 298 26 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927563 360 234 touchmove 301 26 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927579 360 234 touchmove 303 27 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927597 360 234 touchmove 301 32 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927613 360 234 touchmove 298 38 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927630 360 234 touchmove 275 71 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927646 360 234 touchmove 261 89 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927663 360 234 touchmove 250 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927681 360 234 touchmove 242 120 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927696 360 234 touchmove 235 133 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927713 360 234 touchmove 229 142 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927729 360 234 touchmove 223 153 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927746 360 234 touchmove 216 165 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927764 360 234 touchmove 208 177 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927780 360 234 touchmove 202 187 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927796 360 234 touchmove 197 197 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927813 360 234 touchmove 193 205 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927830 360 234 touchmove 190 210 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927846 360 234 touchmove 188 214 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927863 360 234 touchmove 186 215 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927879 360 234 touchmove 185 216 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927896 360 234 touchmove 184 217 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927914 360 234 touchmove 184 217 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134927930 360 234 touchmove 183 217 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928014 360 234 touchmove 182 216 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928031 360 234 touchmove 178 214 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928048 360 234 touchmove 172 209 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928064 360 234 touchmove 164 201 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928081 360 234 touchmove 158 192 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928096 360 234 touchmove 154 184 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928113 360 234 touchmove 153 176 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928132 360 234 touchmove 153 170 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928147 360 234 touchmove 155 163 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928165 360 234 touchmove 162 154 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928179 360 234 touchmove 175 143 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928196 360 234 touchmove 194 127 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928216 360 234 touchmove 216 108 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928230 360 234 touchmove 237 90 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928248 360 234 touchmove 253 74 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928262 360 234 touchmove 268 61 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928279 360 234 touchmove 281 51 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928296 360 234 touchmove 290 45 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928315 360 234 touchmove 297 42 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928329 360 234 touchmove 300 40 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928346 360 234 touchmove 301 40 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928397 360 234 touchmove 299 43 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928413 360 234 touchmove 290 61 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928430 360 234 touchmove 274 89 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928447 360 234 touchmove 262 112 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928466 360 234 touchmove 253 133 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928479 360 234 touchmove 247 152 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928496 360 234 touchmove 243 166 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928514 360 234 touchmove 241 178 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928530 360 234 touchmove 239 185 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928547 360 234 touchmove 237 190 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928563 360 234 touchmove 236 192 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928580 360 234 touchmove 236 193 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928597 360 234 touchmove 236 193 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928630 360 234 touchmove 235 194 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928647 360 234 touchmove 233 196 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928664 360 234 touchmove 231 198 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928679 360 234 touchmove 228 201 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928696 360 234 touchmove 225 204 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928713 360 234 touchmove 222 208 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928739 360 234 touchmove 217 211 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928746 360 234 touchmove 213 214 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928763 360 234 touchmove 210 217 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928779 360 234 touchmove 207 219 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928796 360 234 touchmove 204 221 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928812 360 234 touchmove 203 222 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928830 360 234 touchmove 201 223 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928845 360 234 touchmove 201 223 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928879 360 234 touchmove 200 222 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928895 360 234 touchmove 198 219 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928912 360 234 touchmove 193 208 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928929 360 234 touchmove 183 185 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928947 360 234 touchmove 172 158 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928963 360 234 touchmove 159 129 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928979 360 234 touchmove 143 101 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134928996 360 234 touchmove 129 78 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929013 360 234 touchmove 115 60 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929029 360 234 touchmove 104 49 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929047 360 234 touchmove 97 42 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929062 360 234 touchmove 94 40 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929079 360 234 touchmove 94 39 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929096 360 234 touchmove 94 39 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929112 360 234 touchmove 97 42 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929129 360 234 touchmove 108 48 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929146 360 234 touchmove 127 56 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929162 360 234 touchmove 155 64 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929180 360 234 touchmove 194 72 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929197 360 234 touchmove 237 81 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929212 360 234 touchmove 271 88 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929229 360 234 touchmove 293 94 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929246 360 234 touchmove 307 97 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929264 360 234 touchmove 313 100 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929279 360 234 touchmove 315 101 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929297 360 234 touchmove 315 102 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929329 360 234 touchmove 312 101 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929348 360 234 touchmove 291 99 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929362 360 234 touchmove 253 99 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929379 360 234 touchmove 214 102 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929396 360 234 touchmove 169 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929413 360 234 touchmove 122 105 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929429 360 234 touchmove 84 104 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929446 360 234 touchmove 56 104 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929463 360 234 touchmove 35 106 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929479 360 234 touchmove 21 110 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929496 360 234 touchmove 18 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134929502 360 234 touchend 18 111 0 0 0 trabajado  0
+ive_never_worked_with_her 1582134930965 360 234 touchstart 151 155 0 0 0 con  0
+ive_never_worked_with_her 1582134931032 360 234 touchmove 156 149 0 0 0 con  0
+ive_never_worked_with_her 1582134931048 360 234 touchmove 173 132 0 0 0 con  0
+ive_never_worked_with_her 1582134931063 360 234 touchmove 196 108 0 0 0 con  0
+ive_never_worked_with_her 1582134931078 360 234 touchmove 224 83 0 0 0 con  0
+ive_never_worked_with_her 1582134931095 360 234 touchmove 251 63 0 0 0 con  0
+ive_never_worked_with_her 1582134931112 360 234 touchmove 274 48 0 0 0 con  0
+ive_never_worked_with_her 1582134931129 360 234 touchmove 289 39 0 0 0 con  0
+ive_never_worked_with_her 1582134931146 360 234 touchmove 298 34 0 0 0 con  0
+ive_never_worked_with_her 1582134931162 360 234 touchmove 302 31 0 0 0 con  0
+ive_never_worked_with_her 1582134931179 360 234 touchmove 302 31 0 0 0 con  0
+ive_never_worked_with_her 1582134931197 360 234 touchmove 301 33 0 0 0 con  0
+ive_never_worked_with_her 1582134931211 360 234 touchmove 296 45 0 0 0 con  0
+ive_never_worked_with_her 1582134931233 360 234 touchmove 284 68 0 0 0 con  0
+ive_never_worked_with_her 1582134931246 360 234 touchmove 271 92 0 0 0 con  0
+ive_never_worked_with_her 1582134931262 360 234 touchmove 260 114 0 0 0 con  0
+ive_never_worked_with_her 1582134931279 360 234 touchmove 251 133 0 0 0 con  0
+ive_never_worked_with_her 1582134931295 360 234 touchmove 244 148 0 0 0 con  0
+ive_never_worked_with_her 1582134931312 360 234 touchmove 241 159 0 0 0 con  0
+ive_never_worked_with_her 1582134931328 360 234 touchmove 239 166 0 0 0 con  0
+ive_never_worked_with_her 1582134931345 360 234 touchmove 239 167 0 0 0 con  0
+ive_never_worked_with_her 1582134931364 360 234 touchmove 239 169 0 0 0 con  0
+ive_never_worked_with_her 1582134931379 360 234 touchend 239 169 0 0 0 con  0
+we_will_keep_you_posted 1582134936124 360 234 touchstart 244 145 0 0 0 nos  0
+we_will_keep_you_posted 1582134936180 360 234 touchmove 256 131 0 0 0 nos  0
+we_will_keep_you_posted 1582134936195 360 234 touchmove 266 114 0 0 0 nos  0
+we_will_keep_you_posted 1582134936211 360 234 touchmove 276 92 0 0 0 nos  0
+we_will_keep_you_posted 1582134936228 360 234 touchmove 286 69 0 0 0 nos  0
+we_will_keep_you_posted 1582134936244 360 234 touchmove 292 50 0 0 0 nos  0
+we_will_keep_you_posted 1582134936263 360 234 touchmove 297 37 0 0 0 nos  0
+we_will_keep_you_posted 1582134936278 360 234 touchmove 299 27 0 0 0 nos  0
+we_will_keep_you_posted 1582134936294 360 234 touchmove 299 21 0 0 0 nos  0
+we_will_keep_you_posted 1582134936311 360 234 touchmove 298 18 0 0 0 nos  0
+we_will_keep_you_posted 1582134936328 360 234 touchmove 295 17 0 0 0 nos  0
+we_will_keep_you_posted 1582134936345 360 234 touchmove 285 16 0 0 0 nos  0
+we_will_keep_you_posted 1582134936363 360 234 touchmove 255 22 0 0 0 nos  0
+we_will_keep_you_posted 1582134936379 360 234 touchmove 223 34 0 0 0 nos  0
+we_will_keep_you_posted 1582134936394 360 234 touchmove 189 49 0 0 0 nos  0
+we_will_keep_you_posted 1582134936411 360 234 touchmove 158 60 0 0 0 nos  0
+we_will_keep_you_posted 1582134936432 360 234 touchmove 127 70 0 0 0 nos  0
+we_will_keep_you_posted 1582134936445 360 234 touchmove 99 78 0 0 0 nos  0
+we_will_keep_you_posted 1582134936461 360 234 touchmove 78 84 0 0 0 nos  0
+we_will_keep_you_posted 1582134936477 360 234 touchmove 66 88 0 0 0 nos  0
+we_will_keep_you_posted 1582134936494 360 234 touchmove 61 89 0 0 0 nos  0
+we_will_keep_you_posted 1582134936511 360 234 touchmove 60 89 0 0 0 nos  0
+we_will_keep_you_posted 1582134936527 360 234 touchmove 60 89 0 0 0 nos  0
+we_will_keep_you_posted 1582134936550 360 234 touchend 60 89 0 0 0 nos  0
+we_will_keep_you_posted 1582134937012 360 234 touchmove 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134937029 360 234 touchmove 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134937047 360 234 touchmove 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134937061 360 234 touchmove 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134937077 360 234 touchmove 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134937129 360 234 touchmove 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134937244 360 234 touchend 190 211 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938256 360 234 touchstart 181 158 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938295 360 234 touchmove 165 148 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938311 360 234 touchmove 142 132 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938327 360 234 touchmove 117 115 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938344 360 234 touchmove 94 101 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938360 360 234 touchmove 72 92 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938377 360 234 touchmove 54 87 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938395 360 234 touchmove 43 84 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938412 360 234 touchmove 41 83 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938427 360 234 touchmove 43 84 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938443 360 234 touchmove 56 87 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938462 360 234 touchmove 86 94 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938479 360 234 touchmove 122 101 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938494 360 234 touchmove 162 110 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938515 360 234 touchmove 208 120 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938527 360 234 touchmove 248 129 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938544 360 234 touchmove 274 134 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938560 360 234 touchmove 291 136 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938580 360 234 touchmove 298 136 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938594 360 234 touchmove 303 133 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938610 360 234 touchmove 310 124 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938627 360 234 touchmove 313 110 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938644 360 234 touchmove 310 90 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938661 360 234 touchmove 302 69 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938677 360 234 touchmove 291 50 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938693 360 234 touchmove 279 38 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938711 360 234 touchmove 266 31 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938727 360 234 touchmove 253 30 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938744 360 234 touchmove 229 35 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938760 360 234 touchmove 194 47 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938776 360 234 touchmove 155 63 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938793 360 234 touchmove 120 77 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938810 360 234 touchmove 93 86 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938827 360 234 touchmove 74 92 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938843 360 234 touchmove 65 95 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938860 360 234 touchmove 62 96 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938877 360 234 touchmove 59 98 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134938889 360 234 touchend 59 98 0 0 0 vamos a  0
+we_will_keep_you_posted 1582134939320 360 234 touchend 190 212 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941023 360 234 touchstart 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941044 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941061 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941076 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941093 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941109 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941127 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941143 360 234 touchmove 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941179 360 234 touchend 35 93 0 0 0 mantener  1
+we_will_keep_you_posted 1582134941871 360 234 touchend 180 213 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942193 360 234 touchstart 261 146 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942232 360 234 touchmove 256 146 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942244 360 234 touchmove 238 144 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942266 360 234 touchmove 209 137 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942279 360 234 touchmove 173 129 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942292 360 234 touchmove 134 119 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942310 360 234 touchmove 99 112 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942326 360 234 touchmove 71 108 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942345 360 234 touchmove 52 107 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942359 360 234 touchmove 43 107 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942376 360 234 touchmove 42 107 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942392 360 234 touchmove 43 107 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942408 360 234 touchmove 55 109 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942425 360 234 touchmove 81 113 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942442 360 234 touchmove 113 118 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942459 360 234 touchmove 146 124 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942477 360 234 touchmove 181 132 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942492 360 234 touchmove 207 143 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942511 360 234 touchmove 225 152 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942525 360 234 touchmove 235 161 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942542 360 234 touchmove 240 167 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942559 360 234 touchmove 242 169 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942576 360 234 touchmove 242 170 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942592 360 234 touchmove 240 168 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942609 360 234 touchmove 227 154 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942625 360 234 touchmove 210 135 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942642 360 234 touchmove 195 117 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942659 360 234 touchmove 185 104 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942676 360 234 touchmove 177 90 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942692 360 234 touchmove 170 76 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942708 360 234 touchmove 164 63 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942725 360 234 touchmove 158 53 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942742 360 234 touchmove 153 46 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942759 360 234 touchmove 146 42 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942775 360 234 touchmove 134 41 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942794 360 234 touchmove 118 42 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942809 360 234 touchmove 102 45 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942828 360 234 touchmove 89 48 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942842 360 234 touchmove 80 49 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942859 360 234 touchmove 77 51 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942875 360 234 touchmove 80 53 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942891 360 234 touchmove 96 62 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942908 360 234 touchmove 122 75 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942928 360 234 touchmove 151 93 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942942 360 234 touchmove 179 113 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942959 360 234 touchmove 203 133 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942978 360 234 touchmove 221 149 0 0 0 mantener  0
+we_will_keep_you_posted 1582134942992 360 234 touchmove 230 158 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943011 360 234 touchmove 234 162 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943025 360 234 touchmove 237 165 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943043 360 234 touchmove 238 166 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943060 360 234 touchmove 236 162 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943075 360 234 touchmove 220 141 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943092 360 234 touchmove 196 116 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943108 360 234 touchmove 171 92 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943125 360 234 touchmove 147 69 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943141 360 234 touchmove 124 50 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943159 360 234 touchmove 105 38 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943175 360 234 touchmove 90 32 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943191 360 234 touchmove 81 31 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943210 360 234 touchmove 77 33 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943227 360 234 touchmove 75 34 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943241 360 234 touchmove 76 35 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943258 360 234 touchmove 78 36 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943278 360 234 touchmove 84 39 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943291 360 234 touchmove 96 40 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943308 360 234 touchmove 111 39 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943325 360 234 touchmove 128 37 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943341 360 234 touchmove 143 36 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943358 360 234 touchmove 152 36 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943375 360 234 touchmove 155 36 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943380 360 234 touchend 155 36 0 0 0 mantener  0
+we_will_keep_you_posted 1582134943892 360 234 touchmove 196 210 0 0 0 que  0
+we_will_keep_you_posted 1582134944001 360 234 touchend 196 210 0 0 0 que  0
+we_will_keep_you_posted 1582134944303 360 234 touchstart 27 66 0 0 0 que  0
+we_will_keep_you_posted 1582134944360 360 234 touchmove 44 64 0 0 0 que  0
+we_will_keep_you_posted 1582134944376 360 234 touchmove 67 62 0 0 0 que  0
+we_will_keep_you_posted 1582134944392 360 234 touchmove 96 59 0 0 0 que  0
+we_will_keep_you_posted 1582134944409 360 234 touchmove 125 56 0 0 0 que  0
+we_will_keep_you_posted 1582134944425 360 234 touchmove 155 51 0 0 0 que  0
+we_will_keep_you_posted 1582134944441 360 234 touchmove 182 47 0 0 0 que  0
+we_will_keep_you_posted 1582134944458 360 234 touchmove 205 46 0 0 0 que  0
+we_will_keep_you_posted 1582134944505 360 234 touchmove 221 46 0 0 0 que  0
+we_will_keep_you_posted 1582134944512 360 234 touchmove 232 47 0 0 0 que  0
+we_will_keep_you_posted 1582134944524 360 234 touchmove 232 47 0 0 0 que  0
+we_will_keep_you_posted 1582134944541 360 234 touchmove 230 48 0 0 0 que  0
+we_will_keep_you_posted 1582134944558 360 234 touchmove 222 49 0 0 0 que  0
+we_will_keep_you_posted 1582134944574 360 234 touchmove 202 51 0 0 0 que  0
+we_will_keep_you_posted 1582134944591 360 234 touchmove 176 51 0 0 0 que  0
+we_will_keep_you_posted 1582134944607 360 234 touchmove 148 49 0 0 0 que  0
+we_will_keep_you_posted 1582134944625 360 234 touchmove 124 46 0 0 0 que  0
+we_will_keep_you_posted 1582134944641 360 234 touchmove 104 44 0 0 0 que  0
+we_will_keep_you_posted 1582134944657 360 234 touchmove 91 42 0 0 0 que  0
+we_will_keep_you_posted 1582134944674 360 234 touchmove 84 42 0 0 0 que  0
+we_will_keep_you_posted 1582134944690 360 234 touchmove 80 42 0 0 0 que  0
+we_will_keep_you_posted 1582134944707 360 234 touchmove 78 42 0 0 0 que  0
+we_will_keep_you_posted 1582134944713 360 234 touchend 78 42 0 0 0 que  0
+we_will_keep_you_posted 1582134945692 360 234 touchmove 183 211 0 0 0 informados 0
+we_will_keep_you_posted 1582134945742 360 234 touchmove 183 211 0 0 0 informados 0
+we_will_keep_you_posted 1582134945831 360 234 touchend 183 211 0 0 0 informados 0
+we_will_keep_you_posted 1582134946229 360 234 touchstart 267 40 0 0 0 informados 0
+we_will_keep_you_posted 1582134946275 360 234 touchmove 266 46 0 0 0 informados 0
+we_will_keep_you_posted 1582134946292 360 234 touchmove 263 68 0 0 0 informados 0
+we_will_keep_you_posted 1582134946312 360 234 touchmove 258 95 0 0 0 informados 0
+we_will_keep_you_posted 1582134946325 360 234 touchmove 253 120 0 0 0 informados 0
+we_will_keep_you_posted 1582134946341 360 234 touchmove 248 142 0 0 0 informados 0
+we_will_keep_you_posted 1582134946359 360 234 touchmove 244 159 0 0 0 informados 0
+we_will_keep_you_posted 1582134946374 360 234 touchmove 241 170 0 0 0 informados 0
+we_will_keep_you_posted 1582134946392 360 234 touchmove 238 175 0 0 0 informados 0
+we_will_keep_you_posted 1582134946412 360 234 touchmove 235 178 0 0 0 informados 0
+we_will_keep_you_posted 1582134946431 360 234 touchmove 232 177 0 0 0 informados 0
+we_will_keep_you_posted 1582134946440 360 234 touchmove 218 168 0 0 0 informados 0
+we_will_keep_you_posted 1582134946457 360 234 touchmove 198 152 0 0 0 informados 0
+we_will_keep_you_posted 1582134946474 360 234 touchmove 179 135 0 0 0 informados 0
+we_will_keep_you_posted 1582134946491 360 234 touchmove 158 119 0 0 0 informados 0
+we_will_keep_you_posted 1582134946507 360 234 touchmove 139 107 0 0 0 informados 0
+we_will_keep_you_posted 1582134946524 360 234 touchmove 127 100 0 0 0 informados 0
+we_will_keep_you_posted 1582134946541 360 234 touchmove 122 97 0 0 0 informados 0
+we_will_keep_you_posted 1582134946557 360 234 touchmove 121 96 0 0 0 informados 0
+we_will_keep_you_posted 1582134946574 360 234 touchmove 124 95 0 0 0 informados 0
+we_will_keep_you_posted 1582134946591 360 234 touchmove 139 86 0 0 0 informados 0
+we_will_keep_you_posted 1582134946608 360 234 touchmove 167 71 0 0 0 informados 0
+we_will_keep_you_posted 1582134946625 360 234 touchmove 202 52 0 0 0 informados 0
+we_will_keep_you_posted 1582134946641 360 234 touchmove 236 39 0 0 0 informados 0
+we_will_keep_you_posted 1582134946658 360 234 touchmove 259 31 0 0 0 informados 0
+we_will_keep_you_posted 1582134946674 360 234 touchmove 270 26 0 0 0 informados 0
+we_will_keep_you_posted 1582134946691 360 234 touchmove 273 25 0 0 0 informados 0
+we_will_keep_you_posted 1582134946712 360 234 touchmove 272 24 0 0 0 informados 0
+we_will_keep_you_posted 1582134946725 360 234 touchmove 267 22 0 0 0 informados 0
+we_will_keep_you_posted 1582134946741 360 234 touchmove 246 16 0 0 0 informados 0
+we_will_keep_you_posted 1582134946757 360 234 touchmove 218 13 0 0 0 informados 0
+we_will_keep_you_posted 1582134946774 360 234 touchmove 184 12 0 0 0 informados 0
+we_will_keep_you_posted 1582134946792 360 234 touchmove 149 18 0 0 0 informados 0
+we_will_keep_you_posted 1582134946808 360 234 touchmove 125 25 0 0 0 informados 0
+we_will_keep_you_posted 1582134946825 360 234 touchmove 116 31 0 0 0 informados 0
+we_will_keep_you_posted 1582134946841 360 234 touchmove 115 34 0 0 0 informados 0
+we_will_keep_you_posted 1582134946858 360 234 touchmove 119 40 0 0 0 informados 0
+we_will_keep_you_posted 1582134946875 360 234 touchmove 130 51 0 0 0 informados 0
+we_will_keep_you_posted 1582134946892 360 234 touchmove 150 66 0 0 0 informados 0
+we_will_keep_you_posted 1582134946908 360 234 touchmove 176 83 0 0 0 informados 0
+we_will_keep_you_posted 1582134946927 360 234 touchmove 207 105 0 0 0 informados 0
+we_will_keep_you_posted 1582134946941 360 234 touchmove 235 124 0 0 0 informados 0
+we_will_keep_you_posted 1582134946957 360 234 touchmove 250 136 0 0 0 informados 0
+we_will_keep_you_posted 1582134946974 360 234 touchmove 258 142 0 0 0 informados 0
+we_will_keep_you_posted 1582134946991 360 234 touchmove 259 144 0 0 0 informados 0
+we_will_keep_you_posted 1582134947007 360 234 touchmove 259 145 0 0 0 informados 0
+we_will_keep_you_posted 1582134947024 360 234 touchmove 254 144 0 0 0 informados 0
+we_will_keep_you_posted 1582134947041 360 234 touchmove 232 138 0 0 0 informados 0
+we_will_keep_you_posted 1582134947057 360 234 touchmove 201 128 0 0 0 informados 0
+we_will_keep_you_posted 1582134947073 360 234 touchmove 164 117 0 0 0 informados 0
+we_will_keep_you_posted 1582134947090 360 234 touchmove 128 106 0 0 0 informados 0
+we_will_keep_you_posted 1582134947107 360 234 touchmove 98 99 0 0 0 informados 0
+we_will_keep_you_posted 1582134947124 360 234 touchmove 74 96 0 0 0 informados 0
+we_will_keep_you_posted 1582134947140 360 234 touchmove 60 97 0 0 0 informados 0
+we_will_keep_you_posted 1582134947157 360 234 touchmove 54 98 0 0 0 informados 0
+we_will_keep_you_posted 1582134947173 360 234 touchmove 53 100 0 0 0 informados 0
+we_will_keep_you_posted 1582134947190 360 234 touchmove 53 100 0 0 0 informados 0
+we_will_keep_you_posted 1582134947207 360 234 touchmove 57 102 0 0 0 informados 0
+we_will_keep_you_posted 1582134947224 360 234 touchmove 67 104 0 0 0 informados 0
+we_will_keep_you_posted 1582134947240 360 234 touchmove 88 101 0 0 0 informados 0
+we_will_keep_you_posted 1582134947257 360 234 touchmove 118 91 0 0 0 informados 0
+we_will_keep_you_posted 1582134947274 360 234 touchmove 152 77 0 0 0 informados 0
+we_will_keep_you_posted 1582134947290 360 234 touchmove 192 60 0 0 0 informados 0
+we_will_keep_you_posted 1582134947306 360 234 touchmove 231 44 0 0 0 informados 0
+we_will_keep_you_posted 1582134947323 360 234 touchmove 259 32 0 0 0 informados 0
+we_will_keep_you_posted 1582134947340 360 234 touchmove 276 26 0 0 0 informados 0
+we_will_keep_you_posted 1582134947357 360 234 touchmove 284 23 0 0 0 informados 0
+we_will_keep_you_posted 1582134947374 360 234 touchmove 286 22 0 0 0 informados 0
+we_will_keep_you_posted 1582134947391 360 234 touchmove 285 22 0 0 0 informados 0
+we_will_keep_you_posted 1582134947408 360 234 touchmove 284 22 0 0 0 informados 0
+we_will_keep_you_posted 1582134947424 360 234 touchmove 266 24 0 0 0 informados 0
+we_will_keep_you_posted 1582134947441 360 234 touchmove 226 30 0 0 0 informados 0
+we_will_keep_you_posted 1582134947457 360 234 touchmove 171 46 0 0 0 informados 0
+we_will_keep_you_posted 1582134947475 360 234 touchmove 127 63 0 0 0 informados 0
+we_will_keep_you_posted 1582134947492 360 234 touchmove 97 75 0 0 0 informados 0
+we_will_keep_you_posted 1582134947508 360 234 touchmove 81 84 0 0 0 informados 0
+we_will_keep_you_posted 1582134947524 360 234 touchmove 75 89 0 0 0 informados 0
+we_will_keep_you_posted 1582134947541 360 234 touchmove 73 91 0 0 0 informados 0
+we_will_keep_you_posted 1582134947558 360 234 touchmove 73 91 0 0 0 informados 0
+we_will_keep_you_posted 1582134947578 360 234 touchend 73 91 0 0 0 informados 0
+got_developmental_failure_td 1582134951680 360 234 touchstart 158 37 0 0 0 tiene  0
+got_developmental_failure_td 1582134951693 360 234 touchmove 161 38 0 0 0 tiene  0
+got_developmental_failure_td 1582134951708 360 234 touchmove 173 38 0 0 0 tiene  0
+got_developmental_failure_td 1582134951725 360 234 touchmove 198 36 0 0 0 tiene  0
+got_developmental_failure_td 1582134951744 360 234 touchmove 230 32 0 0 0 tiene  0
+got_developmental_failure_td 1582134951759 360 234 touchmove 259 31 0 0 0 tiene  0
+got_developmental_failure_td 1582134951777 360 234 touchmove 279 33 0 0 0 tiene  0
+got_developmental_failure_td 1582134951793 360 234 touchmove 290 35 0 0 0 tiene  0
+got_developmental_failure_td 1582134951811 360 234 touchmove 294 36 0 0 0 tiene  0
+got_developmental_failure_td 1582134951827 360 234 touchmove 294 36 0 0 0 tiene  0
+got_developmental_failure_td 1582134951842 360 234 touchmove 293 37 0 0 0 tiene  0
+got_developmental_failure_td 1582134951859 360 234 touchmove 283 37 0 0 0 tiene  0
+got_developmental_failure_td 1582134951876 360 234 touchmove 256 38 0 0 0 tiene  0
+got_developmental_failure_td 1582134951897 360 234 touchmove 204 38 0 0 0 tiene  0
+got_developmental_failure_td 1582134951911 360 234 touchmove 181 39 0 0 0 tiene  0
+got_developmental_failure_td 1582134951926 360 234 touchmove 144 40 0 0 0 tiene  0
+got_developmental_failure_td 1582134951945 360 234 touchmove 112 42 0 0 0 tiene  0
+got_developmental_failure_td 1582134951960 360 234 touchmove 108 42 0 0 0 tiene  0
+got_developmental_failure_td 1582134951977 360 234 touchmove 106 43 0 0 0 tiene  0
+got_developmental_failure_td 1582134951992 360 234 touchmove 106 43 0 0 0 tiene  0
+got_developmental_failure_td 1582134952009 360 234 touchmove 113 49 0 0 0 tiene  0
+got_developmental_failure_td 1582134952027 360 234 touchmove 132 63 0 0 0 tiene  0
+got_developmental_failure_td 1582134952043 360 234 touchmove 157 81 0 0 0 tiene  0
+got_developmental_failure_td 1582134952063 360 234 touchmove 188 104 0 0 0 tiene  0
+got_developmental_failure_td 1582134952077 360 234 touchmove 214 125 0 0 0 tiene  0
+got_developmental_failure_td 1582134952093 360 234 touchmove 234 142 0 0 0 tiene  0
+got_developmental_failure_td 1582134952109 360 234 touchmove 248 156 0 0 0 tiene  0
+got_developmental_failure_td 1582134952129 360 234 touchmove 256 163 0 0 0 tiene  0
+got_developmental_failure_td 1582134952143 360 234 touchmove 258 165 0 0 0 tiene  0
+got_developmental_failure_td 1582134952159 360 234 touchmove 261 168 0 0 0 tiene  0
+got_developmental_failure_td 1582134952176 360 234 touchmove 261 168 0 0 0 tiene  0
+got_developmental_failure_td 1582134952193 360 234 touchmove 254 156 0 0 0 tiene  0
+got_developmental_failure_td 1582134952209 360 234 touchmove 233 132 0 0 0 tiene  0
+got_developmental_failure_td 1582134952226 360 234 touchmove 208 108 0 0 0 tiene  0
+got_developmental_failure_td 1582134952242 360 234 touchmove 180 88 0 0 0 tiene  0
+got_developmental_failure_td 1582134952259 360 234 touchmove 152 71 0 0 0 tiene  0
+got_developmental_failure_td 1582134952275 360 234 touchmove 127 59 0 0 0 tiene  0
+got_developmental_failure_td 1582134952292 360 234 touchmove 108 52 0 0 0 tiene  0
+got_developmental_failure_td 1582134952311 360 234 touchmove 95 49 0 0 0 tiene  0
+got_developmental_failure_td 1582134952326 360 234 touchmove 91 48 0 0 0 tiene  0
+got_developmental_failure_td 1582134952342 360 234 touchmove 90 48 0 0 0 tiene  0
+got_developmental_failure_td 1582134952361 360 234 touchend 90 48 0 0 0 tiene  0
+got_developmental_failure_td 1582134952878 360 234 touchend 180 217 0 0 0 falla de  0
+got_developmental_failure_td 1582134953390 360 234 touchstart 142 95 0 0 0 falla de  0
+got_developmental_failure_td 1582134953459 360 234 touchmove 128 95 0 0 0 falla de  0
+got_developmental_failure_td 1582134953473 360 234 touchmove 104 96 0 0 0 falla de  0
+got_developmental_failure_td 1582134953491 360 234 touchmove 79 99 0 0 0 falla de  0
+got_developmental_failure_td 1582134953508 360 234 touchmove 58 102 0 0 0 falla de  0
+got_developmental_failure_td 1582134953523 360 234 touchmove 42 106 0 0 0 falla de  0
+got_developmental_failure_td 1582134953539 360 234 touchmove 32 109 0 0 0 falla de  0
+got_developmental_failure_td 1582134953556 360 234 touchmove 30 110 0 0 0 falla de  0
+got_developmental_failure_td 1582134953574 360 234 touchmove 31 110 0 0 0 falla de  0
+got_developmental_failure_td 1582134953590 360 234 touchmove 41 110 0 0 0 falla de  0
+got_developmental_failure_td 1582134953607 360 234 touchmove 70 109 0 0 0 falla de  0
+got_developmental_failure_td 1582134953623 360 234 touchmove 110 105 0 0 0 falla de  0
+got_developmental_failure_td 1582134953640 360 234 touchmove 151 101 0 0 0 falla de  0
+got_developmental_failure_td 1582134953656 360 234 touchmove 201 95 0 0 0 falla de  0
+got_developmental_failure_td 1582134953675 360 234 touchmove 246 89 0 0 0 falla de  0
+got_developmental_failure_td 1582134953689 360 234 touchmove 276 87 0 0 0 falla de  0
+got_developmental_failure_td 1582134953708 360 234 touchmove 295 88 0 0 0 falla de  0
+got_developmental_failure_td 1582134953723 360 234 touchmove 306 90 0 0 0 falla de  0
+got_developmental_failure_td 1582134953745 360 234 touchmove 310 91 0 0 0 falla de  0
+got_developmental_failure_td 1582134953756 360 234 touchmove 310 92 0 0 0 falla de  0
+got_developmental_failure_td 1582134953772 360 234 touchmove 310 92 0 0 0 falla de  0
+got_developmental_failure_td 1582134953790 360 234 touchmove 307 92 0 0 0 falla de  0
+got_developmental_failure_td 1582134953806 360 234 touchmove 286 91 0 0 0 falla de  0
+got_developmental_failure_td 1582134953823 360 234 touchmove 245 90 0 0 0 falla de  0
+got_developmental_failure_td 1582134953839 360 234 touchmove 200 91 0 0 0 falla de  0
+got_developmental_failure_td 1582134953856 360 234 touchmove 147 93 0 0 0 falla de  0
+got_developmental_failure_td 1582134953874 360 234 touchmove 104 96 0 0 0 falla de  0
+got_developmental_failure_td 1582134953890 360 234 touchmove 79 98 0 0 0 falla de  0
+got_developmental_failure_td 1582134953906 360 234 touchmove 59 100 0 0 0 falla de  0
+got_developmental_failure_td 1582134953924 360 234 touchmove 42 103 0 0 0 falla de  0
+got_developmental_failure_td 1582134953941 360 234 touchmove 31 106 0 0 0 falla de  0
+got_developmental_failure_td 1582134953956 360 234 touchmove 27 108 0 0 0 falla de  0
+got_developmental_failure_td 1582134953967 360 234 touchend 27 108 0 0 0 falla de  0
+got_developmental_failure_td 1582134955038 360 234 touchstart 112 98 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955106 360 234 touchmove 106 87 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955125 360 234 touchmove 101 77 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955140 360 234 touchmove 95 67 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955156 360 234 touchmove 90 58 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955172 360 234 touchmove 87 49 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955189 360 234 touchmove 85 40 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955205 360 234 touchmove 84 32 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955222 360 234 touchmove 84 28 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955239 360 234 touchmove 83 26 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955255 360 234 touchmove 83 25 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955270 360 234 touchend 83 25 0 0 0 desarrollo  0
+got_developmental_failure_td 1582134955736 360 234 touchstart 109 104 0 0 0 td 1
+got_developmental_failure_td 1582134955789 360 234 touchmove 106 94 0 0 0 td 1
+got_developmental_failure_td 1582134955809 360 234 touchmove 103 81 0 0 0 td 1
+got_developmental_failure_td 1582134955822 360 234 touchmove 98 66 0 0 0 td 1
+got_developmental_failure_td 1582134955839 360 234 touchmove 94 51 0 0 0 td 1
+got_developmental_failure_td 1582134955855 360 234 touchmove 91 40 0 0 0 td 1
+got_developmental_failure_td 1582134955876 360 234 touchmove 90 33 0 0 0 td 1
+got_developmental_failure_td 1582134955889 360 234 touchmove 89 32 0 0 0 td 1
+got_developmental_failure_td 1582134955905 360 234 touchmove 88 33 0 0 0 td 1
+got_developmental_failure_td 1582134955921 360 234 touchmove 85 43 0 0 0 td 1
+got_developmental_failure_td 1582134955940 360 234 touchmove 82 56 0 0 0 td 1
+got_developmental_failure_td 1582134955959 360 234 touchmove 82 69 0 0 0 td 1
+got_developmental_failure_td 1582134955972 360 234 touchmove 84 81 0 0 0 td 1
+got_developmental_failure_td 1582134955988 360 234 touchmove 87 92 0 0 0 td 1
+got_developmental_failure_td 1582134956005 360 234 touchmove 90 101 0 0 0 td 1
+got_developmental_failure_td 1582134956024 360 234 touchmove 94 107 0 0 0 td 1
+got_developmental_failure_td 1582134956038 360 234 touchmove 97 112 0 0 0 td 1
+got_developmental_failure_td 1582134956055 360 234 touchmove 98 115 0 0 0 td 1
+got_developmental_failure_td 1582134956072 360 234 touchmove 97 116 0 0 0 td 1
+got_developmental_failure_td 1582134956093 360 234 touchmove 95 116 0 0 0 td 1
+got_developmental_failure_td 1582134956105 360 234 touchmove 86 113 0 0 0 td 1
+got_developmental_failure_td 1582134956122 360 234 touchmove 72 108 0 0 0 td 1
+got_developmental_failure_td 1582134956139 360 234 touchmove 60 104 0 0 0 td 1
+got_developmental_failure_td 1582134956155 360 234 touchmove 53 101 0 0 0 td 1
+got_developmental_failure_td 1582134956172 360 234 touchmove 51 101 0 0 0 td 1
+got_developmental_failure_td 1582134956209 360 234 touchmove 54 101 0 0 0 td 1
+got_developmental_failure_td 1582134956222 360 234 touchmove 61 102 0 0 0 td 1
+got_developmental_failure_td 1582134956242 360 234 touchmove 70 102 0 0 0 td 1
+got_developmental_failure_td 1582134956254 360 234 touchmove 81 99 0 0 0 td 1
+got_developmental_failure_td 1582134956272 360 234 touchmove 94 93 0 0 0 td 1
+got_developmental_failure_td 1582134956288 360 234 touchmove 105 85 0 0 0 td 1
+got_developmental_failure_td 1582134956305 360 234 touchmove 114 73 0 0 0 td 1
+got_developmental_failure_td 1582134956322 360 234 touchmove 119 60 0 0 0 td 1
+got_developmental_failure_td 1582134956338 360 234 touchmove 121 48 0 0 0 td 1
+got_developmental_failure_td 1582134956355 360 234 touchmove 121 41 0 0 0 td 1
+got_developmental_failure_td 1582134956372 360 234 touchmove 121 39 0 0 0 td 1
+got_developmental_failure_td 1582134956389 360 234 touchmove 123 36 0 0 0 td 1
+got_developmental_failure_td 1582134956405 360 234 touchmove 124 36 0 0 0 td 1
+got_developmental_failure_td 1582134956421 360 234 touchmove 130 38 0 0 0 td 1
+got_developmental_failure_td 1582134956439 360 234 touchmove 141 39 0 0 0 td 1
+got_developmental_failure_td 1582134956456 360 234 touchmove 157 39 0 0 0 td 1
+got_developmental_failure_td 1582134956472 360 234 touchmove 179 36 0 0 0 td 1
+got_developmental_failure_td 1582134956488 360 234 touchmove 205 30 0 0 0 td 1
+got_developmental_failure_td 1582134956505 360 234 touchmove 231 25 0 0 0 td 1
+got_developmental_failure_td 1582134956521 360 234 touchmove 252 22 0 0 0 td 1
+got_developmental_failure_td 1582134956539 360 234 touchmove 271 20 0 0 0 td 1
+got_developmental_failure_td 1582134956554 360 234 touchmove 286 18 0 0 0 td 1
+got_developmental_failure_td 1582134956571 360 234 touchmove 297 18 0 0 0 td 1
+got_developmental_failure_td 1582134956588 360 234 touchmove 304 19 0 0 0 td 1
+got_developmental_failure_td 1582134956605 360 234 touchmove 307 22 0 0 0 td 1
+got_developmental_failure_td 1582134956623 360 234 touchmove 309 26 0 0 0 td 1
+got_developmental_failure_td 1582134956638 360 234 touchmove 311 36 0 0 0 td 1
+got_developmental_failure_td 1582134956655 360 234 touchmove 312 49 0 0 0 td 1
+got_developmental_failure_td 1582134956671 360 234 touchmove 313 62 0 0 0 td 1
+got_developmental_failure_td 1582134956689 360 234 touchmove 316 75 0 0 0 td 1
+got_developmental_failure_td 1582134956707 360 234 touchmove 320 87 0 0 0 td 1
+got_developmental_failure_td 1582134956722 360 234 touchmove 324 97 0 0 0 td 1
+got_developmental_failure_td 1582134956738 360 234 touchmove 328 105 0 0 0 td 1
+got_developmental_failure_td 1582134956755 360 234 touchmove 331 111 0 0 0 td 1
+got_developmental_failure_td 1582134956771 360 234 touchmove 334 116 0 0 0 td 1
+got_developmental_failure_td 1582134956788 360 234 touchmove 335 119 0 0 0 td 1
+got_developmental_failure_td 1582134956805 360 234 touchmove 335 120 0 0 0 td 1
+got_developmental_failure_td 1582134956821 360 234 touchmove 333 120 0 0 0 td 1
+got_developmental_failure_td 1582134956839 360 234 touchmove 328 114 0 0 0 td 1
+got_developmental_failure_td 1582134956855 360 234 touchmove 318 100 0 0 0 td 1
+got_developmental_failure_td 1582134956871 360 234 touchmove 310 83 0 0 0 td 1
+got_developmental_failure_td 1582134956891 360 234 touchmove 305 66 0 0 0 td 1
+got_developmental_failure_td 1582134956905 360 234 touchmove 304 53 0 0 0 td 1
+got_developmental_failure_td 1582134956922 360 234 touchmove 304 42 0 0 0 td 1
+got_developmental_failure_td 1582134956938 360 234 touchmove 304 35 0 0 0 td 1
+got_developmental_failure_td 1582134956955 360 234 touchmove 305 29 0 0 0 td 1
+got_developmental_failure_td 1582134956971 360 234 touchmove 305 23 0 0 0 td 1
+got_developmental_failure_td 1582134956988 360 234 touchmove 305 19 0 0 0 td 1
+got_developmental_failure_td 1582134957004 360 234 touchmove 305 17 0 0 0 td 1
+got_developmental_failure_td 1582134957023 360 234 touchmove 305 16 0 0 0 td 1
+got_developmental_failure_td 1582134957031 360 234 touchend 305 16 0 0 0 td 1
+got_developmental_failure_td 1582134957706 360 234 touchstart 163 36 0 0 0 td 1
+got_developmental_failure_td 1582134957802 360 234 touchend 163 36 0 0 0 td 1
+got_developmental_failure_td 1582134957706 360 234 touchstart 163 36 0 0 0 td 1 0
+got_developmental_failure_td 1582134957802 360 234 touchend 163 36 0 0 0 td 1 0
+got_developmental_failure_td 1582134957932 360 234 touchstart 109 106 0 0 0 td 0
+got_developmental_failure_td 1582134958004 360 234 touchend 109 106 0 0 0 td 0

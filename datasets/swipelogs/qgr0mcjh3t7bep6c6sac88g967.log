@@ -1,0 +1,1587 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+testimony_mpeg_usr_cam 1580963976104 360 220 touchstart 156 31 1.75 1.75 0 testimony 0
+testimony_mpeg_usr_cam 1580963976123 360 220 touchmove 156 31 3.75 3.75 0 testimony 0
+testimony_mpeg_usr_cam 1580963976140 360 220 touchmove 156 31 5.5 5.5 0 testimony 0
+testimony_mpeg_usr_cam 1580963976157 360 220 touchmove 156 31 7 7 0 testimony 0
+testimony_mpeg_usr_cam 1580963976173 360 220 touchmove 156 31 8.5 8.5 0 testimony 0
+testimony_mpeg_usr_cam 1580963976190 360 220 touchmove 156 31 9.75 9.75 0 testimony 0
+testimony_mpeg_usr_cam 1580963976206 360 220 touchmove 156 31 10.75 10.75 0 testimony 0
+testimony_mpeg_usr_cam 1580963976223 360 220 touchmove 156 31 11 11 0 testimony 0
+testimony_mpeg_usr_cam 1580963976232 360 220 touchend 156 31 11 11 0 testimony 0
+testimony_mpeg_usr_cam 1580963976504 360 220 touchstart 88 10 2.5 2.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976523 360 220 touchmove 88 10 4.5 4.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976540 360 220 touchmove 88 10 6.25 6.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976557 360 220 touchmove 88 10 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976572 360 220 touchmove 88 10 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976589 360 220 touchmove 89 11 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976597 360 220 touchend 89 11 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976901 360 220 touchstart 75 102 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976927 360 220 touchmove 75 102 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976940 360 220 touchmove 75 102 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976956 360 220 touchmove 75 102 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976973 360 220 touchmove 75 102 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963976983 360 220 touchend 75 102 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980635 360 220 touchstart 285 161 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980657 360 220 touchmove 285 161 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980678 360 220 touchmove 285 161 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980700 360 220 touchmove 285 161 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980730 360 220 touchmove 285 161 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980741 360 220 touchmove 285 161 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980769 360 220 touchmove 285 161 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963980776 360 220 touchend 285 161 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981152 360 220 touchstart 327 42 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981173 360 220 touchmove 327 42 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981189 360 220 touchmove 327 42 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981206 360 220 touchmove 327 42 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981223 360 220 touchmove 327 42 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981239 360 220 touchmove 327 42 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981256 360 220 touchmove 327 42 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981273 360 220 touchmove 327 42 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963981282 360 220 touchend 327 42 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982102 360 220 touchstart 89 22 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982124 360 220 touchmove 89 22 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982139 360 220 touchmove 89 22 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982168 360 220 touchmove 89 22 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982189 360 220 touchmove 89 24 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982197 360 220 touchend 89 24 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982601 360 220 touchstart 178 86 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982623 360 220 touchmove 178 86 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982639 360 220 touchmove 178 86 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982656 360 220 touchmove 178 86 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982673 360 220 touchmove 178 86 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982689 360 220 touchmove 179 87 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580963982698 360 220 touchend 179 87 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985018 360 220 touchstart 227 36 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985040 360 220 touchmove 227 36 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985056 360 220 touchmove 227 36 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985073 360 220 touchmove 227 36 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985089 360 220 touchmove 227 36 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985106 360 220 touchmove 227 36 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985123 360 220 touchmove 227 36 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985139 360 220 touchmove 227 36 11.25 11.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985156 360 220 touchmove 227 36 11.25 11.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985167 360 220 touchend 227 36 11.25 11.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985519 360 220 touchstart 75 95 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985540 360 220 touchmove 75 95 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985556 360 220 touchmove 75 95 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985573 360 220 touchmove 75 95 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985589 360 220 touchmove 75 95 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985606 360 220 touchmove 75 95 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985623 360 220 touchmove 76 95 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963985632 360 220 touchend 76 95 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986136 360 220 touchstart 128 21 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986157 360 220 touchmove 128 21 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986174 360 220 touchmove 128 21 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986189 360 220 touchmove 128 21 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986206 360 220 touchmove 128 21 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986223 360 220 touchmove 128 21 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986239 360 220 touchmove 128 21 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986256 360 220 touchmove 128 21 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963986265 360 220 touchend 128 21 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963988558 360 220 touchmove 186 212 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580963988574 360 220 touchmove 186 212 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963988590 360 220 touchmove 186 212 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963988605 360 220 touchmove 186 212 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580963988622 360 220 touchmove 186 212 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580963988649 360 220 touchend 186 212 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990001 360 220 touchstart 149 159 1.25 1.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990023 360 220 touchmove 149 159 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990039 360 220 touchmove 149 159 5.25 5.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990056 360 220 touchmove 149 159 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990072 360 220 touchmove 149 159 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990089 360 220 touchmove 149 159 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990106 360 220 touchmove 149 159 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990122 360 220 touchmove 149 159 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990130 360 220 touchend 149 159 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990392 360 220 touchstart 34 83 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990406 360 220 touchmove 34 83 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990423 360 220 touchmove 34 83 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990439 360 220 touchmove 35 84 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990452 360 220 touchend 35 84 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990971 360 220 touchstart 283 147 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580963990990 360 220 touchmove 283 147 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963991007 360 220 touchmove 283 147 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963991022 360 220 touchmove 283 147 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580963991038 360 220 touchmove 283 147 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963991055 360 220 touchmove 283 147 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963991072 360 220 touchmove 283 147 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963991097 360 220 touchend 283 147 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998468 360 220 touchstart 284 152 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998489 360 220 touchmove 284 152 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998507 360 220 touchmove 284 152 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998522 360 220 touchmove 284 152 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998539 360 220 touchmove 284 152 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998555 360 220 touchmove 284 152 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998572 360 220 touchmove 284 152 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998589 360 220 touchmove 284 154 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580963998598 360 220 touchend 284 154 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580964002322 360 220 touchmove 177 200 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580964002337 360 220 touchmove 177 200 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964002354 360 220 touchmove 177 200 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964002372 360 220 touchmove 177 200 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964002389 360 220 touchmove 178 201 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964002397 360 220 touchend 178 201 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964011670 360 220 touchstart 288 154 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580964011679 360 220 touchmove 288 154 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964011696 360 220 touchmove 288 154 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964011713 360 220 touchmove 289 155 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964011730 360 220 touchend 289 155 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012319 360 220 touchstart 283 146 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012338 360 220 touchmove 283 146 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012356 360 220 touchmove 283 146 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012373 360 220 touchmove 283 146 6.5 6.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012389 360 220 touchmove 283 146 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012404 360 220 touchmove 283 146 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012421 360 220 touchmove 283 147 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012439 360 220 touchmove 283 150 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012446 360 220 touchend 283 150 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012699 360 220 touchstart 287 153 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012721 360 220 touchmove 287 153 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012738 360 220 touchmove 287 153 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012755 360 220 touchmove 287 154 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964012788 360 220 touchend 287 154 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013000 360 220 touchstart 286 148 1.5 1.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013021 360 220 touchmove 286 148 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013038 360 220 touchmove 286 148 4.75 4.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013054 360 220 touchmove 286 149 6.25 6.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013071 360 220 touchmove 286 150 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013088 360 220 touchmove 287 153 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013105 360 220 touchmove 287 158 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013114 360 220 touchend 287 158 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013517 360 220 touchstart 287 150 1.5 1.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013538 360 220 touchmove 287 150 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013555 360 220 touchmove 287 150 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013572 360 220 touchmove 287 150 6.25 6.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013588 360 220 touchmove 287 151 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013607 360 220 touchmove 287 154 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964013614 360 220 touchend 287 154 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014101 360 220 touchstart 286 144 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014121 360 220 touchmove 286 144 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014140 360 220 touchmove 286 144 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014155 360 220 touchmove 286 144 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014171 360 220 touchmove 286 144 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014188 360 220 touchmove 286 145 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014205 360 220 touchmove 286 147 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014221 360 220 touchmove 287 150 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014238 360 220 touchmove 288 155 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014255 360 220 touchmove 289 162 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964014265 360 220 touchend 289 162 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015283 360 220 touchstart 334 19 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015304 360 220 touchmove 334 19 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015321 360 220 touchmove 334 19 5.25 5.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015338 360 220 touchmove 334 19 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015355 360 220 touchmove 334 19 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015371 360 220 touchmove 334 19 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015388 360 220 touchmove 334 20 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015404 360 220 touchmove 334 21 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015421 360 220 touchmove 334 22 11.25 11.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015438 360 220 touchmove 334 26 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015447 360 220 touchend 334 26 11 11 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015699 360 220 touchstart 333 19 2.5 2.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015723 360 220 touchmove 333 19 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015738 360 220 touchmove 333 19 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015755 360 220 touchmove 333 20 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015771 360 220 touchmove 333 22 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015788 360 220 touchmove 333 26 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015804 360 220 touchmove 333 34 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015821 360 220 touchmove 333 42 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015838 360 220 touchmove 333 50 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964015847 360 220 touchend 333 50 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016136 360 220 touchstart 343 23 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016155 360 220 touchmove 343 23 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016171 360 220 touchmove 343 23 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016188 360 220 touchmove 343 23 6.5 6.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016204 360 220 touchmove 343 23 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016221 360 220 touchmove 343 23 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016238 360 220 touchmove 342 23 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016246 360 220 touchend 342 23 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016599 360 220 touchstart 343 31 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016621 360 220 touchmove 343 31 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016638 360 220 touchmove 343 31 4.75 4.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016654 360 220 touchmove 343 31 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016672 360 220 touchmove 343 33 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964016680 360 220 touchend 343 33 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017402 360 220 touchstart 95 20 1 1 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017422 360 220 touchmove 95 20 3 3 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017439 360 220 touchmove 95 20 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017454 360 220 touchmove 95 20 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017471 360 220 touchmove 95 21 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017488 360 220 touchmove 97 23 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964017497 360 220 touchend 97 23 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018020 360 220 touchstart 182 97 1.5 1.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018038 360 220 touchmove 182 97 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018055 360 220 touchmove 182 97 5.25 5.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018071 360 220 touchmove 182 97 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018088 360 220 touchmove 182 97 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018104 360 220 touchmove 184 99 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964018113 360 220 touchend 184 99 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022255 360 220 touchmove 327 196 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022271 360 220 touchmove 327 196 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022288 360 220 touchmove 327 196 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022304 360 220 touchmove 327 196 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022313 360 220 touchend 327 196 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022472 360 220 touchmove 325 206 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022488 360 220 touchmove 325 206 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022506 360 220 touchmove 325 206 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022521 360 220 touchmove 325 206 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022528 360 220 touchend 325 206 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022662 360 220 touchmove 323 199 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022679 360 220 touchmove 323 199 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022695 360 220 touchmove 323 199 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022712 360 220 touchmove 324 200 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022729 360 220 touchmove 327 203 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022746 360 220 touchend 327 203 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022871 360 220 touchmove 321 209 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022888 360 220 touchmove 321 209 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022904 360 220 touchmove 321 209 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022921 360 220 touchmove 321 209 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022937 360 220 touchmove 321 209 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580964022946 360 220 touchend 321 209 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023321 360 220 touchmove 207 203 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023338 360 220 touchmove 207 203 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023354 360 220 touchmove 207 203 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023371 360 220 touchmove 207 203 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023382 360 220 touchend 207 203 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023755 360 220 touchmove 49 206 4.75 4.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023772 360 220 touchmove 49 206 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023789 360 220 touchmove 50 206 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023804 360 220 touchmove 50 206 9.75 9.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023821 360 220 touchmove 52 208 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964023830 360 220 touchend 52 208 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964033949 360 220 touchstart 288 148 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964033970 360 220 touchmove 288 148 3.25 3.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964033987 360 220 touchmove 288 148 4.75 4.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964034004 360 220 touchmove 288 148 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964034012 360 220 touchend 288 148 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964035983 360 220 touchstart 332 24 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036004 360 220 touchmove 332 24 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036020 360 220 touchmove 332 24 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036037 360 220 touchmove 332 24 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036054 360 220 touchmove 332 24 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036063 360 220 touchend 332 24 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036482 360 220 touchstart 89 21 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036504 360 220 touchmove 89 21 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036521 360 220 touchmove 89 21 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036537 360 220 touchmove 89 21 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036553 360 220 touchmove 90 22 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964036562 360 220 touchend 90 22 8.25 8.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964037083 360 220 touchstart 174 94 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964037104 360 220 touchmove 174 94 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964037120 360 220 touchmove 174 94 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964037137 360 220 touchmove 174 94 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964037154 360 220 touchmove 176 94 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964037163 360 220 touchend 176 94 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038428 360 220 touchmove 188 205 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038445 360 220 touchmove 188 205 5.75 5.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038461 360 220 touchmove 188 205 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038478 360 220 touchmove 188 205 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038495 360 220 touchmove 188 205 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038512 360 220 touchend 188 205 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038904 360 220 touchmove 193 197 2.5 2.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038920 360 220 touchmove 193 197 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964038929 360 220 touchend 193 197 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964040951 360 220 touchstart 230 21 2 2 0 mpeg 1
+testimony_mpeg_usr_cam 1580964040970 360 220 touchmove 230 21 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964040987 360 220 touchmove 230 21 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041004 360 220 touchmove 230 21 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041020 360 220 touchmove 230 23 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041029 360 220 touchend 230 23 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041399 360 220 touchstart 75 80 1.5 1.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041420 360 220 touchmove 75 80 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041437 360 220 touchmove 75 80 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041453 360 220 touchmove 75 80 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041470 360 220 touchmove 75 80 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041487 360 220 touchmove 75 80 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041495 360 220 touchend 75 80 9.5 9.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041707 360 220 touchmove 131 26 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041720 360 220 touchmove 131 26 6.5 6.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041737 360 220 touchmove 131 26 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041753 360 220 touchmove 131 26 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964041762 360 220 touchend 131 26 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042887 360 220 touchmove 187 205 3.5 3.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042904 360 220 touchmove 187 205 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042920 360 220 touchmove 187 205 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042937 360 220 touchmove 187 205 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042953 360 220 touchmove 187 205 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042970 360 220 touchmove 188 207 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042979 360 220 touchend 188 207 10.75 10.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043431 360 220 touchstart 144 144 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043453 360 220 touchmove 144 144 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043470 360 220 touchmove 144 144 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043487 360 220 touchmove 144 144 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043503 360 220 touchmove 144 145 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043512 360 220 touchend 144 145 7.25 7.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964042887 360 220 touchmove 187 205 3.5 3.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964042904 360 220 touchmove 187 205 5.5 5.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964042920 360 220 touchmove 187 205 7.25 7.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964042937 360 220 touchmove 187 205 8.75 8.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964042953 360 220 touchmove 187 205 10 10 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964042970 360 220 touchmove 188 207 10.75 10.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964042979 360 220 touchend 188 207 10.75 10.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043431 360 220 touchstart 144 144 2.25 2.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043453 360 220 touchmove 144 144 4.25 4.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043470 360 220 touchmove 144 144 6 6 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043487 360 220 touchmove 144 144 7.25 7.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043503 360 220 touchmove 144 145 7.25 7.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043512 360 220 touchend 144 145 7.25 7.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964043648 360 220 touchstart 33 71 4 4 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043670 360 220 touchmove 33 71 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043687 360 220 touchmove 33 71 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043703 360 220 touchmove 33 72 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043720 360 220 touchmove 35 74 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964043729 360 220 touchend 35 74 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964044064 360 220 touchstart 287 147 1.75 1.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964044087 360 220 touchmove 287 147 3.75 3.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964044104 360 220 touchmove 287 147 5.5 5.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964044120 360 220 touchmove 287 147 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964044137 360 220 touchmove 287 147 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964044145 360 220 touchend 287 147 8 8 0 mpeg 1
+testimony_mpeg_usr_cam 1580964051967 360 220 touchstart 330 148 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964051986 360 220 touchmove 330 148 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052003 360 220 touchmove 330 148 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052019 360 220 touchmove 330 148 7.5 7.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052036 360 220 touchmove 330 148 9 9 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052053 360 220 touchmove 330 148 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052070 360 220 touchmove 330 148 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052086 360 220 touchmove 330 148 12.5 12.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052103 360 220 touchmove 330 148 13.25 13.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052120 360 220 touchmove 330 148 13.75 13.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964052128 360 220 touchend 330 148 13.75 13.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055850 360 220 touchstart 331 148 2.25 2.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055870 360 220 touchmove 331 148 4.25 4.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055887 360 220 touchmove 331 148 6 6 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055903 360 220 touchmove 331 148 7.75 7.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055920 360 220 touchmove 331 148 9.25 9.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055936 360 220 touchmove 331 148 10.5 10.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055953 360 220 touchmove 331 148 11.75 11.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055969 360 220 touchmove 331 148 12.75 12.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055988 360 220 touchmove 331 148 13.75 13.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056004 360 220 touchmove 331 148 14.75 14.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056020 360 220 touchmove 331 148 15.5 15.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056036 360 220 touchmove 331 148 16.25 16.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056053 360 220 touchmove 331 148 16.75 16.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056070 360 220 touchmove 331 148 17.25 17.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056086 360 220 touchmove 331 148 17.75 17.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056103 360 220 touchmove 331 148 18.25 18.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056120 360 220 touchmove 331 148 18.5 18.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056136 360 220 touchmove 331 148 18.75 18.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056153 360 220 touchmove 331 148 19 19 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056170 360 220 touchmove 331 148 19.25 19.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056186 360 220 touchmove 331 148 19.5 19.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056203 360 220 touchmove 331 148 19.75 19.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056220 360 220 touchmove 331 148 20 20 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056236 360 220 touchmove 331 148 20.25 20.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056253 360 220 touchmove 331 148 20.5 20.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056270 360 220 touchmove 331 148 20.75 20.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056286 360 220 touchmove 331 148 21 21 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056303 360 220 touchmove 331 148 21.25 21.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056320 360 220 touchmove 331 149 21.25 21.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056370 360 220 touchmove 331 149 21.5 21.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056412 360 220 touchmove 331 150 21.5 21.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056494 360 220 touchmove 331 150 21.5 21.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056525 360 220 touchmove 331 151 21.5 21.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056538 360 220 touchmove 331 151 21.75 21.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056593 360 220 touchmove 331 151 21.75 21.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056602 360 220 touchmove 331 151 22 22 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056619 360 220 touchmove 331 152 22 22 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056685 360 220 touchmove 331 152 22 22 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056787 360 220 touchmove 331 153 22 22 0 mpeg 1
+testimony_mpeg_usr_cam 1580964056903 360 220 touchmove 331 153 22.25 22.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057253 360 220 touchmove 331 153 22.5 22.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057386 360 220 touchmove 331 153 22.25 22.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057403 360 220 touchmove 329 154 21.25 21.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057414 360 220 touchend 329 154 21.25 21.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964055850 360 220 touchstart 331 148 2.25 2.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055870 360 220 touchmove 331 148 4.25 4.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055887 360 220 touchmove 331 148 6 6 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055903 360 220 touchmove 331 148 7.75 7.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055920 360 220 touchmove 331 148 9.25 9.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055936 360 220 touchmove 331 148 10.5 10.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055953 360 220 touchmove 331 148 11.75 11.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055969 360 220 touchmove 331 148 12.75 12.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964055988 360 220 touchmove 331 148 13.75 13.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056004 360 220 touchmove 331 148 14.75 14.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056020 360 220 touchmove 331 148 15.5 15.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056036 360 220 touchmove 331 148 16.25 16.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056053 360 220 touchmove 331 148 16.75 16.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056070 360 220 touchmove 331 148 17.25 17.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056086 360 220 touchmove 331 148 17.75 17.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056103 360 220 touchmove 331 148 18.25 18.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056120 360 220 touchmove 331 148 18.5 18.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056136 360 220 touchmove 331 148 18.75 18.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056153 360 220 touchmove 331 148 19 19 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056170 360 220 touchmove 331 148 19.25 19.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056186 360 220 touchmove 331 148 19.5 19.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056203 360 220 touchmove 331 148 19.75 19.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056220 360 220 touchmove 331 148 20 20 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056236 360 220 touchmove 331 148 20.25 20.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056253 360 220 touchmove 331 148 20.5 20.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056270 360 220 touchmove 331 148 20.75 20.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056286 360 220 touchmove 331 148 21 21 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056303 360 220 touchmove 331 148 21.25 21.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056320 360 220 touchmove 331 149 21.25 21.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056370 360 220 touchmove 331 149 21.5 21.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056412 360 220 touchmove 331 150 21.5 21.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056494 360 220 touchmove 331 150 21.5 21.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056525 360 220 touchmove 331 151 21.5 21.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056538 360 220 touchmove 331 151 21.75 21.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056593 360 220 touchmove 331 151 21.75 21.75 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056602 360 220 touchmove 331 151 22 22 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056619 360 220 touchmove 331 152 22 22 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056685 360 220 touchmove 331 152 22 22 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056787 360 220 touchmove 331 153 22 22 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964056903 360 220 touchmove 331 153 22.25 22.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964057253 360 220 touchmove 331 153 22.5 22.5 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964057386 360 220 touchmove 331 153 22.25 22.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964057403 360 220 touchmove 329 154 21.25 21.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964057414 360 220 touchend 329 154 21.25 21.25 0 mpeg 1 1
+testimony_mpeg_usr_cam 1580964057766 360 220 touchstart 319 147 2.5 2.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057786 360 220 touchmove 319 147 4.75 4.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057803 360 220 touchmove 319 147 6.75 6.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057819 360 220 touchmove 319 147 8.5 8.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057836 360 220 touchmove 319 147 10 10 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057853 360 220 touchmove 319 147 11.25 11.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057869 360 220 touchmove 319 147 12.5 12.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057886 360 220 touchmove 319 147 13.25 13.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057903 360 220 touchmove 320 148 13.25 13.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964057911 360 220 touchend 320 148 13.25 13.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058083 360 220 touchstart 318 150 5 5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058103 360 220 touchmove 318 150 7 7 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058120 360 220 touchmove 318 150 8.75 8.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058136 360 220 touchmove 318 150 10.25 10.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058153 360 220 touchmove 318 150 11.5 11.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058169 360 220 touchmove 318 150 12.75 12.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058186 360 220 touchmove 318 150 13.75 13.75 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058203 360 220 touchmove 319 150 14.25 14.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058213 360 220 touchend 319 150 14.25 14.25 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058430 360 220 touchend 320 146 12.5 12.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058653 360 220 touchmove 319 146 12.5 12.5 0 mpeg 1
+testimony_mpeg_usr_cam 1580964058662 360 220 touchend 319 146 12.5 12.5 0 mpeg 1
+joined_opponents_republican_thehun 1580964077521 360 220 touchstart 249 101 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964077537 360 220 touchmove 249 101 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964077557 360 220 touchmove 249 101 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964077570 360 220 touchmove 249 101 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964077587 360 220 touchmove 249 101 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964077603 360 220 touchmove 249 101 9.25 9.25 0 joined 1
+joined_opponents_republican_thehun 1580964077619 360 220 touchmove 249 102 8.75 8.75 0 joined 1
+joined_opponents_republican_thehun 1580964077629 360 220 touchend 249 102 8.75 8.75 0 joined 1
+joined_opponents_republican_thehun 1580964078967 360 220 touchstart 302 28 2 2 0 joined 1
+joined_opponents_republican_thehun 1580964078986 360 220 touchmove 302 28 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964079002 360 220 touchmove 302 28 5.25 5.25 0 joined 1
+joined_opponents_republican_thehun 1580964079020 360 220 touchmove 302 28 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964079036 360 220 touchmove 302 28 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964079052 360 220 touchmove 302 28 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964079069 360 220 touchmove 302 28 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964079077 360 220 touchend 302 28 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964079301 360 220 touchstart 261 10 2.75 2.75 0 joined 1
+joined_opponents_republican_thehun 1580964079319 360 220 touchmove 261 10 4.5 4.5 0 joined 1
+joined_opponents_republican_thehun 1580964079337 360 220 touchmove 261 10 6.25 6.25 0 joined 1
+joined_opponents_republican_thehun 1580964079352 360 220 touchmove 261 10 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964079369 360 220 touchmove 261 11 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964079377 360 220 touchend 261 11 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964080114 360 220 touchstart 249 159 1.5 1.5 0 joined 1
+joined_opponents_republican_thehun 1580964080136 360 220 touchmove 249 159 3.5 3.5 0 joined 1
+joined_opponents_republican_thehun 1580964080152 360 220 touchmove 249 159 5.25 5.25 0 joined 1
+joined_opponents_republican_thehun 1580964080169 360 220 touchmove 249 159 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964080185 360 220 touchmove 249 159 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964080194 360 220 touchend 249 159 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964080614 360 220 touchstart 93 20 2 2 0 joined 1
+joined_opponents_republican_thehun 1580964080635 360 220 touchmove 93 20 4 4 0 joined 1
+joined_opponents_republican_thehun 1580964080652 360 220 touchmove 93 20 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964080669 360 220 touchmove 93 20 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964080677 360 220 touchend 93 20 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964080915 360 220 touchstart 110 101 2 2 0 joined 1
+joined_opponents_republican_thehun 1580964080936 360 220 touchmove 110 101 4 4 0 joined 1
+joined_opponents_republican_thehun 1580964080952 360 220 touchmove 110 101 5.75 5.75 0 joined 1
+joined_opponents_republican_thehun 1580964080969 360 220 touchmove 110 101 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964080985 360 220 touchmove 111 102 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964080994 360 220 touchend 111 102 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964082486 360 220 touchmove 188 204 4 4 0 joined 1
+joined_opponents_republican_thehun 1580964082505 360 220 touchmove 188 204 5.75 5.75 0 joined 1
+joined_opponents_republican_thehun 1580964082520 360 220 touchmove 188 204 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964082536 360 220 touchmove 188 204 9 9 0 joined 1
+joined_opponents_republican_thehun 1580964082553 360 220 touchmove 188 204 10.25 10.25 0 joined 1
+joined_opponents_republican_thehun 1580964082570 360 220 touchmove 188 204 11.25 11.25 0 joined 1
+joined_opponents_republican_thehun 1580964082587 360 220 touchmove 189 204 11.25 11.25 0 joined 1
+joined_opponents_republican_thehun 1580964082595 360 220 touchend 189 204 11.25 11.25 0 joined 1
+joined_opponents_republican_thehun 1580964089799 360 220 touchstart 303 30 2 2 0 joined 1
+joined_opponents_republican_thehun 1580964089819 360 220 touchmove 303 30 4 4 0 joined 1
+joined_opponents_republican_thehun 1580964089835 360 220 touchmove 303 30 5.75 5.75 0 joined 1
+joined_opponents_republican_thehun 1580964089852 360 220 touchmove 303 30 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964089868 360 220 touchmove 303 31 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964089877 360 220 touchend 303 31 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964090110 360 220 touchmove 334 34 4 4 0 joined 1
+joined_opponents_republican_thehun 1580964090126 360 220 touchmove 334 34 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964090143 360 220 touchmove 334 34 6.5 6.5 0 joined 1
+joined_opponents_republican_thehun 1580964090160 360 220 touchmove 334 34 6.25 6.25 0 joined 1
+joined_opponents_republican_thehun 1580964090178 360 220 touchend 334 34 6.25 6.25 0 joined 1
+joined_opponents_republican_thehun 1580964090403 360 220 touchmove 332 33 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964090411 360 220 touchend 332 33 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964091382 360 220 touchstart 88 27 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964091402 360 220 touchmove 88 27 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964091418 360 220 touchmove 88 27 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964091435 360 220 touchmove 88 27 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964091451 360 220 touchmove 88 29 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964091460 360 220 touchend 88 29 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964091982 360 220 touchstart 239 155 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964092003 360 220 touchmove 239 155 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964092019 360 220 touchmove 239 155 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964092034 360 220 touchmove 239 155 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964092053 360 220 touchmove 239 155 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964092070 360 220 touchmove 239 156 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964092077 360 220 touchend 239 156 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964092345 360 220 touchstart 91 21 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964092360 360 220 touchmove 91 21 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964092376 360 220 touchmove 91 21 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964092393 360 220 touchmove 91 21 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964092409 360 220 touchend 91 21 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964093366 360 220 touchstart 250 153 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964093385 360 220 touchmove 250 153 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964093402 360 220 touchmove 250 153 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964093418 360 220 touchmove 250 153 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964093435 360 220 touchmove 250 153 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964093445 360 220 touchend 250 153 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964093800 360 220 touchstart 166 19 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964093818 360 220 touchmove 166 19 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964093835 360 220 touchmove 166 19 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964093852 360 220 touchmove 166 19 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964093868 360 220 touchmove 164 20 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964093877 360 220 touchend 164 20 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964094096 360 220 touchstart 72 87 2.5 2.5 0 joined 1
+joined_opponents_republican_thehun 1580964094109 360 220 touchmove 72 87 4.5 4.5 0 joined 1
+joined_opponents_republican_thehun 1580964094126 360 220 touchmove 72 87 6.25 6.25 0 joined 1
+joined_opponents_republican_thehun 1580964094143 360 220 touchmove 72 87 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964094161 360 220 touchmove 72 87 9.25 9.25 0 joined 1
+joined_opponents_republican_thehun 1580964094176 360 220 touchmove 72 87 10.25 10.25 0 joined 1
+joined_opponents_republican_thehun 1580964094193 360 220 touchmove 74 89 10 10 0 joined 1
+joined_opponents_republican_thehun 1580964094210 360 220 touchend 74 89 10 10 0 joined 1
+joined_opponents_republican_thehun 1580964094885 360 220 touchmove 187 208 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964094901 360 220 touchmove 187 208 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964094918 360 220 touchmove 187 208 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964094935 360 220 touchmove 187 208 9.25 9.25 0 joined 1
+joined_opponents_republican_thehun 1580964094951 360 220 touchmove 187 208 10.5 10.5 0 joined 1
+joined_opponents_republican_thehun 1580964094968 360 220 touchmove 187 208 11.25 11.25 0 joined 1
+joined_opponents_republican_thehun 1580964094985 360 220 touchmove 187 209 11.25 11.25 0 joined 1
+joined_opponents_republican_thehun 1580964094993 360 220 touchend 187 209 11.25 11.25 0 joined 1
+joined_opponents_republican_thehun 1580964097896 360 220 touchstart 124 32 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964097922 360 220 touchmove 124 32 3.5 3.5 0 joined 1
+joined_opponents_republican_thehun 1580964097934 360 220 touchmove 124 32 5.25 5.25 0 joined 1
+joined_opponents_republican_thehun 1580964097952 360 220 touchmove 124 32 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964097968 360 220 touchmove 124 32 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964097984 360 220 touchmove 124 33 8.75 8.75 0 joined 1
+joined_opponents_republican_thehun 1580964098001 360 220 touchmove 123 34 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964098009 360 220 touchend 123 34 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964094885 360 220 touchmove 187 208 4.25 4.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964094901 360 220 touchmove 187 208 6 6 0 joined 1 1
+joined_opponents_republican_thehun 1580964094918 360 220 touchmove 187 208 7.75 7.75 0 joined 1 1
+joined_opponents_republican_thehun 1580964094935 360 220 touchmove 187 208 9.25 9.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964094951 360 220 touchmove 187 208 10.5 10.5 0 joined 1 1
+joined_opponents_republican_thehun 1580964094968 360 220 touchmove 187 208 11.25 11.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964094985 360 220 touchmove 187 209 11.25 11.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964094993 360 220 touchend 187 209 11.25 11.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964097896 360 220 touchstart 124 32 1.75 1.75 0 joined 1 1
+joined_opponents_republican_thehun 1580964097922 360 220 touchmove 124 32 3.5 3.5 0 joined 1 1
+joined_opponents_republican_thehun 1580964097934 360 220 touchmove 124 32 5.25 5.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964097952 360 220 touchmove 124 32 6.75 6.75 0 joined 1 1
+joined_opponents_republican_thehun 1580964097968 360 220 touchmove 124 32 8 8 0 joined 1 1
+joined_opponents_republican_thehun 1580964097984 360 220 touchmove 124 33 8.75 8.75 0 joined 1 1
+joined_opponents_republican_thehun 1580964098001 360 220 touchmove 123 34 8.25 8.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964098009 360 220 touchend 123 34 8.25 8.25 0 joined 1 1
+joined_opponents_republican_thehun 1580964098114 360 220 touchstart 93 25 4.5 4.5 0 joined 1
+joined_opponents_republican_thehun 1580964098138 360 220 touchmove 93 25 6.25 6.25 0 joined 1
+joined_opponents_republican_thehun 1580964098151 360 220 touchmove 93 25 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964098168 360 220 touchmove 93 25 9 9 0 joined 1
+joined_opponents_republican_thehun 1580964098184 360 220 touchmove 93 26 10 10 0 joined 1
+joined_opponents_republican_thehun 1580964098201 360 220 touchmove 93 28 9.5 9.5 0 joined 1
+joined_opponents_republican_thehun 1580964098209 360 220 touchend 93 28 9.5 9.5 0 joined 1
+joined_opponents_republican_thehun 1580964099066 360 220 touchstart 337 38 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964099085 360 220 touchmove 337 38 3.5 3.5 0 joined 1
+joined_opponents_republican_thehun 1580964099101 360 220 touchmove 337 38 5 5 0 joined 1
+joined_opponents_republican_thehun 1580964099118 360 220 touchmove 337 38 6.5 6.5 0 joined 1
+joined_opponents_republican_thehun 1580964099134 360 220 touchmove 337 38 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964099151 360 220 touchmove 337 38 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964099160 360 220 touchend 337 38 8.25 8.25 0 joined 1
+joined_opponents_republican_thehun 1580964099481 360 220 touchstart 223 14 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964099502 360 220 touchmove 223 14 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964099518 360 220 touchmove 223 14 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964099560 360 220 touchmove 223 14 7 7 0 joined 1
+joined_opponents_republican_thehun 1580964099566 360 220 touchmove 224 16 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964099568 360 220 touchend 224 16 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964099965 360 220 touchstart 221 152 2 2 0 joined 1
+joined_opponents_republican_thehun 1580964099986 360 220 touchmove 221 152 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964100001 360 220 touchmove 221 152 5.25 5.25 0 joined 1
+joined_opponents_republican_thehun 1580964100018 360 220 touchmove 221 152 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964100035 360 220 touchmove 221 152 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964100045 360 220 touchend 221 152 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964100380 360 220 touchstart 319 99 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964100401 360 220 touchmove 319 99 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964100419 360 220 touchmove 319 99 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964100435 360 220 touchmove 319 99 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964100451 360 220 touchmove 318 98 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964100460 360 220 touchend 318 98 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964100684 360 220 touchmove 253 15 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964100701 360 220 touchmove 254 16 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964100710 360 220 touchend 254 16 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964101047 360 220 touchstart 139 152 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964101068 360 220 touchmove 139 152 4.5 4.5 0 joined 1
+joined_opponents_republican_thehun 1580964101085 360 220 touchmove 139 152 6.25 6.25 0 joined 1
+joined_opponents_republican_thehun 1580964101101 360 220 touchmove 139 152 7.75 7.75 0 joined 1
+joined_opponents_republican_thehun 1580964101118 360 220 touchmove 139 152 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964101126 360 220 touchend 139 152 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964101365 360 220 touchend 39 85 9.75 9.75 0 joined 1
+joined_opponents_republican_thehun 1580964101847 360 220 touchstart 246 146 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964101868 360 220 touchmove 246 146 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964101884 360 220 touchmove 246 146 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964101901 360 220 touchmove 246 146 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964101918 360 220 touchmove 246 148 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964101927 360 220 touchend 246 148 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964104280 360 220 touchstart 151 21 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964104302 360 220 touchmove 151 21 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964104320 360 220 touchmove 151 21 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964104334 360 220 touchmove 151 21 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964104350 360 220 touchmove 151 21 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964104359 360 220 touchend 151 21 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964105366 360 220 touchstart 204 95 2 2 0 joined 1
+joined_opponents_republican_thehun 1580964105384 360 220 touchmove 204 95 3.75 3.75 0 joined 1
+joined_opponents_republican_thehun 1580964105401 360 220 touchmove 204 95 5.5 5.5 0 joined 1
+joined_opponents_republican_thehun 1580964105417 360 220 touchmove 204 95 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964105434 360 220 touchmove 204 95 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964105442 360 220 touchend 204 95 7.25 7.25 0 joined 1
+joined_opponents_republican_thehun 1580964105746 360 220 touchstart 92 23 2.25 2.25 0 joined 1
+joined_opponents_republican_thehun 1580964105768 360 220 touchmove 92 23 4.25 4.25 0 joined 1
+joined_opponents_republican_thehun 1580964105784 360 220 touchmove 92 23 6 6 0 joined 1
+joined_opponents_republican_thehun 1580964105801 360 220 touchmove 92 23 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964105817 360 220 touchmove 93 24 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964105826 360 220 touchend 93 24 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964106800 360 220 touchstart 213 95 1.5 1.5 0 joined 1
+joined_opponents_republican_thehun 1580964106818 360 220 touchmove 213 95 3.5 3.5 0 joined 1
+joined_opponents_republican_thehun 1580964106835 360 220 touchmove 213 95 5.25 5.25 0 joined 1
+joined_opponents_republican_thehun 1580964106852 360 220 touchmove 213 95 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964106868 360 220 touchmove 213 95 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964106885 360 220 touchmove 214 95 8.75 8.75 0 joined 1
+joined_opponents_republican_thehun 1580964106892 360 220 touchend 214 95 8.75 8.75 0 joined 1
+joined_opponents_republican_thehun 1580964107118 360 220 touchmove 229 25 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964107136 360 220 touchmove 229 25 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964107144 360 220 touchend 229 25 8.5 8.5 0 joined 1
+joined_opponents_republican_thehun 1580964107682 360 220 touchstart 251 146 1.75 1.75 0 joined 1
+joined_opponents_republican_thehun 1580964107701 360 220 touchmove 251 146 3.5 3.5 0 joined 1
+joined_opponents_republican_thehun 1580964107717 360 220 touchmove 251 146 5.25 5.25 0 joined 1
+joined_opponents_republican_thehun 1580964107734 360 220 touchmove 251 146 6.75 6.75 0 joined 1
+joined_opponents_republican_thehun 1580964107751 360 220 touchmove 251 146 8 8 0 joined 1
+joined_opponents_republican_thehun 1580964107767 360 220 touchmove 252 148 7.5 7.5 0 joined 1
+joined_opponents_republican_thehun 1580964107778 360 220 touchend 252 148 7.5 7.5 0 joined 1
+what_is_the_cost_issue 1580964133382 360 220 touchstart 60 20 2 2 0 what 1
+what_is_the_cost_issue 1580964133401 360 220 touchmove 60 20 4.25 4.25 0 what 1
+what_is_the_cost_issue 1580964133416 360 220 touchmove 60 20 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964133433 360 220 touchmove 60 20 8 8 0 what 1
+what_is_the_cost_issue 1580964133450 360 220 touchmove 60 20 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964133475 360 220 touchend 60 20 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964134879 360 220 touchstart 214 106 1.5 1.5 0 what 1
+what_is_the_cost_issue 1580964134900 360 220 touchmove 214 106 3.25 3.25 0 what 1
+what_is_the_cost_issue 1580964134917 360 220 touchmove 214 106 4.75 4.75 0 what 1
+what_is_the_cost_issue 1580964134933 360 220 touchmove 214 106 6 6 0 what 1
+what_is_the_cost_issue 1580964134950 360 220 touchmove 214 106 7.25 7.25 0 what 1
+what_is_the_cost_issue 1580964134966 360 220 touchmove 214 106 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964134975 360 220 touchend 214 106 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964135245 360 220 touchstart 34 98 2 2 0 what 1
+what_is_the_cost_issue 1580964135267 360 220 touchmove 34 98 4.25 4.25 0 what 1
+what_is_the_cost_issue 1580964135283 360 220 touchmove 34 98 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964135300 360 220 touchmove 34 98 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964135308 360 220 touchend 34 98 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964135678 360 220 touchstart 155 27 2 2 0 what 1
+what_is_the_cost_issue 1580964135700 360 220 touchmove 155 27 4 4 0 what 1
+what_is_the_cost_issue 1580964135717 360 220 touchmove 155 27 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964135733 360 220 touchmove 155 27 7.25 7.25 0 what 1
+what_is_the_cost_issue 1580964135751 360 220 touchmove 155 27 8.5 8.5 0 what 1
+what_is_the_cost_issue 1580964135766 360 220 touchmove 157 27 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964135774 360 220 touchend 157 27 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964136400 360 220 touchmove 191 203 4 4 0 what 1
+what_is_the_cost_issue 1580964136417 360 220 touchmove 191 203 6 6 0 what 1
+what_is_the_cost_issue 1580964136433 360 220 touchmove 191 203 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964136450 360 220 touchmove 191 203 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964136467 360 220 touchmove 191 203 9.75 9.75 0 what 1
+what_is_the_cost_issue 1580964136475 360 220 touchend 191 203 9.75 9.75 0 what 1
+what_is_the_cost_issue 1580964136896 360 220 touchstart 265 27 2 2 0 what 1
+what_is_the_cost_issue 1580964136917 360 220 touchmove 265 27 4 4 0 what 1
+what_is_the_cost_issue 1580964136933 360 220 touchmove 265 27 6 6 0 what 1
+what_is_the_cost_issue 1580964136950 360 220 touchmove 265 27 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964136966 360 220 touchmove 265 27 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964136983 360 220 touchmove 265 27 10 10 0 what 1
+what_is_the_cost_issue 1580964136992 360 220 touchend 265 27 10 10 0 what 1
+what_is_the_cost_issue 1580964137294 360 220 touchstart 77 82 2 2 0 what 1
+what_is_the_cost_issue 1580964137317 360 220 touchmove 77 82 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964137333 360 220 touchmove 77 82 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964137350 360 220 touchmove 78 82 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964137359 360 220 touchend 78 82 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964137633 360 220 touchmove 179 215 5.5 5.5 0 what 1
+what_is_the_cost_issue 1580964137650 360 220 touchmove 179 215 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964137666 360 220 touchmove 179 215 9.75 9.75 0 what 1
+what_is_the_cost_issue 1580964137685 360 220 touchmove 179 215 11.5 11.5 0 what 1
+what_is_the_cost_issue 1580964137700 360 220 touchmove 179 214 12.5 12.5 0 what 1
+what_is_the_cost_issue 1580964137708 360 220 touchend 179 214 12.5 12.5 0 what 1
+what_is_the_cost_issue 1580964138662 360 220 touchstart 152 17 1 1 0 what 1
+what_is_the_cost_issue 1580964138683 360 220 touchmove 152 17 3.25 3.25 0 what 1
+what_is_the_cost_issue 1580964138700 360 220 touchmove 152 17 5.5 5.5 0 what 1
+what_is_the_cost_issue 1580964138717 360 220 touchmove 152 17 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964138733 360 220 touchmove 153 17 9 9 0 what 1
+what_is_the_cost_issue 1580964138750 360 220 touchmove 155 17 9 9 0 what 1
+what_is_the_cost_issue 1580964138761 360 220 touchend 155 17 9 9 0 what 1
+what_is_the_cost_issue 1580964139179 360 220 touchstart 213 103 1.75 1.75 0 what 1
+what_is_the_cost_issue 1580964139200 360 220 touchmove 213 103 3.5 3.5 0 what 1
+what_is_the_cost_issue 1580964139219 360 220 touchmove 213 103 5 5 0 what 1
+what_is_the_cost_issue 1580964139238 360 220 touchmove 213 103 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964139249 360 220 touchmove 213 103 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964139258 360 220 touchend 213 103 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964139478 360 220 touchstart 90 20 2.5 2.5 0 what 1
+what_is_the_cost_issue 1580964139500 360 220 touchmove 90 20 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964139516 360 220 touchmove 90 20 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964139533 360 220 touchmove 90 20 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964139549 360 220 touchmove 92 20 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964139558 360 220 touchend 92 20 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964139867 360 220 touchmove 189 216 3.75 3.75 0 what 1
+what_is_the_cost_issue 1580964139883 360 220 touchmove 189 216 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964139900 360 220 touchmove 189 216 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964139916 360 220 touchmove 189 216 9 9 0 what 1
+what_is_the_cost_issue 1580964139933 360 220 touchmove 189 215 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964139941 360 220 touchend 189 215 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964140879 360 220 touchstart 153 164 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964140900 360 220 touchmove 153 164 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964140918 360 220 touchmove 153 164 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964140933 360 220 touchmove 153 164 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964140949 360 220 touchmove 153 164 9.75 9.75 0 what 1
+what_is_the_cost_issue 1580964140965 360 220 touchmove 154 162 10 10 0 what 1
+what_is_the_cost_issue 1580964140974 360 220 touchend 154 162 10 10 0 what 1
+what_is_the_cost_issue 1580964141327 360 220 touchstart 290 35 1.5 1.5 0 what 1
+what_is_the_cost_issue 1580964141349 360 220 touchmove 290 35 3.5 3.5 0 what 1
+what_is_the_cost_issue 1580964141367 360 220 touchmove 290 35 5.25 5.25 0 what 1
+what_is_the_cost_issue 1580964141383 360 220 touchmove 290 35 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964141400 360 220 touchmove 290 35 8 8 0 what 1
+what_is_the_cost_issue 1580964141424 360 220 touchend 290 35 8 8 0 what 1
+what_is_the_cost_issue 1580964141327 360 220 touchstart 290 35 1.5 1.5 0 what 1 1
+what_is_the_cost_issue 1580964141349 360 220 touchmove 290 35 3.5 3.5 0 what 1 1
+what_is_the_cost_issue 1580964141367 360 220 touchmove 290 35 5.25 5.25 0 what 1 1
+what_is_the_cost_issue 1580964141383 360 220 touchmove 290 35 6.75 6.75 0 what 1 1
+what_is_the_cost_issue 1580964141400 360 220 touchmove 290 35 8 8 0 what 1 1
+what_is_the_cost_issue 1580964141424 360 220 touchend 290 35 8 8 0 what 1 1
+what_is_the_cost_issue 1580964141728 360 220 touchstart 74 92 1.5 1.5 0 what 1
+what_is_the_cost_issue 1580964141749 360 220 touchmove 74 92 3.5 3.5 0 what 1
+what_is_the_cost_issue 1580964141766 360 220 touchmove 74 92 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964141783 360 220 touchmove 74 92 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964141800 360 220 touchmove 74 92 9.5 9.5 0 what 1
+what_is_the_cost_issue 1580964141816 360 220 touchmove 75 92 10.5 10.5 0 what 1
+what_is_the_cost_issue 1580964141824 360 220 touchend 75 92 10.5 10.5 0 what 1
+what_is_the_cost_issue 1580964142277 360 220 touchstart 167 23 1.75 1.75 0 what 1
+what_is_the_cost_issue 1580964142300 360 220 touchmove 167 23 3.5 3.5 0 what 1
+what_is_the_cost_issue 1580964142316 360 220 touchmove 167 23 5 5 0 what 1
+what_is_the_cost_issue 1580964142333 360 220 touchmove 167 23 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964142349 360 220 touchmove 167 23 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964142358 360 220 touchend 167 23 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964143862 360 220 touchstart 265 28 1.5 1.5 0 what 1
+what_is_the_cost_issue 1580964143883 360 220 touchmove 265 28 3.25 3.25 0 what 1
+what_is_the_cost_issue 1580964143899 360 220 touchmove 265 28 5 5 0 what 1
+what_is_the_cost_issue 1580964143916 360 220 touchmove 265 28 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964143925 360 220 touchend 265 28 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964144263 360 220 touchstart 80 92 1.75 1.75 0 what 1
+what_is_the_cost_issue 1580964144283 360 220 touchmove 80 92 4 4 0 what 1
+what_is_the_cost_issue 1580964144300 360 220 touchmove 80 92 6 6 0 what 1
+what_is_the_cost_issue 1580964144316 360 220 touchmove 80 92 8 8 0 what 1
+what_is_the_cost_issue 1580964144332 360 220 touchmove 80 92 9.5 9.5 0 what 1
+what_is_the_cost_issue 1580964144349 360 220 touchmove 80 92 10.5 10.5 0 what 1
+what_is_the_cost_issue 1580964144357 360 220 touchend 80 92 10.5 10.5 0 what 1
+what_is_the_cost_issue 1580964144566 360 220 touchmove 72 92 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964144583 360 220 touchmove 72 92 10 10 0 what 1
+what_is_the_cost_issue 1580964144603 360 220 touchmove 72 92 11.5 11.5 0 what 1
+what_is_the_cost_issue 1580964144616 360 220 touchmove 72 92 11.25 11.25 0 what 1
+what_is_the_cost_issue 1580964144626 360 220 touchend 72 92 11.25 11.25 0 what 1
+what_is_the_cost_issue 1580964145695 360 220 touchstart 232 40 1.5 1.5 0 what 1
+what_is_the_cost_issue 1580964145717 360 220 touchmove 232 40 3 3 0 what 1
+what_is_the_cost_issue 1580964145733 360 220 touchmove 232 40 4 4 0 what 1
+what_is_the_cost_issue 1580964145741 360 220 touchend 232 40 4 4 0 what 1
+what_is_the_cost_issue 1580964146044 360 220 touchstart 91 23 1.75 1.75 0 what 1
+what_is_the_cost_issue 1580964146066 360 220 touchmove 91 23 4 4 0 what 1
+what_is_the_cost_issue 1580964146082 360 220 touchmove 91 23 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964146099 360 220 touchmove 91 23 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964146116 360 220 touchmove 91 23 10 10 0 what 1
+what_is_the_cost_issue 1580964146133 360 220 touchmove 91 23 11.25 11.25 0 what 1
+what_is_the_cost_issue 1580964146149 360 220 touchmove 92 24 11 11 0 what 1
+what_is_the_cost_issue 1580964146187 360 220 touchend 92 24 11 11 0 what 1
+what_is_the_cost_issue 1580964159227 360 220 touchstart 58 29 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964159249 360 220 touchmove 58 29 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964159265 360 220 touchmove 58 29 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964159282 360 220 touchmove 58 30 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964159298 360 220 touchmove 59 32 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964159308 360 220 touchend 59 32 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964160410 360 220 touchstart 62 34 1.75 1.75 0 what 1
+what_is_the_cost_issue 1580964160432 360 220 touchmove 62 34 4 4 0 what 1
+what_is_the_cost_issue 1580964160449 360 220 touchmove 62 34 6 6 0 what 1
+what_is_the_cost_issue 1580964160465 360 220 touchmove 62 34 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964160482 360 220 touchmove 62 37 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964160491 360 220 touchend 62 37 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964161211 360 220 touchstart 211 98 2 2 0 what 1
+what_is_the_cost_issue 1580964161232 360 220 touchmove 211 98 4 4 0 what 1
+what_is_the_cost_issue 1580964161249 360 220 touchmove 211 98 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964161265 360 220 touchmove 211 98 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964161274 360 220 touchend 211 98 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964161498 360 220 touchmove 24 84 5 5 0 what 1
+what_is_the_cost_issue 1580964161515 360 220 touchmove 24 84 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964161532 360 220 touchmove 26 84 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964161541 360 220 touchend 26 84 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964161749 360 220 touchmove 164 14 5.5 5.5 0 what 1
+what_is_the_cost_issue 1580964161765 360 220 touchmove 164 14 7.25 7.25 0 what 1
+what_is_the_cost_issue 1580964161782 360 220 touchmove 164 15 8.5 8.5 0 what 1
+what_is_the_cost_issue 1580964161799 360 220 touchmove 164 19 8 8 0 what 1
+what_is_the_cost_issue 1580964161808 360 220 touchend 164 19 8 8 0 what 1
+what_is_the_cost_issue 1580964162065 360 220 touchmove 184 209 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964162082 360 220 touchmove 184 209 6 6 0 what 1
+what_is_the_cost_issue 1580964162099 360 220 touchmove 184 209 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964162107 360 220 touchend 184 209 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964162608 360 220 touchstart 264 17 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964162631 360 220 touchmove 264 17 4.25 4.25 0 what 1
+what_is_the_cost_issue 1580964162648 360 220 touchmove 264 17 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964162665 360 220 touchmove 263 20 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964162674 360 220 touchend 263 20 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964162894 360 220 touchstart 71 87 2.75 2.75 0 what 1
+what_is_the_cost_issue 1580964162917 360 220 touchmove 71 87 5 5 0 what 1
+what_is_the_cost_issue 1580964162933 360 220 touchmove 72 87 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964162949 360 220 touchmove 74 89 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964162957 360 220 touchend 74 89 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964163182 360 220 touchmove 193 208 4.75 4.75 0 what 1
+what_is_the_cost_issue 1580964163199 360 220 touchmove 193 208 6 6 0 what 1
+what_is_the_cost_issue 1580964163207 360 220 touchend 193 208 6 6 0 what 1
+what_is_the_cost_issue 1580964163460 360 220 touchstart 152 15 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964163482 360 220 touchmove 152 15 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964163498 360 220 touchmove 152 15 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964163515 360 220 touchmove 154 17 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964163524 360 220 touchend 154 17 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964163740 360 220 touchend 222 93 6 6 0 what 1
+what_is_the_cost_issue 1580964163949 360 220 touchmove 85 21 7 7 0 what 1
+what_is_the_cost_issue 1580964163965 360 220 touchmove 88 24 7 7 0 what 1
+what_is_the_cost_issue 1580964163973 360 220 touchend 88 24 7 7 0 what 1
+what_is_the_cost_issue 1580964164215 360 220 touchmove 189 191 4.75 4.75 0 what 1
+what_is_the_cost_issue 1580964164232 360 220 touchmove 189 191 6.5 6.5 0 what 1
+what_is_the_cost_issue 1580964164248 360 220 touchmove 190 191 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964164257 360 220 touchend 190 191 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964165544 360 220 touchstart 148 163 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964165565 360 220 touchmove 148 163 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964165582 360 220 touchmove 148 163 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964165598 360 220 touchmove 148 163 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964165608 360 220 touchend 148 163 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964165976 360 220 touchstart 287 23 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964165998 360 220 touchmove 287 23 4.25 4.25 0 what 1
+what_is_the_cost_issue 1580964166015 360 220 touchmove 287 23 6 6 0 what 1
+what_is_the_cost_issue 1580964166032 360 220 touchmove 287 24 7 7 0 what 1
+what_is_the_cost_issue 1580964166040 360 220 touchend 287 24 7 7 0 what 1
+what_is_the_cost_issue 1580964166344 360 220 touchstart 82 90 1.25 1.25 0 what 1
+what_is_the_cost_issue 1580964166365 360 220 touchmove 82 90 3.25 3.25 0 what 1
+what_is_the_cost_issue 1580964166382 360 220 touchmove 82 90 5 5 0 what 1
+what_is_the_cost_issue 1580964166398 360 220 touchmove 84 90 6 6 0 what 1
+what_is_the_cost_issue 1580964166409 360 220 touchend 84 90 6 6 0 what 1
+what_is_the_cost_issue 1580964166633 360 220 touchmove 167 31 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964166648 360 220 touchmove 167 34 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964166659 360 220 touchend 167 34 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964166915 360 220 touchmove 191 210 4.75 4.75 0 what 1
+what_is_the_cost_issue 1580964166932 360 220 touchmove 191 210 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964166948 360 220 touchmove 192 210 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964166957 360 220 touchend 192 210 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964168178 360 220 touchstart 264 28 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964168198 360 220 touchmove 264 28 4.25 4.25 0 what 1
+what_is_the_cost_issue 1580964168215 360 220 touchmove 264 28 6 6 0 what 1
+what_is_the_cost_issue 1580964168231 360 220 touchmove 262 28 7 7 0 what 1
+what_is_the_cost_issue 1580964168240 360 220 touchend 262 28 7 7 0 what 1
+what_is_the_cost_issue 1580964168527 360 220 touchstart 72 98 2.5 2.5 0 what 1
+what_is_the_cost_issue 1580964168549 360 220 touchmove 72 98 4.75 4.75 0 what 1
+what_is_the_cost_issue 1580964168565 360 220 touchmove 72 98 6.75 6.75 0 what 1
+what_is_the_cost_issue 1580964168582 360 220 touchmove 72 98 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964168598 360 220 touchmove 73 99 8.75 8.75 0 what 1
+what_is_the_cost_issue 1580964168606 360 220 touchend 73 99 8.75 8.75 0 what 1
+what_is_the_cost_issue 1580964168527 360 220 touchstart 72 98 2.5 2.5 0 what 1 1
+what_is_the_cost_issue 1580964168549 360 220 touchmove 72 98 4.75 4.75 0 what 1 1
+what_is_the_cost_issue 1580964168565 360 220 touchmove 72 98 6.75 6.75 0 what 1 1
+what_is_the_cost_issue 1580964168582 360 220 touchmove 72 98 8.25 8.25 0 what 1 1
+what_is_the_cost_issue 1580964168598 360 220 touchmove 73 99 8.75 8.75 0 what 1 1
+what_is_the_cost_issue 1580964168606 360 220 touchend 73 99 8.75 8.75 0 what 1 1
+what_is_the_cost_issue 1580964168709 360 220 touchstart 83 91 5.5 5.5 0 what 1
+what_is_the_cost_issue 1580964168732 360 220 touchmove 83 91 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964168748 360 220 touchmove 83 91 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964168765 360 220 touchmove 84 91 10.5 10.5 0 what 1
+what_is_the_cost_issue 1580964168773 360 220 touchend 84 91 10.5 10.5 0 what 1
+what_is_the_cost_issue 1580964169092 360 220 touchstart 242 26 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964169116 360 220 touchmove 242 26 4.25 4.25 0 what 1
+what_is_the_cost_issue 1580964169133 360 220 touchmove 242 26 6 6 0 what 1
+what_is_the_cost_issue 1580964169148 360 220 touchmove 242 26 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964169165 360 220 touchmove 243 26 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964169173 360 220 touchend 243 26 8.25 8.25 0 what 1
+what_is_the_cost_issue 1580964169445 360 220 touchstart 92 31 2.25 2.25 0 what 1
+what_is_the_cost_issue 1580964169464 360 220 touchmove 92 31 4.5 4.5 0 what 1
+what_is_the_cost_issue 1580964169482 360 220 touchmove 92 31 6.25 6.25 0 what 1
+what_is_the_cost_issue 1580964169498 360 220 touchmove 92 31 7.75 7.75 0 what 1
+what_is_the_cost_issue 1580964169515 360 220 touchmove 92 32 8 8 0 what 1
+what_is_the_cost_issue 1580964169524 360 220 touchend 92 32 8 8 0 what 1
+what_is_the_cost_issue 1580964171530 360 220 touchstart 329 151 1.75 1.75 0 what 1
+what_is_the_cost_issue 1580964171548 360 220 touchmove 329 151 3.75 3.75 0 what 1
+what_is_the_cost_issue 1580964171565 360 220 touchmove 329 151 5.75 5.75 0 what 1
+what_is_the_cost_issue 1580964171581 360 220 touchmove 329 151 7.5 7.5 0 what 1
+what_is_the_cost_issue 1580964171598 360 220 touchmove 329 151 8.75 8.75 0 what 1
+what_is_the_cost_issue 1580964171615 360 220 touchmove 329 151 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964171623 360 220 touchend 329 151 9.25 9.25 0 what 1
+what_is_the_cost_issue 1580964171873 360 220 touchend 329 146 8.75 8.75 0 what 1
+do_you_need_it_today 1580964540751 360 220 touchstart 105 98 2.25 2.25 0 do 1
+do_you_need_it_today 1580964540767 360 220 touchmove 105 98 4.25 4.25 0 do 1
+do_you_need_it_today 1580964540784 360 220 touchmove 105 98 5.75 5.75 0 do 1
+do_you_need_it_today 1580964540800 360 220 touchmove 106 100 5.75 5.75 0 do 1
+do_you_need_it_today 1580964540811 360 220 touchend 106 100 5.75 5.75 0 do 1
+do_you_need_it_today 1580964541363 360 220 touchstart 302 33 1.5 1.5 0 do 1
+do_you_need_it_today 1580964541383 360 220 touchmove 302 33 3.5 3.5 0 do 1
+do_you_need_it_today 1580964541400 360 220 touchmove 302 33 5.25 5.25 0 do 1
+do_you_need_it_today 1580964541416 360 220 touchmove 302 33 6.75 6.75 0 do 1
+do_you_need_it_today 1580964541433 360 220 touchmove 302 34 7 7 0 do 1
+do_you_need_it_today 1580964541442 360 220 touchend 302 34 7 7 0 do 1
+do_you_need_it_today 1580964542867 360 220 touchmove 185 217 4.25 4.25 0 do 1
+do_you_need_it_today 1580964542883 360 220 touchmove 185 217 6.25 6.25 0 do 1
+do_you_need_it_today 1580964542900 360 220 touchmove 185 217 8 8 0 do 1
+do_you_need_it_today 1580964542916 360 220 touchmove 185 217 9.25 9.25 0 do 1
+do_you_need_it_today 1580964542933 360 220 touchmove 186 217 9.75 9.75 0 do 1
+do_you_need_it_today 1580964542942 360 220 touchend 186 217 9.75 9.75 0 do 1
+do_you_need_it_today 1580964543378 360 220 touchstart 188 27 2.25 2.25 0 do 1
+do_you_need_it_today 1580964543391 360 220 touchmove 188 27 4.25 4.25 0 do 1
+do_you_need_it_today 1580964543408 360 220 touchmove 188 27 6 6 0 do 1
+do_you_need_it_today 1580964543424 360 220 touchmove 189 27 7.5 7.5 0 do 1
+do_you_need_it_today 1580964543441 360 220 touchmove 191 29 7.5 7.5 0 do 1
+do_you_need_it_today 1580964543457 360 220 touchend 191 29 7.5 7.5 0 do 1
+do_you_need_it_today 1580964543795 360 220 touchstart 304 23 2 2 0 do 1
+do_you_need_it_today 1580964543816 360 220 touchmove 304 23 4 4 0 do 1
+do_you_need_it_today 1580964543833 360 220 touchmove 304 23 5.75 5.75 0 do 1
+do_you_need_it_today 1580964543850 360 220 touchmove 304 23 7 7 0 do 1
+do_you_need_it_today 1580964543866 360 220 touchmove 304 23 7.75 7.75 0 do 1
+do_you_need_it_today 1580964543875 360 220 touchend 304 23 7.75 7.75 0 do 1
+do_you_need_it_today 1580964544083 360 220 touchmove 218 23 6 6 0 do 1
+do_you_need_it_today 1580964544100 360 220 touchmove 218 23 7.25 7.25 0 do 1
+do_you_need_it_today 1580964544116 360 220 touchmove 218 24 7.5 7.5 0 do 1
+do_you_need_it_today 1580964544125 360 220 touchend 218 24 7.5 7.5 0 do 1
+do_you_need_it_today 1580964544532 360 220 touchmove 201 197 4.25 4.25 0 do 1
+do_you_need_it_today 1580964544550 360 220 touchmove 201 197 6 6 0 do 1
+do_you_need_it_today 1580964544567 360 220 touchmove 201 197 7.25 7.25 0 do 1
+do_you_need_it_today 1580964544583 360 220 touchmove 201 198 7 7 0 do 1
+do_you_need_it_today 1580964544593 360 220 touchend 201 198 7 7 0 do 1
+do_you_need_it_today 1580964544945 360 220 touchstart 249 152 2.25 2.25 0 do 1
+do_you_need_it_today 1580964544967 360 220 touchmove 249 152 4.25 4.25 0 do 1
+do_you_need_it_today 1580964544983 360 220 touchmove 249 152 6 6 0 do 1
+do_you_need_it_today 1580964545001 360 220 touchmove 249 152 7.25 7.25 0 do 1
+do_you_need_it_today 1580964545008 360 220 touchend 249 152 7.25 7.25 0 do 1
+do_you_need_it_today 1580964545346 360 220 touchstart 91 27 2.25 2.25 0 do 1
+do_you_need_it_today 1580964545366 360 220 touchmove 91 27 4.25 4.25 0 do 1
+do_you_need_it_today 1580964545383 360 220 touchmove 91 27 6 6 0 do 1
+do_you_need_it_today 1580964545400 360 220 touchmove 91 27 7.25 7.25 0 do 1
+do_you_need_it_today 1580964545416 360 220 touchmove 91 28 7.25 7.25 0 do 1
+do_you_need_it_today 1580964545425 360 220 touchend 91 28 7.25 7.25 0 do 1
+do_you_need_it_today 1580964545346 360 220 touchstart 91 27 2.25 2.25 0 do 1 1
+do_you_need_it_today 1580964545366 360 220 touchmove 91 27 4.25 4.25 0 do 1 1
+do_you_need_it_today 1580964545383 360 220 touchmove 91 27 6 6 0 do 1 1
+do_you_need_it_today 1580964545400 360 220 touchmove 91 27 7.25 7.25 0 do 1 1
+do_you_need_it_today 1580964545416 360 220 touchmove 91 28 7.25 7.25 0 do 1 1
+do_you_need_it_today 1580964545425 360 220 touchend 91 28 7.25 7.25 0 do 1 1
+do_you_need_it_today 1580964545528 360 220 touchstart 89 28 4.75 4.75 0 do 1
+do_you_need_it_today 1580964545549 360 220 touchmove 89 28 6.75 6.75 0 do 1
+do_you_need_it_today 1580964545566 360 220 touchmove 89 28 8.5 8.5 0 do 1
+do_you_need_it_today 1580964545583 360 220 touchmove 89 29 10 10 0 do 1
+do_you_need_it_today 1580964545599 360 220 touchmove 90 30 10.75 10.75 0 do 1
+do_you_need_it_today 1580964545609 360 220 touchend 90 30 10.75 10.75 0 do 1
+do_you_need_it_today 1580964545818 360 220 touchmove 113 96 9.25 9.25 0 do 1
+do_you_need_it_today 1580964545832 360 220 touchmove 115 97 9.25 9.25 0 do 1
+do_you_need_it_today 1580964545841 360 220 touchend 115 97 9.25 9.25 0 do 1
+do_you_need_it_today 1580964546782 360 220 touchstart 263 39 2.25 2.25 0 do 1
+do_you_need_it_today 1580964546800 360 220 touchmove 263 39 4.25 4.25 0 do 1
+do_you_need_it_today 1580964546817 360 220 touchmove 263 39 6 6 0 do 1
+do_you_need_it_today 1580964546833 360 220 touchmove 263 39 7.25 7.25 0 do 1
+do_you_need_it_today 1580964546849 360 220 touchmove 262 40 7.5 7.5 0 do 1
+do_you_need_it_today 1580964546858 360 220 touchend 262 40 7.5 7.5 0 do 1
+do_you_need_it_today 1580964547078 360 220 touchstart 164 19 1.5 1.5 0 do 1
+do_you_need_it_today 1580964547100 360 220 touchmove 164 19 3.5 3.5 0 do 1
+do_you_need_it_today 1580964547116 360 220 touchmove 164 19 5.5 5.5 0 do 1
+do_you_need_it_today 1580964547133 360 220 touchmove 165 20 7 7 0 do 1
+do_you_need_it_today 1580964547149 360 220 touchmove 167 23 7 7 0 do 1
+do_you_need_it_today 1580964547158 360 220 touchend 167 23 7 7 0 do 1
+do_you_need_it_today 1580964547391 360 220 touchmove 200 219 4.25 4.25 0 do 1
+do_you_need_it_today 1580964547407 360 220 touchmove 200 219 6 6 0 do 1
+do_you_need_it_today 1580964547424 360 220 touchmove 199 218 7.25 7.25 0 do 1
+do_you_need_it_today 1580964547440 360 220 touchend 199 218 7.25 7.25 0 do 1
+do_you_need_it_today 1580964547895 360 220 touchstart 164 29 2.25 2.25 0 do 1
+do_you_need_it_today 1580964547916 360 220 touchmove 164 29 4.5 4.5 0 do 1
+do_you_need_it_today 1580964547933 360 220 touchmove 164 29 6.25 6.25 0 do 1
+do_you_need_it_today 1580964547949 360 220 touchmove 165 30 7.5 7.5 0 do 1
+do_you_need_it_today 1580964547959 360 220 touchend 165 30 7.5 7.5 0 do 1
+do_you_need_it_today 1580964548211 360 220 touchstart 292 22 2.25 2.25 0 do 1
+do_you_need_it_today 1580964548233 360 220 touchmove 292 22 4.25 4.25 0 do 1
+do_you_need_it_today 1580964548249 360 220 touchmove 292 22 6 6 0 do 1
+do_you_need_it_today 1580964548266 360 220 touchmove 292 23 6.5 6.5 0 do 1
+do_you_need_it_today 1580964548274 360 220 touchend 292 23 6.5 6.5 0 do 1
+do_you_need_it_today 1580964548694 360 220 touchstart 111 92 1.75 1.75 0 do 1
+do_you_need_it_today 1580964548716 360 220 touchmove 111 92 4 4 0 do 1
+do_you_need_it_today 1580964548733 360 220 touchmove 111 92 6 6 0 do 1
+do_you_need_it_today 1580964548750 360 220 touchmove 111 92 7.5 7.5 0 do 1
+do_you_need_it_today 1580964548766 360 220 touchmove 112 92 8.5 8.5 0 do 1
+do_you_need_it_today 1580964548775 360 220 touchend 112 92 8.5 8.5 0 do 1
+do_you_need_it_today 1580964548694 360 220 touchstart 111 92 1.75 1.75 0 do 1 1
+do_you_need_it_today 1580964548716 360 220 touchmove 111 92 4 4 0 do 1 1
+do_you_need_it_today 1580964548733 360 220 touchmove 111 92 6 6 0 do 1 1
+do_you_need_it_today 1580964548750 360 220 touchmove 111 92 7.5 7.5 0 do 1 1
+do_you_need_it_today 1580964548766 360 220 touchmove 112 92 8.5 8.5 0 do 1 1
+do_you_need_it_today 1580964548775 360 220 touchend 112 92 8.5 8.5 0 do 1 1
+do_you_need_it_today 1580964548928 360 220 touchstart 34 100 4 4 0 do 1
+do_you_need_it_today 1580964548949 360 220 touchmove 34 100 6 6 0 do 1
+do_you_need_it_today 1580964548966 360 220 touchmove 34 100 7.5 7.5 0 do 1
+do_you_need_it_today 1580964548983 360 220 touchmove 36 100 8.25 8.25 0 do 1
+do_you_need_it_today 1580964548991 360 220 touchend 36 100 8.25 8.25 0 do 1
+do_you_need_it_today 1580964549377 360 220 touchstart 192 20 2 2 0 do 1
+do_you_need_it_today 1580964549390 360 220 touchmove 192 20 4 4 0 do 1
+do_you_need_it_today 1580964549407 360 220 touchmove 192 20 5.75 5.75 0 do 1
+do_you_need_it_today 1580964549515 360 220 touchmove 192 20 7 7 0 do 1
+do_you_need_it_today 1580964549518 360 220 touchend 192 20 7 7 0 do 1
+do_you_need_it_today 1580964559716 360 220 touchmove 192 199 4.25 4.25 0 do 1
+do_you_need_it_today 1580964559733 360 220 touchmove 192 199 6 6 0 do 1
+do_you_need_it_today 1580964559748 360 220 touchmove 192 199 7.25 7.25 0 do 1
+do_you_need_it_today 1580964559765 360 220 touchmove 193 200 7 7 0 do 1
+do_you_need_it_today 1580964559774 360 220 touchend 193 200 7 7 0 do 1
+do_you_need_it_today 1580964566828 360 220 touchstart 108 96 2 2 0 do 1
+do_you_need_it_today 1580964566851 360 220 touchmove 108 96 4 4 0 do 1
+do_you_need_it_today 1580964566867 360 220 touchmove 108 96 5.75 5.75 0 do 1
+do_you_need_it_today 1580964566883 360 220 touchmove 108 96 7.25 7.25 0 do 1
+do_you_need_it_today 1580964566900 360 220 touchmove 108 96 8.75 8.75 0 do 1
+do_you_need_it_today 1580964566916 360 220 touchmove 108 96 10 10 0 do 1
+do_you_need_it_today 1580964566932 360 220 touchmove 108 96 10.75 10.75 0 do 1
+do_you_need_it_today 1580964566949 360 220 touchmove 108 96 11 11 0 do 1
+do_you_need_it_today 1580964566956 360 220 touchend 108 96 11 11 0 do 1
+do_you_need_it_today 1580964567181 360 220 touchmove 111 98 6.75 6.75 0 do 1
+do_you_need_it_today 1580964567198 360 220 touchmove 111 98 7.75 7.75 0 do 1
+do_you_need_it_today 1580964567206 360 220 touchend 111 98 7.75 7.75 0 do 1
+do_you_need_it_today 1580964567415 360 220 touchmove 115 97 9.25 9.25 0 do 1
+do_you_need_it_today 1580964567423 360 220 touchend 115 97 9.25 9.25 0 do 1
+do_you_need_it_today 1580964569665 360 220 touchmove 333 207 4 4 0 do 1
+do_you_need_it_today 1580964569710 360 220 touchmove 333 207 5.75 5.75 0 do 1
+do_you_need_it_today 1580964569718 360 220 touchmove 333 207 8.5 8.5 0 do 1
+do_you_need_it_today 1580964569733 360 220 touchmove 333 207 9.5 9.5 0 do 1
+do_you_need_it_today 1580964569750 360 220 touchmove 333 207 10 10 0 do 1
+do_you_need_it_today 1580964569757 360 220 touchend 333 207 10 10 0 do 1
+do_you_need_it_today 1580964569965 360 220 touchmove 321 199 5.5 5.5 0 do 1
+do_you_need_it_today 1580964569981 360 220 touchmove 322 199 6.75 6.75 0 do 1
+do_you_need_it_today 1580964569998 360 220 touchmove 322 201 6.5 6.5 0 do 1
+do_you_need_it_today 1580964570007 360 220 touchend 322 201 6.5 6.5 0 do 1
+do_you_need_it_today 1580964570182 360 220 touchmove 322 205 5.5 5.5 0 do 1
+do_you_need_it_today 1580964570199 360 220 touchmove 322 205 7 7 0 do 1
+do_you_need_it_today 1580964570215 360 220 touchmove 323 205 8.25 8.25 0 do 1
+do_you_need_it_today 1580964570232 360 220 touchmove 323 208 8.75 8.75 0 do 1
+do_you_need_it_today 1580964570240 360 220 touchend 323 208 8.75 8.75 0 do 1
+do_you_need_it_today 1580964570398 360 220 touchmove 326 212 6 6 0 do 1
+do_you_need_it_today 1580964570416 360 220 touchmove 326 212 7.25 7.25 0 do 1
+do_you_need_it_today 1580964570432 360 220 touchmove 326 212 7.75 7.75 0 do 1
+do_you_need_it_today 1580964570441 360 220 touchend 326 212 7.75 7.75 0 do 1
+do_you_need_it_today 1580964570615 360 220 touchmove 326 201 4.75 4.75 0 do 1
+do_you_need_it_today 1580964570632 360 220 touchmove 326 201 6.5 6.5 0 do 1
+do_you_need_it_today 1580964570648 360 220 touchmove 326 201 7.75 7.75 0 do 1
+do_you_need_it_today 1580964570665 360 220 touchmove 326 201 8.25 8.25 0 do 1
+do_you_need_it_today 1580964570674 360 220 touchend 326 201 8.25 8.25 0 do 1
+do_you_need_it_today 1580964570827 360 220 touchstart 325 152 4 4 0 do 1
+do_you_need_it_today 1580964570849 360 220 touchmove 325 152 6 6 0 do 1
+do_you_need_it_today 1580964570865 360 220 touchmove 325 152 7.5 7.5 0 do 1
+do_you_need_it_today 1580964570882 360 220 touchmove 325 152 8.75 8.75 0 do 1
+do_you_need_it_today 1580964570898 360 220 touchmove 325 152 9 9 0 do 1
+do_you_need_it_today 1580964570907 360 220 touchend 325 152 9 9 0 do 1
+do_you_need_it_today 1580964569665 360 220 touchmove 333 207 4 4 0 do 1 1
+do_you_need_it_today 1580964569710 360 220 touchmove 333 207 5.75 5.75 0 do 1 1
+do_you_need_it_today 1580964569718 360 220 touchmove 333 207 8.5 8.5 0 do 1 1
+do_you_need_it_today 1580964569733 360 220 touchmove 333 207 9.5 9.5 0 do 1 1
+do_you_need_it_today 1580964569750 360 220 touchmove 333 207 10 10 0 do 1 1
+do_you_need_it_today 1580964569757 360 220 touchend 333 207 10 10 0 do 1 1
+do_you_need_it_today 1580964569965 360 220 touchmove 321 199 5.5 5.5 0 do 1 1
+do_you_need_it_today 1580964569981 360 220 touchmove 322 199 6.75 6.75 0 do 1 1
+do_you_need_it_today 1580964569998 360 220 touchmove 322 201 6.5 6.5 0 do 1 1
+do_you_need_it_today 1580964570007 360 220 touchend 322 201 6.5 6.5 0 do 1 1
+do_you_need_it_today 1580964570182 360 220 touchmove 322 205 5.5 5.5 0 do 1 1
+do_you_need_it_today 1580964570199 360 220 touchmove 322 205 7 7 0 do 1 1
+do_you_need_it_today 1580964570215 360 220 touchmove 323 205 8.25 8.25 0 do 1 1
+do_you_need_it_today 1580964570232 360 220 touchmove 323 208 8.75 8.75 0 do 1 1
+do_you_need_it_today 1580964570240 360 220 touchend 323 208 8.75 8.75 0 do 1 1
+do_you_need_it_today 1580964570398 360 220 touchmove 326 212 6 6 0 do 1 1
+do_you_need_it_today 1580964570416 360 220 touchmove 326 212 7.25 7.25 0 do 1 1
+do_you_need_it_today 1580964570432 360 220 touchmove 326 212 7.75 7.75 0 do 1 1
+do_you_need_it_today 1580964570441 360 220 touchend 326 212 7.75 7.75 0 do 1 1
+do_you_need_it_today 1580964570615 360 220 touchmove 326 201 4.75 4.75 0 do 1 1
+do_you_need_it_today 1580964570632 360 220 touchmove 326 201 6.5 6.5 0 do 1 1
+do_you_need_it_today 1580964570648 360 220 touchmove 326 201 7.75 7.75 0 do 1 1
+do_you_need_it_today 1580964570665 360 220 touchmove 326 201 8.25 8.25 0 do 1 1
+do_you_need_it_today 1580964570674 360 220 touchend 326 201 8.25 8.25 0 do 1 1
+do_you_need_it_today 1580964570827 360 220 touchstart 325 152 4 4 0 do 1 1
+do_you_need_it_today 1580964570849 360 220 touchmove 325 152 6 6 0 do 1 1
+do_you_need_it_today 1580964570865 360 220 touchmove 325 152 7.5 7.5 0 do 1 1
+do_you_need_it_today 1580964570882 360 220 touchmove 325 152 8.75 8.75 0 do 1 1
+do_you_need_it_today 1580964570898 360 220 touchmove 325 152 9 9 0 do 1 1
+do_you_need_it_today 1580964570907 360 220 touchend 325 152 9 9 0 do 1 1
+do_you_need_it_today 1580964571027 360 220 touchstart 332 156 4.75 4.75 0 do 1
+do_you_need_it_today 1580964571049 360 220 touchmove 332 156 6.5 6.5 0 do 1
+do_you_need_it_today 1580964571064 360 220 touchmove 332 156 8 8 0 do 1
+do_you_need_it_today 1580964571082 360 220 touchmove 332 156 9.25 9.25 0 do 1
+do_you_need_it_today 1580964571098 360 220 touchmove 333 158 9.75 9.75 0 do 1
+do_you_need_it_today 1580964571107 360 220 touchend 333 158 9.75 9.75 0 do 1
+do_you_need_it_today 1580964571321 360 220 touchmove 325 158 6.75 6.75 0 do 1
+do_you_need_it_today 1580964571334 360 220 touchmove 325 158 7.75 7.75 0 do 1
+do_you_need_it_today 1580964571343 360 220 touchend 325 158 7.75 7.75 0 do 1
+do_you_need_it_today 1580964571961 360 220 touchstart 331 153 1.25 1.25 0 do 1
+do_you_need_it_today 1580964571982 360 220 touchmove 331 153 3.25 3.25 0 do 1
+do_you_need_it_today 1580964571998 360 220 touchmove 331 153 5 5 0 do 1
+do_you_need_it_today 1580964572016 360 220 touchmove 331 153 6.25 6.25 0 do 1
+do_you_need_it_today 1580964572023 360 220 touchend 331 153 6.25 6.25 0 do 1
+do_you_need_it_today 1580964572248 360 220 touchmove 327 145 4.75 4.75 0 do 1
+do_you_need_it_today 1580964572265 360 220 touchmove 327 145 6.25 6.25 0 do 1
+do_you_need_it_today 1580964572274 360 220 touchend 327 145 6.25 6.25 0 do 1
+do_you_need_it_today 1580964572482 360 220 touchmove 333 151 6.25 6.25 0 do 1
+do_you_need_it_today 1580964572498 360 220 touchmove 335 152 6.25 6.25 0 do 1
+do_you_need_it_today 1580964572506 360 220 touchend 335 152 6.25 6.25 0 do 1
+do_you_need_it_today 1580964577644 360 220 touchstart 107 97 2.5 2.5 0 do 1
+do_you_need_it_today 1580964577665 360 220 touchmove 107 97 4.75 4.75 0 do 1
+do_you_need_it_today 1580964577681 360 220 touchmove 107 97 6.75 6.75 0 do 1
+do_you_need_it_today 1580964577698 360 220 touchmove 107 97 8.5 8.5 0 do 1
+do_you_need_it_today 1580964577714 360 220 touchmove 107 97 10 10 0 do 1
+do_you_need_it_today 1580964577732 360 220 touchmove 107 97 11.25 11.25 0 do 1
+do_you_need_it_today 1580964577748 360 220 touchmove 107 97 12.25 12.25 0 do 1
+do_you_need_it_today 1580964577765 360 220 touchmove 107 97 13.25 13.25 0 do 1
+do_you_need_it_today 1580964577781 360 220 touchmove 107 97 14 14 0 do 1
+do_you_need_it_today 1580964577798 360 220 touchmove 107 97 14.75 14.75 0 do 1
+do_you_need_it_today 1580964577814 360 220 touchmove 107 97 15.5 15.5 0 do 1
+do_you_need_it_today 1580964577831 360 220 touchmove 107 97 16 16 0 do 1
+do_you_need_it_today 1580964577848 360 220 touchmove 107 97 16.25 16.25 0 do 1
+do_you_need_it_today 1580964577864 360 220 touchmove 107 97 15.25 15.25 0 do 1
+do_you_need_it_today 1580964577873 360 220 touchend 107 97 15.25 15.25 0 do 1
+do_you_need_it_today 1580964578461 360 220 touchstart 109 105 2 2 0 do 1
+do_you_need_it_today 1580964578481 360 220 touchmove 109 105 4.25 4.25 0 do 1
+do_you_need_it_today 1580964578498 360 220 touchmove 109 105 6.25 6.25 0 do 1
+do_you_need_it_today 1580964578515 360 220 touchmove 109 105 8 8 0 do 1
+do_you_need_it_today 1580964578531 360 220 touchmove 109 105 9.5 9.5 0 do 1
+do_you_need_it_today 1580964578549 360 220 touchmove 109 105 11 11 0 do 1
+do_you_need_it_today 1580964578565 360 220 touchmove 109 105 12.25 12.25 0 do 1
+do_you_need_it_today 1580964578583 360 220 touchmove 109 105 13.25 13.25 0 do 1
+do_you_need_it_today 1580964578598 360 220 touchmove 109 105 14.25 14.25 0 do 1
+do_you_need_it_today 1580964578615 360 220 touchmove 109 105 15.25 15.25 0 do 1
+do_you_need_it_today 1580964578632 360 220 touchmove 109 105 16 16 0 do 1
+do_you_need_it_today 1580964578648 360 220 touchmove 109 105 16.75 16.75 0 do 1
+do_you_need_it_today 1580964578665 360 220 touchmove 109 105 17.25 17.25 0 do 1
+do_you_need_it_today 1580964578682 360 220 touchmove 109 105 18 18 0 do 1
+do_you_need_it_today 1580964578698 360 220 touchmove 109 105 18.5 18.5 0 do 1
+do_you_need_it_today 1580964578715 360 220 touchmove 109 105 19 19 0 do 1
+do_you_need_it_today 1580964578731 360 220 touchmove 109 105 19.5 19.5 0 do 1
+do_you_need_it_today 1580964578748 360 220 touchmove 109 105 19.75 19.75 0 do 1
+do_you_need_it_today 1580964578764 360 220 touchmove 109 105 20 20 0 do 1
+do_you_need_it_today 1580964578781 360 220 touchmove 109 105 20.25 20.25 0 do 1
+do_you_need_it_today 1580964578797 360 220 touchmove 109 105 20.5 20.5 0 do 1
+do_you_need_it_today 1580964578814 360 220 touchmove 109 105 20.75 20.75 0 do 1
+do_you_need_it_today 1580964578832 360 220 touchmove 109 105 21 21 0 do 1
+do_you_need_it_today 1580964578847 360 220 touchmove 109 105 21.25 21.25 0 do 1
+do_you_need_it_today 1580964578899 360 220 touchmove 109 105 21.5 21.5 0 do 1
+do_you_need_it_today 1580964579016 360 220 touchmove 109 105 21.75 21.75 0 do 1
+do_you_need_it_today 1580964579216 360 220 touchmove 109 105 22 22 0 do 1
+do_you_need_it_today 1580964579615 360 220 touchmove 109 105 21.75 21.75 0 do 1
+do_you_need_it_today 1580964579635 360 220 touchmove 109 106 20.25 20.25 0 do 1
+do_you_need_it_today 1580964579642 360 220 touchend 109 106 20.25 20.25 0 do 1
+do_you_need_it_today 1580964580545 360 220 touchstart 301 27 1.75 1.75 0 do 1
+do_you_need_it_today 1580964580566 360 220 touchmove 301 27 3.75 3.75 0 do 1
+do_you_need_it_today 1580964580583 360 220 touchmove 301 27 5.5 5.5 0 do 1
+do_you_need_it_today 1580964580598 360 220 touchmove 301 27 7.25 7.25 0 do 1
+do_you_need_it_today 1580964580615 360 220 touchmove 301 27 9 9 0 do 1
+do_you_need_it_today 1580964580631 360 220 touchmove 301 27 10.5 10.5 0 do 1
+do_you_need_it_today 1580964580648 360 220 touchmove 301 27 11.75 11.75 0 do 1
+do_you_need_it_today 1580964580665 360 220 touchmove 301 28 12.75 12.75 0 do 1
+do_you_need_it_today 1580964580681 360 220 touchmove 301 28 13.5 13.5 0 do 1
+do_you_need_it_today 1580964580698 360 220 touchmove 301 29 13.25 13.25 0 do 1
+do_you_need_it_today 1580964580706 360 220 touchend 301 29 13.25 13.25 0 do 1
+do_you_need_it_today 1580964581364 360 220 touchmove 192 197 4.5 4.5 0 do 1
+do_you_need_it_today 1580964581382 360 220 touchmove 192 197 6.5 6.5 0 do 1
+do_you_need_it_today 1580964581399 360 220 touchmove 192 197 8.25 8.25 0 do 1
+do_you_need_it_today 1580964581415 360 220 touchmove 192 197 9.75 9.75 0 do 1
+do_you_need_it_today 1580964581432 360 220 touchmove 192 197 11 11 0 do 1
+do_you_need_it_today 1580964581448 360 220 touchmove 192 197 12 12 0 do 1
+do_you_need_it_today 1580964581465 360 220 touchmove 192 197 12.75 12.75 0 do 1
+do_you_need_it_today 1580964581482 360 220 touchmove 193 197 12.75 12.75 0 do 1
+do_you_need_it_today 1580964581490 360 220 touchend 193 197 12.75 12.75 0 do 1
+do_you_need_it_today 1580964581977 360 220 touchstart 187 30 2.5 2.5 0 do 1
+do_you_need_it_today 1580964581999 360 220 touchmove 187 30 4.75 4.75 0 do 1
+do_you_need_it_today 1580964582016 360 220 touchmove 187 30 6.5 6.5 0 do 1
+do_you_need_it_today 1580964582032 360 220 touchmove 189 30 7.75 7.75 0 do 1
+do_you_need_it_today 1580964582040 360 220 touchend 189 30 7.75 7.75 0 do 1
+do_you_need_it_today 1580964582277 360 220 touchstart 305 24 2.25 2.25 0 do 1
+do_you_need_it_today 1580964582298 360 220 touchmove 305 24 4.25 4.25 0 do 1
+do_you_need_it_today 1580964582314 360 220 touchmove 305 24 6 6 0 do 1
+do_you_need_it_today 1580964582333 360 220 touchmove 305 24 7.25 7.25 0 do 1
+do_you_need_it_today 1580964582340 360 220 touchend 305 24 7.25 7.25 0 do 1
+do_you_need_it_today 1580964582551 360 220 touchmove 215 19 6.75 6.75 0 do 1
+do_you_need_it_today 1580964582565 360 220 touchmove 216 20 8 8 0 do 1
+do_you_need_it_today 1580964582581 360 220 touchmove 218 23 7.75 7.75 0 do 1
+do_you_need_it_today 1580964582589 360 220 touchend 218 23 7.75 7.75 0 do 1
+do_you_need_it_today 1580964582916 360 220 touchmove 194 213 4.5 4.5 0 do 1
+do_you_need_it_today 1580964582931 360 220 touchmove 194 213 6.5 6.5 0 do 1
+do_you_need_it_today 1580964582948 360 220 touchmove 194 213 8 8 0 do 1
+do_you_need_it_today 1580964582964 360 220 touchmove 194 213 8.75 8.75 0 do 1
+do_you_need_it_today 1580964582973 360 220 touchend 194 213 8.75 8.75 0 do 1
+do_you_need_it_today 1580964583911 360 220 touchstart 251 150 2.25 2.25 0 do 1
+do_you_need_it_today 1580964583931 360 220 touchmove 251 150 4.5 4.5 0 do 1
+do_you_need_it_today 1580964583948 360 220 touchmove 251 150 6.25 6.25 0 do 1
+do_you_need_it_today 1580964583970 360 220 touchmove 251 150 7.5 7.5 0 do 1
+do_you_need_it_today 1580964583982 360 220 touchmove 251 150 7.25 7.25 0 do 1
+do_you_need_it_today 1580964583990 360 220 touchend 251 150 7.25 7.25 0 do 1
+do_you_need_it_today 1580964584277 360 220 touchstart 94 25 2.25 2.25 0 do 1
+do_you_need_it_today 1580964584298 360 220 touchmove 94 25 4.25 4.25 0 do 1
+do_you_need_it_today 1580964584315 360 220 touchmove 94 25 6 6 0 do 1
+do_you_need_it_today 1580964584332 360 220 touchmove 95 25 7.25 7.25 0 do 1
+do_you_need_it_today 1580964584339 360 220 touchend 95 25 7.25 7.25 0 do 1
+do_you_need_it_today 1580964584277 360 220 touchstart 94 25 2.25 2.25 0 do 1 1
+do_you_need_it_today 1580964584298 360 220 touchmove 94 25 4.25 4.25 0 do 1 1
+do_you_need_it_today 1580964584315 360 220 touchmove 94 25 6 6 0 do 1 1
+do_you_need_it_today 1580964584332 360 220 touchmove 95 25 7.25 7.25 0 do 1 1
+do_you_need_it_today 1580964584339 360 220 touchend 95 25 7.25 7.25 0 do 1 1
+do_you_need_it_today 1580964584459 360 220 touchstart 91 23 3.75 3.75 0 do 1
+do_you_need_it_today 1580964584481 360 220 touchmove 91 23 5.75 5.75 0 do 1
+do_you_need_it_today 1580964584498 360 220 touchmove 91 23 7.5 7.5 0 do 1
+do_you_need_it_today 1580964584514 360 220 touchmove 91 23 9 9 0 do 1
+do_you_need_it_today 1580964584531 360 220 touchmove 91 25 9.5 9.5 0 do 1
+do_you_need_it_today 1580964584540 360 220 touchend 91 25 9.5 9.5 0 do 1
+do_you_need_it_today 1580964584750 360 220 touchmove 118 80 8.5 8.5 0 do 1
+do_you_need_it_today 1580964584757 360 220 touchend 118 80 8.5 8.5 0 do 1
+do_you_need_it_today 1580964585910 360 220 touchstart 259 32 2 2 0 do 1
+do_you_need_it_today 1580964585931 360 220 touchmove 259 32 4.25 4.25 0 do 1
+do_you_need_it_today 1580964585948 360 220 touchmove 259 32 6.25 6.25 0 do 1
+do_you_need_it_today 1580964585964 360 220 touchmove 259 32 7.75 7.75 0 do 1
+do_you_need_it_today 1580964585981 360 220 touchmove 259 32 8 8 0 do 1
+do_you_need_it_today 1580964585990 360 220 touchend 259 32 8 8 0 do 1
+do_you_need_it_today 1580964586255 360 220 touchmove 159 23 8 8 0 do 1
+do_you_need_it_today 1580964586256 360 220 touchend 159 23 8 8 0 do 1
+do_you_need_it_today 1580964586891 360 220 touchstart 168 20 2.5 2.5 0 do 1
+do_you_need_it_today 1580964586914 360 220 touchmove 168 20 4.75 4.75 0 do 1
+do_you_need_it_today 1580964586931 360 220 touchmove 168 20 6.5 6.5 0 do 1
+do_you_need_it_today 1580964586948 360 220 touchmove 168 21 8 8 0 do 1
+do_you_need_it_today 1580964586964 360 220 touchmove 169 24 8.75 8.75 0 do 1
+do_you_need_it_today 1580964586972 360 220 touchend 169 24 8.75 8.75 0 do 1
+do_you_need_it_today 1580964587209 360 220 touchstart 304 13 2.75 2.75 0 do 1
+do_you_need_it_today 1580964587231 360 220 touchmove 304 13 4.75 4.75 0 do 1
+do_you_need_it_today 1580964587248 360 220 touchmove 304 13 6.5 6.5 0 do 1
+do_you_need_it_today 1580964587268 360 220 touchmove 302 15 7.25 7.25 0 do 1
+do_you_need_it_today 1580964587277 360 220 touchend 302 15 7.25 7.25 0 do 1
+do_you_need_it_today 1580964587640 360 220 touchstart 111 95 1.25 1.25 0 do 1
+do_you_need_it_today 1580964587663 360 220 touchmove 111 95 3.5 3.5 0 do 1
+do_you_need_it_today 1580964587681 360 220 touchmove 111 95 5.5 5.5 0 do 1
+do_you_need_it_today 1580964587697 360 220 touchmove 111 95 7 7 0 do 1
+do_you_need_it_today 1580964587714 360 220 touchmove 110 95 7.25 7.25 0 do 1
+do_you_need_it_today 1580964587724 360 220 touchend 110 95 7.25 7.25 0 do 1
+do_you_need_it_today 1580964587941 360 220 touchend 35 89 8.5 8.5 0 do 1
+do_you_need_it_today 1580964588325 360 220 touchstart 189 23 1.25 1.25 0 do 1
+do_you_need_it_today 1580964588348 360 220 touchmove 189 23 3.25 3.25 0 do 1
+do_you_need_it_today 1580964588365 360 220 touchmove 189 23 5 5 0 do 1
+do_you_need_it_today 1580964588381 360 220 touchmove 190 24 6.25 6.25 0 do 1
+do_you_need_it_today 1580964588389 360 220 touchend 190 24 6.25 6.25 0 do 1
+i_agreed_terms_with_greg 1580964616577 360 220 touchstart 270 26 1.5 1.5 0 i 0
+i_agreed_terms_with_greg 1580964616598 360 220 touchmove 270 26 3.5 3.5 0 i 0
+i_agreed_terms_with_greg 1580964616613 360 220 touchmove 270 26 5.25 5.25 0 i 0
+i_agreed_terms_with_greg 1580964616630 360 220 touchmove 270 26 7 7 0 i 0
+i_agreed_terms_with_greg 1580964616647 360 220 touchmove 270 26 8.5 8.5 0 i 0
+i_agreed_terms_with_greg 1580964616663 360 220 touchmove 270 26 9.75 9.75 0 i 0
+i_agreed_terms_with_greg 1580964616680 360 220 touchmove 270 26 10.5 10.5 0 i 0
+i_agreed_terms_with_greg 1580964616690 360 220 touchend 270 26 10.5 10.5 0 i 0
+i_agreed_terms_with_greg 1580964618229 360 220 touchmove 189 205 3.75 3.75 0 agreed 1
+i_agreed_terms_with_greg 1580964618246 360 220 touchmove 189 205 5 5 0 agreed 1
+i_agreed_terms_with_greg 1580964618271 360 220 touchend 189 205 5 5 0 agreed 1
+i_agreed_terms_with_greg 1580964619947 360 220 touchmove 188 208 4 4 0 agreed 1
+i_agreed_terms_with_greg 1580964619963 360 220 touchmove 188 208 5.75 5.75 0 agreed 1
+i_agreed_terms_with_greg 1580964619980 360 220 touchmove 188 208 7.25 7.25 0 agreed 1
+i_agreed_terms_with_greg 1580964619997 360 220 touchmove 188 208 8.5 8.5 0 agreed 1
+i_agreed_terms_with_greg 1580964620015 360 220 touchmove 188 208 9.25 9.25 0 agreed 1
+i_agreed_terms_with_greg 1580964620030 360 220 touchmove 188 208 8.75 8.75 0 agreed 1
+i_agreed_terms_with_greg 1580964620040 360 220 touchend 188 208 8.75 8.75 0 agreed 1
+i_agreed_terms_with_greg 1580964621009 360 220 touchstart 34 88 2.25 2.25 0 agreed 1
+i_agreed_terms_with_greg 1580964621030 360 220 touchmove 34 88 4.5 4.5 0 agreed 1
+i_agreed_terms_with_greg 1580964621047 360 220 touchmove 34 88 6.5 6.5 0 agreed 1
+i_agreed_terms_with_greg 1580964621063 360 220 touchmove 34 88 8.25 8.25 0 agreed 1
+i_agreed_terms_with_greg 1580964621080 360 220 touchmove 34 88 9.5 9.5 0 agreed 1
+i_agreed_terms_with_greg 1580964621096 360 220 touchmove 34 88 10.25 10.25 0 agreed 1
+i_agreed_terms_with_greg 1580964621106 360 220 touchend 34 88 10.25 10.25 0 agreed 1
+i_agreed_terms_with_greg 1580964622161 360 220 touchstart 179 98 2 2 0 agreed 1
+i_agreed_terms_with_greg 1580964622179 360 220 touchmove 179 98 4 4 0 agreed 1
+i_agreed_terms_with_greg 1580964622196 360 220 touchmove 179 98 5.75 5.75 0 agreed 1
+i_agreed_terms_with_greg 1580964622213 360 220 touchmove 179 98 7 7 0 agreed 1
+i_agreed_terms_with_greg 1580964622230 360 220 touchmove 179 98 7.5 7.5 0 agreed 1
+i_agreed_terms_with_greg 1580964622238 360 220 touchend 179 98 7.5 7.5 0 agreed 1
+i_agreed_terms_with_greg 1580964623259 360 220 touchstart 123 41 1.25 1.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623280 360 220 touchmove 123 41 3.25 3.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623297 360 220 touchmove 123 41 5.25 5.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623313 360 220 touchmove 123 41 7 7 0 agreed 1
+i_agreed_terms_with_greg 1580964623330 360 220 touchmove 123 41 8.25 8.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623354 360 220 touchend 123 41 8.25 8.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623675 360 220 touchstart 90 25 2.25 2.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623696 360 220 touchmove 90 25 4.25 4.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623715 360 220 touchmove 90 25 6 6 0 agreed 1
+i_agreed_terms_with_greg 1580964623730 360 220 touchmove 90 25 7.25 7.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623750 360 220 touchend 90 25 7.25 7.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623675 360 220 touchstart 90 25 2.25 2.25 0 agreed 1 1
+i_agreed_terms_with_greg 1580964623696 360 220 touchmove 90 25 4.25 4.25 0 agreed 1 1
+i_agreed_terms_with_greg 1580964623715 360 220 touchmove 90 25 6 6 0 agreed 1 1
+i_agreed_terms_with_greg 1580964623730 360 220 touchmove 90 25 7.25 7.25 0 agreed 1 1
+i_agreed_terms_with_greg 1580964623750 360 220 touchend 90 25 7.25 7.25 0 agreed 1 1
+i_agreed_terms_with_greg 1580964623875 360 220 touchstart 91 23 3.75 3.75 0 agreed 1
+i_agreed_terms_with_greg 1580964623897 360 220 touchmove 91 23 5.5 5.5 0 agreed 1
+i_agreed_terms_with_greg 1580964623915 360 220 touchmove 91 23 7.25 7.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623930 360 220 touchmove 91 23 8.5 8.5 0 agreed 1
+i_agreed_terms_with_greg 1580964623946 360 220 touchmove 91 25 8.25 8.25 0 agreed 1
+i_agreed_terms_with_greg 1580964623963 360 220 touchend 91 25 8.25 8.25 0 agreed 1
+i_agreed_terms_with_greg 1580964624431 360 220 touchstart 109 89 2.25 2.25 0 agreed 0
+i_agreed_terms_with_greg 1580964624446 360 220 touchmove 109 89 4.25 4.25 0 agreed 0
+i_agreed_terms_with_greg 1580964624464 360 220 touchmove 109 89 6.25 6.25 0 agreed 0
+i_agreed_terms_with_greg 1580964624480 360 220 touchmove 109 89 7.75 7.75 0 agreed 0
+i_agreed_terms_with_greg 1580964624496 360 220 touchmove 109 90 9 9 0 agreed 0
+i_agreed_terms_with_greg 1580964624514 360 220 touchmove 111 91 8.75 8.75 0 agreed 0
+i_agreed_terms_with_greg 1580964624522 360 220 touchend 111 91 8.75 8.75 0 agreed 0
+i_agreed_terms_with_greg 1580964626423 360 220 touchstart 162 31 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964626446 360 220 touchmove 162 31 4.5 4.5 0 terms 1
+i_agreed_terms_with_greg 1580964626463 360 220 touchmove 162 31 6.25 6.25 0 terms 1
+i_agreed_terms_with_greg 1580964626480 360 220 touchmove 162 31 7.75 7.75 0 terms 1
+i_agreed_terms_with_greg 1580964626498 360 220 touchmove 162 32 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964626505 360 220 touchend 162 32 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964627324 360 220 touchstart 92 34 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964627346 360 220 touchmove 92 34 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964627364 360 220 touchmove 92 34 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964627380 360 220 touchmove 92 34 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964627396 360 220 touchmove 92 34 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964627420 360 220 touchend 92 34 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964627646 360 220 touchmove 118 23 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964627663 360 220 touchmove 118 23 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964627671 360 220 touchend 118 23 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964628208 360 220 touchstart 270 145 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964628231 360 220 touchmove 270 145 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964628246 360 220 touchmove 270 145 5.5 5.5 0 terms 1
+i_agreed_terms_with_greg 1580964628263 360 220 touchmove 270 145 6.25 6.25 0 terms 1
+i_agreed_terms_with_greg 1580964628271 360 220 touchend 270 145 6.25 6.25 0 terms 1
+i_agreed_terms_with_greg 1580964629041 360 220 touchstart 71 93 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964629065 360 220 touchmove 71 93 4.5 4.5 0 terms 1
+i_agreed_terms_with_greg 1580964629080 360 220 touchmove 71 93 6.5 6.5 0 terms 1
+i_agreed_terms_with_greg 1580964629096 360 220 touchmove 71 93 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964629113 360 220 touchmove 72 94 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964629121 360 220 touchend 72 94 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964629729 360 220 touchmove 203 206 3.75 3.75 0 terms 1
+i_agreed_terms_with_greg 1580964629747 360 220 touchmove 203 206 5.5 5.5 0 terms 1
+i_agreed_terms_with_greg 1580964629763 360 220 touchmove 203 206 7 7 0 terms 1
+i_agreed_terms_with_greg 1580964629779 360 220 touchmove 203 206 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964629796 360 220 touchmove 203 206 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964629813 360 220 touchmove 203 208 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964629821 360 220 touchend 203 208 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964632681 360 220 touchmove 329 164 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964632697 360 220 touchmove 329 164 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964632712 360 220 touchmove 329 164 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964632729 360 220 touchmove 329 164 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964632746 360 220 touchmove 329 164 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964632755 360 220 touchend 329 164 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964632891 360 220 touchstart 323 162 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964632915 360 220 touchmove 323 162 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964632929 360 220 touchmove 323 162 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964632946 360 220 touchmove 323 162 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964632963 360 220 touchmove 323 162 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964632979 360 220 touchmove 323 162 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964632988 360 220 touchend 323 162 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964629729 360 220 touchmove 203 206 3.75 3.75 0 terms 1 1
+i_agreed_terms_with_greg 1580964629747 360 220 touchmove 203 206 5.5 5.5 0 terms 1 1
+i_agreed_terms_with_greg 1580964629763 360 220 touchmove 203 206 7 7 0 terms 1 1
+i_agreed_terms_with_greg 1580964629779 360 220 touchmove 203 206 8.25 8.25 0 terms 1 1
+i_agreed_terms_with_greg 1580964629796 360 220 touchmove 203 206 9.25 9.25 0 terms 1 1
+i_agreed_terms_with_greg 1580964629813 360 220 touchmove 203 208 9.5 9.5 0 terms 1 1
+i_agreed_terms_with_greg 1580964629821 360 220 touchend 203 208 9.5 9.5 0 terms 1 1
+i_agreed_terms_with_greg 1580964632681 360 220 touchmove 329 164 4 4 0 terms 1 1
+i_agreed_terms_with_greg 1580964632697 360 220 touchmove 329 164 5.75 5.75 0 terms 1 1
+i_agreed_terms_with_greg 1580964632712 360 220 touchmove 329 164 7.25 7.25 0 terms 1 1
+i_agreed_terms_with_greg 1580964632729 360 220 touchmove 329 164 8.25 8.25 0 terms 1 1
+i_agreed_terms_with_greg 1580964632746 360 220 touchmove 329 164 8.5 8.5 0 terms 1 1
+i_agreed_terms_with_greg 1580964632755 360 220 touchend 329 164 8.5 8.5 0 terms 1 1
+i_agreed_terms_with_greg 1580964632891 360 220 touchstart 323 162 4 4 0 terms 1 1
+i_agreed_terms_with_greg 1580964632915 360 220 touchmove 323 162 5.75 5.75 0 terms 1 1
+i_agreed_terms_with_greg 1580964632929 360 220 touchmove 323 162 7.25 7.25 0 terms 1 1
+i_agreed_terms_with_greg 1580964632946 360 220 touchmove 323 162 8.5 8.5 0 terms 1 1
+i_agreed_terms_with_greg 1580964632963 360 220 touchmove 323 162 9.25 9.25 0 terms 1 1
+i_agreed_terms_with_greg 1580964632979 360 220 touchmove 323 162 8.75 8.75 0 terms 1 1
+i_agreed_terms_with_greg 1580964632988 360 220 touchend 323 162 8.75 8.75 0 terms 1 1
+i_agreed_terms_with_greg 1580964633110 360 220 touchstart 323 153 4.5 4.5 0 terms 1
+i_agreed_terms_with_greg 1580964633129 360 220 touchmove 323 153 6.25 6.25 0 terms 1
+i_agreed_terms_with_greg 1580964633146 360 220 touchmove 323 153 7.75 7.75 0 terms 1
+i_agreed_terms_with_greg 1580964633163 360 220 touchmove 323 153 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964633179 360 220 touchmove 323 153 10 10 0 terms 1
+i_agreed_terms_with_greg 1580964633196 360 220 touchmove 322 154 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964633205 360 220 touchend 322 154 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964633323 360 220 touchstart 324 161 4.75 4.75 0 terms 1
+i_agreed_terms_with_greg 1580964633346 360 220 touchmove 324 161 6.5 6.5 0 terms 1
+i_agreed_terms_with_greg 1580964633363 360 220 touchmove 324 161 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964633379 360 220 touchmove 324 161 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964633397 360 220 touchmove 324 161 10.25 10.25 0 terms 1
+i_agreed_terms_with_greg 1580964633413 360 220 touchmove 324 161 10.5 10.5 0 terms 1
+i_agreed_terms_with_greg 1580964633423 360 220 touchend 324 161 10.5 10.5 0 terms 1
+i_agreed_terms_with_greg 1580964633669 360 220 touchmove 322 163 10.75 10.75 0 terms 1
+i_agreed_terms_with_greg 1580964633672 360 220 touchend 322 163 10.75 10.75 0 terms 1
+i_agreed_terms_with_greg 1580964634627 360 220 touchstart 158 33 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964634646 360 220 touchmove 158 33 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964634662 360 220 touchmove 158 33 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964634679 360 220 touchmove 158 33 7.75 7.75 0 terms 1
+i_agreed_terms_with_greg 1580964634696 360 220 touchmove 158 33 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964634712 360 220 touchmove 158 33 10.5 10.5 0 terms 1
+i_agreed_terms_with_greg 1580964634729 360 220 touchmove 158 33 11.5 11.5 0 terms 1
+i_agreed_terms_with_greg 1580964634745 360 220 touchmove 158 34 12 12 0 terms 1
+i_agreed_terms_with_greg 1580964634762 360 220 touchmove 159 35 11.5 11.5 0 terms 1
+i_agreed_terms_with_greg 1580964634771 360 220 touchend 159 35 11.5 11.5 0 terms 1
+i_agreed_terms_with_greg 1580964635683 360 220 touchstart 89 29 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964635685 360 220 touchmove 89 29 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964635696 360 220 touchmove 89 29 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964635712 360 220 touchmove 89 29 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964635732 360 220 touchmove 89 29 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964635745 360 220 touchmove 89 30 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964635753 360 220 touchend 89 30 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964636011 360 220 touchstart 111 23 2.5 2.5 0 terms 1
+i_agreed_terms_with_greg 1580964636029 360 220 touchmove 111 23 4.5 4.5 0 terms 1
+i_agreed_terms_with_greg 1580964636045 360 220 touchmove 111 23 6.25 6.25 0 terms 1
+i_agreed_terms_with_greg 1580964636063 360 220 touchmove 112 24 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964636071 360 220 touchend 112 24 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964636644 360 220 touchstart 288 161 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964636663 360 220 touchmove 288 161 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964636679 360 220 touchmove 288 161 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964636696 360 220 touchmove 288 161 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964636712 360 220 touchmove 288 161 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964636721 360 220 touchend 288 161 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964637325 360 220 touchstart 76 92 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964637345 360 220 touchmove 76 92 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964637362 360 220 touchmove 76 92 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964637379 360 220 touchmove 76 92 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964637396 360 220 touchmove 76 92 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964637413 360 220 touchmove 77 93 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964637429 360 220 touchmove 78 94 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964637438 360 220 touchend 78 94 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964637779 360 220 touchmove 210 219 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964637796 360 220 touchmove 210 219 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964637814 360 220 touchmove 210 219 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964637829 360 220 touchmove 210 219 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964637845 360 220 touchmove 210 219 10.25 10.25 0 terms 1
+i_agreed_terms_with_greg 1580964637862 360 220 touchmove 210 219 11.25 11.25 0 terms 1
+i_agreed_terms_with_greg 1580964637879 360 220 touchmove 210 219 12.25 12.25 0 terms 1
+i_agreed_terms_with_greg 1580964637896 360 220 touchmove 209 218 12.5 12.5 0 terms 1
+i_agreed_terms_with_greg 1580964637904 360 220 touchend 209 218 12.5 12.5 0 terms 1
+i_agreed_terms_with_greg 1580964638459 360 220 touchstart 54 30 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964638479 360 220 touchmove 54 30 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964638495 360 220 touchmove 54 30 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964638512 360 220 touchmove 54 30 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964638529 360 220 touchmove 54 30 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964638537 360 220 touchend 54 30 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964639309 360 220 touchstart 266 42 1 1 0 terms 1
+i_agreed_terms_with_greg 1580964639329 360 220 touchmove 266 42 3 3 0 terms 1
+i_agreed_terms_with_greg 1580964639346 360 220 touchmove 266 42 5 5 0 terms 1
+i_agreed_terms_with_greg 1580964639361 360 220 touchmove 266 42 6.75 6.75 0 terms 1
+i_agreed_terms_with_greg 1580964639378 360 220 touchmove 266 42 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964639395 360 220 touchmove 266 42 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964639404 360 220 touchend 266 42 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964640008 360 220 touchstart 150 27 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964640029 360 220 touchmove 150 27 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964640046 360 220 touchmove 150 27 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964640062 360 220 touchmove 150 27 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964640079 360 220 touchmove 151 28 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964640096 360 220 touchmove 153 31 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964640105 360 220 touchend 153 31 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964640442 360 220 touchstart 209 87 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964640454 360 220 touchmove 209 87 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964640471 360 220 touchmove 209 87 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964640488 360 220 touchmove 209 87 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964640503 360 220 touchmove 210 87 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964640520 360 220 touchmove 211 89 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964640536 360 220 touchend 211 89 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964641854 360 220 touchstart 175 97 1.25 1.25 0 terms 1
+i_agreed_terms_with_greg 1580964641878 360 220 touchmove 175 97 3.25 3.25 0 terms 1
+i_agreed_terms_with_greg 1580964641895 360 220 touchmove 175 97 5.25 5.25 0 terms 1
+i_agreed_terms_with_greg 1580964641911 360 220 touchmove 175 97 7 7 0 terms 1
+i_agreed_terms_with_greg 1580964641928 360 220 touchmove 175 97 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964641945 360 220 touchmove 175 97 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964641962 360 220 touchmove 176 98 10 10 0 terms 1
+i_agreed_terms_with_greg 1580964641971 360 220 touchend 176 98 10 10 0 terms 1
+i_agreed_terms_with_greg 1580964642356 360 220 touchstart 124 32 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964642379 360 220 touchmove 124 32 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964642395 360 220 touchmove 124 32 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964642412 360 220 touchmove 124 32 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964642429 360 220 touchmove 124 32 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964642445 360 220 touchmove 124 33 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964642454 360 220 touchend 124 33 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964642672 360 220 touchend 93 26 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964643091 360 220 touchstart 182 102 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964643112 360 220 touchmove 182 102 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964643129 360 220 touchmove 182 102 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964643145 360 220 touchmove 182 102 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964643162 360 220 touchmove 182 102 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964643179 360 220 touchmove 182 103 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964643190 360 220 touchend 182 103 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964659875 360 220 touchstart 168 36 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964659894 360 220 touchmove 168 36 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964659912 360 220 touchmove 168 36 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964659928 360 220 touchmove 168 36 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964659945 360 220 touchmove 168 36 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964659961 360 220 touchmove 168 36 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964659978 360 220 touchmove 166 38 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964659987 360 220 touchend 166 38 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964660595 360 220 touchmove 94 28 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964660611 360 220 touchmove 94 28 8.25 8.25 0 terms 1
+i_agreed_terms_with_greg 1580964660628 360 220 touchmove 94 29 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964660637 360 220 touchend 94 29 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964661623 360 220 touchstart 127 34 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964661645 360 220 touchmove 127 34 3.75 3.75 0 terms 1
+i_agreed_terms_with_greg 1580964661661 360 220 touchmove 127 34 5.25 5.25 0 terms 1
+i_agreed_terms_with_greg 1580964661678 360 220 touchmove 128 36 5.5 5.5 0 terms 1
+i_agreed_terms_with_greg 1580964661687 360 220 touchend 128 36 5.5 5.5 0 terms 1
+i_agreed_terms_with_greg 1580964662307 360 220 touchstart 290 143 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964662329 360 220 touchmove 290 143 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964662345 360 220 touchmove 290 143 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964662361 360 220 touchmove 290 143 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964662378 360 220 touchmove 290 143 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964662395 360 220 touchmove 290 143 10.25 10.25 0 terms 1
+i_agreed_terms_with_greg 1580964662416 360 220 touchmove 290 143 11 11 0 terms 1
+i_agreed_terms_with_greg 1580964662428 360 220 touchmove 290 143 11.25 11.25 0 terms 1
+i_agreed_terms_with_greg 1580964662438 360 220 touchend 290 143 11.25 11.25 0 terms 1
+i_agreed_terms_with_greg 1580964663307 360 220 touchstart 80 87 2.5 2.5 0 terms 1
+i_agreed_terms_with_greg 1580964663328 360 220 touchmove 80 87 4.75 4.75 0 terms 1
+i_agreed_terms_with_greg 1580964663344 360 220 touchmove 80 87 6.5 6.5 0 terms 1
+i_agreed_terms_with_greg 1580964663361 360 220 touchmove 80 87 8 8 0 terms 1
+i_agreed_terms_with_greg 1580964663377 360 220 touchmove 80 87 9.25 9.25 0 terms 1
+i_agreed_terms_with_greg 1580964663399 360 220 touchmove 80 87 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964663404 360 220 touchend 80 87 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964664245 360 220 touchmove 199 210 4.75 4.75 0 terms 1
+i_agreed_terms_with_greg 1580964664262 360 220 touchmove 199 210 6.75 6.75 0 terms 1
+i_agreed_terms_with_greg 1580964664278 360 220 touchmove 199 210 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964664294 360 220 touchmove 199 210 9.75 9.75 0 terms 1
+i_agreed_terms_with_greg 1580964664311 360 220 touchmove 199 210 11 11 0 terms 1
+i_agreed_terms_with_greg 1580964664327 360 220 touchmove 199 210 12.25 12.25 0 terms 1
+i_agreed_terms_with_greg 1580964664344 360 220 touchmove 199 210 13 13 0 terms 1
+i_agreed_terms_with_greg 1580964664361 360 220 touchmove 199 210 13.75 13.75 0 terms 1
+i_agreed_terms_with_greg 1580964664378 360 220 touchmove 199 210 14.25 14.25 0 terms 1
+i_agreed_terms_with_greg 1580964664394 360 220 touchmove 198 211 13.75 13.75 0 terms 1
+i_agreed_terms_with_greg 1580964664404 360 220 touchend 198 211 13.75 13.75 0 terms 1
+i_agreed_terms_with_greg 1580964665089 360 220 touchstart 65 38 1.75 1.75 0 terms 1
+i_agreed_terms_with_greg 1580964665111 360 220 touchmove 65 38 3.5 3.5 0 terms 1
+i_agreed_terms_with_greg 1580964665128 360 220 touchmove 65 38 5 5 0 terms 1
+i_agreed_terms_with_greg 1580964665144 360 220 touchmove 65 38 6.25 6.25 0 terms 1
+i_agreed_terms_with_greg 1580964665161 360 220 touchmove 65 38 6.75 6.75 0 terms 1
+i_agreed_terms_with_greg 1580964665186 360 220 touchend 65 38 6.75 6.75 0 terms 1
+i_agreed_terms_with_greg 1580964666075 360 220 touchstart 271 26 2 2 0 terms 1
+i_agreed_terms_with_greg 1580964666094 360 220 touchmove 271 26 4 4 0 terms 1
+i_agreed_terms_with_greg 1580964666111 360 220 touchmove 271 26 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964666127 360 220 touchmove 271 26 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964666146 360 220 touchmove 271 26 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964666161 360 220 touchmove 270 27 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964666170 360 220 touchend 270 27 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964666639 360 220 touchstart 162 33 2.25 2.25 0 terms 1
+i_agreed_terms_with_greg 1580964666662 360 220 touchmove 162 33 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964666678 360 220 touchmove 162 33 6 6 0 terms 1
+i_agreed_terms_with_greg 1580964666695 360 220 touchmove 162 33 7.5 7.5 0 terms 1
+i_agreed_terms_with_greg 1580964666711 360 220 touchmove 162 33 8.75 8.75 0 terms 1
+i_agreed_terms_with_greg 1580964666728 360 220 touchmove 163 33 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964666744 360 220 touchmove 164 35 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964666753 360 220 touchend 164 35 9 9 0 terms 1
+i_agreed_terms_with_greg 1580964666971 360 220 touchstart 214 95 2.5 2.5 0 terms 1
+i_agreed_terms_with_greg 1580964666994 360 220 touchmove 214 95 4.25 4.25 0 terms 1
+i_agreed_terms_with_greg 1580964667011 360 220 touchmove 214 95 5.75 5.75 0 terms 1
+i_agreed_terms_with_greg 1580964667028 360 220 touchmove 214 95 7.25 7.25 0 terms 1
+i_agreed_terms_with_greg 1580964667044 360 220 touchmove 214 95 8.5 8.5 0 terms 1
+i_agreed_terms_with_greg 1580964667061 360 220 touchmove 214 95 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964667078 360 220 touchmove 216 97 9.5 9.5 0 terms 1
+i_agreed_terms_with_greg 1580964667086 360 220 touchend 216 97 9.5 9.5 0 terms 1

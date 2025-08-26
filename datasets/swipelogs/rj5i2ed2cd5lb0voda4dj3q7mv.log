@@ -1,0 +1,1988 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+church_tyler_upmkymmene_kings 1581634322971 360 210 touchstart 137 137 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323049 360 210 touchmove 146 133 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323080 360 210 touchmove 168 117 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323211 360 210 touchmove 237 43 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323226 360 210 touchmove 238 39 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323241 360 210 touchmove 238 35 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323262 360 210 touchmove 236 30 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323277 360 210 touchmove 233 24 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323293 360 210 touchmove 227 19 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323309 360 210 touchmove 220 14 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323326 360 210 touchmove 211 10 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323345 360 210 touchmove 199 7 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323360 360 210 touchmove 186 4 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323376 360 210 touchmove 176 3 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323395 360 210 touchmove 168 3 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323417 360 210 touchmove 159 5 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323427 360 210 touchmove 156 6 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323444 360 210 touchmove 150 10 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323461 360 210 touchmove 145 17 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323476 360 210 touchmove 142 26 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323494 360 210 touchmove 140 37 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323509 360 210 touchmove 139 49 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323526 360 210 touchmove 138 60 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323543 360 210 touchmove 137 70 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323559 360 210 touchmove 137 80 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323576 360 210 touchmove 137 90 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323593 360 210 touchmove 138 101 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323610 360 210 touchmove 141 114 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323627 360 210 touchmove 147 127 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323658 360 210 touchmove 153 141 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323682 360 210 touchmove 156 148 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323696 360 210 touchmove 157 148 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323713 360 210 touchmove 157 149 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323778 360 210 touchmove 162 145 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323796 360 210 touchmove 172 136 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323824 360 210 touchmove 193 113 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323851 360 210 touchmove 210 95 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323866 360 210 touchmove 220 85 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323919 360 210 touchmove 234 72 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634323923 360 210 touchend 234 72 0 0 0 church 0
+church_tyler_upmkymmene_kings 1581634324916 360 210 touchstart 154 20 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634324997 360 210 touchmove 163 22 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325013 360 210 touchmove 176 27 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325031 360 210 touchmove 193 35 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325049 360 210 touchmove 210 43 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325064 360 210 touchmove 227 51 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325081 360 210 touchmove 244 58 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325098 360 210 touchmove 260 62 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325115 360 210 touchmove 271 64 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325131 360 210 touchmove 279 65 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325149 360 210 touchmove 284 65 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325165 360 210 touchmove 289 65 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325181 360 210 touchmove 293 65 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325198 360 210 touchmove 296 64 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325216 360 210 touchmove 297 64 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325246 360 210 touchmove 297 64 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325265 360 210 touchmove 296 59 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325284 360 210 touchmove 288 49 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325298 360 210 touchmove 274 39 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325315 360 210 touchmove 256 31 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325332 360 210 touchmove 236 25 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325351 360 210 touchmove 215 23 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325365 360 210 touchmove 195 22 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325384 360 210 touchmove 175 22 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325400 360 210 touchmove 156 22 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325415 360 210 touchmove 139 23 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325432 360 210 touchmove 124 23 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325448 360 210 touchmove 114 23 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325465 360 210 touchmove 107 23 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325483 360 210 touchmove 103 24 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325498 360 210 touchmove 102 24 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325566 360 210 touchmove 107 24 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325582 360 210 touchmove 117 24 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325600 360 210 touchmove 127 23 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325617 360 210 touchmove 138 21 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325635 360 210 touchmove 146 19 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325651 360 210 touchmove 152 18 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325666 360 210 touchmove 159 16 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634325677 360 210 touchend 159 16 0 0 0 tyler 0
+church_tyler_upmkymmene_kings 1581634327125 360 210 touchstart 223 36 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327218 360 210 touchmove 223 36 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327236 360 210 touchmove 229 37 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327254 360 210 touchmove 241 40 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327269 360 210 touchmove 254 43 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327286 360 210 touchmove 269 46 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327303 360 210 touchmove 282 48 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327319 360 210 touchmove 291 50 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327336 360 210 touchmove 297 50 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327352 360 210 touchmove 302 50 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327369 360 210 touchmove 306 49 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327386 360 210 touchmove 311 46 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327403 360 210 touchmove 316 42 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327420 360 210 touchmove 319 38 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327440 360 210 touchmove 322 32 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327454 360 210 touchmove 324 23 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327470 360 210 touchmove 326 14 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327487 360 210 touchmove 326 8 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327503 360 210 touchmove 327 3 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327520 360 210 touchmove 327 1 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327537 360 210 touchmove 327 0 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327554 360 210 touchmove 327 -1 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327570 360 210 touchmove 327 -1 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327588 360 210 touchmove 327 -2 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327654 360 210 touchmove 326 -2 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327684 360 210 touchmove 326 -3 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327787 360 210 touchmove 323 -1 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327804 360 210 touchmove 317 6 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327821 360 210 touchmove 311 13 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327837 360 210 touchmove 306 19 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327855 360 210 touchmove 303 22 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327871 360 210 touchmove 301 24 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327888 360 210 touchmove 299 25 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327904 360 210 touchmove 296 28 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327921 360 210 touchmove 292 34 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327938 360 210 touchmove 289 39 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327954 360 210 touchmove 287 44 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327972 360 210 touchmove 285 49 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634327988 360 210 touchmove 284 56 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328006 360 210 touchmove 282 64 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328023 360 210 touchmove 281 72 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328039 360 210 touchmove 278 80 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328055 360 210 touchmove 276 89 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328072 360 210 touchmove 274 99 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328088 360 210 touchmove 274 107 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328110 360 210 touchmove 275 115 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328122 360 210 touchmove 277 122 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328138 360 210 touchmove 280 128 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328156 360 210 touchmove 282 133 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328173 360 210 touchmove 284 140 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328190 360 210 touchmove 286 146 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328206 360 210 touchmove 287 149 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328225 360 210 touchmove 287 151 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328238 360 210 touchmove 287 152 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328255 360 210 touchmove 287 152 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328285 360 210 touchmove 286 152 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328305 360 210 touchmove 280 151 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328322 360 210 touchmove 273 149 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328339 360 210 touchmove 268 147 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328357 360 210 touchmove 265 146 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328374 360 210 touchmove 263 146 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328390 360 210 touchmove 261 145 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328405 360 210 touchmove 257 143 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328423 360 210 touchmove 251 135 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328439 360 210 touchmove 243 126 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328456 360 210 touchmove 237 117 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328473 360 210 touchmove 232 111 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328490 360 210 touchmove 230 108 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328506 360 210 touchmove 228 106 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328523 360 210 touchmove 227 105 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328540 360 210 touchmove 226 103 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328556 360 210 touchmove 226 102 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328573 360 210 touchmove 225 102 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328589 360 210 touchmove 224 101 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328606 360 210 touchmove 223 100 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328623 360 210 touchmove 223 100 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328640 360 210 touchmove 222 100 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328657 360 210 touchmove 221 99 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328740 360 210 touchmove 212 98 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328825 360 210 touchmove 213 98 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328840 360 210 touchmove 214 98 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328889 360 210 touchmove 214 98 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328907 360 210 touchmove 215 98 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328924 360 210 touchmove 216 97 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328941 360 210 touchmove 218 96 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328956 360 210 touchmove 222 95 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328973 360 210 touchmove 226 94 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634328991 360 210 touchmove 229 93 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329007 360 210 touchmove 232 91 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329024 360 210 touchmove 236 90 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329041 360 210 touchmove 240 88 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329100 360 210 touchmove 242 86 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329109 360 210 touchmove 241 82 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329129 360 210 touchmove 232 70 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329143 360 210 touchmove 229 66 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329160 360 210 touchmove 222 57 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329174 360 210 touchmove 216 50 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329192 360 210 touchmove 212 46 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329210 360 210 touchmove 210 43 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329226 360 210 touchmove 208 40 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329241 360 210 touchmove 206 37 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329258 360 210 touchmove 204 34 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329276 360 210 touchmove 203 31 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329293 360 210 touchmove 202 29 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329309 360 210 touchmove 201 28 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329324 360 210 touchmove 201 28 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329407 360 210 touchmove 201 27 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329427 360 210 touchmove 200 27 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329453 360 210 touchmove 200 27 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329507 360 210 touchmove 199 27 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329625 360 210 touchmove 198 29 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329642 360 210 touchmove 198 34 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329658 360 210 touchmove 198 42 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329676 360 210 touchmove 200 51 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329693 360 210 touchmove 204 60 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329710 360 210 touchmove 210 69 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329729 360 210 touchmove 216 79 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329742 360 210 touchmove 224 89 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329758 360 210 touchmove 233 101 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329775 360 210 touchmove 243 113 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329792 360 210 touchmove 251 122 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329811 360 210 touchmove 258 128 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329827 360 210 touchmove 263 132 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329843 360 210 touchmove 266 135 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329867 360 210 touchmove 270 137 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329880 360 210 touchmove 274 138 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329892 360 210 touchmove 277 139 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329908 360 210 touchmove 280 140 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329925 360 210 touchmove 283 141 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329943 360 210 touchmove 285 141 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329962 360 210 touchmove 288 141 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329976 360 210 touchmove 290 142 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634329993 360 210 touchmove 292 142 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330012 360 210 touchmove 293 142 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330108 360 210 touchmove 288 136 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330128 360 210 touchmove 276 123 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330143 360 210 touchmove 262 110 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330161 360 210 touchmove 249 98 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330178 360 210 touchmove 236 87 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330195 360 210 touchmove 222 77 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330210 360 210 touchmove 206 66 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330228 360 210 touchmove 190 57 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330243 360 210 touchmove 175 50 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330259 360 210 touchmove 160 45 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330276 360 210 touchmove 148 41 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330294 360 210 touchmove 137 39 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330312 360 210 touchmove 126 37 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330327 360 210 touchmove 117 36 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330345 360 210 touchmove 110 35 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330361 360 210 touchmove 104 33 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330377 360 210 touchmove 102 32 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330395 360 210 touchmove 102 32 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330423 360 210 touchmove 104 34 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330443 360 210 touchmove 115 44 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330460 360 210 touchmove 135 62 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330476 360 210 touchmove 160 82 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330493 360 210 touchmove 187 102 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330510 360 210 touchmove 212 120 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330527 360 210 touchmove 233 132 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330543 360 210 touchmove 249 140 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330561 360 210 touchmove 261 145 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330577 360 210 touchmove 270 148 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330594 360 210 touchmove 276 148 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330611 360 210 touchmove 278 148 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330670 360 210 touchmove 272 141 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330682 360 210 touchmove 248 124 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330696 360 210 touchmove 239 118 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330710 360 210 touchmove 220 109 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330730 360 210 touchmove 203 102 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330746 360 210 touchmove 188 97 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330763 360 210 touchmove 175 92 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330778 360 210 touchmove 165 87 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330796 360 210 touchmove 158 83 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330810 360 210 touchmove 154 82 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330828 360 210 touchmove 152 81 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330846 360 210 touchmove 151 81 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330911 360 210 touchmove 156 86 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330929 360 210 touchmove 166 100 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330947 360 210 touchmove 178 115 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330963 360 210 touchmove 190 129 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330980 360 210 touchmove 201 140 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634330995 360 210 touchmove 212 147 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331011 360 210 touchmove 222 152 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331029 360 210 touchmove 230 154 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331045 360 210 touchmove 233 155 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331078 360 210 touchmove 224 145 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331094 360 210 touchmove 207 131 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331111 360 210 touchmove 186 117 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331128 360 210 touchmove 168 106 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331145 360 210 touchmove 152 96 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331162 360 210 touchmove 137 88 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331178 360 210 touchmove 123 79 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331195 360 210 touchmove 107 68 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331212 360 210 touchmove 94 56 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331225 360 210 touchmove 89 51 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634331228 360 210 touchend 89 51 0 0 0 upmkymmene 0
+church_tyler_upmkymmene_kings 1581634333819 360 210 touchstart 289 98 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333885 360 210 touchmove 288 96 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333903 360 210 touchmove 286 93 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333919 360 210 touchmove 283 87 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333935 360 210 touchmove 279 76 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333952 360 210 touchmove 276 62 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333968 360 210 touchmove 273 48 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634333985 360 210 touchmove 271 35 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334002 360 210 touchmove 270 24 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334019 360 210 touchmove 270 15 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334035 360 210 touchmove 269 9 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334052 360 210 touchmove 269 7 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334069 360 210 touchmove 269 6 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334090 360 210 touchmove 269 9 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334102 360 210 touchmove 267 16 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334123 360 210 touchmove 263 40 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334138 360 210 touchmove 260 66 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334152 360 210 touchmove 257 90 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334169 360 210 touchmove 256 109 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334186 360 210 touchmove 255 123 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334203 360 210 touchmove 254 132 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334221 360 210 touchmove 253 139 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334236 360 210 touchmove 252 144 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334253 360 210 touchmove 250 148 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334270 360 210 touchmove 249 151 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334289 360 210 touchmove 247 153 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334305 360 210 touchmove 245 153 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334320 360 210 touchmove 240 152 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334337 360 210 touchmove 232 143 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334353 360 210 touchmove 222 128 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334369 360 210 touchmove 212 112 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334387 360 210 touchmove 203 97 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334403 360 210 touchmove 194 86 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334430 360 210 touchmove 186 75 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334442 360 210 touchmove 180 70 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334457 360 210 touchmove 174 67 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334470 360 210 touchmove 170 65 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334488 360 210 touchmove 162 63 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334503 360 210 touchmove 152 62 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334522 360 210 touchmove 143 63 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334537 360 210 touchmove 132 64 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334555 360 210 touchmove 121 68 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334572 360 210 touchmove 110 71 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334588 360 210 touchmove 100 75 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334605 360 210 touchmove 91 77 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334621 360 210 touchmove 85 80 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334638 360 210 touchmove 80 82 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334655 360 210 touchmove 75 86 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334667 360 210 touchmove 71 92 0 0 0 kings 0
+church_tyler_upmkymmene_kings 1581634334670 360 210 touchend 71 92 0 0 0 kings 0
+potter_anheuserbusch_div_character 1581634337957 360 210 touchstart 346 27 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338030 360 210 touchmove 344 27 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338047 360 210 touchmove 342 26 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338063 360 210 touchmove 336 26 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338080 360 210 touchmove 326 27 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338097 360 210 touchmove 313 28 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338113 360 210 touchmove 301 28 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338132 360 210 touchmove 290 27 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338150 360 210 touchmove 279 25 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338165 360 210 touchmove 269 24 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338180 360 210 touchmove 258 22 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338198 360 210 touchmove 247 19 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338216 360 210 touchmove 235 18 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338233 360 210 touchmove 225 17 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338252 360 210 touchmove 217 17 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338265 360 210 touchmove 209 17 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338283 360 210 touchmove 200 18 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338298 360 210 touchmove 191 19 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338314 360 210 touchmove 181 21 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338330 360 210 touchmove 171 23 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338348 360 210 touchmove 161 24 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338364 360 210 touchmove 153 26 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338381 360 210 touchmove 145 26 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338397 360 210 touchmove 138 27 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338414 360 210 touchmove 131 28 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338431 360 210 touchmove 123 28 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338447 360 210 touchmove 115 27 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338465 360 210 touchmove 109 26 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338483 360 210 touchmove 105 26 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338497 360 210 touchmove 103 25 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338564 360 210 touchmove 110 24 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338581 360 210 touchmove 122 23 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338597 360 210 touchmove 136 22 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338615 360 210 touchmove 141 22 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338630 360 210 touchmove 153 23 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634338643 360 210 touchend 153 23 0 0 0 potter 0
+potter_anheuserbusch_div_character 1581634340694 360 210 touchstart 53 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340753 360 210 touchmove 54 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340769 360 210 touchmove 57 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340787 360 210 touchmove 73 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340806 360 210 touchmove 87 99 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340820 360 210 touchmove 101 103 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340837 360 210 touchmove 115 108 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340853 360 210 touchmove 129 112 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340870 360 210 touchmove 143 115 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340888 360 210 touchmove 156 118 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340905 360 210 touchmove 170 121 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340920 360 210 touchmove 184 125 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340937 360 210 touchmove 196 130 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340958 360 210 touchmove 208 135 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340973 360 210 touchmove 217 140 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634340990 360 210 touchmove 225 145 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341005 360 210 touchmove 231 149 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341024 360 210 touchmove 235 152 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341037 360 210 touchmove 236 153 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341054 360 210 touchmove 237 153 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341071 360 210 touchmove 237 153 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341117 360 210 touchmove 238 153 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341194 360 210 touchmove 238 152 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341221 360 210 touchmove 237 146 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341240 360 210 touchmove 235 144 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341262 360 210 touchmove 234 143 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341290 360 210 touchmove 231 140 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341306 360 210 touchmove 230 139 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341321 360 210 touchmove 229 139 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341343 360 210 touchmove 227 137 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341357 360 210 touchmove 226 137 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341373 360 210 touchmove 221 135 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341391 360 210 touchmove 216 132 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341410 360 210 touchmove 210 130 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341421 360 210 touchmove 208 129 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341443 360 210 touchmove 203 127 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341456 360 210 touchmove 200 126 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341473 360 210 touchmove 198 126 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341490 360 210 touchmove 196 125 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341508 360 210 touchmove 195 125 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634341523 360 210 touchmove 195 125 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342039 360 210 touchmove 195 124 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342057 360 210 touchmove 195 124 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342078 360 210 touchmove 195 123 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342090 360 210 touchmove 195 123 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342109 360 210 touchmove 195 122 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342129 360 210 touchmove 195 122 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342142 360 210 touchmove 195 121 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342162 360 210 touchmove 195 120 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342178 360 210 touchmove 195 120 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342194 360 210 touchmove 195 119 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342210 360 210 touchmove 195 118 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342225 360 210 touchmove 195 117 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342241 360 210 touchmove 195 116 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342258 360 210 touchmove 195 115 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342273 360 210 touchmove 195 113 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342290 360 210 touchmove 195 112 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342310 360 210 touchmove 195 111 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342325 360 210 touchmove 195 110 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342346 360 210 touchmove 194 108 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342360 360 210 touchmove 194 107 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342377 360 210 touchmove 194 107 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342390 360 210 touchmove 194 106 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342409 360 210 touchmove 194 105 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342424 360 210 touchmove 194 104 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342443 360 210 touchmove 194 103 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342458 360 210 touchmove 194 102 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342476 360 210 touchmove 194 100 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342491 360 210 touchmove 194 98 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342508 360 210 touchmove 194 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342525 360 210 touchmove 194 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342543 360 210 touchmove 194 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342558 360 210 touchmove 194 91 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342575 360 210 touchmove 193 86 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342592 360 210 touchmove 191 81 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342610 360 210 touchmove 188 75 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342625 360 210 touchmove 185 69 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342641 360 210 touchmove 180 63 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342660 360 210 touchmove 175 57 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342676 360 210 touchmove 170 53 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342693 360 210 touchmove 165 49 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342710 360 210 touchmove 158 44 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342726 360 210 touchmove 151 41 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342745 360 210 touchmove 144 38 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342760 360 210 touchmove 137 36 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342776 360 210 touchmove 130 34 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342793 360 210 touchmove 123 32 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342811 360 210 touchmove 116 31 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342825 360 210 touchmove 111 30 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342842 360 210 touchmove 107 29 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342861 360 210 touchmove 104 29 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342875 360 210 touchmove 102 29 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342891 360 210 touchmove 102 29 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634342991 360 210 touchmove 105 34 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343009 360 210 touchmove 111 40 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343025 360 210 touchmove 117 45 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343042 360 210 touchmove 125 49 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343058 360 210 touchmove 135 51 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343075 360 210 touchmove 148 53 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343092 360 210 touchmove 164 54 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343108 360 210 touchmove 179 54 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343126 360 210 touchmove 193 55 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343143 360 210 touchmove 205 54 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343159 360 210 touchmove 216 52 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343176 360 210 touchmove 226 49 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343192 360 210 touchmove 236 43 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343209 360 210 touchmove 242 39 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343226 360 210 touchmove 245 36 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343243 360 210 touchmove 246 34 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343259 360 210 touchmove 246 32 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343276 360 210 touchmove 245 28 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343297 360 210 touchmove 241 23 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343310 360 210 touchmove 234 19 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343327 360 210 touchmove 224 17 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343344 360 210 touchmove 212 18 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343360 360 210 touchmove 196 21 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343377 360 210 touchmove 180 26 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343394 360 210 touchmove 164 33 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343410 360 210 touchmove 150 39 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343426 360 210 touchmove 137 45 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343443 360 210 touchmove 126 50 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343460 360 210 touchmove 116 55 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343477 360 210 touchmove 108 61 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343493 360 210 touchmove 99 68 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343511 360 210 touchmove 92 75 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343527 360 210 touchmove 87 82 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343543 360 210 touchmove 83 87 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343560 360 210 touchmove 80 92 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343577 360 210 touchmove 79 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343595 360 210 touchmove 78 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343610 360 210 touchmove 78 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343876 360 210 touchmove 86 47 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343894 360 210 touchmove 91 45 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343962 360 210 touchmove 105 42 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343978 360 210 touchmove 108 42 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634343994 360 210 touchmove 111 42 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344058 360 210 touchmove 114 43 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344078 360 210 touchmove 118 43 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344096 360 210 touchmove 118 43 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344124 360 210 touchmove 119 43 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344161 360 210 touchmove 119 44 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344178 360 210 touchmove 120 44 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344195 360 210 touchmove 122 45 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344211 360 210 touchmove 125 46 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344229 360 210 touchmove 127 47 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344245 360 210 touchmove 130 48 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344261 360 210 touchmove 131 50 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344278 360 210 touchmove 134 51 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344295 360 210 touchmove 136 54 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344312 360 210 touchmove 139 57 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344329 360 210 touchmove 142 61 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344346 360 210 touchmove 145 64 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344362 360 210 touchmove 149 69 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344379 360 210 touchmove 154 74 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344396 360 210 touchmove 159 79 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344412 360 210 touchmove 163 83 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344429 360 210 touchmove 165 86 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344446 360 210 touchmove 167 88 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344462 360 210 touchmove 168 90 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344479 360 210 touchmove 170 93 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344495 360 210 touchmove 172 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344512 360 210 touchmove 173 99 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344529 360 210 touchmove 174 103 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344545 360 210 touchmove 175 108 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344562 360 210 touchmove 176 113 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344579 360 210 touchmove 177 119 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344596 360 210 touchmove 177 125 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344612 360 210 touchmove 176 130 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344629 360 210 touchmove 176 135 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344646 360 210 touchmove 176 141 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344662 360 210 touchmove 175 145 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344679 360 210 touchmove 175 149 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344696 360 210 touchmove 175 152 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344713 360 210 touchmove 175 154 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344729 360 210 touchmove 175 157 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344746 360 210 touchmove 175 160 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344763 360 210 touchmove 175 162 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344779 360 210 touchmove 176 164 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344879 360 210 touchmove 180 158 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344896 360 210 touchmove 184 150 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344914 360 210 touchmove 188 141 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344930 360 210 touchmove 191 133 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344947 360 210 touchmove 195 123 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344969 360 210 touchmove 198 117 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344980 360 210 touchmove 208 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634344996 360 210 touchmove 215 80 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345013 360 210 touchmove 221 66 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345029 360 210 touchmove 226 56 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345047 360 210 touchmove 229 48 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345063 360 210 touchmove 231 43 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345080 360 210 touchmove 232 40 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345098 360 210 touchmove 232 37 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345115 360 210 touchmove 233 35 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345130 360 210 touchmove 233 34 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345147 360 210 touchmove 233 34 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345177 360 210 touchmove 233 33 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345197 360 210 touchmove 232 32 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345214 360 210 touchmove 229 30 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345232 360 210 touchmove 225 29 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345248 360 210 touchmove 217 28 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345264 360 210 touchmove 205 29 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345280 360 210 touchmove 191 31 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345296 360 210 touchmove 176 35 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345313 360 210 touchmove 163 40 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345330 360 210 touchmove 150 45 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345347 360 210 touchmove 139 50 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345364 360 210 touchmove 129 55 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345383 360 210 touchmove 121 59 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345397 360 210 touchmove 114 62 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345414 360 210 touchmove 109 64 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345431 360 210 touchmove 104 67 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345447 360 210 touchmove 98 70 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345464 360 210 touchmove 94 74 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345483 360 210 touchmove 91 76 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345498 360 210 touchmove 89 77 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345514 360 210 touchmove 89 77 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345564 360 210 touchmove 89 78 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345582 360 210 touchmove 91 81 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345600 360 210 touchmove 98 86 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345615 360 210 touchmove 107 89 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345633 360 210 touchmove 115 92 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345648 360 210 touchmove 123 93 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345665 360 210 touchmove 129 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345681 360 210 touchmove 135 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345699 360 210 touchmove 142 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345715 360 210 touchmove 150 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345732 360 210 touchmove 160 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345749 360 210 touchmove 171 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345765 360 210 touchmove 178 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345782 360 210 touchmove 183 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345799 360 210 touchmove 187 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345815 360 210 touchmove 190 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345832 360 210 touchmove 193 97 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345849 360 210 touchmove 196 98 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345866 360 210 touchmove 201 99 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345882 360 210 touchmove 207 100 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345907 360 210 touchmove 213 100 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345916 360 210 touchmove 220 100 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345933 360 210 touchmove 226 100 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345951 360 210 touchmove 233 99 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345965 360 210 touchmove 240 98 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634345983 360 210 touchmove 247 96 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346000 360 210 touchmove 252 95 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346015 360 210 touchmove 256 94 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346032 360 210 touchmove 260 93 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346048 360 210 touchmove 263 93 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346065 360 210 touchmove 265 92 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346082 360 210 touchmove 265 92 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634346172 360 210 touchend 265 92 0 0 0 anheuserbusch 0
+potter_anheuserbusch_div_character 1581634348113 360 210 touchstart 114 86 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348187 360 210 touchmove 117 86 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348205 360 210 touchmove 129 82 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348226 360 210 touchmove 148 77 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348238 360 210 touchmove 168 72 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348255 360 210 touchmove 184 68 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348273 360 210 touchmove 197 62 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348290 360 210 touchmove 209 57 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348307 360 210 touchmove 221 52 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348323 360 210 touchmove 233 46 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348338 360 210 touchmove 242 41 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348357 360 210 touchmove 250 37 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348372 360 210 touchmove 256 34 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348390 360 210 touchmove 260 32 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348405 360 210 touchmove 263 31 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348422 360 210 touchmove 264 31 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348555 360 210 touchmove 219 75 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348572 360 210 touchmove 209 91 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348589 360 210 touchmove 203 106 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348606 360 210 touchmove 198 119 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348624 360 210 touchmove 194 128 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348638 360 210 touchmove 193 132 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348651 360 210 touchmove 191 134 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634348654 360 210 touchend 191 134 0 0 0 div 0
+potter_anheuserbusch_div_character 1581634349751 360 210 touchstart 142 148 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349843 360 210 touchmove 144 147 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349859 360 210 touchmove 151 141 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349875 360 210 touchmove 161 134 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349894 360 210 touchmove 171 128 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349909 360 210 touchmove 182 123 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349926 360 210 touchmove 191 120 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349943 360 210 touchmove 199 117 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349960 360 210 touchmove 206 113 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349976 360 210 touchmove 213 107 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634349993 360 210 touchmove 221 100 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350009 360 210 touchmove 227 92 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350026 360 210 touchmove 230 88 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350044 360 210 touchmove 232 86 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350059 360 210 touchmove 232 85 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350076 360 210 touchmove 231 82 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350093 360 210 touchmove 227 77 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350109 360 210 touchmove 215 70 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350126 360 210 touchmove 201 63 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350144 360 210 touchmove 184 59 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350161 360 210 touchmove 168 58 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350176 360 210 touchmove 150 59 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350194 360 210 touchmove 132 62 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350212 360 210 touchmove 116 64 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350227 360 210 touchmove 99 68 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350243 360 210 touchmove 83 72 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350260 360 210 touchmove 71 76 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350279 360 210 touchmove 63 80 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350298 360 210 touchmove 58 83 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350313 360 210 touchmove 56 84 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350327 360 210 touchmove 55 86 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350344 360 210 touchmove 54 88 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350360 360 210 touchmove 55 90 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350377 360 210 touchmove 59 91 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350394 360 210 touchmove 70 90 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350410 360 210 touchmove 85 86 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350428 360 210 touchmove 99 79 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350444 360 210 touchmove 113 71 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350461 360 210 touchmove 125 64 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350478 360 210 touchmove 134 58 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350495 360 210 touchmove 141 51 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350511 360 210 touchmove 146 45 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350528 360 210 touchmove 149 40 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350544 360 210 touchmove 149 37 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350561 360 210 touchmove 149 35 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350577 360 210 touchmove 146 31 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350596 360 210 touchmove 138 26 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350611 360 210 touchmove 126 22 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350627 360 210 touchmove 111 21 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350644 360 210 touchmove 94 23 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350661 360 210 touchmove 79 29 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350678 360 210 touchmove 69 34 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350695 360 210 touchmove 61 41 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350711 360 210 touchmove 57 48 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350728 360 210 touchmove 54 56 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350745 360 210 touchmove 54 67 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350762 360 210 touchmove 58 80 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350778 360 210 touchmove 66 94 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350795 360 210 touchmove 79 109 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350812 360 210 touchmove 95 122 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350834 360 210 touchmove 111 134 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350848 360 210 touchmove 128 145 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350862 360 210 touchmove 142 154 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350878 360 210 touchmove 153 160 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350895 360 210 touchmove 160 163 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350912 360 210 touchmove 165 163 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350929 360 210 touchmove 173 158 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350945 360 210 touchmove 180 149 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350962 360 210 touchmove 187 135 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350979 360 210 touchmove 192 118 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634350996 360 210 touchmove 195 96 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351013 360 210 touchmove 196 72 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351029 360 210 touchmove 196 53 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351045 360 210 touchmove 194 42 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351063 360 210 touchmove 190 34 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351078 360 210 touchmove 183 26 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351096 360 210 touchmove 171 19 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351112 360 210 touchmove 155 15 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351129 360 210 touchmove 140 15 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351145 360 210 touchmove 126 17 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351162 360 210 touchmove 116 20 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351178 360 210 touchmove 107 25 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351196 360 210 touchmove 99 32 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351213 360 210 touchmove 92 41 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351230 360 210 touchmove 87 50 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351246 360 210 touchmove 82 61 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351263 360 210 touchmove 79 73 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351276 360 210 touchmove 74 84 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634351279 360 210 touchend 74 84 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634352467 360 210 touchstart 334 131 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634352563 360 210 touchend 334 131 0 0 0 character 1
+potter_anheuserbusch_div_character 1581634353224 360 210 touchstart 133 147 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353301 360 210 touchmove 144 140 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353318 360 210 touchmove 156 131 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353334 360 210 touchmove 168 120 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353352 360 210 touchmove 181 110 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353368 360 210 touchmove 194 99 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353384 360 210 touchmove 209 88 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353401 360 210 touchmove 221 78 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353418 360 210 touchmove 230 69 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353436 360 210 touchmove 234 64 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353451 360 210 touchmove 234 61 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353468 360 210 touchmove 233 59 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353485 360 210 touchmove 227 56 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353501 360 210 touchmove 210 53 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353518 360 210 touchmove 186 51 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353535 360 210 touchmove 162 51 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353552 360 210 touchmove 140 51 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353568 360 210 touchmove 121 53 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353585 360 210 touchmove 106 55 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353603 360 210 touchmove 91 58 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353620 360 210 touchmove 76 63 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353640 360 210 touchmove 67 68 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353659 360 210 touchmove 59 74 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353751 360 210 touchmove 64 89 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353769 360 210 touchmove 69 93 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353786 360 210 touchmove 74 96 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353803 360 210 touchmove 80 99 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353818 360 210 touchmove 89 100 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353837 360 210 touchmove 101 97 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353852 360 210 touchmove 115 91 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353869 360 210 touchmove 127 84 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353886 360 210 touchmove 137 76 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353902 360 210 touchmove 144 67 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353919 360 210 touchmove 148 58 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353937 360 210 touchmove 151 50 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353953 360 210 touchmove 151 44 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353969 360 210 touchmove 151 40 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634353987 360 210 touchmove 149 36 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354003 360 210 touchmove 146 30 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354019 360 210 touchmove 139 24 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354036 360 210 touchmove 131 19 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354053 360 210 touchmove 122 17 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354069 360 210 touchmove 112 17 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354087 360 210 touchmove 101 20 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354103 360 210 touchmove 88 27 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354120 360 210 touchmove 75 37 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354138 360 210 touchmove 63 48 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354156 360 210 touchmove 53 60 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354171 360 210 touchmove 47 69 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354186 360 210 touchmove 44 76 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354203 360 210 touchmove 43 80 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354221 360 210 touchmove 43 84 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354238 360 210 touchmove 46 90 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354253 360 210 touchmove 53 96 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354270 360 210 touchmove 65 103 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354288 360 210 touchmove 79 112 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354304 360 210 touchmove 92 120 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354320 360 210 touchmove 105 128 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354337 360 210 touchmove 117 136 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354354 360 210 touchmove 130 144 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354370 360 210 touchmove 139 149 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354388 360 210 touchmove 146 151 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354405 360 210 touchmove 152 151 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354420 360 210 touchmove 158 147 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354439 360 210 touchmove 163 139 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354454 360 210 touchmove 166 126 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354471 360 210 touchmove 166 109 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354487 360 210 touchmove 165 92 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354505 360 210 touchmove 165 79 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354521 360 210 touchmove 166 68 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354538 360 210 touchmove 168 57 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354556 360 210 touchmove 171 44 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354570 360 210 touchmove 172 31 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354588 360 210 touchmove 172 22 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354604 360 210 touchmove 170 17 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354621 360 210 touchmove 167 13 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354637 360 210 touchmove 163 10 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354654 360 210 touchmove 155 8 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354673 360 210 touchmove 145 7 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354690 360 210 touchmove 136 8 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354704 360 210 touchmove 127 10 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354722 360 210 touchmove 118 12 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354740 360 210 touchmove 111 15 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354754 360 210 touchmove 106 18 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354773 360 210 touchmove 102 21 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354788 360 210 touchmove 98 24 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354806 360 210 touchmove 94 27 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354821 360 210 touchmove 92 30 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354838 360 210 touchmove 90 31 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354854 360 210 touchmove 90 32 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354872 360 210 touchmove 90 34 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354888 360 210 touchmove 93 37 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354905 360 210 touchmove 101 40 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354922 360 210 touchmove 112 42 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354940 360 210 touchmove 126 40 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354955 360 210 touchmove 140 37 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354973 360 210 touchmove 154 34 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634354988 360 210 touchmove 166 30 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634355005 360 210 touchmove 176 28 0 0 0 character 0
+potter_anheuserbusch_div_character 1581634355011 360 210 touchend 176 28 0 0 0 character 0
+hopefully_this_can_wait_until_monday 1581634360532 360 210 touchstart 227 97 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360621 360 210 touchmove 227 96 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360637 360 210 touchmove 231 91 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360654 360 210 touchmove 239 81 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360670 360 210 touchmove 249 69 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360689 360 210 touchmove 259 56 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360704 360 210 touchmove 268 43 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360721 360 210 touchmove 275 35 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360737 360 210 touchmove 280 28 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360754 360 210 touchmove 284 23 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360771 360 210 touchmove 288 18 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360788 360 210 touchmove 290 16 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360804 360 210 touchmove 293 14 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360824 360 210 touchmove 301 13 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360839 360 210 touchmove 304 13 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360854 360 210 touchmove 311 15 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360870 360 210 touchmove 316 18 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360890 360 210 touchmove 321 21 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360906 360 210 touchmove 324 24 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360925 360 210 touchmove 327 29 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360941 360 210 touchmove 329 33 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360958 360 210 touchmove 330 36 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360970 360 210 touchmove 330 36 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634360987 360 210 touchmove 331 37 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361010 360 210 touchmove 331 37 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361020 360 210 touchmove 330 37 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361038 360 210 touchmove 329 38 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361054 360 210 touchmove 320 38 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361071 360 210 touchmove 305 35 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361088 360 210 touchmove 286 31 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361105 360 210 touchmove 265 26 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361123 360 210 touchmove 244 22 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361139 360 210 touchmove 223 17 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361156 360 210 touchmove 204 13 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361171 360 210 touchmove 187 13 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361188 360 210 touchmove 169 15 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361204 360 210 touchmove 154 16 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361221 360 210 touchmove 141 17 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361237 360 210 touchmove 131 18 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361254 360 210 touchmove 123 19 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361270 360 210 touchmove 117 20 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361289 360 210 touchmove 112 21 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361304 360 210 touchmove 110 21 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361323 360 210 touchmove 109 22 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361338 360 210 touchmove 108 22 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361354 360 210 touchmove 107 25 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361372 360 210 touchmove 107 32 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361390 360 210 touchmove 109 42 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361404 360 210 touchmove 111 52 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361421 360 210 touchmove 115 61 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361438 360 210 touchmove 120 70 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361456 360 210 touchmove 128 77 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361476 360 210 touchmove 137 83 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361489 360 210 touchmove 146 87 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361506 360 210 touchmove 154 89 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361522 360 210 touchmove 161 88 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361539 360 210 touchmove 166 87 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361555 360 210 touchmove 171 83 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361572 360 210 touchmove 176 79 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361590 360 210 touchmove 183 70 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361607 360 210 touchmove 190 59 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361622 360 210 touchmove 196 48 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361640 360 210 touchmove 200 38 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361655 360 210 touchmove 202 31 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361672 360 210 touchmove 203 27 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361690 360 210 touchmove 204 25 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361706 360 210 touchmove 204 24 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361723 360 210 touchmove 205 23 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361739 360 210 touchmove 210 21 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361756 360 210 touchmove 222 21 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361773 360 210 touchmove 238 24 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361790 360 210 touchmove 255 27 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361806 360 210 touchmove 268 33 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361825 360 210 touchmove 278 39 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361841 360 210 touchmove 285 44 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361857 360 210 touchmove 291 50 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361875 360 210 touchmove 297 57 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361892 360 210 touchmove 303 65 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361906 360 210 touchmove 308 73 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361924 360 210 touchmove 312 80 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361942 360 210 touchmove 315 86 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361959 360 210 touchmove 317 91 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361976 360 210 touchmove 320 97 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634361990 360 210 touchmove 323 103 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634362004 360 210 touchmove 324 107 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634362008 360 210 touchend 324 107 0 0 0 hopefully 1
+hopefully_this_can_wait_until_monday 1581634363619 360 210 touchstart 224 112 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363693 360 210 touchmove 224 112 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363710 360 210 touchmove 228 105 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363727 360 210 touchmove 234 96 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363744 360 210 touchmove 242 86 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363761 360 210 touchmove 250 75 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363777 360 210 touchmove 259 65 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363794 360 210 touchmove 268 56 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363810 360 210 touchmove 275 47 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363831 360 210 touchmove 280 40 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363844 360 210 touchmove 284 36 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363861 360 210 touchmove 286 34 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363878 360 210 touchmove 290 31 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363895 360 210 touchmove 296 27 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363911 360 210 touchmove 304 23 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363928 360 210 touchmove 310 19 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363945 360 210 touchmove 315 17 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363961 360 210 touchmove 319 15 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363978 360 210 touchmove 322 14 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363996 360 210 touchmove 325 14 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364012 360 210 touchmove 327 15 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364029 360 210 touchmove 329 17 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364047 360 210 touchmove 332 20 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364061 360 210 touchmove 333 24 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364078 360 210 touchmove 333 28 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364095 360 210 touchmove 331 33 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364112 360 210 touchmove 327 38 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364128 360 210 touchmove 319 42 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364145 360 210 touchmove 306 46 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364162 360 210 touchmove 289 48 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364180 360 210 touchmove 269 48 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364196 360 210 touchmove 248 46 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364249 360 210 touchmove 174 37 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364262 360 210 touchmove 165 36 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364313 360 210 touchmove 126 30 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364332 360 210 touchmove 116 30 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364347 360 210 touchmove 114 30 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364363 360 210 touchmove 111 31 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364380 360 210 touchmove 109 31 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364397 360 210 touchmove 108 32 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364412 360 210 touchmove 106 36 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364429 360 210 touchmove 105 43 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364446 360 210 touchmove 108 52 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364462 360 210 touchmove 112 63 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364480 360 210 touchmove 117 72 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364496 360 210 touchmove 123 79 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364515 360 210 touchmove 128 84 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364530 360 210 touchmove 133 86 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364547 360 210 touchmove 137 87 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364564 360 210 touchmove 141 87 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364580 360 210 touchmove 144 87 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364597 360 210 touchmove 145 87 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364613 360 210 touchmove 147 86 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364631 360 210 touchmove 149 85 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364647 360 210 touchmove 153 82 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364663 360 210 touchmove 159 78 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364681 360 210 touchmove 168 73 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364697 360 210 touchmove 178 68 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364713 360 210 touchmove 188 63 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364731 360 210 touchmove 198 57 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364746 360 210 touchmove 207 50 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364763 360 210 touchmove 215 43 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364780 360 210 touchmove 220 36 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364797 360 210 touchmove 226 30 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364814 360 210 touchmove 230 24 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364830 360 210 touchmove 232 19 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364848 360 210 touchmove 233 17 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364876 360 210 touchmove 234 17 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364897 360 210 touchmove 239 19 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364913 360 210 touchmove 248 27 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364932 360 210 touchmove 259 40 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364948 360 210 touchmove 270 55 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364965 360 210 touchmove 282 70 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364980 360 210 touchmove 293 82 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634364997 360 210 touchmove 301 89 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365014 360 210 touchmove 305 93 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365031 360 210 touchmove 306 94 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365049 360 210 touchmove 307 94 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365147 360 210 touchmove 304 86 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365166 360 210 touchmove 298 75 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365182 360 210 touchmove 291 66 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365198 360 210 touchmove 287 60 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365214 360 210 touchmove 285 57 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365230 360 210 touchmove 284 55 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365247 360 210 touchmove 284 55 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365264 360 210 touchmove 284 54 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365324 360 210 touchmove 283 53 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365332 360 210 touchmove 269 43 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365348 360 210 touchmove 261 40 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365365 360 210 touchmove 256 38 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365384 360 210 touchmove 252 37 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365398 360 210 touchmove 249 36 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365414 360 210 touchmove 246 35 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365431 360 210 touchmove 242 34 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365448 360 210 touchmove 237 32 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365465 360 210 touchmove 232 30 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365481 360 210 touchmove 226 28 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365499 360 210 touchmove 220 26 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365515 360 210 touchmove 213 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365532 360 210 touchmove 207 24 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365548 360 210 touchmove 202 24 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365565 360 210 touchmove 198 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365582 360 210 touchmove 196 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365599 360 210 touchmove 194 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365616 360 210 touchmove 189 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365632 360 210 touchmove 180 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365644 360 210 touchmove 170 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634365647 360 210 touchend 170 25 0 0 0 hopefully 0
+hopefully_this_can_wait_until_monday 1581634363619 360 210 touchstart 224 112 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363693 360 210 touchmove 224 112 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363710 360 210 touchmove 228 105 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363727 360 210 touchmove 234 96 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363744 360 210 touchmove 242 86 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363761 360 210 touchmove 250 75 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363777 360 210 touchmove 259 65 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363794 360 210 touchmove 268 56 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363810 360 210 touchmove 275 47 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363831 360 210 touchmove 280 40 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363844 360 210 touchmove 284 36 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363861 360 210 touchmove 286 34 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363878 360 210 touchmove 290 31 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363895 360 210 touchmove 296 27 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363911 360 210 touchmove 304 23 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363928 360 210 touchmove 310 19 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363945 360 210 touchmove 315 17 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363961 360 210 touchmove 319 15 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363978 360 210 touchmove 322 14 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634363996 360 210 touchmove 325 14 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364012 360 210 touchmove 327 15 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364029 360 210 touchmove 329 17 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364047 360 210 touchmove 332 20 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364061 360 210 touchmove 333 24 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364078 360 210 touchmove 333 28 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364095 360 210 touchmove 331 33 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364112 360 210 touchmove 327 38 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364128 360 210 touchmove 319 42 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364145 360 210 touchmove 306 46 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364162 360 210 touchmove 289 48 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364180 360 210 touchmove 269 48 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364196 360 210 touchmove 248 46 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364249 360 210 touchmove 174 37 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364262 360 210 touchmove 165 36 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364313 360 210 touchmove 126 30 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364332 360 210 touchmove 116 30 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364347 360 210 touchmove 114 30 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364363 360 210 touchmove 111 31 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364380 360 210 touchmove 109 31 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364397 360 210 touchmove 108 32 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364412 360 210 touchmove 106 36 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364429 360 210 touchmove 105 43 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364446 360 210 touchmove 108 52 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364462 360 210 touchmove 112 63 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364480 360 210 touchmove 117 72 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364496 360 210 touchmove 123 79 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364515 360 210 touchmove 128 84 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364530 360 210 touchmove 133 86 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364547 360 210 touchmove 137 87 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364564 360 210 touchmove 141 87 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364580 360 210 touchmove 144 87 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364597 360 210 touchmove 145 87 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364613 360 210 touchmove 147 86 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364631 360 210 touchmove 149 85 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364647 360 210 touchmove 153 82 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364663 360 210 touchmove 159 78 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364681 360 210 touchmove 168 73 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364697 360 210 touchmove 178 68 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364713 360 210 touchmove 188 63 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364731 360 210 touchmove 198 57 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364746 360 210 touchmove 207 50 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364763 360 210 touchmove 215 43 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364780 360 210 touchmove 220 36 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364797 360 210 touchmove 226 30 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364814 360 210 touchmove 230 24 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364830 360 210 touchmove 232 19 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364848 360 210 touchmove 233 17 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364876 360 210 touchmove 234 17 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364897 360 210 touchmove 239 19 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364913 360 210 touchmove 248 27 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364932 360 210 touchmove 259 40 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364948 360 210 touchmove 270 55 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364965 360 210 touchmove 282 70 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364980 360 210 touchmove 293 82 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634364997 360 210 touchmove 301 89 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365014 360 210 touchmove 305 93 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365031 360 210 touchmove 306 94 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365049 360 210 touchmove 307 94 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365147 360 210 touchmove 304 86 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365166 360 210 touchmove 298 75 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365182 360 210 touchmove 291 66 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365198 360 210 touchmove 287 60 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365214 360 210 touchmove 285 57 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365230 360 210 touchmove 284 55 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365247 360 210 touchmove 284 55 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365264 360 210 touchmove 284 54 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365324 360 210 touchmove 283 53 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365332 360 210 touchmove 269 43 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365348 360 210 touchmove 261 40 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365365 360 210 touchmove 256 38 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365384 360 210 touchmove 252 37 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365398 360 210 touchmove 249 36 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365414 360 210 touchmove 246 35 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365431 360 210 touchmove 242 34 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365448 360 210 touchmove 237 32 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365465 360 210 touchmove 232 30 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365481 360 210 touchmove 226 28 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365499 360 210 touchmove 220 26 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365515 360 210 touchmove 213 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365532 360 210 touchmove 207 24 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365548 360 210 touchmove 202 24 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365565 360 210 touchmove 198 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365582 360 210 touchmove 196 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365599 360 210 touchmove 194 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365616 360 210 touchmove 189 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365632 360 210 touchmove 180 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365644 360 210 touchmove 170 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634365647 360 210 touchend 170 25 0 0 0 hopefully 0 0
+hopefully_this_can_wait_until_monday 1581634366736 360 210 touchstart 166 31 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366800 360 210 touchmove 167 31 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366817 360 210 touchmove 170 39 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366834 360 210 touchmove 176 52 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366850 360 210 touchmove 184 66 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366867 360 210 touchmove 190 76 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366884 360 210 touchmove 197 84 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366901 360 210 touchmove 203 88 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366918 360 210 touchmove 207 90 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366934 360 210 touchmove 211 91 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366951 360 210 touchmove 216 89 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366968 360 210 touchmove 223 83 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634366984 360 210 touchmove 229 77 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367001 360 210 touchmove 237 69 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367018 360 210 touchmove 245 61 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367035 360 210 touchmove 253 52 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367051 360 210 touchmove 259 43 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367068 360 210 touchmove 265 35 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367085 360 210 touchmove 267 30 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367101 360 210 touchmove 268 28 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367120 360 210 touchmove 267 26 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367135 360 210 touchmove 264 24 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367153 360 210 touchmove 255 22 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367168 360 210 touchmove 235 23 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367185 360 210 touchmove 210 27 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367202 360 210 touchmove 187 34 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367219 360 210 touchmove 168 40 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367235 360 210 touchmove 153 44 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367252 360 210 touchmove 141 49 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367268 360 210 touchmove 130 53 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367285 360 210 touchmove 120 57 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367304 360 210 touchmove 110 62 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367320 360 210 touchmove 102 69 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367335 360 210 touchmove 95 74 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367352 360 210 touchmove 90 80 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367369 360 210 touchmove 84 87 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634367375 360 210 touchend 84 87 0 0 0 this 0
+hopefully_this_can_wait_until_monday 1581634368474 360 210 touchmove 223 137 0 0 0 can 0
+hopefully_this_can_wait_until_monday 1581634368476 360 210 touchend 223 137 0 0 0 can 0
+hopefully_this_can_wait_until_monday 1581634369626 360 210 touchmove 163 15 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369642 360 210 touchmove 159 19 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369659 360 210 touchmove 159 24 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369675 360 210 touchmove 161 29 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369692 360 210 touchmove 169 35 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369708 360 210 touchmove 183 40 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369727 360 210 touchmove 199 42 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369742 360 210 touchmove 218 42 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369758 360 210 touchmove 238 41 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369775 360 210 touchmove 257 41 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369792 360 210 touchmove 276 43 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634369798 360 210 touchend 276 43 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371503 360 210 touchstart 70 14 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371579 360 210 touchmove 69 15 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371596 360 210 touchmove 66 18 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371614 360 210 touchmove 61 23 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371629 360 210 touchmove 54 31 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371646 360 210 touchmove 48 44 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371663 360 210 touchmove 43 58 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371679 360 210 touchmove 39 70 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371698 360 210 touchmove 37 79 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371713 360 210 touchmove 37 83 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371730 360 210 touchmove 37 84 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371752 360 210 touchmove 37 84 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371764 360 210 touchmove 39 85 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371782 360 210 touchmove 49 86 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371799 360 210 touchmove 67 84 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371813 360 210 touchmove 89 81 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371830 360 210 touchmove 113 78 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371847 360 210 touchmove 136 75 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371864 360 210 touchmove 157 74 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371881 360 210 touchmove 177 73 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371897 360 210 touchmove 196 71 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371915 360 210 touchmove 214 70 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371930 360 210 touchmove 232 65 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371947 360 210 touchmove 249 59 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371964 360 210 touchmove 262 53 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371980 360 210 touchmove 271 45 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634371997 360 210 touchmove 276 38 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372014 360 210 touchmove 279 33 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372032 360 210 touchmove 281 30 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372048 360 210 touchmove 281 29 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372081 360 210 touchmove 282 28 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372097 360 210 touchmove 281 26 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372114 360 210 touchmove 280 22 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372131 360 210 touchmove 275 17 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372148 360 210 touchmove 265 13 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372165 360 210 touchmove 252 10 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372181 360 210 touchmove 235 8 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372199 360 210 touchmove 218 8 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372215 360 210 touchmove 203 10 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372231 360 210 touchmove 191 13 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372248 360 210 touchmove 183 16 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372265 360 210 touchmove 178 19 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372282 360 210 touchmove 175 21 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372298 360 210 touchmove 174 22 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372315 360 210 touchmove 173 24 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372331 360 210 touchmove 174 29 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372348 360 210 touchmove 177 36 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372364 360 210 touchmove 184 43 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372381 360 210 touchmove 194 49 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372398 360 210 touchmove 205 55 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372416 360 210 touchmove 215 60 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372432 360 210 touchmove 223 64 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372448 360 210 touchmove 232 68 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372461 360 210 touchmove 239 70 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634372463 360 210 touchend 239 70 0 0 0 wait 1
+hopefully_this_can_wait_until_monday 1581634373724 360 210 touchstart 64 14 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373818 360 210 touchmove 63 18 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373836 360 210 touchmove 61 24 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373852 360 210 touchmove 57 35 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373869 360 210 touchmove 52 47 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373885 360 210 touchmove 46 59 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373902 360 210 touchmove 43 69 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373919 360 210 touchmove 40 76 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373935 360 210 touchmove 38 81 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373952 360 210 touchmove 38 83 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373968 360 210 touchmove 37 84 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374019 360 210 touchmove 38 85 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374035 360 210 touchmove 44 88 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374053 360 210 touchmove 55 91 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374070 360 210 touchmove 71 94 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374086 360 210 touchmove 90 95 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374105 360 210 touchmove 111 94 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374120 360 210 touchmove 132 92 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374138 360 210 touchmove 152 89 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374153 360 210 touchmove 172 86 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374170 360 210 touchmove 190 82 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374186 360 210 touchmove 207 80 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374203 360 210 touchmove 224 76 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374224 360 210 touchmove 240 72 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374237 360 210 touchmove 255 67 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374253 360 210 touchmove 268 61 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374271 360 210 touchmove 278 56 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374287 360 210 touchmove 284 53 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374303 360 210 touchmove 289 50 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374321 360 210 touchmove 292 47 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374337 360 210 touchmove 294 42 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374357 360 210 touchmove 296 36 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374372 360 210 touchmove 296 34 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374390 360 210 touchmove 296 26 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374403 360 210 touchmove 294 16 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374420 360 210 touchmove 290 8 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374437 360 210 touchmove 284 2 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374454 360 210 touchmove 276 -2 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374471 360 210 touchmove 265 -2 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374487 360 210 touchmove 253 0 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374505 360 210 touchmove 240 3 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374522 360 210 touchmove 227 6 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374537 360 210 touchmove 215 11 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374556 360 210 touchmove 203 15 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374571 360 210 touchmove 193 18 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374587 360 210 touchmove 182 21 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374605 360 210 touchmove 172 23 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374623 360 210 touchmove 163 24 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374637 360 210 touchmove 156 25 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374656 360 210 touchmove 149 26 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374673 360 210 touchmove 143 26 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374687 360 210 touchmove 137 26 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634374701 360 210 touchend 137 26 0 0 0 wait 0
+hopefully_this_can_wait_until_monday 1581634373724 360 210 touchstart 64 14 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373818 360 210 touchmove 63 18 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373836 360 210 touchmove 61 24 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373852 360 210 touchmove 57 35 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373869 360 210 touchmove 52 47 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373885 360 210 touchmove 46 59 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373902 360 210 touchmove 43 69 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373919 360 210 touchmove 40 76 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373935 360 210 touchmove 38 81 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373952 360 210 touchmove 38 83 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634373968 360 210 touchmove 37 84 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374019 360 210 touchmove 38 85 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374035 360 210 touchmove 44 88 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374053 360 210 touchmove 55 91 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374070 360 210 touchmove 71 94 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374086 360 210 touchmove 90 95 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374105 360 210 touchmove 111 94 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374120 360 210 touchmove 132 92 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374138 360 210 touchmove 152 89 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374153 360 210 touchmove 172 86 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374170 360 210 touchmove 190 82 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374186 360 210 touchmove 207 80 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374203 360 210 touchmove 224 76 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374224 360 210 touchmove 240 72 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374237 360 210 touchmove 255 67 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374253 360 210 touchmove 268 61 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374271 360 210 touchmove 278 56 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374287 360 210 touchmove 284 53 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374303 360 210 touchmove 289 50 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374321 360 210 touchmove 292 47 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374337 360 210 touchmove 294 42 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374357 360 210 touchmove 296 36 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374372 360 210 touchmove 296 34 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374390 360 210 touchmove 296 26 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374403 360 210 touchmove 294 16 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374420 360 210 touchmove 290 8 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374437 360 210 touchmove 284 2 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374454 360 210 touchmove 276 -2 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374471 360 210 touchmove 265 -2 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374487 360 210 touchmove 253 0 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374505 360 210 touchmove 240 3 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374522 360 210 touchmove 227 6 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374537 360 210 touchmove 215 11 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374556 360 210 touchmove 203 15 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374571 360 210 touchmove 193 18 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374587 360 210 touchmove 182 21 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374605 360 210 touchmove 172 23 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374623 360 210 touchmove 163 24 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374637 360 210 touchmove 156 25 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374656 360 210 touchmove 149 26 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374673 360 210 touchmove 143 26 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374687 360 210 touchmove 137 26 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634374701 360 210 touchend 137 26 0 0 0 wait 0 0
+hopefully_this_can_wait_until_monday 1581634375790 360 210 touchstart 238 32 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375873 360 210 touchmove 238 32 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375890 360 210 touchmove 236 42 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375907 360 210 touchmove 235 58 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375924 360 210 touchmove 234 78 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375940 360 210 touchmove 235 100 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375957 360 210 touchmove 236 119 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375974 360 210 touchmove 239 133 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634375991 360 210 touchmove 240 143 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376007 360 210 touchmove 241 149 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376024 360 210 touchmove 242 153 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376041 360 210 touchmove 242 155 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376057 360 210 touchmove 242 156 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376124 360 210 touchmove 242 154 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376141 360 210 touchmove 239 145 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376158 360 210 touchmove 233 130 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376174 360 210 touchmove 227 114 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376191 360 210 touchmove 220 98 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376208 360 210 touchmove 211 83 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376224 360 210 touchmove 201 69 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376241 360 210 touchmove 191 57 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376258 360 210 touchmove 181 48 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376274 360 210 touchmove 173 41 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376291 360 210 touchmove 169 37 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376308 360 210 touchmove 167 35 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376324 360 210 touchmove 166 34 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376346 360 210 touchmove 166 33 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376358 360 210 touchmove 168 31 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376375 360 210 touchmove 179 29 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376392 360 210 touchmove 198 27 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376408 360 210 touchmove 219 27 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376425 360 210 touchmove 239 27 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376442 360 210 touchmove 253 26 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376458 360 210 touchmove 261 26 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376475 360 210 touchmove 264 26 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376492 360 210 touchmove 266 26 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376509 360 210 touchmove 267 25 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376539 360 210 touchmove 267 26 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376558 360 210 touchmove 271 29 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376575 360 210 touchmove 275 38 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376592 360 210 touchmove 278 48 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376611 360 210 touchmove 281 56 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376625 360 210 touchmove 284 63 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376642 360 210 touchmove 288 71 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376659 360 210 touchmove 295 80 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376675 360 210 touchmove 301 86 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376694 360 210 touchmove 307 90 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376709 360 210 touchmove 314 91 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634376715 360 210 touchend 314 91 0 0 0 until 0
+hopefully_this_can_wait_until_monday 1581634377519 360 210 touchstart 287 151 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377608 360 210 touchmove 288 150 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377629 360 210 touchmove 290 140 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377644 360 210 touchmove 291 122 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377661 360 210 touchmove 293 101 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377678 360 210 touchmove 295 80 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377695 360 210 touchmove 297 62 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377713 360 210 touchmove 298 47 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377728 360 210 touchmove 299 32 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377745 360 210 touchmove 301 21 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377761 360 210 touchmove 302 15 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377778 360 210 touchmove 303 12 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377796 360 210 touchmove 303 11 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377835 360 210 touchmove 299 14 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377845 360 210 touchmove 294 20 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377862 360 210 touchmove 280 38 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377879 360 210 touchmove 269 60 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377897 360 210 touchmove 261 80 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377913 360 210 touchmove 256 100 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377929 360 210 touchmove 253 117 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377946 360 210 touchmove 251 130 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377963 360 210 touchmove 251 139 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377980 360 210 touchmove 251 144 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634377996 360 210 touchmove 250 145 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378013 360 210 touchmove 250 146 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378079 360 210 touchmove 243 145 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378096 360 210 touchmove 230 138 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378121 360 210 touchmove 213 128 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378132 360 210 touchmove 194 115 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378150 360 210 touchmove 176 105 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378166 360 210 touchmove 159 96 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378182 360 210 touchmove 143 90 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378196 360 210 touchmove 127 85 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378213 360 210 touchmove 110 81 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378230 360 210 touchmove 95 78 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378246 360 210 touchmove 83 76 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378263 360 210 touchmove 73 75 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378280 360 210 touchmove 65 76 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378297 360 210 touchmove 56 77 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378313 360 210 touchmove 50 80 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378330 360 210 touchmove 46 82 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378347 360 210 touchmove 43 84 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378363 360 210 touchmove 41 85 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378446 360 210 touchmove 49 83 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378463 360 210 touchmove 64 79 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378480 360 210 touchmove 83 73 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378496 360 210 touchmove 102 66 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378513 360 210 touchmove 120 59 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378530 360 210 touchmove 139 53 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378547 360 210 touchmove 156 47 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378563 360 210 touchmove 172 40 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378580 360 210 touchmove 186 34 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378597 360 210 touchmove 199 29 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378614 360 210 touchmove 211 24 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378627 360 210 touchmove 221 18 0 0 0 monday 0
+hopefully_this_can_wait_until_monday 1581634378629 360 210 touchend 221 18 0 0 0 monday 0
+carlos_continue_journalist_boot 1581634384499 360 210 touchstart 154 154 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384535 360 210 touchmove 153 154 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384546 360 210 touchmove 150 153 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384562 360 210 touchmove 141 148 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384580 360 210 touchmove 129 140 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384597 360 210 touchmove 114 128 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384614 360 210 touchmove 100 114 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384630 360 210 touchmove 84 101 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384647 360 210 touchmove 70 91 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384663 360 210 touchmove 57 84 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384680 360 210 touchmove 50 78 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384697 360 210 touchmove 46 75 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384713 360 210 touchmove 45 74 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384744 360 210 touchmove 45 74 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384763 360 210 touchmove 50 68 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384780 360 210 touchmove 63 61 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384798 360 210 touchmove 78 54 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384813 360 210 touchmove 94 48 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384830 360 210 touchmove 110 44 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384847 360 210 touchmove 126 40 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384863 360 210 touchmove 141 37 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384881 360 210 touchmove 155 34 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384897 360 210 touchmove 167 31 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384914 360 210 touchmove 177 28 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384930 360 210 touchmove 185 26 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384947 360 210 touchmove 193 25 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384967 360 210 touchmove 202 26 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384982 360 210 touchmove 214 32 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634384997 360 210 touchmove 227 45 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385014 360 210 touchmove 240 61 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385034 360 210 touchmove 260 85 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385050 360 210 touchmove 266 93 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385065 360 210 touchmove 277 103 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385081 360 210 touchmove 284 109 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385098 360 210 touchmove 287 112 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385121 360 210 touchmove 288 111 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385132 360 210 touchmove 293 104 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385148 360 210 touchmove 296 88 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385164 360 210 touchmove 298 70 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385180 360 210 touchmove 299 55 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385198 360 210 touchmove 298 45 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385214 360 210 touchmove 297 38 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385231 360 210 touchmove 295 31 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385247 360 210 touchmove 289 23 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385264 360 210 touchmove 280 16 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385280 360 210 touchmove 265 14 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385299 360 210 touchmove 243 17 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385316 360 210 touchmove 216 24 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385332 360 210 touchmove 189 34 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385350 360 210 touchmove 163 43 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385366 360 210 touchmove 141 52 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385381 360 210 touchmove 124 61 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385397 360 210 touchmove 112 69 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385414 360 210 touchmove 103 75 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385431 360 210 touchmove 96 80 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385449 360 210 touchmove 89 86 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385465 360 210 touchmove 81 90 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634385481 360 210 touchmove 78 93 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634386820 360 210 touchend 78 93 0 0 0 carlos 0
+carlos_continue_journalist_boot 1581634387236 360 210 touchmove 232 46 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387252 360 210 touchmove 235 24 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387269 360 210 touchmove 237 10 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387285 360 210 touchmove 237 2 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387303 360 210 touchmove 238 -2 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387323 360 210 touchmove 238 -3 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387338 360 210 touchmove 237 -4 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387353 360 210 touchmove 234 -6 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387370 360 210 touchmove 224 -8 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387387 360 210 touchmove 205 -8 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387404 360 210 touchmove 183 -5 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387421 360 210 touchmove 162 -1 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387437 360 210 touchmove 143 3 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387454 360 210 touchmove 126 6 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387472 360 210 touchmove 112 10 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387488 360 210 touchmove 101 12 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387503 360 210 touchmove 95 14 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387523 360 210 touchmove 91 15 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387536 360 210 touchmove 89 17 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387555 360 210 touchmove 86 22 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387571 360 210 touchmove 83 30 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387589 360 210 touchmove 80 41 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387603 360 210 touchmove 77 54 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387621 360 210 touchmove 73 67 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387637 360 210 touchmove 68 80 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387654 360 210 touchmove 63 95 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634387660 360 210 touchend 63 95 0 0 0 continue 0
+carlos_continue_journalist_boot 1581634388767 360 210 touchstart 242 92 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388856 360 210 touchmove 248 89 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388874 360 210 touchmove 258 85 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388890 360 210 touchmove 269 80 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388907 360 210 touchmove 278 76 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388923 360 210 touchmove 283 73 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388940 360 210 touchmove 287 71 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388957 360 210 touchmove 289 68 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388974 360 210 touchmove 292 64 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634388990 360 210 touchmove 295 60 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389007 360 210 touchmove 299 56 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389023 360 210 touchmove 303 53 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389041 360 210 touchmove 307 49 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389057 360 210 touchmove 311 44 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389073 360 210 touchmove 315 35 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389092 360 210 touchmove 319 24 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389107 360 210 touchmove 320 16 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389124 360 210 touchmove 320 9 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389142 360 210 touchmove 319 4 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389158 360 210 touchmove 317 0 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389175 360 210 touchmove 313 -3 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389191 360 210 touchmove 304 -4 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389208 360 210 touchmove 289 -3 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389224 360 210 touchmove 271 1 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389241 360 210 touchmove 257 5 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389257 360 210 touchmove 245 10 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389275 360 210 touchmove 236 14 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389292 360 210 touchmove 228 18 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389308 360 210 touchmove 222 22 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389507 360 210 touchmove 137 30 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389524 360 210 touchmove 132 27 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389541 360 210 touchmove 129 24 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389558 360 210 touchmove 128 22 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389574 360 210 touchmove 127 20 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389591 360 210 touchmove 129 18 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389608 360 210 touchmove 134 17 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389626 360 210 touchmove 144 22 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389643 360 210 touchmove 158 34 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389659 360 210 touchmove 172 51 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389676 360 210 touchmove 188 70 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389693 360 210 touchmove 204 89 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389708 360 210 touchmove 220 107 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389725 360 210 touchmove 233 123 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389744 360 210 touchmove 240 135 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389759 360 210 touchmove 245 143 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389777 360 210 touchmove 247 148 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389793 360 210 touchmove 248 152 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389810 360 210 touchmove 249 153 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389826 360 210 touchmove 250 154 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389892 360 210 touchmove 248 150 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389909 360 210 touchmove 238 138 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389926 360 210 touchmove 220 123 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389943 360 210 touchmove 197 110 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389959 360 210 touchmove 169 99 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389976 360 210 touchmove 140 92 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634389993 360 210 touchmove 113 87 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390009 360 210 touchmove 90 84 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390026 360 210 touchmove 75 82 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390045 360 210 touchmove 65 82 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390061 360 210 touchmove 59 82 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390076 360 210 touchmove 56 82 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390093 360 210 touchmove 55 82 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390143 360 210 touchmove 63 79 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390160 360 210 touchmove 87 74 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390177 360 210 touchmove 121 71 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390238 360 210 touchmove 155 72 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390260 360 210 touchmove 266 76 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390278 360 210 touchmove 285 75 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390296 360 210 touchmove 297 74 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390310 360 210 touchmove 303 73 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390327 360 210 touchmove 305 72 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390344 360 210 touchmove 307 70 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390360 360 210 touchmove 307 67 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390377 360 210 touchmove 305 60 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390394 360 210 touchmove 299 49 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390410 360 210 touchmove 288 36 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390427 360 210 touchmove 274 22 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390446 360 210 touchmove 260 11 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390460 360 210 touchmove 246 4 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390479 360 210 touchmove 232 -1 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390495 360 210 touchmove 217 -2 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390511 360 210 touchmove 198 0 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390528 360 210 touchmove 178 6 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390545 360 210 touchmove 157 17 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390561 360 210 touchmove 136 32 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390578 360 210 touchmove 119 48 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390595 360 210 touchmove 105 61 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390612 360 210 touchmove 95 72 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390628 360 210 touchmove 87 81 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390644 360 210 touchmove 82 87 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390661 360 210 touchmove 79 90 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390677 360 210 touchmove 79 90 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390728 360 210 touchmove 85 87 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390745 360 210 touchmove 101 79 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390761 360 210 touchmove 120 67 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390778 360 210 touchmove 137 55 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390794 360 210 touchmove 152 44 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390811 360 210 touchmove 165 34 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390828 360 210 touchmove 176 23 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390844 360 210 touchmove 185 12 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390861 360 210 touchmove 189 8 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634390874 360 210 touchend 189 8 0 0 0 journalist 0
+carlos_continue_journalist_boot 1581634391623 360 210 touchstart 235 153 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391713 360 210 touchmove 236 152 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391731 360 210 touchmove 238 150 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391747 360 210 touchmove 243 144 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391764 360 210 touchmove 250 134 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391780 360 210 touchmove 259 121 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391797 360 210 touchmove 268 108 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391814 360 210 touchmove 278 94 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391830 360 210 touchmove 288 76 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391847 360 210 touchmove 297 55 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391864 360 210 touchmove 305 37 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391880 360 210 touchmove 308 24 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391897 360 210 touchmove 308 17 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391914 360 210 touchmove 308 13 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391931 360 210 touchmove 307 11 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391949 360 210 touchmove 307 10 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391964 360 210 touchmove 306 9 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391981 360 210 touchmove 304 8 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634391998 360 210 touchmove 301 6 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392014 360 210 touchmove 297 5 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392031 360 210 touchmove 294 5 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392048 360 210 touchmove 290 5 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392064 360 210 touchmove 285 4 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392081 360 210 touchmove 277 4 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392098 360 210 touchmove 266 5 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392115 360 210 touchmove 253 6 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392131 360 210 touchmove 238 8 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392148 360 210 touchmove 221 10 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392165 360 210 touchmove 205 14 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392182 360 210 touchmove 192 18 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392198 360 210 touchmove 181 23 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392214 360 210 touchmove 164 32 0 0 0 boot 0
+carlos_continue_journalist_boot 1581634392220 360 210 touchend 164 32 0 0 0 boot 0
+i_sent_it_to_her 1581634400763 360 210 touchstart 268 32 0 0 0 i 0
+i_sent_it_to_her 1581634400842 360 210 touchend 268 32 0 0 0 i 0
+i_sent_it_to_her 1581634400763 360 210 touchstart 268 32 0 0 0 i 0 0
+i_sent_it_to_her 1581634400842 360 210 touchend 268 32 0 0 0 i 0 0
+i_sent_it_to_her 1581634401179 360 210 touchstart 84 87 0 0 0 sent 0
+i_sent_it_to_her 1581634401255 360 210 touchmove 84 83 0 0 0 sent 0
+i_sent_it_to_her 1581634401273 360 210 touchmove 87 68 0 0 0 sent 0
+i_sent_it_to_her 1581634401289 360 210 touchmove 95 51 0 0 0 sent 0
+i_sent_it_to_her 1581634401305 360 210 touchmove 103 35 0 0 0 sent 0
+i_sent_it_to_her 1581634401321 360 210 touchmove 111 23 0 0 0 sent 0
+i_sent_it_to_her 1581634401339 360 210 touchmove 119 15 0 0 0 sent 0
+i_sent_it_to_her 1581634401355 360 210 touchmove 127 10 0 0 0 sent 0
+i_sent_it_to_her 1581634401371 360 210 touchmove 137 8 0 0 0 sent 0
+i_sent_it_to_her 1581634401388 360 210 touchmove 149 8 0 0 0 sent 0
+i_sent_it_to_her 1581634401405 360 210 touchmove 161 12 0 0 0 sent 0
+i_sent_it_to_her 1581634401424 360 210 touchmove 172 21 0 0 0 sent 0
+i_sent_it_to_her 1581634401438 360 210 touchmove 183 33 0 0 0 sent 0
+i_sent_it_to_her 1581634401455 360 210 touchmove 191 50 0 0 0 sent 0
+i_sent_it_to_her 1581634401472 360 210 touchmove 198 71 0 0 0 sent 0
+i_sent_it_to_her 1581634401488 360 210 touchmove 203 92 0 0 0 sent 0
+i_sent_it_to_her 1581634401505 360 210 touchmove 207 111 0 0 0 sent 0
+i_sent_it_to_her 1581634401522 360 210 touchmove 211 126 0 0 0 sent 0
+i_sent_it_to_her 1581634401539 360 210 touchmove 215 138 0 0 0 sent 0
+i_sent_it_to_her 1581634401555 360 210 touchmove 218 145 0 0 0 sent 0
+i_sent_it_to_her 1581634401572 360 210 touchmove 221 150 0 0 0 sent 0
+i_sent_it_to_her 1581634401589 360 210 touchmove 222 152 0 0 0 sent 0
+i_sent_it_to_her 1581634401605 360 210 touchmove 222 153 0 0 0 sent 0
+i_sent_it_to_her 1581634401622 360 210 touchmove 222 153 0 0 0 sent 0
+i_sent_it_to_her 1581634401678 360 210 touchmove 225 148 0 0 0 sent 0
+i_sent_it_to_her 1581634401689 360 210 touchmove 228 135 0 0 0 sent 0
+i_sent_it_to_her 1581634401706 360 210 touchmove 230 119 0 0 0 sent 0
+i_sent_it_to_her 1581634401724 360 210 touchmove 231 102 0 0 0 sent 0
+i_sent_it_to_her 1581634401739 360 210 touchmove 232 85 0 0 0 sent 0
+i_sent_it_to_her 1581634401756 360 210 touchmove 230 69 0 0 0 sent 0
+i_sent_it_to_her 1581634401773 360 210 touchmove 228 57 0 0 0 sent 0
+i_sent_it_to_her 1581634401789 360 210 touchmove 225 48 0 0 0 sent 0
+i_sent_it_to_her 1581634401806 360 210 touchmove 221 41 0 0 0 sent 0
+i_sent_it_to_her 1581634401823 360 210 touchmove 217 36 0 0 0 sent 0
+i_sent_it_to_her 1581634401839 360 210 touchmove 212 32 0 0 0 sent 0
+i_sent_it_to_her 1581634401856 360 210 touchmove 207 29 0 0 0 sent 0
+i_sent_it_to_her 1581634401872 360 210 touchmove 200 26 0 0 0 sent 0
+i_sent_it_to_her 1581634401889 360 210 touchmove 195 24 0 0 0 sent 0
+i_sent_it_to_her 1581634401906 360 210 touchmove 191 22 0 0 0 sent 0
+i_sent_it_to_her 1581634401923 360 210 touchmove 189 21 0 0 0 sent 0
+i_sent_it_to_her 1581634401939 360 210 touchmove 187 21 0 0 0 sent 0
+i_sent_it_to_her 1581634401958 360 210 touchmove 186 20 0 0 0 sent 0
+i_sent_it_to_her 1581634401973 360 210 touchmove 186 20 0 0 0 sent 0
+i_sent_it_to_her 1581634401990 360 210 touchmove 185 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402020 360 210 touchmove 185 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402089 360 210 touchmove 184 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402120 360 210 touchmove 184 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402140 360 210 touchmove 183 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402157 360 210 touchmove 182 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402174 360 210 touchmove 180 20 0 0 0 sent 0
+i_sent_it_to_her 1581634402190 360 210 touchmove 176 21 0 0 0 sent 0
+i_sent_it_to_her 1581634402207 360 210 touchmove 173 21 0 0 0 sent 0
+i_sent_it_to_her 1581634402223 360 210 touchmove 169 21 0 0 0 sent 0
+i_sent_it_to_her 1581634402240 360 210 touchmove 165 22 0 0 0 sent 0
+i_sent_it_to_her 1581634402257 360 210 touchmove 158 23 0 0 0 sent 0
+i_sent_it_to_her 1581634402274 360 210 touchmove 152 24 0 0 0 sent 0
+i_sent_it_to_her 1581634402290 360 210 touchmove 142 25 0 0 0 sent 0
+i_sent_it_to_her 1581634402307 360 210 touchmove 124 26 0 0 0 sent 0
+i_sent_it_to_her 1581634402313 360 210 touchend 124 26 0 0 0 sent 0
+i_sent_it_to_her 1581634400763 360 210 touchstart 268 32 0 0 0 i 0 0 0
+i_sent_it_to_her 1581634400842 360 210 touchend 268 32 0 0 0 i 0 0 0
+i_sent_it_to_her 1581634401179 360 210 touchstart 84 87 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401255 360 210 touchmove 84 83 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401273 360 210 touchmove 87 68 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401289 360 210 touchmove 95 51 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401305 360 210 touchmove 103 35 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401321 360 210 touchmove 111 23 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401339 360 210 touchmove 119 15 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401355 360 210 touchmove 127 10 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401371 360 210 touchmove 137 8 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401388 360 210 touchmove 149 8 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401405 360 210 touchmove 161 12 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401424 360 210 touchmove 172 21 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401438 360 210 touchmove 183 33 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401455 360 210 touchmove 191 50 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401472 360 210 touchmove 198 71 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401488 360 210 touchmove 203 92 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401505 360 210 touchmove 207 111 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401522 360 210 touchmove 211 126 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401539 360 210 touchmove 215 138 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401555 360 210 touchmove 218 145 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401572 360 210 touchmove 221 150 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401589 360 210 touchmove 222 152 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401605 360 210 touchmove 222 153 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401622 360 210 touchmove 222 153 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401678 360 210 touchmove 225 148 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401689 360 210 touchmove 228 135 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401706 360 210 touchmove 230 119 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401724 360 210 touchmove 231 102 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401739 360 210 touchmove 232 85 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401756 360 210 touchmove 230 69 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401773 360 210 touchmove 228 57 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401789 360 210 touchmove 225 48 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401806 360 210 touchmove 221 41 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401823 360 210 touchmove 217 36 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401839 360 210 touchmove 212 32 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401856 360 210 touchmove 207 29 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401872 360 210 touchmove 200 26 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401889 360 210 touchmove 195 24 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401906 360 210 touchmove 191 22 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401923 360 210 touchmove 189 21 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401939 360 210 touchmove 187 21 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401958 360 210 touchmove 186 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401973 360 210 touchmove 186 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634401990 360 210 touchmove 185 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402020 360 210 touchmove 185 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402089 360 210 touchmove 184 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402120 360 210 touchmove 184 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402140 360 210 touchmove 183 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402157 360 210 touchmove 182 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402174 360 210 touchmove 180 20 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402190 360 210 touchmove 176 21 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402207 360 210 touchmove 173 21 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402223 360 210 touchmove 169 21 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402240 360 210 touchmove 165 22 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402257 360 210 touchmove 158 23 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402274 360 210 touchmove 152 24 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402290 360 210 touchmove 142 25 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402307 360 210 touchmove 124 26 0 0 0 sent 0 0
+i_sent_it_to_her 1581634402313 360 210 touchend 124 26 0 0 0 sent 0 0
+i_sent_it_to_her 1581634403034 360 210 touchstart 277 46 0 0 0 it 0
+i_sent_it_to_her 1581634403125 360 210 touchmove 276 46 0 0 0 it 0
+i_sent_it_to_her 1581634403142 360 210 touchmove 271 45 0 0 0 it 0
+i_sent_it_to_her 1581634403159 360 210 touchmove 261 43 0 0 0 it 0
+i_sent_it_to_her 1581634403177 360 210 touchmove 247 40 0 0 0 it 0
+i_sent_it_to_her 1581634403194 360 210 touchmove 231 36 0 0 0 it 0
+i_sent_it_to_her 1581634403209 360 210 touchmove 214 33 0 0 0 it 0
+i_sent_it_to_her 1581634403226 360 210 touchmove 198 31 0 0 0 it 0
+i_sent_it_to_her 1581634403243 360 210 touchmove 184 30 0 0 0 it 0
+i_sent_it_to_her 1581634403259 360 210 touchmove 171 28 0 0 0 it 0
+i_sent_it_to_her 1581634403277 360 210 touchmove 156 27 0 0 0 it 0
+i_sent_it_to_her 1581634403293 360 210 touchmove 141 26 0 0 0 it 0
+i_sent_it_to_her 1581634403299 360 210 touchend 141 26 0 0 0 it 0
+i_sent_it_to_her 1581634400763 360 210 touchstart 268 32 0 0 0 i 0 0 0 0
+i_sent_it_to_her 1581634400842 360 210 touchend 268 32 0 0 0 i 0 0 0 0
+i_sent_it_to_her 1581634401179 360 210 touchstart 84 87 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401255 360 210 touchmove 84 83 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401273 360 210 touchmove 87 68 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401289 360 210 touchmove 95 51 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401305 360 210 touchmove 103 35 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401321 360 210 touchmove 111 23 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401339 360 210 touchmove 119 15 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401355 360 210 touchmove 127 10 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401371 360 210 touchmove 137 8 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401388 360 210 touchmove 149 8 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401405 360 210 touchmove 161 12 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401424 360 210 touchmove 172 21 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401438 360 210 touchmove 183 33 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401455 360 210 touchmove 191 50 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401472 360 210 touchmove 198 71 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401488 360 210 touchmove 203 92 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401505 360 210 touchmove 207 111 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401522 360 210 touchmove 211 126 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401539 360 210 touchmove 215 138 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401555 360 210 touchmove 218 145 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401572 360 210 touchmove 221 150 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401589 360 210 touchmove 222 152 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401605 360 210 touchmove 222 153 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401622 360 210 touchmove 222 153 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401678 360 210 touchmove 225 148 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401689 360 210 touchmove 228 135 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401706 360 210 touchmove 230 119 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401724 360 210 touchmove 231 102 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401739 360 210 touchmove 232 85 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401756 360 210 touchmove 230 69 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401773 360 210 touchmove 228 57 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401789 360 210 touchmove 225 48 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401806 360 210 touchmove 221 41 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401823 360 210 touchmove 217 36 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401839 360 210 touchmove 212 32 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401856 360 210 touchmove 207 29 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401872 360 210 touchmove 200 26 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401889 360 210 touchmove 195 24 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401906 360 210 touchmove 191 22 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401923 360 210 touchmove 189 21 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401939 360 210 touchmove 187 21 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401958 360 210 touchmove 186 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401973 360 210 touchmove 186 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634401990 360 210 touchmove 185 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402020 360 210 touchmove 185 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402089 360 210 touchmove 184 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402120 360 210 touchmove 184 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402140 360 210 touchmove 183 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402157 360 210 touchmove 182 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402174 360 210 touchmove 180 20 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402190 360 210 touchmove 176 21 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402207 360 210 touchmove 173 21 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402223 360 210 touchmove 169 21 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402240 360 210 touchmove 165 22 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402257 360 210 touchmove 158 23 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402274 360 210 touchmove 152 24 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402290 360 210 touchmove 142 25 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402307 360 210 touchmove 124 26 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634402313 360 210 touchend 124 26 0 0 0 sent 0 0 0
+i_sent_it_to_her 1581634403034 360 210 touchstart 277 46 0 0 0 it 0 0
+i_sent_it_to_her 1581634403125 360 210 touchmove 276 46 0 0 0 it 0 0
+i_sent_it_to_her 1581634403142 360 210 touchmove 271 45 0 0 0 it 0 0
+i_sent_it_to_her 1581634403159 360 210 touchmove 261 43 0 0 0 it 0 0
+i_sent_it_to_her 1581634403177 360 210 touchmove 247 40 0 0 0 it 0 0
+i_sent_it_to_her 1581634403194 360 210 touchmove 231 36 0 0 0 it 0 0
+i_sent_it_to_her 1581634403209 360 210 touchmove 214 33 0 0 0 it 0 0
+i_sent_it_to_her 1581634403226 360 210 touchmove 198 31 0 0 0 it 0 0
+i_sent_it_to_her 1581634403243 360 210 touchmove 184 30 0 0 0 it 0 0
+i_sent_it_to_her 1581634403259 360 210 touchmove 171 28 0 0 0 it 0 0
+i_sent_it_to_her 1581634403277 360 210 touchmove 156 27 0 0 0 it 0 0
+i_sent_it_to_her 1581634403293 360 210 touchmove 141 26 0 0 0 it 0 0
+i_sent_it_to_her 1581634403299 360 210 touchend 141 26 0 0 0 it 0 0
+i_sent_it_to_her 1581634403978 360 210 touchstart 154 21 0 0 0 to 0
+i_sent_it_to_her 1581634404061 360 210 touchmove 165 24 0 0 0 to 0
+i_sent_it_to_her 1581634404078 360 210 touchmove 183 28 0 0 0 to 0
+i_sent_it_to_her 1581634404095 360 210 touchmove 211 30 0 0 0 to 0
+i_sent_it_to_her 1581634404112 360 210 touchmove 244 30 0 0 0 to 0
+i_sent_it_to_her 1581634404128 360 210 touchmove 274 29 0 0 0 to 0
+i_sent_it_to_her 1581634404145 360 210 touchmove 295 26 0 0 0 to 0
+i_sent_it_to_her 1581634404162 360 210 touchmove 309 20 0 0 0 to 0
+i_sent_it_to_her 1581634404178 360 210 touchmove 318 14 0 0 0 to 0
+i_sent_it_to_her 1581634404191 360 210 touchmove 322 10 0 0 0 to 0
+i_sent_it_to_her 1581634404195 360 210 touchend 322 10 0 0 0 to 0
+i_sent_it_to_her 1581634400763 360 210 touchstart 268 32 0 0 0 i 0 0 0 0 0
+i_sent_it_to_her 1581634400842 360 210 touchend 268 32 0 0 0 i 0 0 0 0 0
+i_sent_it_to_her 1581634401179 360 210 touchstart 84 87 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401255 360 210 touchmove 84 83 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401273 360 210 touchmove 87 68 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401289 360 210 touchmove 95 51 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401305 360 210 touchmove 103 35 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401321 360 210 touchmove 111 23 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401339 360 210 touchmove 119 15 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401355 360 210 touchmove 127 10 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401371 360 210 touchmove 137 8 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401388 360 210 touchmove 149 8 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401405 360 210 touchmove 161 12 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401424 360 210 touchmove 172 21 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401438 360 210 touchmove 183 33 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401455 360 210 touchmove 191 50 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401472 360 210 touchmove 198 71 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401488 360 210 touchmove 203 92 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401505 360 210 touchmove 207 111 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401522 360 210 touchmove 211 126 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401539 360 210 touchmove 215 138 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401555 360 210 touchmove 218 145 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401572 360 210 touchmove 221 150 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401589 360 210 touchmove 222 152 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401605 360 210 touchmove 222 153 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401622 360 210 touchmove 222 153 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401678 360 210 touchmove 225 148 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401689 360 210 touchmove 228 135 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401706 360 210 touchmove 230 119 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401724 360 210 touchmove 231 102 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401739 360 210 touchmove 232 85 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401756 360 210 touchmove 230 69 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401773 360 210 touchmove 228 57 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401789 360 210 touchmove 225 48 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401806 360 210 touchmove 221 41 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401823 360 210 touchmove 217 36 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401839 360 210 touchmove 212 32 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401856 360 210 touchmove 207 29 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401872 360 210 touchmove 200 26 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401889 360 210 touchmove 195 24 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401906 360 210 touchmove 191 22 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401923 360 210 touchmove 189 21 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401939 360 210 touchmove 187 21 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401958 360 210 touchmove 186 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401973 360 210 touchmove 186 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634401990 360 210 touchmove 185 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402020 360 210 touchmove 185 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402089 360 210 touchmove 184 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402120 360 210 touchmove 184 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402140 360 210 touchmove 183 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402157 360 210 touchmove 182 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402174 360 210 touchmove 180 20 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402190 360 210 touchmove 176 21 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402207 360 210 touchmove 173 21 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402223 360 210 touchmove 169 21 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402240 360 210 touchmove 165 22 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402257 360 210 touchmove 158 23 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402274 360 210 touchmove 152 24 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402290 360 210 touchmove 142 25 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402307 360 210 touchmove 124 26 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634402313 360 210 touchend 124 26 0 0 0 sent 0 0 0 0
+i_sent_it_to_her 1581634403034 360 210 touchstart 277 46 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403125 360 210 touchmove 276 46 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403142 360 210 touchmove 271 45 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403159 360 210 touchmove 261 43 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403177 360 210 touchmove 247 40 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403194 360 210 touchmove 231 36 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403209 360 210 touchmove 214 33 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403226 360 210 touchmove 198 31 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403243 360 210 touchmove 184 30 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403259 360 210 touchmove 171 28 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403277 360 210 touchmove 156 27 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403293 360 210 touchmove 141 26 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403299 360 210 touchend 141 26 0 0 0 it 0 0 0
+i_sent_it_to_her 1581634403978 360 210 touchstart 154 21 0 0 0 to 0 0
+i_sent_it_to_her 1581634404061 360 210 touchmove 165 24 0 0 0 to 0 0
+i_sent_it_to_her 1581634404078 360 210 touchmove 183 28 0 0 0 to 0 0
+i_sent_it_to_her 1581634404095 360 210 touchmove 211 30 0 0 0 to 0 0
+i_sent_it_to_her 1581634404112 360 210 touchmove 244 30 0 0 0 to 0 0
+i_sent_it_to_her 1581634404128 360 210 touchmove 274 29 0 0 0 to 0 0
+i_sent_it_to_her 1581634404145 360 210 touchmove 295 26 0 0 0 to 0 0
+i_sent_it_to_her 1581634404162 360 210 touchmove 309 20 0 0 0 to 0 0
+i_sent_it_to_her 1581634404178 360 210 touchmove 318 14 0 0 0 to 0 0
+i_sent_it_to_her 1581634404191 360 210 touchmove 322 10 0 0 0 to 0 0
+i_sent_it_to_her 1581634404195 360 210 touchend 322 10 0 0 0 to 0 0
+i_sent_it_to_her 1581634404632 360 210 touchstart 177 100 0 0 0 her 0
+i_sent_it_to_her 1581634404830 360 210 touchmove 172 96 0 0 0 her 0
+i_sent_it_to_her 1581634404847 360 210 touchmove 161 89 0 0 0 her 0
+i_sent_it_to_her 1581634404864 360 210 touchmove 149 80 0 0 0 her 0
+i_sent_it_to_her 1581634404883 360 210 touchmove 138 71 0 0 0 her 0
+i_sent_it_to_her 1581634404899 360 210 touchmove 129 62 0 0 0 her 0
+i_sent_it_to_her 1581634404913 360 210 touchmove 120 53 0 0 0 her 0
+i_sent_it_to_her 1581634404930 360 210 touchmove 113 44 0 0 0 her 0
+i_sent_it_to_her 1581634404947 360 210 touchmove 109 35 0 0 0 her 0
+i_sent_it_to_her 1581634404963 360 210 touchmove 107 27 0 0 0 her 0
+i_sent_it_to_her 1581634404980 360 210 touchmove 107 20 0 0 0 her 0
+i_sent_it_to_her 1581634405000 360 210 touchmove 110 10 0 0 0 her 0
+i_sent_it_to_her 1581634405014 360 210 touchmove 117 -2 0 0 0 her 0
+i_sent_it_to_her 1581634405027 360 210 touchmove 120 -8 0 0 0 her 0
+i_sent_it_to_her 1581634405031 360 210 touchend 120 -8 0 0 0 her 0

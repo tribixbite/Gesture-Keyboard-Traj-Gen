@@ -1,0 +1,472 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+please_send_me_an_email 1581928744241 360 220 touchstart 336 29 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744256 360 220 touchmove 334 28 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744272 360 220 touchmove 332 27 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744288 360 220 touchmove 329 25 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744305 360 220 touchmove 328 24 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744322 360 220 touchmove 328 23 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744338 360 220 touchmove 327 23 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744363 360 220 touchmove 327 24 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744372 360 220 touchmove 328 25 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744389 360 220 touchmove 327 36 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744398 360 220 touchend 327 36 0.5 0.5 0 please 1
+please_send_me_an_email 1581928744241 360 220 touchstart 336 29 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928744256 360 220 touchmove 334 28 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928744272 360 220 touchmove 332 27 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928744288 360 220 touchmove 329 25 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928744305 360 220 touchmove 328 24 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744322 360 220 touchmove 328 23 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744338 360 220 touchmove 327 23 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744363 360 220 touchmove 327 24 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744372 360 220 touchmove 328 25 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744389 360 220 touchmove 327 36 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744398 360 220 touchend 327 36 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928744487 360 220 touchstart 329 77 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744505 360 220 touchmove 328 77 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744523 360 220 touchmove 325 75 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744539 360 220 touchmove 324 74 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744557 360 220 touchmove 322 73 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744572 360 220 touchmove 322 72 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744623 360 220 touchmove 322 73 0.25 0.25 0 please 1
+please_send_me_an_email 1581928744630 360 220 touchend 322 73 0.25 0.25 0 please 1
+please_send_me_an_email 1581928745382 360 220 touchstart 91 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928745406 360 220 touchmove 90 39 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745423 360 220 touchmove 90 38 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745440 360 220 touchmove 90 37 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745456 360 220 touchmove 90 36 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745473 360 220 touchmove 89 36 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745517 360 220 touchmove 89 37 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745519 360 220 touchend 89 37 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745888 360 220 touchmove 43 85 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745890 360 220 touchend 43 85 0.5 0.5 0 please 1
+please_send_me_an_email 1581928745888 360 220 touchmove 43 85 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928745890 360 220 touchend 43 85 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928746082 360 220 touchstart 72 95 0.25 0.25 0 please 1
+please_send_me_an_email 1581928746107 360 220 touchmove 71 94 0.25 0.25 0 please 1
+please_send_me_an_email 1581928746124 360 220 touchmove 71 93 0.25 0.25 0 please 1
+please_send_me_an_email 1581928746140 360 220 touchmove 71 93 0.25 0.25 0 please 1
+please_send_me_an_email 1581928746157 360 220 touchmove 71 92 0.5 0.5 0 please 1
+please_send_me_an_email 1581928746217 360 220 touchmove 72 92 0.5 0.5 0 please 1
+please_send_me_an_email 1581928746220 360 220 touchend 72 92 0.5 0.5 0 please 1
+please_send_me_an_email 1581928746591 360 220 touchmove 87 32 0.5 0.5 0 please 1
+please_send_me_an_email 1581928746604 360 220 touchmove 87 33 0.5 0.5 0 please 1
+please_send_me_an_email 1581928746607 360 220 touchend 87 33 0.5 0.5 0 please 1
+please_send_me_an_email 1581928748452 360 220 touchstart 336 38 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748460 360 220 touchmove 335 36 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748477 360 220 touchmove 333 35 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748494 360 220 touchmove 331 33 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748510 360 220 touchmove 331 32 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748527 360 220 touchmove 330 32 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748544 360 220 touchmove 329 32 0.25 0.25 0 please 1
+please_send_me_an_email 1581928748560 360 220 touchmove 330 32 0.5 0.5 0 please 1
+please_send_me_an_email 1581928748577 360 220 touchmove 330 32 0.5 0.5 0 please 1
+please_send_me_an_email 1581928748593 360 220 touchend 330 32 0.5 0.5 0 please 1
+please_send_me_an_email 1581928748981 360 220 touchend 323 88 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750153 360 220 touchstart 86 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750182 360 220 touchmove 85 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750195 360 220 touchmove 84 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750212 360 220 touchmove 84 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750229 360 220 touchmove 83 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750246 360 220 touchmove 82 40 0.25 0.25 0 please 1
+please_send_me_an_email 1581928750262 360 220 touchmove 81 41 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750279 360 220 touchmove 78 43 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750296 360 220 touchmove 76 45 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750313 360 220 touchmove 71 52 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750330 360 220 touchmove 62 65 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750352 360 220 touchmove 55 76 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750365 360 220 touchmove 53 80 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750381 360 220 touchmove 48 86 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750397 360 220 touchmove 46 90 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750416 360 220 touchmove 44 93 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750431 360 220 touchmove 43 94 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750447 360 220 touchmove 42 95 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750463 360 220 touchmove 42 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750479 360 220 touchmove 42 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750496 360 220 touchmove 41 97 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750512 360 220 touchmove 41 98 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750530 360 220 touchmove 41 98 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750547 360 220 touchmove 42 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750563 360 220 touchmove 43 101 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750580 360 220 touchmove 44 103 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750597 360 220 touchmove 46 105 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750613 360 220 touchmove 48 107 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750630 360 220 touchmove 51 109 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750650 360 220 touchmove 52 110 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750676 360 220 touchmove 57 112 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750698 360 220 touchmove 59 111 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750713 360 220 touchmove 63 110 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750733 360 220 touchmove 68 107 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750750 360 220 touchmove 73 103 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750762 360 220 touchmove 74 102 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750779 360 220 touchmove 77 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750796 360 220 touchmove 79 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750813 360 220 touchmove 81 93 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750830 360 220 touchmove 83 90 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750846 360 220 touchmove 85 87 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750863 360 220 touchmove 87 83 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750880 360 220 touchmove 89 78 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750897 360 220 touchmove 90 72 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750914 360 220 touchmove 92 63 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750930 360 220 touchmove 93 55 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750947 360 220 touchmove 95 49 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750964 360 220 touchmove 97 42 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750980 360 220 touchmove 98 35 0.5 0.5 0 please 1
+please_send_me_an_email 1581928750997 360 220 touchmove 100 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928751014 360 220 touchmove 103 19 0.5 0.5 0 please 1
+please_send_me_an_email 1581928751030 360 220 touchmove 106 12 0.5 0.5 0 please 1
+please_send_me_an_email 1581928751047 360 220 touchmove 110 5 0.5 0.5 0 please 1
+please_send_me_an_email 1581928751059 360 220 touchend 110 5 0.5 0.5 0 please 1
+please_send_me_an_email 1581928755198 360 220 touchstart 160 128 0.5 0.5 0 please 1
+please_send_me_an_email 1581928755219 360 220 touchmove 161 128 0.5 0.5 0 please 1
+please_send_me_an_email 1581928755237 360 220 touchmove 162 129 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755255 360 220 touchmove 172 129 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755270 360 220 touchmove 191 129 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755285 360 220 touchmove 217 130 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755304 360 220 touchmove 253 131 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755320 360 220 touchmove 260 130 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755336 360 220 touchmove 277 127 1 1 0 please 1
+please_send_me_an_email 1581928755353 360 220 touchmove 286 114 1 1 0 please 1
+please_send_me_an_email 1581928755370 360 220 touchmove 287 103 1 1 0 please 1
+please_send_me_an_email 1581928755386 360 220 touchmove 276 98 1 1 0 please 1
+please_send_me_an_email 1581928755404 360 220 touchmove 269 94 1 1 0 please 1
+please_send_me_an_email 1581928755421 360 220 touchmove 268 93 1 1 0 please 1
+please_send_me_an_email 1581928755437 360 220 touchmove 263 88 1 1 0 please 1
+please_send_me_an_email 1581928755452 360 220 touchmove 251 83 1 1 0 please 1
+please_send_me_an_email 1581928755469 360 220 touchmove 228 81 1 1 0 please 1
+please_send_me_an_email 1581928755486 360 220 touchmove 186 86 1 1 0 please 1
+please_send_me_an_email 1581928755503 360 220 touchmove 135 112 1 1 0 please 1
+please_send_me_an_email 1581928755520 360 220 touchmove 86 141 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755537 360 220 touchmove 53 157 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755589 360 220 touchmove 31 170 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755603 360 220 touchmove 30 170 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755619 360 220 touchmove 32 167 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755636 360 220 touchmove 35 162 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755653 360 220 touchmove 41 148 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755669 360 220 touchmove 51 131 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755686 360 220 touchmove 67 114 0.75 0.75 0 please 1
+please_send_me_an_email 1581928755702 360 220 touchmove 82 93 1 1 0 please 1
+please_send_me_an_email 1581928755720 360 220 touchmove 97 70 1 1 0 please 1
+please_send_me_an_email 1581928755737 360 220 touchmove 110 51 1 1 0 please 1
+please_send_me_an_email 1581928755753 360 220 touchmove 118 32 1 1 0 please 1
+please_send_me_an_email 1581928755770 360 220 touchmove 127 11 1 1 0 please 1
+please_send_me_an_email 1581928755787 360 220 touchmove 131 -5 1 1 0 please 1
+please_send_me_an_email 1581928755804 360 220 touchmove 136 -18 1 1 0 please 1
+please_send_me_an_email 1581928755821 360 220 touchmove 139 -28 1.25 1.25 0 please 1
+please_send_me_an_email 1581928755883 360 220 touchmove 132 -36 1.25 1.25 0 please 1
+please_send_me_an_email 1581928755888 360 220 touchmove 110 -46 1 1 0 please 1
+please_send_me_an_email 1581928755891 360 220 touchend 110 -46 1 1 0 please 1
+please_send_me_an_email 1581928767867 360 220 touchstart 341 26 0.25 0.25 0 please 1
+please_send_me_an_email 1581928767885 360 220 touchmove 340 25 0.25 0.25 0 please 1
+please_send_me_an_email 1581928767902 360 220 touchmove 339 24 0.25 0.25 0 please 1
+please_send_me_an_email 1581928767919 360 220 touchmove 338 23 0.25 0.25 0 please 1
+please_send_me_an_email 1581928767935 360 220 touchmove 337 23 0.25 0.25 0 please 1
+please_send_me_an_email 1581928767952 360 220 touchmove 337 23 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768034 360 220 touchmove 336 24 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768038 360 220 touchend 336 24 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768420 360 220 touchstart 341 29 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768452 360 220 touchmove 339 28 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768469 360 220 touchmove 338 28 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768486 360 220 touchmove 337 28 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768503 360 220 touchmove 337 29 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768519 360 220 touchmove 335 33 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768536 360 220 touchmove 334 38 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768554 360 220 touchmove 333 41 0.25 0.25 0 please 1
+please_send_me_an_email 1581928768570 360 220 touchmove 333 47 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768586 360 220 touchmove 333 53 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768603 360 220 touchmove 333 59 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768621 360 220 touchmove 333 64 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768637 360 220 touchmove 333 70 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768653 360 220 touchmove 333 75 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768670 360 220 touchmove 333 80 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768687 360 220 touchmove 333 84 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768704 360 220 touchmove 333 87 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768721 360 220 touchmove 333 90 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768737 360 220 touchmove 333 93 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768753 360 220 touchmove 333 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768772 360 220 touchmove 333 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768783 360 220 touchmove 333 101 0.5 0.5 0 please 1
+please_send_me_an_email 1581928768787 360 220 touchend 333 101 0.5 0.5 0 please 1
+please_send_me_an_email 1581928769995 360 220 touchstart 93 37 0.25 0.25 0 please 1
+please_send_me_an_email 1581928770038 360 220 touchmove 91 37 0.25 0.25 0 please 1
+please_send_me_an_email 1581928770055 360 220 touchmove 91 37 0.25 0.25 0 please 1
+please_send_me_an_email 1581928770072 360 220 touchmove 86 42 0.25 0.25 0 please 1
+please_send_me_an_email 1581928770089 360 220 touchmove 81 46 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770105 360 220 touchmove 72 56 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770123 360 220 touchmove 64 65 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770140 360 220 touchmove 59 72 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770156 360 220 touchmove 54 79 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770173 360 220 touchmove 50 85 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770190 360 220 touchmove 47 90 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770205 360 220 touchmove 44 93 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770223 360 220 touchmove 43 95 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770239 360 220 touchmove 42 95 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770255 360 220 touchmove 41 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770272 360 220 touchmove 41 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770289 360 220 touchmove 40 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770372 360 220 touchmove 40 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770455 360 220 touchmove 39 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770606 360 220 touchmove 42 97 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770623 360 220 touchmove 54 98 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770639 360 220 touchmove 59 99 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770656 360 220 touchmove 63 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770672 360 220 touchmove 66 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770689 360 220 touchmove 71 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770706 360 220 touchmove 78 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770722 360 220 touchmove 82 98 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770739 360 220 touchmove 84 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770756 360 220 touchmove 88 92 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770773 360 220 touchmove 97 83 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770789 360 220 touchmove 105 73 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770806 360 220 touchmove 108 68 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770823 360 220 touchmove 112 61 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770841 360 220 touchmove 112 57 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770857 360 220 touchmove 114 54 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770873 360 220 touchmove 117 51 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770890 360 220 touchmove 121 45 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770907 360 220 touchmove 123 41 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770923 360 220 touchmove 124 39 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770941 360 220 touchmove 127 36 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770957 360 220 touchmove 127 34 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770973 360 220 touchmove 128 32 0.5 0.5 0 please 1
+please_send_me_an_email 1581928770990 360 220 touchmove 130 30 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771007 360 220 touchmove 130 29 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771023 360 220 touchmove 130 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771042 360 220 touchmove 129 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771056 360 220 touchmove 129 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771073 360 220 touchmove 129 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771077 360 220 touchend 129 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771733 360 220 touchstart 347 27 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771760 360 220 touchmove 343 27 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771774 360 220 touchmove 342 28 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771791 360 220 touchmove 341 30 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771807 360 220 touchmove 339 36 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771824 360 220 touchmove 336 44 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771840 360 220 touchmove 333 54 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771858 360 220 touchmove 331 60 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771874 360 220 touchmove 327 71 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771892 360 220 touchmove 323 86 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771908 360 220 touchmove 322 94 0.25 0.25 0 please 1
+please_send_me_an_email 1581928771925 360 220 touchmove 320 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771942 360 220 touchmove 320 103 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771961 360 220 touchmove 320 105 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771976 360 220 touchmove 320 108 0.5 0.5 0 please 1
+please_send_me_an_email 1581928771991 360 220 touchmove 320 109 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772008 360 220 touchmove 320 111 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772025 360 220 touchmove 320 118 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772034 360 220 touchmove 320 120 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772036 360 220 touchend 320 120 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772573 360 220 touchstart 80 36 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772591 360 220 touchmove 79 36 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772609 360 220 touchmove 78 37 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772625 360 220 touchmove 71 42 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772642 360 220 touchmove 63 52 0.25 0.25 0 please 1
+please_send_me_an_email 1581928772658 360 220 touchmove 56 63 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772676 360 220 touchmove 49 73 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772692 360 220 touchmove 46 78 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772709 360 220 touchmove 43 86 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772726 360 220 touchmove 40 90 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772742 360 220 touchmove 40 93 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772760 360 220 touchmove 39 95 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772777 360 220 touchmove 39 95 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772792 360 220 touchmove 38 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772925 360 220 touchmove 39 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772942 360 220 touchmove 40 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772959 360 220 touchmove 42 97 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772976 360 220 touchmove 46 98 0.5 0.5 0 please 1
+please_send_me_an_email 1581928772992 360 220 touchmove 50 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773009 360 220 touchmove 54 102 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773026 360 220 touchmove 58 104 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773043 360 220 touchmove 61 105 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773059 360 220 touchmove 63 106 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773076 360 220 touchmove 65 107 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773093 360 220 touchmove 69 107 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773111 360 220 touchmove 73 107 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773126 360 220 touchmove 82 107 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773142 360 220 touchmove 85 106 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773159 360 220 touchmove 85 105 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773176 360 220 touchmove 86 100 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773193 360 220 touchmove 87 95 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773209 360 220 touchmove 87 85 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773226 360 220 touchmove 89 74 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773242 360 220 touchmove 89 67 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773259 360 220 touchmove 90 60 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773275 360 220 touchmove 91 54 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773292 360 220 touchmove 91 47 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773309 360 220 touchmove 92 39 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773326 360 220 touchmove 93 33 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773342 360 220 touchmove 93 28 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773359 360 220 touchmove 93 26 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773376 360 220 touchmove 93 23 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773392 360 220 touchmove 94 20 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773408 360 220 touchmove 95 18 0.5 0.5 0 please 1
+please_send_me_an_email 1581928773410 360 220 touchend 95 18 0.5 0.5 0 please 1
+please_send_me_an_email 1581928774723 360 220 touchstart 333 30 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774744 360 220 touchmove 332 30 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774761 360 220 touchmove 331 28 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774777 360 220 touchmove 330 27 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774794 360 220 touchmove 329 27 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774811 360 220 touchmove 329 26 0.5 0.5 0 please 1
+please_send_me_an_email 1581928774827 360 220 touchmove 329 27 0.5 0.5 0 please 1
+please_send_me_an_email 1581928774848 360 220 touchmove 329 28 0.5 0.5 0 please 1
+please_send_me_an_email 1581928774856 360 220 touchend 329 28 0.5 0.5 0 please 1
+please_send_me_an_email 1581928774723 360 220 touchstart 333 30 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928774744 360 220 touchmove 332 30 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928774761 360 220 touchmove 331 28 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928774777 360 220 touchmove 330 27 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928774794 360 220 touchmove 329 27 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928774811 360 220 touchmove 329 26 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928774827 360 220 touchmove 329 27 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928774848 360 220 touchmove 329 28 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928774856 360 220 touchend 329 28 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928774949 360 220 touchstart 329 90 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774978 360 220 touchmove 328 90 0.25 0.25 0 please 1
+please_send_me_an_email 1581928774994 360 220 touchmove 326 89 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775011 360 220 touchmove 325 88 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775028 360 220 touchmove 324 88 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775044 360 220 touchmove 323 88 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775061 360 220 touchmove 323 88 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775078 360 220 touchmove 322 90 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775095 360 220 touchmove 321 94 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775113 360 220 touchmove 320 100 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775127 360 220 touchmove 318 107 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775144 360 220 touchmove 318 110 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775161 360 220 touchmove 316 116 0.25 0.25 0 please 1
+please_send_me_an_email 1581928775168 360 220 touchend 316 116 0.25 0.25 0 please 1
+please_send_me_an_email 1581928776365 360 220 touchstart 93 36 0.25 0.25 0 please 1
+please_send_me_an_email 1581928776395 360 220 touchmove 92 35 0.25 0.25 0 please 1
+please_send_me_an_email 1581928776412 360 220 touchmove 91 35 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776441 360 220 touchmove 92 36 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776450 360 220 touchmove 92 40 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776463 360 220 touchmove 92 47 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776480 360 220 touchmove 92 58 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776497 360 220 touchmove 91 68 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776514 360 220 touchmove 88 77 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776520 360 220 touchend 88 77 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776365 360 220 touchstart 93 36 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928776395 360 220 touchmove 92 35 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928776412 360 220 touchmove 91 35 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776441 360 220 touchmove 92 36 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776450 360 220 touchmove 92 40 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776463 360 220 touchmove 92 47 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776480 360 220 touchmove 92 58 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776497 360 220 touchmove 91 68 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776514 360 220 touchmove 88 77 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776520 360 220 touchend 88 77 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928776668 360 220 touchstart 25 95 0.25 0.25 0 please 1
+please_send_me_an_email 1581928776729 360 220 touchmove 25 95 0.25 0.25 0 please 1
+please_send_me_an_email 1581928776746 360 220 touchmove 26 96 0.25 0.25 0 please 1
+please_send_me_an_email 1581928776763 360 220 touchmove 27 98 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776780 360 220 touchmove 29 101 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776797 360 220 touchmove 30 112 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776813 360 220 touchmove 32 119 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776828 360 220 touchmove 34 119 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776831 360 220 touchend 34 119 0.5 0.5 0 please 1
+please_send_me_an_email 1581928776945 360 220 touchstart 59 93 0.25 0.25 0 please 1
+please_send_me_an_email 1581928777030 360 220 touchmove 58 94 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777048 360 220 touchmove 56 119 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777064 360 220 touchmove 55 127 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777082 360 220 touchmove 53 141 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777089 360 220 touchmove 53 146 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777092 360 220 touchend 53 146 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777679 360 220 touchstart 94 22 0.25 0.25 0 please 1
+please_send_me_an_email 1581928777697 360 220 touchmove 94 21 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777715 360 220 touchmove 93 21 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777731 360 220 touchmove 93 20 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777756 360 220 touchmove 93 21 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777766 360 220 touchmove 93 31 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777782 360 220 touchmove 94 40 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777798 360 220 touchmove 94 70 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777816 360 220 touchmove 95 105 0.5 0.5 0 please 1
+please_send_me_an_email 1581928777818 360 220 touchend 95 105 0.5 0.5 0 please 1
+please_send_me_an_email 1581928778742 360 220 touchstart 343 12 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778765 360 220 touchmove 341 12 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778783 360 220 touchmove 340 12 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778799 360 220 touchmove 339 11 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778816 360 220 touchmove 339 11 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778832 360 220 touchmove 338 11 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778849 360 220 touchmove 338 12 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778868 360 220 touchmove 338 13 0.5 0.5 0 please 1
+please_send_me_an_email 1581928778883 360 220 touchmove 338 22 0.5 0.5 0 please 1
+please_send_me_an_email 1581928778900 360 220 touchmove 339 35 0.5 0.5 0 please 1
+please_send_me_an_email 1581928778916 360 220 touchmove 339 47 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778926 360 220 touchmove 339 52 0.25 0.25 0 please 1
+please_send_me_an_email 1581928778928 360 220 touchend 339 52 0.25 0.25 0 please 1
+please_send_me_an_email 1581928779297 360 220 touchmove 331 142 0.25 0.25 0 please 1
+please_send_me_an_email 1581928779300 360 220 touchend 331 142 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780021 360 220 touchstart 95 32 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780034 360 220 touchmove 94 33 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780051 360 220 touchmove 94 34 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780067 360 220 touchmove 93 34 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780084 360 220 touchmove 92 35 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780101 360 220 touchmove 92 46 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780117 360 220 touchmove 92 60 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780134 360 220 touchmove 91 70 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780151 360 220 touchmove 90 76 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780168 360 220 touchmove 88 84 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780185 360 220 touchmove 85 88 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780202 360 220 touchmove 83 90 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780204 360 220 touchend 83 90 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780021 360 220 touchstart 95 32 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780034 360 220 touchmove 94 33 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780051 360 220 touchmove 94 34 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780067 360 220 touchmove 93 34 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780084 360 220 touchmove 92 35 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780101 360 220 touchmove 92 46 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780117 360 220 touchmove 92 60 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780134 360 220 touchmove 91 70 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780151 360 220 touchmove 90 76 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780168 360 220 touchmove 88 84 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780185 360 220 touchmove 85 88 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780202 360 220 touchmove 83 90 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780204 360 220 touchend 83 90 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780358 360 220 touchstart 30 98 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780434 360 220 touchmove 30 109 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780460 360 220 touchmove 31 118 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780468 360 220 touchmove 31 126 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780486 360 220 touchmove 30 138 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780502 360 220 touchmove 30 146 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780519 360 220 touchmove 30 154 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780527 360 220 touchmove 30 157 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780530 360 220 touchend 30 157 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780021 360 220 touchstart 95 32 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780034 360 220 touchmove 94 33 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780051 360 220 touchmove 94 34 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780067 360 220 touchmove 93 34 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780084 360 220 touchmove 92 35 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780101 360 220 touchmove 92 46 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780117 360 220 touchmove 92 60 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780134 360 220 touchmove 91 70 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780151 360 220 touchmove 90 76 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780168 360 220 touchmove 88 84 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780185 360 220 touchmove 85 88 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780202 360 220 touchmove 83 90 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780204 360 220 touchend 83 90 0.25 0.25 0 please 1 1 1
+please_send_me_an_email 1581928780358 360 220 touchstart 30 98 0.25 0.25 0 please 1 1
+please_send_me_an_email 1581928780434 360 220 touchmove 30 109 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780460 360 220 touchmove 31 118 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780468 360 220 touchmove 31 126 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780486 360 220 touchmove 30 138 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780502 360 220 touchmove 30 146 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780519 360 220 touchmove 30 154 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780527 360 220 touchmove 30 157 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780530 360 220 touchend 30 157 0.5 0.5 0 please 1 1
+please_send_me_an_email 1581928780678 360 220 touchstart 66 81 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780701 360 220 touchmove 65 81 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780718 360 220 touchmove 65 81 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780735 360 220 touchmove 64 82 0.25 0.25 0 please 1
+please_send_me_an_email 1581928780752 360 220 touchmove 64 84 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780768 360 220 touchmove 65 94 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780785 360 220 touchmove 65 104 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780802 360 220 touchmove 66 114 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780819 360 220 touchmove 66 125 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780835 360 220 touchmove 67 136 0.5 0.5 0 please 1
+please_send_me_an_email 1581928780841 360 220 touchend 67 136 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781049 360 220 touchstart 109 6 0.25 0.25 0 please 1
+please_send_me_an_email 1581928781068 360 220 touchmove 108 7 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781085 360 220 touchmove 108 8 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781103 360 220 touchmove 106 15 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781119 360 220 touchmove 104 24 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781135 360 220 touchmove 97 50 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781153 360 220 touchmove 90 81 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781161 360 220 touchmove 89 96 0.5 0.5 0 please 1
+please_send_me_an_email 1581928781162 360 220 touchend 89 96 0.5 0.5 0 please 1

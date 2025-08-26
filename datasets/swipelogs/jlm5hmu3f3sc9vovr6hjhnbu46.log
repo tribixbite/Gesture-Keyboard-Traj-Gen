@@ -1,0 +1,1587 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848838 360 223 touchstart 278 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848865 360 223 touchmove 278 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848890 360 223 touchmove 278 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848900 360 223 touchmove 278 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848922 360 223 touchmove 278 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615848931 360 223 touchend 278 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848838 360 223 touchstart 278 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848865 360 223 touchmove 278 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848890 360 223 touchmove 278 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848900 360 223 touchmove 278 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848922 360 223 touchmove 278 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615848931 360 223 touchend 278 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849042 360 223 touchstart 67 79 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849063 360 223 touchmove 67 79 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849087 360 223 touchmove 67 79 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849100 360 223 touchmove 67 79 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849111 360 223 touchmove 67 79 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849123 360 223 touchend 67 79 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848838 360 223 touchstart 278 26 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848865 360 223 touchmove 278 26 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848890 360 223 touchmove 278 26 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848900 360 223 touchmove 278 26 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848922 360 223 touchmove 278 26 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615848931 360 223 touchend 278 26 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849042 360 223 touchstart 67 79 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849063 360 223 touchmove 67 79 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849087 360 223 touchmove 67 79 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849100 360 223 touchmove 67 79 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849111 360 223 touchmove 67 79 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849123 360 223 touchend 67 79 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849309 360 223 touchstart 164 41 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849327 360 223 touchmove 164 41 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849354 360 223 touchmove 164 41 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849364 360 223 touchmove 164 41 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849387 360 223 touchmove 164 41 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849390 360 223 touchend 164 41 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848838 360 223 touchstart 278 26 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848865 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848890 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848900 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848922 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615848931 360 223 touchend 278 26 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849042 360 223 touchstart 67 79 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849063 360 223 touchmove 67 79 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849087 360 223 touchmove 67 79 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849100 360 223 touchmove 67 79 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849111 360 223 touchmove 67 79 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849123 360 223 touchend 67 79 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849309 360 223 touchstart 164 41 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849327 360 223 touchmove 164 41 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849354 360 223 touchmove 164 41 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849364 360 223 touchmove 164 41 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849387 360 223 touchmove 164 41 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849390 360 223 touchend 164 41 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849481 360 223 touchstart 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849493 360 223 touchmove 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849499 360 223 touchmove 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849513 360 223 touchmove 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849527 360 223 touchmove 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849543 360 223 touchmove 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849560 360 223 touchend 116 26 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848838 360 223 touchstart 278 26 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848865 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848890 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848900 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848922 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615848931 360 223 touchend 278 26 0 0 0 crown 1 1 1 1 1
+anyone_crown_distributions_delay 1582615849042 360 223 touchstart 67 79 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849063 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849087 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849100 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849111 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849123 360 223 touchend 67 79 0 0 0 crown 1 1 1 1
+anyone_crown_distributions_delay 1582615849309 360 223 touchstart 164 41 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849327 360 223 touchmove 164 41 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849354 360 223 touchmove 164 41 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849364 360 223 touchmove 164 41 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849387 360 223 touchmove 164 41 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849390 360 223 touchend 164 41 0 0 0 crown 1 1 1
+anyone_crown_distributions_delay 1582615849481 360 223 touchstart 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849493 360 223 touchmove 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849499 360 223 touchmove 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849513 360 223 touchmove 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849527 360 223 touchmove 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849543 360 223 touchmove 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849560 360 223 touchend 116 26 0 0 0 crown 1 1
+anyone_crown_distributions_delay 1582615849676 360 223 touchstart 275 25 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849693 360 223 touchmove 275 25 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849720 360 223 touchmove 275 25 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849730 360 223 touchmove 275 25 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849754 360 223 touchmove 274 28 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615849764 360 223 touchend 274 28 0 0 0 crown 1
+anyone_crown_distributions_delay 1582615838424 360 223 touchstart 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838435 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838460 360 223 touchmove 140 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838492 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838511 360 223 touchend 139 156 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838654 360 223 touchstart 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838669 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838690 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838702 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838719 360 223 touchmove 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838727 360 223 touchend 136 43 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838779 360 223 touchstart 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838787 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838811 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838824 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838837 360 223 touchmove 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838860 360 223 touchend 297 5 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838966 360 223 touchstart 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615838985 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839013 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839021 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839037 360 223 touchmove 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839042 360 223 touchend 68 28 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839187 360 223 touchstart 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839211 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839239 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839254 360 223 touchmove 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839260 360 223 touchend 262 144 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839484 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839518 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839527 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839548 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839559 360 223 touchmove 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615839561 360 223 touchend 142 183 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840445 360 223 touchstart 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840467 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840518 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840542 360 223 touchmove 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840545 360 223 touchend 29 90 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840577 360 223 touchstart 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840601 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840627 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840634 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840657 360 223 touchmove 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840660 360 223 touchend 257 145 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840850 360 223 touchstart 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840873 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840889 360 223 touchmove 198 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840909 360 223 touchmove 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615840925 360 223 touchend 198 26 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841096 360 223 touchstart 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841109 360 223 touchmove 293 22 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841133 360 223 touchmove 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841149 360 223 touchend 292 25 0 0 0 anyone 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841284 360 223 touchstart 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841299 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841325 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841351 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841365 360 223 touchmove 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841368 360 223 touchend 251 133 0 0 0 anyone 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841484 360 223 touchstart 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841510 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841536 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841557 360 223 touchmove 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841559 360 223 touchend 96 42 0 0 0 anyone 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841828 360 223 touchstart 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841842 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841857 360 223 touchmove 149 181 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841899 360 223 touchmove 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615841907 360 223 touchend 149 180 0 0 0 anyone 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615842808 360 223 touchstart 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615842832 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615842860 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615842868 360 223 touchmove 139 156 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615842887 360 223 touchmove 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615842899 360 223 touchend 138 155 0 0 0 anyone 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843034 360 223 touchstart 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843048 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843061 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843075 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843093 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843103 360 223 touchmove 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843107 360 223 touchend 129 51 0 0 0 anyone 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843176 360 223 touchstart 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843198 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843223 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843232 360 223 touchmove 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843260 360 223 touchend 305 23 0 0 0 anyone 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843317 360 223 touchstart 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843354 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843368 360 223 touchmove 57 29 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843381 360 223 touchmove 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843391 360 223 touchend 57 30 0 0 0 anyone 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843534 360 223 touchstart 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843548 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843583 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843590 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843607 360 223 touchmove 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843611 360 223 touchend 253 138 0 0 0 anyone 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843852 360 223 touchstart 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843865 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843892 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843921 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843931 360 223 touchmove 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615843955 360 223 touchend 124 178 0 0 0 anyone 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844230 360 223 touchstart 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844271 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844287 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844300 360 223 touchmove 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844307 360 223 touchend 109 96 0 0 0 anyone 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844415 360 223 touchstart 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844431 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844455 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844471 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844483 360 223 touchmove 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844486 360 223 touchend 272 24 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844549 360 223 touchstart 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844581 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844617 360 223 touchmove 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615844623 360 223 touchend 62 82 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846709 360 223 touchstart 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846720 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846736 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846755 360 223 touchmove 141 153 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846779 360 223 touchmove 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846788 360 223 touchend 141 152 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846947 360 223 touchstart 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846963 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615846994 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847002 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847013 360 223 touchmove 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847017 360 223 touchend 131 44 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847074 360 223 touchstart 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847098 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847125 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847134 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847146 360 223 touchmove 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847149 360 223 touchend 297 19 0 0 0 crown 1 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847238 360 223 touchstart 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847246 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847253 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847268 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847280 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847295 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847312 360 223 touchmove 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847313 360 223 touchend 65 27 0 0 0 crown 1 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847476 360 223 touchstart 253 138 0 0 0 crown 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847505 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847537 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847549 360 223 touchmove 253 138 0 0 0 crown 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847555 360 223 touchend 253 138 0 0 0 crown 1 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847745 360 223 touchstart 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847755 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847766 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847787 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847817 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847834 360 223 touchmove 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615847837 360 223 touchend 144 179 0 0 0 crown 1 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848701 360 223 touchstart 108 90 0 0 0 crown 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848719 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848746 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848765 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848781 360 223 touchmove 108 90 0 0 0 crown 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848794 360 223 touchend 108 90 0 0 0 crown 1 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848838 360 223 touchstart 278 26 0 0 0 crown 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848865 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848890 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848900 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848922 360 223 touchmove 278 26 0 0 0 crown 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615848931 360 223 touchend 278 26 0 0 0 crown 1 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849042 360 223 touchstart 67 79 0 0 0 crown 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849063 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849087 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849100 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849111 360 223 touchmove 67 79 0 0 0 crown 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849123 360 223 touchend 67 79 0 0 0 crown 1 1 1 1 0
+anyone_crown_distributions_delay 1582615849309 360 223 touchstart 164 41 0 0 0 crown 1 1 1 0
+anyone_crown_distributions_delay 1582615849327 360 223 touchmove 164 41 0 0 0 crown 1 1 1 0
+anyone_crown_distributions_delay 1582615849354 360 223 touchmove 164 41 0 0 0 crown 1 1 1 0
+anyone_crown_distributions_delay 1582615849364 360 223 touchmove 164 41 0 0 0 crown 1 1 1 0
+anyone_crown_distributions_delay 1582615849387 360 223 touchmove 164 41 0 0 0 crown 1 1 1 0
+anyone_crown_distributions_delay 1582615849390 360 223 touchend 164 41 0 0 0 crown 1 1 1 0
+anyone_crown_distributions_delay 1582615849481 360 223 touchstart 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849493 360 223 touchmove 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849499 360 223 touchmove 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849513 360 223 touchmove 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849527 360 223 touchmove 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849543 360 223 touchmove 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849560 360 223 touchend 116 26 0 0 0 crown 1 1 0
+anyone_crown_distributions_delay 1582615849676 360 223 touchstart 275 25 0 0 0 crown 1 0
+anyone_crown_distributions_delay 1582615849693 360 223 touchmove 275 25 0 0 0 crown 1 0
+anyone_crown_distributions_delay 1582615849720 360 223 touchmove 275 25 0 0 0 crown 1 0
+anyone_crown_distributions_delay 1582615849730 360 223 touchmove 275 25 0 0 0 crown 1 0
+anyone_crown_distributions_delay 1582615849754 360 223 touchmove 274 28 0 0 0 crown 1 0
+anyone_crown_distributions_delay 1582615849764 360 223 touchend 274 28 0 0 0 crown 1 0
+anyone_crown_distributions_delay 1582615849938 360 223 touchstart 226 139 0 0 0 crown 0
+anyone_crown_distributions_delay 1582615849961 360 223 touchmove 226 139 0 0 0 crown 0
+anyone_crown_distributions_delay 1582615849990 360 223 touchmove 226 139 0 0 0 crown 0
+anyone_crown_distributions_delay 1582615850000 360 223 touchmove 226 139 0 0 0 crown 0
+anyone_crown_distributions_delay 1582615850017 360 223 touchmove 226 139 0 0 0 crown 0
+anyone_crown_distributions_delay 1582615850020 360 223 touchend 226 139 0 0 0 crown 0

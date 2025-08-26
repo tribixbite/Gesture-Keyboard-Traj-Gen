@@ -1,0 +1,66 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+warren_rates_mls_nephew 1580893227248 360 215 touchstart 37 98 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893227273 360 215 touchmove 37 98 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893227293 360 215 touchmove 37 98 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893227347 360 215 touchmove 39 97 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893227350 360 215 touchend 39 97 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893227644 360 215 touchend 135 28 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893227644 360 215 touchend 135 28 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893227725 360 215 touchstart 135 28 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893227796 360 215 touchend 135 28 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893227906 360 215 touchstart 98 30 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893227960 360 215 touchmove 98 30 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893228008 360 215 touchmove 98 30 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893228022 360 215 touchend 98 30 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893228501 360 215 touchstart 247 142 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893228580 360 215 touchend 247 142 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229071 360 215 touchstart 137 33 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229094 360 215 touchmove 137 33 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893229168 360 215 touchend 137 33 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893229071 360 215 touchstart 137 33 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893229094 360 215 touchmove 137 33 2.75 2.75 0 warren 1 1
+warren_rates_mls_nephew 1580893229168 360 215 touchend 137 33 2.75 2.75 0 warren 1 1
+warren_rates_mls_nephew 1580893229329 360 215 touchstart 46 97 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893229397 360 215 touchmove 46 97 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229406 360 215 touchend 46 97 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229525 360 215 touchstart 150 45 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229621 360 215 touchend 150 45 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229745 360 215 touchstart 99 36 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229760 360 215 touchmove 99 36 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893229829 360 215 touchmove 99 36 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229837 360 215 touchend 99 36 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893229965 360 215 touchstart 76 119 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230013 360 215 touchmove 76 119 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893230056 360 215 touchend 76 119 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230346 360 215 touchmove 193 208 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230365 360 215 touchend 193 208 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230528 360 215 touchstart 300 141 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230658 360 215 touchend 300 141 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230346 360 215 touchmove 193 208 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893230365 360 215 touchend 193 208 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893230528 360 215 touchstart 300 141 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893230658 360 215 touchend 300 141 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893230795 360 215 touchstart 319 93 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893230834 360 215 touchmove 319 93 3 3 0 warren 1
+warren_rates_mls_nephew 1580893230892 360 215 touchend 319 93 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893231246 360 215 touchstart 86 104 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893231288 360 215 touchmove 86 104 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893231303 360 215 touchend 86 104 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893232229 360 215 touchstart 257 159 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893232252 360 215 touchmove 257 159 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893232341 360 215 touchmove 257 159 3 3 0 warren 1
+warren_rates_mls_nephew 1580893232363 360 215 touchend 257 159 3 3 0 warren 1
+warren_rates_mls_nephew 1580893232708 360 215 touchend 102 38 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893232968 360 215 touchstart 345 44 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893233060 360 215 touchend 345 44 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893233425 360 215 touchstart 221 105 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893233503 360 215 touchend 221 105 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893233425 360 215 touchstart 221 105 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893233503 360 215 touchend 221 105 1.25 1.25 0 warren 1 1
+warren_rates_mls_nephew 1580893233808 360 215 touchstart 99 33 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893233818 360 215 touchmove 99 33 2.75 2.75 0 warren 1
+warren_rates_mls_nephew 1580893233889 360 215 touchmove 99 33 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893233895 360 215 touchend 99 33 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893234023 360 215 touchmove 65 25 3 3 0 warren 1
+warren_rates_mls_nephew 1580893234039 360 215 touchmove 65 25 1.25 1.25 0 warren 1
+warren_rates_mls_nephew 1580893234087 360 215 touchend 65 25 2.75 2.75 0 warren 1

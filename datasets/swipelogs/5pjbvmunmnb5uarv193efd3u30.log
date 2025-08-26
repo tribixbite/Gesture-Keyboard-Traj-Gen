@@ -1,0 +1,595 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+take_what_you_can_get 1583366391635 360 216 touchstart 168 27 0 0 0 take 0
+take_what_you_can_get 1583366391671 360 216 touchmove 166 26 0 0 0 take 0
+take_what_you_can_get 1583366391684 360 216 touchmove 162 25 0 0 0 take 0
+take_what_you_can_get 1583366391701 360 216 touchmove 150 24 0 0 0 take 0
+take_what_you_can_get 1583366391721 360 216 touchmove 130 27 0 0 0 take 0
+take_what_you_can_get 1583366391735 360 216 touchmove 108 36 0 0 0 take 0
+take_what_you_can_get 1583366391752 360 216 touchmove 86 49 0 0 0 take 0
+take_what_you_can_get 1583366391768 360 216 touchmove 67 61 0 0 0 take 0
+take_what_you_can_get 1583366391785 360 216 touchmove 53 71 0 0 0 take 0
+take_what_you_can_get 1583366391801 360 216 touchmove 46 78 0 0 0 take 0
+take_what_you_can_get 1583366391818 360 216 touchmove 42 82 0 0 0 take 0
+take_what_you_can_get 1583366391835 360 216 touchmove 41 83 0 0 0 take 0
+take_what_you_can_get 1583366391857 360 216 touchmove 43 83 0 0 0 take 0
+take_what_you_can_get 1583366391870 360 216 touchmove 47 82 0 0 0 take 0
+take_what_you_can_get 1583366391885 360 216 touchmove 63 79 0 0 0 take 0
+take_what_you_can_get 1583366391902 360 216 touchmove 87 76 0 0 0 take 0
+take_what_you_can_get 1583366391919 360 216 touchmove 116 74 0 0 0 take 0
+take_what_you_can_get 1583366391936 360 216 touchmove 148 73 0 0 0 take 0
+take_what_you_can_get 1583366391952 360 216 touchmove 179 75 0 0 0 take 0
+take_what_you_can_get 1583366391969 360 216 touchmove 205 77 0 0 0 take 0
+take_what_you_can_get 1583366391986 360 216 touchmove 225 79 0 0 0 take 0
+take_what_you_can_get 1583366392003 360 216 touchmove 237 80 0 0 0 take 0
+take_what_you_can_get 1583366392020 360 216 touchmove 240 82 0 0 0 take 0
+take_what_you_can_get 1583366392036 360 216 touchmove 240 84 0 0 0 take 0
+take_what_you_can_get 1583366392053 360 216 touchmove 231 89 0 0 0 take 0
+take_what_you_can_get 1583366392069 360 216 touchmove 211 94 0 0 0 take 0
+take_what_you_can_get 1583366392086 360 216 touchmove 186 95 0 0 0 take 0
+take_what_you_can_get 1583366392103 360 216 touchmove 159 93 0 0 0 take 0
+take_what_you_can_get 1583366392120 360 216 touchmove 131 87 0 0 0 take 0
+take_what_you_can_get 1583366392136 360 216 touchmove 108 80 0 0 0 take 0
+take_what_you_can_get 1583366392154 360 216 touchmove 88 71 0 0 0 take 0
+take_what_you_can_get 1583366392169 360 216 touchmove 75 62 0 0 0 take 0
+take_what_you_can_get 1583366392187 360 216 touchmove 67 52 0 0 0 take 0
+take_what_you_can_get 1583366392202 360 216 touchmove 65 37 0 0 0 take 0
+take_what_you_can_get 1583366392220 360 216 touchmove 65 22 0 0 0 take 0
+take_what_you_can_get 1583366392223 360 216 touchend 65 22 0 0 0 take 0
+take_what_you_can_get 1583366392692 360 216 touchstart 47 44 0 0 0 what 0
+take_what_you_can_get 1583366392721 360 216 touchmove 48 44 0 0 0 what 0
+take_what_you_can_get 1583366392737 360 216 touchmove 59 44 0 0 0 what 0
+take_what_you_can_get 1583366392755 360 216 touchmove 77 44 0 0 0 what 0
+take_what_you_can_get 1583366392772 360 216 touchmove 102 45 0 0 0 what 0
+take_what_you_can_get 1583366392788 360 216 touchmove 130 48 0 0 0 what 0
+take_what_you_can_get 1583366392804 360 216 touchmove 155 55 0 0 0 what 0
+take_what_you_can_get 1583366392822 360 216 touchmove 176 63 0 0 0 what 0
+take_what_you_can_get 1583366392838 360 216 touchmove 190 71 0 0 0 what 0
+take_what_you_can_get 1583366392856 360 216 touchmove 195 78 0 0 0 what 0
+take_what_you_can_get 1583366392872 360 216 touchmove 194 85 0 0 0 what 0
+take_what_you_can_get 1583366392889 360 216 touchmove 186 95 0 0 0 what 0
+take_what_you_can_get 1583366392906 360 216 touchmove 170 105 0 0 0 what 0
+take_what_you_can_get 1583366392922 360 216 touchmove 148 112 0 0 0 what 0
+take_what_you_can_get 1583366392939 360 216 touchmove 123 117 0 0 0 what 0
+take_what_you_can_get 1583366392956 360 216 touchmove 98 120 0 0 0 what 0
+take_what_you_can_get 1583366392973 360 216 touchmove 77 120 0 0 0 what 0
+take_what_you_can_get 1583366392989 360 216 touchmove 62 119 0 0 0 what 0
+take_what_you_can_get 1583366393006 360 216 touchmove 54 115 0 0 0 what 0
+take_what_you_can_get 1583366393022 360 216 touchmove 49 109 0 0 0 what 0
+take_what_you_can_get 1583366393039 360 216 touchmove 47 103 0 0 0 what 0
+take_what_you_can_get 1583366393055 360 216 touchmove 48 97 0 0 0 what 0
+take_what_you_can_get 1583366393073 360 216 touchmove 54 91 0 0 0 what 0
+take_what_you_can_get 1583366393089 360 216 touchmove 67 85 0 0 0 what 0
+take_what_you_can_get 1583366393106 360 216 touchmove 84 80 0 0 0 what 0
+take_what_you_can_get 1583366393123 360 216 touchmove 103 75 0 0 0 what 0
+take_what_you_can_get 1583366393140 360 216 touchmove 121 69 0 0 0 what 0
+take_what_you_can_get 1583366393156 360 216 touchmove 139 63 0 0 0 what 0
+take_what_you_can_get 1583366393173 360 216 touchmove 153 59 0 0 0 what 0
+take_what_you_can_get 1583366393189 360 216 touchmove 162 55 0 0 0 what 0
+take_what_you_can_get 1583366393206 360 216 touchmove 169 51 0 0 0 what 0
+take_what_you_can_get 1583366393223 360 216 touchmove 173 46 0 0 0 what 0
+take_what_you_can_get 1583366393243 360 216 touchend 173 46 0 0 0 what 0
+take_what_you_can_get 1583366393784 360 216 touchstart 203 32 0 0 0 you 0
+take_what_you_can_get 1583366393808 360 216 touchmove 204 31 0 0 0 you 0
+take_what_you_can_get 1583366393826 360 216 touchmove 212 30 0 0 0 you 0
+take_what_you_can_get 1583366393842 360 216 touchmove 226 28 0 0 0 you 0
+take_what_you_can_get 1583366393858 360 216 touchmove 242 26 0 0 0 you 0
+take_what_you_can_get 1583366393875 360 216 touchmove 259 24 0 0 0 you 0
+take_what_you_can_get 1583366393893 360 216 touchmove 274 19 0 0 0 you 0
+take_what_you_can_get 1583366393907 360 216 touchmove 287 13 0 0 0 you 0
+take_what_you_can_get 1583366393924 360 216 touchmove 295 8 0 0 0 you 0
+take_what_you_can_get 1583366393940 360 216 touchmove 297 5 0 0 0 you 0
+take_what_you_can_get 1583366393957 360 216 touchmove 295 3 0 0 0 you 0
+take_what_you_can_get 1583366393974 360 216 touchmove 284 2 0 0 0 you 0
+take_what_you_can_get 1583366393990 360 216 touchmove 265 3 0 0 0 you 0
+take_what_you_can_get 1583366394007 360 216 touchmove 244 8 0 0 0 you 0
+take_what_you_can_get 1583366394024 360 216 touchmove 223 14 0 0 0 you 0
+take_what_you_can_get 1583366394042 360 216 touchmove 208 18 0 0 0 you 0
+take_what_you_can_get 1583366394058 360 216 touchmove 200 20 0 0 0 you 0
+take_what_you_can_get 1583366394074 360 216 touchmove 199 20 0 0 0 you 0
+take_what_you_can_get 1583366394104 360 216 touchend 199 20 0 0 0 you 0
+take_what_you_can_get 1583366394458 360 216 touchstart 143 157 0 0 0 can 0
+take_what_you_can_get 1583366394492 360 216 touchmove 138 154 0 0 0 can 0
+take_what_you_can_get 1583366394509 360 216 touchmove 128 147 0 0 0 can 0
+take_what_you_can_get 1583366394528 360 216 touchmove 115 139 0 0 0 can 0
+take_what_you_can_get 1583366394542 360 216 touchmove 102 130 0 0 0 can 0
+take_what_you_can_get 1583366394558 360 216 touchmove 87 120 0 0 0 can 0
+take_what_you_can_get 1583366394576 360 216 touchmove 75 112 0 0 0 can 0
+take_what_you_can_get 1583366394592 360 216 touchmove 65 107 0 0 0 can 0
+take_what_you_can_get 1583366394609 360 216 touchmove 59 102 0 0 0 can 0
+take_what_you_can_get 1583366394626 360 216 touchmove 55 99 0 0 0 can 0
+take_what_you_can_get 1583366394643 360 216 touchmove 55 97 0 0 0 can 0
+take_what_you_can_get 1583366394659 360 216 touchmove 56 97 0 0 0 can 0
+take_what_you_can_get 1583366394676 360 216 touchmove 65 99 0 0 0 can 0
+take_what_you_can_get 1583366394693 360 216 touchmove 81 107 0 0 0 can 0
+take_what_you_can_get 1583366394709 360 216 touchmove 101 117 0 0 0 can 0
+take_what_you_can_get 1583366394726 360 216 touchmove 123 125 0 0 0 can 0
+take_what_you_can_get 1583366394744 360 216 touchmove 145 131 0 0 0 can 0
+take_what_you_can_get 1583366394759 360 216 touchmove 167 134 0 0 0 can 0
+take_what_you_can_get 1583366394778 360 216 touchmove 187 138 0 0 0 can 0
+take_what_you_can_get 1583366394793 360 216 touchmove 204 141 0 0 0 can 0
+take_what_you_can_get 1583366394809 360 216 touchmove 215 144 0 0 0 can 0
+take_what_you_can_get 1583366394821 360 216 touchmove 218 146 0 0 0 can 0
+take_what_you_can_get 1583366394823 360 216 touchend 218 146 0 0 0 can 0
+take_what_you_can_get 1583366395050 360 216 touchstart 179 93 0 0 0 get 0
+take_what_you_can_get 1583366395081 360 216 touchmove 178 92 0 0 0 get 0
+take_what_you_can_get 1583366395094 360 216 touchmove 176 92 0 0 0 get 0
+take_what_you_can_get 1583366395110 360 216 touchmove 166 90 0 0 0 get 0
+take_what_you_can_get 1583366395127 360 216 touchmove 152 87 0 0 0 get 0
+take_what_you_can_get 1583366395144 360 216 touchmove 135 84 0 0 0 get 0
+take_what_you_can_get 1583366395159 360 216 touchmove 118 79 0 0 0 get 0
+take_what_you_can_get 1583366395177 360 216 touchmove 103 74 0 0 0 get 0
+take_what_you_can_get 1583366395194 360 216 touchmove 90 69 0 0 0 get 0
+take_what_you_can_get 1583366395210 360 216 touchmove 82 65 0 0 0 get 0
+take_what_you_can_get 1583366395228 360 216 touchmove 77 62 0 0 0 get 0
+take_what_you_can_get 1583366395243 360 216 touchmove 76 61 0 0 0 get 0
+take_what_you_can_get 1583366395261 360 216 touchmove 78 59 0 0 0 get 0
+take_what_you_can_get 1583366395278 360 216 touchmove 87 56 0 0 0 get 0
+take_what_you_can_get 1583366395294 360 216 touchmove 99 54 0 0 0 get 0
+take_what_you_can_get 1583366395310 360 216 touchmove 111 53 0 0 0 get 0
+take_what_you_can_get 1583366395328 360 216 touchmove 122 55 0 0 0 get 0
+take_what_you_can_get 1583366395345 360 216 touchmove 131 57 0 0 0 get 0
+take_what_you_can_get 1583366395362 360 216 touchmove 139 59 0 0 0 get 0
+take_what_you_can_get 1583366395366 360 216 touchend 139 59 0 0 0 get 0
+ra_creations_falabella_subject 1583366397739 360 216 touchstart 137 32 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397783 360 216 touchmove 134 31 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397799 360 216 touchmove 125 31 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397816 360 216 touchmove 115 31 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397833 360 216 touchmove 105 32 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397850 360 216 touchmove 98 33 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397867 360 216 touchmove 92 34 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397884 360 216 touchmove 89 35 0 0 0 ra 1
+ra_creations_falabella_subject 1583366397889 360 216 touchend 89 35 0 0 0 ra 1
+ra_creations_falabella_subject 1583366399136 360 216 touchstart 134 36 0 0 0 ra 1
+ra_creations_falabella_subject 1583366399216 360 216 touchend 134 36 0 0 0 ra 1
+ra_creations_falabella_subject 1583366399417 360 216 touchend 97 37 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400045 360 216 touchstart 139 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400126 360 216 touchend 139 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400340 360 216 touchmove 128 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400356 360 216 touchmove 120 28 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400374 360 216 touchmove 112 26 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400390 360 216 touchmove 104 25 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400406 360 216 touchmove 97 25 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400423 360 216 touchmove 91 24 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400440 360 216 touchmove 88 24 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400456 360 216 touchmove 85 23 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400473 360 216 touchmove 83 23 0 0 0 ra 1
+ra_creations_falabella_subject 1583366400477 360 216 touchend 83 23 0 0 0 ra 1
+ra_creations_falabella_subject 1583366401923 360 216 touchend 221 203 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402395 360 216 touchstart 158 155 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402462 360 216 touchmove 156 153 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402479 360 216 touchmove 153 146 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402496 360 216 touchmove 149 134 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402513 360 216 touchmove 144 117 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402529 360 216 touchmove 139 97 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402546 360 216 touchmove 136 78 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402563 360 216 touchmove 133 60 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402579 360 216 touchmove 131 43 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402596 360 216 touchmove 128 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402613 360 216 touchmove 124 18 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402630 360 216 touchmove 120 11 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402646 360 216 touchmove 114 6 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402663 360 216 touchmove 107 5 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402680 360 216 touchmove 100 6 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402695 360 216 touchmove 93 8 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402712 360 216 touchmove 87 11 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402729 360 216 touchmove 81 14 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402745 360 216 touchmove 76 19 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402763 360 216 touchmove 69 27 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402778 360 216 touchmove 64 34 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402796 360 216 touchmove 60 40 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402813 360 216 touchmove 57 43 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402829 360 216 touchmove 55 45 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402846 360 216 touchmove 54 47 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402862 360 216 touchmove 53 50 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402879 360 216 touchmove 50 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402896 360 216 touchmove 47 61 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402912 360 216 touchmove 45 66 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402930 360 216 touchmove 44 70 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402947 360 216 touchmove 44 73 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402963 360 216 touchmove 43 75 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402980 360 216 touchmove 43 77 0 0 0 ra 1
+ra_creations_falabella_subject 1583366402996 360 216 touchmove 43 81 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403013 360 216 touchmove 45 86 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403031 360 216 touchmove 49 92 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403046 360 216 touchmove 56 97 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403064 360 216 touchmove 65 101 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403081 360 216 touchmove 76 103 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403097 360 216 touchmove 88 104 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403114 360 216 touchmove 99 101 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403131 360 216 touchmove 108 96 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403147 360 216 touchmove 116 86 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403164 360 216 touchmove 123 74 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403180 360 216 touchmove 130 63 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403197 360 216 touchmove 137 52 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403213 360 216 touchmove 144 43 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403230 360 216 touchmove 151 35 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403247 360 216 touchmove 159 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403265 360 216 touchmove 168 27 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403280 360 216 touchmove 177 27 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403296 360 216 touchmove 187 28 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403380 360 216 touchmove 251 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403397 360 216 touchmove 260 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403414 360 216 touchmove 266 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403430 360 216 touchmove 270 29 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403448 360 216 touchmove 272 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403464 360 216 touchmove 273 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403481 360 216 touchmove 274 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403499 360 216 touchmove 275 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403514 360 216 touchmove 275 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403530 360 216 touchmove 276 31 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403548 360 216 touchmove 278 34 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403565 360 216 touchmove 280 39 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403580 360 216 touchmove 281 45 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403597 360 216 touchmove 283 51 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403615 360 216 touchmove 284 56 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403632 360 216 touchmove 286 59 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403651 360 216 touchmove 288 60 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403665 360 216 touchmove 290 61 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403684 360 216 touchmove 292 62 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403697 360 216 touchmove 294 63 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403714 360 216 touchmove 295 63 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403731 360 216 touchmove 294 66 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403748 360 216 touchmove 291 74 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403764 360 216 touchmove 282 85 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403781 360 216 touchmove 270 99 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403798 360 216 touchmove 256 115 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403815 360 216 touchmove 243 129 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403831 360 216 touchmove 231 140 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403848 360 216 touchmove 221 146 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403865 360 216 touchmove 214 150 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403882 360 216 touchmove 209 150 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403898 360 216 touchmove 204 148 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403916 360 216 touchmove 198 143 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403932 360 216 touchmove 192 135 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403949 360 216 touchmove 183 128 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403965 360 216 touchmove 172 120 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403982 360 216 touchmove 159 112 0 0 0 ra 1
+ra_creations_falabella_subject 1583366403998 360 216 touchmove 146 105 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404015 360 216 touchmove 133 101 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404032 360 216 touchmove 121 97 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404049 360 216 touchmove 112 95 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404065 360 216 touchmove 104 95 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404082 360 216 touchmove 97 94 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404099 360 216 touchmove 92 93 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404116 360 216 touchmove 88 93 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404132 360 216 touchmove 86 92 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404148 360 216 touchmove 85 92 0 0 0 ra 1
+ra_creations_falabella_subject 1583366404169 360 216 touchend 85 92 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405709 360 216 touchstart 151 162 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405754 360 216 touchmove 151 161 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405771 360 216 touchmove 149 157 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405788 360 216 touchmove 147 150 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405804 360 216 touchmove 143 141 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405821 360 216 touchmove 138 130 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405837 360 216 touchmove 133 115 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405854 360 216 touchmove 128 99 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405869 360 216 touchmove 121 84 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405887 360 216 touchmove 116 70 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405904 360 216 touchmove 112 57 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405921 360 216 touchmove 108 45 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405937 360 216 touchmove 107 35 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405954 360 216 touchmove 106 27 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405971 360 216 touchmove 107 22 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405988 360 216 touchmove 109 17 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406004 360 216 touchmove 109 14 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406021 360 216 touchmove 110 13 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406050 360 216 touchmove 109 13 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406071 360 216 touchmove 106 14 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406088 360 216 touchmove 99 16 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406104 360 216 touchmove 92 19 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406121 360 216 touchmove 83 23 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406138 360 216 touchmove 75 28 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406155 360 216 touchmove 67 33 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406171 360 216 touchmove 59 37 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406187 360 216 touchmove 53 40 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406204 360 216 touchmove 48 43 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406221 360 216 touchmove 44 46 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406238 360 216 touchmove 41 50 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406256 360 216 touchmove 38 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406271 360 216 touchmove 37 61 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406288 360 216 touchmove 37 68 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406305 360 216 touchmove 38 77 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406342 360 216 touchmove 40 85 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406355 360 216 touchmove 52 98 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406371 360 216 touchmove 63 103 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406387 360 216 touchmove 76 104 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406404 360 216 touchmove 89 101 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406421 360 216 touchmove 101 91 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406438 360 216 touchmove 111 78 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406454 360 216 touchmove 121 63 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406471 360 216 touchmove 131 47 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406488 360 216 touchmove 140 33 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406505 360 216 touchmove 149 21 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406522 360 216 touchmove 157 13 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406538 360 216 touchmove 165 8 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406555 360 216 touchmove 174 5 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406572 360 216 touchmove 185 4 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406588 360 216 touchmove 198 5 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406605 360 216 touchmove 212 7 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406622 360 216 touchmove 227 9 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406639 360 216 touchmove 243 12 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406655 360 216 touchmove 259 16 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406673 360 216 touchmove 273 20 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406689 360 216 touchmove 287 26 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406706 360 216 touchmove 298 32 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406723 360 216 touchmove 307 36 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406739 360 216 touchmove 311 39 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406755 360 216 touchmove 312 42 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406773 360 216 touchmove 308 52 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406789 360 216 touchmove 299 67 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406806 360 216 touchmove 286 84 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406824 360 216 touchmove 270 101 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406839 360 216 touchmove 254 117 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406856 360 216 touchmove 239 131 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406873 360 216 touchmove 226 145 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406890 360 216 touchmove 215 158 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406907 360 216 touchmove 206 170 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406923 360 216 touchmove 200 178 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406940 360 216 touchmove 196 182 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406957 360 216 touchmove 193 184 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406973 360 216 touchmove 188 182 0 0 0 ra 1
+ra_creations_falabella_subject 1583366406991 360 216 touchmove 179 176 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407007 360 216 touchmove 167 166 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407024 360 216 touchmove 151 156 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407041 360 216 touchmove 133 145 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407057 360 216 touchmove 114 135 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407075 360 216 touchmove 98 127 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407090 360 216 touchmove 84 122 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407107 360 216 touchmove 74 119 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407124 360 216 touchmove 66 116 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407141 360 216 touchmove 60 113 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407156 360 216 touchmove 56 111 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407174 360 216 touchmove 54 109 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407191 360 216 touchmove 53 108 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407206 360 216 touchmove 53 105 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407223 360 216 touchmove 54 102 0 0 0 ra 1
+ra_creations_falabella_subject 1583366407228 360 216 touchend 54 102 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405709 360 216 touchstart 151 162 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405754 360 216 touchmove 151 161 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405771 360 216 touchmove 149 157 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405788 360 216 touchmove 147 150 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405804 360 216 touchmove 143 141 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405821 360 216 touchmove 138 130 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405837 360 216 touchmove 133 115 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405854 360 216 touchmove 128 99 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405869 360 216 touchmove 121 84 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405887 360 216 touchmove 116 70 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405904 360 216 touchmove 112 57 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405921 360 216 touchmove 108 45 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405937 360 216 touchmove 107 35 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405954 360 216 touchmove 106 27 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405971 360 216 touchmove 107 22 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366405988 360 216 touchmove 109 17 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406004 360 216 touchmove 109 14 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406021 360 216 touchmove 110 13 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406050 360 216 touchmove 109 13 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406071 360 216 touchmove 106 14 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406088 360 216 touchmove 99 16 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406104 360 216 touchmove 92 19 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406121 360 216 touchmove 83 23 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406138 360 216 touchmove 75 28 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406155 360 216 touchmove 67 33 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406171 360 216 touchmove 59 37 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406187 360 216 touchmove 53 40 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406204 360 216 touchmove 48 43 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406221 360 216 touchmove 44 46 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406238 360 216 touchmove 41 50 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406256 360 216 touchmove 38 55 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406271 360 216 touchmove 37 61 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406288 360 216 touchmove 37 68 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406305 360 216 touchmove 38 77 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406342 360 216 touchmove 40 85 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406355 360 216 touchmove 52 98 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406371 360 216 touchmove 63 103 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406387 360 216 touchmove 76 104 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406404 360 216 touchmove 89 101 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406421 360 216 touchmove 101 91 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406438 360 216 touchmove 111 78 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406454 360 216 touchmove 121 63 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406471 360 216 touchmove 131 47 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406488 360 216 touchmove 140 33 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406505 360 216 touchmove 149 21 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406522 360 216 touchmove 157 13 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406538 360 216 touchmove 165 8 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406555 360 216 touchmove 174 5 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406572 360 216 touchmove 185 4 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406588 360 216 touchmove 198 5 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406605 360 216 touchmove 212 7 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406622 360 216 touchmove 227 9 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406639 360 216 touchmove 243 12 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406655 360 216 touchmove 259 16 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406673 360 216 touchmove 273 20 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406689 360 216 touchmove 287 26 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406706 360 216 touchmove 298 32 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406723 360 216 touchmove 307 36 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406739 360 216 touchmove 311 39 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406755 360 216 touchmove 312 42 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406773 360 216 touchmove 308 52 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406789 360 216 touchmove 299 67 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406806 360 216 touchmove 286 84 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406824 360 216 touchmove 270 101 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406839 360 216 touchmove 254 117 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406856 360 216 touchmove 239 131 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406873 360 216 touchmove 226 145 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406890 360 216 touchmove 215 158 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406907 360 216 touchmove 206 170 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406923 360 216 touchmove 200 178 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406940 360 216 touchmove 196 182 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406957 360 216 touchmove 193 184 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406973 360 216 touchmove 188 182 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366406991 360 216 touchmove 179 176 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407007 360 216 touchmove 167 166 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407024 360 216 touchmove 151 156 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407041 360 216 touchmove 133 145 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407057 360 216 touchmove 114 135 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407075 360 216 touchmove 98 127 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407090 360 216 touchmove 84 122 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407107 360 216 touchmove 74 119 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407124 360 216 touchmove 66 116 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407141 360 216 touchmove 60 113 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407156 360 216 touchmove 56 111 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407174 360 216 touchmove 54 109 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407191 360 216 touchmove 53 108 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407206 360 216 touchmove 53 105 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407223 360 216 touchmove 54 102 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366407228 360 216 touchend 54 102 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366408456 360 216 touchend 182 204 0 0 0 ra 1
+ra_creations_falabella_subject 1583366409345 360 216 touchstart 125 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366409416 360 216 touchend 125 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366405709 360 216 touchstart 151 162 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405754 360 216 touchmove 151 161 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405771 360 216 touchmove 149 157 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405788 360 216 touchmove 147 150 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405804 360 216 touchmove 143 141 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405821 360 216 touchmove 138 130 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405837 360 216 touchmove 133 115 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405854 360 216 touchmove 128 99 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405869 360 216 touchmove 121 84 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405887 360 216 touchmove 116 70 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405904 360 216 touchmove 112 57 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405921 360 216 touchmove 108 45 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405937 360 216 touchmove 107 35 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405954 360 216 touchmove 106 27 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405971 360 216 touchmove 107 22 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366405988 360 216 touchmove 109 17 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406004 360 216 touchmove 109 14 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406021 360 216 touchmove 110 13 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406050 360 216 touchmove 109 13 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406071 360 216 touchmove 106 14 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406088 360 216 touchmove 99 16 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406104 360 216 touchmove 92 19 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406121 360 216 touchmove 83 23 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406138 360 216 touchmove 75 28 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406155 360 216 touchmove 67 33 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406171 360 216 touchmove 59 37 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406187 360 216 touchmove 53 40 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406204 360 216 touchmove 48 43 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406221 360 216 touchmove 44 46 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406238 360 216 touchmove 41 50 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406256 360 216 touchmove 38 55 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406271 360 216 touchmove 37 61 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406288 360 216 touchmove 37 68 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406305 360 216 touchmove 38 77 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406342 360 216 touchmove 40 85 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406355 360 216 touchmove 52 98 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406371 360 216 touchmove 63 103 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406387 360 216 touchmove 76 104 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406404 360 216 touchmove 89 101 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406421 360 216 touchmove 101 91 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406438 360 216 touchmove 111 78 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406454 360 216 touchmove 121 63 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406471 360 216 touchmove 131 47 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406488 360 216 touchmove 140 33 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406505 360 216 touchmove 149 21 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406522 360 216 touchmove 157 13 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406538 360 216 touchmove 165 8 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406555 360 216 touchmove 174 5 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406572 360 216 touchmove 185 4 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406588 360 216 touchmove 198 5 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406605 360 216 touchmove 212 7 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406622 360 216 touchmove 227 9 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406639 360 216 touchmove 243 12 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406655 360 216 touchmove 259 16 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406673 360 216 touchmove 273 20 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406689 360 216 touchmove 287 26 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406706 360 216 touchmove 298 32 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406723 360 216 touchmove 307 36 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406739 360 216 touchmove 311 39 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406755 360 216 touchmove 312 42 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406773 360 216 touchmove 308 52 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406789 360 216 touchmove 299 67 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406806 360 216 touchmove 286 84 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406824 360 216 touchmove 270 101 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406839 360 216 touchmove 254 117 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406856 360 216 touchmove 239 131 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406873 360 216 touchmove 226 145 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406890 360 216 touchmove 215 158 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406907 360 216 touchmove 206 170 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406923 360 216 touchmove 200 178 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406940 360 216 touchmove 196 182 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406957 360 216 touchmove 193 184 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406973 360 216 touchmove 188 182 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366406991 360 216 touchmove 179 176 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407007 360 216 touchmove 167 166 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407024 360 216 touchmove 151 156 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407041 360 216 touchmove 133 145 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407057 360 216 touchmove 114 135 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407075 360 216 touchmove 98 127 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407090 360 216 touchmove 84 122 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407107 360 216 touchmove 74 119 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407124 360 216 touchmove 66 116 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407141 360 216 touchmove 60 113 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407156 360 216 touchmove 56 111 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407174 360 216 touchmove 54 109 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407191 360 216 touchmove 53 108 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407206 360 216 touchmove 53 105 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407223 360 216 touchmove 54 102 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366407228 360 216 touchend 54 102 0 0 0 ra 1 1 1
+ra_creations_falabella_subject 1583366408456 360 216 touchend 182 204 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366409345 360 216 touchstart 125 30 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366409416 360 216 touchend 125 30 0 0 0 ra 1 1
+ra_creations_falabella_subject 1583366409484 360 216 touchstart 86 36 0 0 0 ra 1
+ra_creations_falabella_subject 1583366409577 360 216 touchend 86 36 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410046 360 216 touchmove 109 47 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410064 360 216 touchmove 98 50 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410080 360 216 touchmove 88 53 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410098 360 216 touchmove 81 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410114 360 216 touchmove 77 56 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410130 360 216 touchmove 77 56 0 0 0 ra 1
+ra_creations_falabella_subject 1583366410142 360 216 touchend 77 56 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412361 360 216 touchstart 142 8 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412419 360 216 touchmove 141 8 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412436 360 216 touchmove 137 11 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412453 360 216 touchmove 131 15 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412470 360 216 touchmove 123 19 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412487 360 216 touchmove 114 23 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412503 360 216 touchmove 105 26 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412519 360 216 touchmove 99 28 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412537 360 216 touchmove 93 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412554 360 216 touchmove 89 31 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412571 360 216 touchmove 86 32 0 0 0 ra 1
+ra_creations_falabella_subject 1583366412578 360 216 touchend 86 32 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413621 360 216 touchstart 148 13 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413644 360 216 touchmove 148 13 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413656 360 216 touchmove 151 14 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413673 360 216 touchmove 161 17 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413689 360 216 touchmove 173 25 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413706 360 216 touchmove 181 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413723 360 216 touchmove 189 36 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413740 360 216 touchmove 195 42 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413756 360 216 touchmove 203 47 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413774 360 216 touchmove 210 50 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413790 360 216 touchmove 218 53 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413806 360 216 touchmove 225 57 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413824 360 216 touchmove 231 58 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413840 360 216 touchmove 235 58 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413858 360 216 touchmove 237 57 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413874 360 216 touchmove 237 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413889 360 216 touchmove 235 48 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413907 360 216 touchmove 233 38 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413924 360 216 touchmove 232 30 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413941 360 216 touchmove 232 27 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413957 360 216 touchmove 232 26 0 0 0 ra 1
+ra_creations_falabella_subject 1583366413986 360 216 touchmove 233 28 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414007 360 216 touchmove 235 31 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414024 360 216 touchmove 238 35 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414041 360 216 touchmove 240 37 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414057 360 216 touchmove 242 38 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414074 360 216 touchmove 244 40 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414091 360 216 touchmove 246 43 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414107 360 216 touchmove 249 48 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414125 360 216 touchmove 252 51 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414141 360 216 touchmove 253 53 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414157 360 216 touchmove 254 53 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414175 360 216 touchmove 255 54 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414191 360 216 touchmove 255 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414208 360 216 touchmove 255 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414225 360 216 touchmove 255 58 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414242 360 216 touchmove 255 59 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414258 360 216 touchmove 255 60 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414308 360 216 touchmove 255 60 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414325 360 216 touchmove 253 60 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414342 360 216 touchmove 253 60 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414371 360 216 touchmove 253 58 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414392 360 216 touchmove 252 55 0 0 0 ra 1
+ra_creations_falabella_subject 1583366414412 360 216 touchend 252 55 0 0 0 ra 1

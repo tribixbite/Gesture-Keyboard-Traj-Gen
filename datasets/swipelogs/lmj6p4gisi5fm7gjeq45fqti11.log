@@ -1,0 +1,75 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+hey_tk_how_are_you_doing 1582396648318 411 251 touchmove 72 146    hey 1
+hey_tk_how_are_you_doing 1582396648322 411 251 touchstart 72 146    hey 1
+hey_tk_how_are_you_doing 1582396648325 411 251 touchend 72 146    hey 1
+hey_tk_how_are_you_doing 1582396648318 411 251 touchmove 72 146    hey 1 1
+hey_tk_how_are_you_doing 1582396648322 411 251 touchstart 72 146    hey 1 1
+hey_tk_how_are_you_doing 1582396648325 411 251 touchend 72 146    hey 1 1
+hey_tk_how_are_you_doing 1582396648368 411 251 touchstart 309 60 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648500 411 251 touchend 309 60 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648847 411 251 touchmove 181 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648865 411 251 touchmove 180 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648880 411 251 touchmove 179 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648896 411 251 touchmove 179 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648914 411 251 touchmove 178 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648930 411 251 touchmove 177 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648947 411 251 touchmove 177 87 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648963 411 251 touchmove 175 82 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648968 411 251 touchend 175 82 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396648847 411 251 touchmove 181 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648865 411 251 touchmove 180 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648880 411 251 touchmove 179 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648896 411 251 touchmove 179 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648914 411 251 touchmove 178 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648930 411 251 touchmove 177 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648947 411 251 touchmove 177 87 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648963 411 251 touchmove 175 82 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396648968 411 251 touchend 175 82 0 0 0 hey 1 1
+hey_tk_how_are_you_doing 1582396649154 411 251 touchstart 178 108 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396649281 411 251 touchend 178 108 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396649581 411 251 touchmove 39 77 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396649598 411 251 touchmove 42 79 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396649603 411 251 touchend 42 79 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652256 411 251 touchstart 279 185 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652291 411 251 touchstart 89 158 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652340 411 251 touchmove 93 155 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652358 411 251 touchmove 99 153 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652373 411 251 touchmove 106 153 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652389 411 251 touchmove 117 161 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652395 411 251 touchend 117 161 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652692 411 251 touchmove 303 164 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652707 411 251 touchmove 304 164 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652722 411 251 touchmove 305 164 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652740 411 251 touchmove 305 163 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652791 411 251 touchmove 305 163 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652842 411 251 touchmove 305 162 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652874 411 251 touchmove 305 161 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652891 411 251 touchmove 303 157 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652907 411 251 touchmove 301 147 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396652912 411 251 touchend 301 147 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396653299 411 251 touchend 315 18 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396653899 411 251 touchstart 35 105 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396654045 411 251 touchend 35 105 0 0 0 hey 1
+hey_tk_how_are_you_doing 1582396653899 411 251 touchstart 35 105 0 0 0 hey 1 0
+hey_tk_how_are_you_doing 1582396654045 411 251 touchend 35 105 0 0 0 hey 1 0
+hey_tk_how_are_you_doing 1582396654222 411 251 touchstart 314 76 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654259 411 251 touchmove 313 76 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654282 411 251 touchmove 313 76 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654345 411 251 touchmove 312 76 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654367 411 251 touchmove 311 76 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654381 411 251 touchmove 305 78 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654398 411 251 touchmove 285 86 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654405 411 251 touchend 285 86 0 0 0 hey 0
+hey_tk_how_are_you_doing 1582396654599 411 251 touchmove 170 128 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396654628 411 251 touchmove 167 123 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396654634 411 251 touchend 167 123 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655322 411 251 touchstart 302 105 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655397 411 251 touchmove 302 92 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655411 411 251 touchmove 300 73 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655428 411 251 touchmove 299 50 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655445 411 251 touchmove 299 25 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655464 411 251 touchmove 301 -5 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655483 411 251 touchmove 307 -33 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655497 411 251 touchmove 311 -53 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655512 411 251 touchmove 316 -69 0 0 0 tk 1
+hey_tk_how_are_you_doing 1582396655516 411 251 touchend 316 -69 0 0 0 tk 1

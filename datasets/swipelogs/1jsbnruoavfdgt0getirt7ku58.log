@@ -1,0 +1,216 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+im_glad_you_liked_it 1581766901477 360 210 touchstart 250 32 0 0 0 im 1
+im_glad_you_liked_it 1581766901537 360 210 touchmove 257 29 0 0 0 im 1
+im_glad_you_liked_it 1581766901553 360 210 touchmove 274 22 0 0 0 im 1
+im_glad_you_liked_it 1581766901570 360 210 touchmove 292 13 0 0 0 im 1
+im_glad_you_liked_it 1581766901587 360 210 touchmove 310 6 0 0 0 im 1
+im_glad_you_liked_it 1581766901605 360 210 touchmove 327 0 0 0 0 im 1
+im_glad_you_liked_it 1581766901621 360 210 touchmove 337 -3 0 0 0 im 1
+im_glad_you_liked_it 1581766901638 360 210 touchmove 344 -6 0 0 0 im 1
+im_glad_you_liked_it 1581766901657 360 210 touchmove 350 -9 0 0 0 im 1
+im_glad_you_liked_it 1581766901665 360 210 touchend 350 -9 0 0 0 im 1
+im_glad_you_liked_it 1581766902042 360 210 touchstart 239 88 0 0 0 im 1
+im_glad_you_liked_it 1581766902103 360 210 touchmove 249 81 0 0 0 im 1
+im_glad_you_liked_it 1581766902120 360 210 touchmove 263 72 0 0 0 im 1
+im_glad_you_liked_it 1581766902137 360 210 touchmove 288 57 0 0 0 im 1
+im_glad_you_liked_it 1581766902154 360 210 touchmove 309 43 0 0 0 im 1
+im_glad_you_liked_it 1581766902170 360 210 touchmove 330 25 0 0 0 im 1
+im_glad_you_liked_it 1581766902187 360 210 touchmove 342 10 0 0 0 im 1
+im_glad_you_liked_it 1581766902194 360 210 touchend 342 10 0 0 0 im 1
+im_glad_you_liked_it 1581766902551 360 210 touchmove 295 66 0 0 0 im 1
+im_glad_you_liked_it 1581766902558 360 210 touchmove 318 43 0 0 0 im 1
+im_glad_you_liked_it 1581766902574 360 210 touchmove 335 24 0 0 0 im 1
+im_glad_you_liked_it 1581766902591 360 210 touchmove 343 13 0 0 0 im 1
+im_glad_you_liked_it 1581766902594 360 210 touchend 343 13 0 0 0 im 1
+im_glad_you_liked_it 1581766902551 360 210 touchmove 295 66 0 0 0 im 1 1
+im_glad_you_liked_it 1581766902558 360 210 touchmove 318 43 0 0 0 im 1 1
+im_glad_you_liked_it 1581766902574 360 210 touchmove 335 24 0 0 0 im 1 1
+im_glad_you_liked_it 1581766902591 360 210 touchmove 343 13 0 0 0 im 1 1
+im_glad_you_liked_it 1581766902594 360 210 touchend 343 13 0 0 0 im 1 1
+im_glad_you_liked_it 1581766902742 360 210 touchstart 253 115 0 0 0 im 1
+im_glad_you_liked_it 1581766902803 360 210 touchmove 261 107 0 0 0 im 1
+im_glad_you_liked_it 1581766902819 360 210 touchmove 275 94 0 0 0 im 1
+im_glad_you_liked_it 1581766902838 360 210 touchmove 300 68 0 0 0 im 1
+im_glad_you_liked_it 1581766902852 360 210 touchmove 321 45 0 0 0 im 1
+im_glad_you_liked_it 1581766902867 360 210 touchmove 337 26 0 0 0 im 1
+im_glad_you_liked_it 1581766902871 360 210 touchend 337 26 0 0 0 im 1
+im_glad_you_liked_it 1581766902986 360 210 touchstart 267 82 0 0 0 im 1
+im_glad_you_liked_it 1581766903053 360 210 touchmove 281 72 0 0 0 im 1
+im_glad_you_liked_it 1581766903070 360 210 touchmove 302 57 0 0 0 im 1
+im_glad_you_liked_it 1581766903087 360 210 touchmove 324 38 0 0 0 im 1
+im_glad_you_liked_it 1581766903102 360 210 touchmove 330 30 0 0 0 im 1
+im_glad_you_liked_it 1581766903106 360 210 touchend 330 30 0 0 0 im 1
+im_glad_you_liked_it 1581766903582 360 210 touchstart 140 98 0 0 0 im 1
+im_glad_you_liked_it 1581766903686 360 210 touchmove 128 90 0 0 0 im 1
+im_glad_you_liked_it 1581766903703 360 210 touchmove 112 82 0 0 0 im 1
+im_glad_you_liked_it 1581766903725 360 210 touchmove 93 71 0 0 0 im 1
+im_glad_you_liked_it 1581766903737 360 210 touchmove 73 62 0 0 0 im 1
+im_glad_you_liked_it 1581766903753 360 210 touchmove 54 54 0 0 0 im 1
+im_glad_you_liked_it 1581766903769 360 210 touchmove 33 49 0 0 0 im 1
+im_glad_you_liked_it 1581766903780 360 210 touchend 33 49 0 0 0 im 1
+im_glad_you_liked_it 1581766903582 360 210 touchstart 140 98 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903686 360 210 touchmove 128 90 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903703 360 210 touchmove 112 82 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903725 360 210 touchmove 93 71 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903737 360 210 touchmove 73 62 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903753 360 210 touchmove 54 54 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903769 360 210 touchmove 33 49 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903780 360 210 touchend 33 49 0 0 0 im 1 1
+im_glad_you_liked_it 1581766903954 360 210 touchstart 140 98 0 0 0 im 1
+im_glad_you_liked_it 1581766904036 360 210 touchmove 116 87 0 0 0 im 1
+im_glad_you_liked_it 1581766904053 360 210 touchmove 85 75 0 0 0 im 1
+im_glad_you_liked_it 1581766904069 360 210 touchmove 56 67 0 0 0 im 1
+im_glad_you_liked_it 1581766904086 360 210 touchmove 30 61 0 0 0 im 1
+im_glad_you_liked_it 1581766904106 360 210 touchmove 17 58 0 0 0 im 1
+im_glad_you_liked_it 1581766904118 360 210 touchend 17 58 0 0 0 im 1
+im_glad_you_liked_it 1581766904221 360 210 touchstart 150 140 0 0 0 im 1
+im_glad_you_liked_it 1581766904319 360 210 touchmove 139 131 0 0 0 im 1
+im_glad_you_liked_it 1581766904336 360 210 touchmove 114 112 0 0 0 im 1
+im_glad_you_liked_it 1581766904354 360 210 touchmove 88 97 0 0 0 im 1
+im_glad_you_liked_it 1581766904370 360 210 touchmove 57 84 0 0 0 im 1
+im_glad_you_liked_it 1581766904387 360 210 touchmove 28 69 0 0 0 im 1
+im_glad_you_liked_it 1581766904405 360 210 touchmove 7 56 0 0 0 im 1
+im_glad_you_liked_it 1581766904411 360 210 touchend 7 56 0 0 0 im 1
+im_glad_you_liked_it 1581766904737 360 210 touchmove 48 80 0 0 0 im 1
+im_glad_you_liked_it 1581766904754 360 210 touchmove 35 71 0 0 0 im 1
+im_glad_you_liked_it 1581766904770 360 210 touchmove 30 68 0 0 0 im 1
+im_glad_you_liked_it 1581766904787 360 210 touchmove 28 68 0 0 0 im 1
+im_glad_you_liked_it 1581766904803 360 210 touchmove 28 68 0 0 0 im 1
+im_glad_you_liked_it 1581766904820 360 210 touchmove 30 68 0 0 0 im 1
+im_glad_you_liked_it 1581766904837 360 210 touchmove 35 69 0 0 0 im 1
+im_glad_you_liked_it 1581766904853 360 210 touchmove 42 71 0 0 0 im 1
+im_glad_you_liked_it 1581766904870 360 210 touchmove 48 74 0 0 0 im 1
+im_glad_you_liked_it 1581766904887 360 210 touchmove 54 79 0 0 0 im 1
+im_glad_you_liked_it 1581766904903 360 210 touchmove 61 88 0 0 0 im 1
+im_glad_you_liked_it 1581766904919 360 210 touchmove 68 98 0 0 0 im 1
+im_glad_you_liked_it 1581766904942 360 210 touchmove 83 115 0 0 0 im 1
+im_glad_you_liked_it 1581766904956 360 210 touchmove 93 131 0 0 0 im 1
+im_glad_you_liked_it 1581766904970 360 210 touchmove 101 146 0 0 0 im 1
+im_glad_you_liked_it 1581766904986 360 210 touchmove 107 158 0 0 0 im 1
+im_glad_you_liked_it 1581766904990 360 210 touchstart 227 52 0 0 0 im 1
+im_glad_you_liked_it 1581766905002 360 210 touchmove 112 168 0 0 0 im 1
+im_glad_you_liked_it 1581766905023 360 210 touchmove 114 171 0 0 0 im 1
+im_glad_you_liked_it 1581766905037 360 210 touchmove 115 174 0 0 0 im 1
+im_glad_you_liked_it 1581766905053 360 210 touchmove 116 171 0 0 0 im 1
+im_glad_you_liked_it 1581766905071 360 210 touchmove 118 164 0 0 0 im 1
+im_glad_you_liked_it 1581766905086 360 210 touchmove 119 153 0 0 0 im 1
+im_glad_you_liked_it 1581766905104 360 210 touchmove 118 124 0 0 0 im 1
+im_glad_you_liked_it 1581766905121 360 210 touchmove 112 100 0 0 0 im 1
+im_glad_you_liked_it 1581766905136 360 210 touchmove 99 83 0 0 0 im 1
+im_glad_you_liked_it 1581766905154 360 210 touchmove 82 62 0 0 0 im 1
+im_glad_you_liked_it 1581766905170 360 210 touchmove 62 49 0 0 0 im 1
+im_glad_you_liked_it 1581766905187 360 210 touchmove 43 39 0 0 0 im 1
+im_glad_you_liked_it 1581766905202 360 210 touchmove 33 35 0 0 0 im 1
+im_glad_you_liked_it 1581766905220 360 210 touchmove 33 35 0 0 0 im 1
+im_glad_you_liked_it 1581766905237 360 210 touchmove 33 35 0 0 0 im 1
+im_glad_you_liked_it 1581766905254 360 210 touchmove 34 35 0 0 0 im 1
+im_glad_you_liked_it 1581766905271 360 210 touchmove 37 39 0 0 0 im 1
+im_glad_you_liked_it 1581766905287 360 210 touchmove 55 56 0 0 0 im 1
+im_glad_you_liked_it 1581766905304 360 210 touchmove 76 78 0 0 0 im 1
+im_glad_you_liked_it 1581766905320 360 210 touchmove 98 110 0 0 0 im 1
+im_glad_you_liked_it 1581766905337 360 210 touchmove 111 136 0 0 0 im 1
+im_glad_you_liked_it 1581766905354 360 210 touchmove 119 159 0 0 0 im 1
+im_glad_you_liked_it 1581766905371 360 210 touchmove 121 170 0 0 0 im 1
+im_glad_you_liked_it 1581766905387 360 210 touchmove 121 175 0 0 0 im 1
+im_glad_you_liked_it 1581766905403 360 210 touchmove 121 175 0 0 0 im 1
+im_glad_you_liked_it 1581766905420 360 210 touchmove 122 175 0 0 0 im 1
+im_glad_you_liked_it 1581766905437 360 210 touchmove 123 166 0 0 0 im 1
+im_glad_you_liked_it 1581766905454 360 210 touchmove 122 143 0 0 0 im 1
+im_glad_you_liked_it 1581766905470 360 210 touchmove 119 115 0 0 0 im 1
+im_glad_you_liked_it 1581766905486 360 210 touchmove 103 89 0 0 0 im 1
+im_glad_you_liked_it 1581766905503 360 210 touchmove 79 65 0 0 0 im 1
+im_glad_you_liked_it 1581766905519 360 210 touchmove 39 37 0 0 0 im 1
+im_glad_you_liked_it 1581766905528 360 210 touchmove 36 35 0 0 0 im 1
+im_glad_you_liked_it 1581766905531 360 210 touchend 36 35 0 0 0 im 1
+im_glad_you_liked_it 1581766905902 360 210 touchmove 35 40 0 0 0 im 1
+im_glad_you_liked_it 1581766905907 360 210 touchend 35 40 0 0 0 im 1
+im_glad_you_liked_it 1581766906351 360 210 touchmove 46 36 0 0 0 im 1
+im_glad_you_liked_it 1581766906368 360 210 touchmove 49 38 0 0 0 im 1
+im_glad_you_liked_it 1581766906384 360 210 touchmove 57 44 0 0 0 im 1
+im_glad_you_liked_it 1581766906401 360 210 touchmove 75 60 0 0 0 im 1
+im_glad_you_liked_it 1581766906418 360 210 touchmove 91 79 0 0 0 im 1
+im_glad_you_liked_it 1581766906435 360 210 touchmove 106 104 0 0 0 im 1
+im_glad_you_liked_it 1581766906452 360 210 touchmove 116 130 0 0 0 im 1
+im_glad_you_liked_it 1581766906468 360 210 touchmove 123 152 0 0 0 im 1
+im_glad_you_liked_it 1581766906485 360 210 touchmove 125 168 0 0 0 im 1
+im_glad_you_liked_it 1581766906502 360 210 touchmove 126 180 0 0 0 im 1
+im_glad_you_liked_it 1581766906519 360 210 touchmove 126 189 0 0 0 im 1
+im_glad_you_liked_it 1581766906536 360 210 touchmove 127 192 0 0 0 im 1
+im_glad_you_liked_it 1581766906552 360 210 touchmove 127 192 0 0 0 im 1
+im_glad_you_liked_it 1581766906569 360 210 touchmove 127 191 0 0 0 im 1
+im_glad_you_liked_it 1581766906587 360 210 touchmove 129 184 0 0 0 im 1
+im_glad_you_liked_it 1581766906603 360 210 touchmove 129 161 0 0 0 im 1
+im_glad_you_liked_it 1581766906620 360 210 touchmove 127 128 0 0 0 im 1
+im_glad_you_liked_it 1581766906638 360 210 touchmove 117 104 0 0 0 im 1
+im_glad_you_liked_it 1581766906653 360 210 touchmove 100 80 0 0 0 im 1
+im_glad_you_liked_it 1581766906668 360 210 touchmove 85 62 0 0 0 im 1
+im_glad_you_liked_it 1581766906687 360 210 touchmove 64 47 0 0 0 im 1
+im_glad_you_liked_it 1581766906702 360 210 touchmove 51 37 0 0 0 im 1
+im_glad_you_liked_it 1581766906719 360 210 touchmove 45 32 0 0 0 im 1
+im_glad_you_liked_it 1581766906736 360 210 touchmove 44 30 0 0 0 im 1
+im_glad_you_liked_it 1581766906753 360 210 touchmove 43 31 0 0 0 im 1
+im_glad_you_liked_it 1581766906769 360 210 touchmove 45 31 0 0 0 im 1
+im_glad_you_liked_it 1581766906785 360 210 touchmove 54 37 0 0 0 im 1
+im_glad_you_liked_it 1581766906802 360 210 touchmove 69 52 0 0 0 im 1
+im_glad_you_liked_it 1581766906819 360 210 touchmove 93 81 0 0 0 im 1
+im_glad_you_liked_it 1581766906836 360 210 touchmove 112 112 0 0 0 im 1
+im_glad_you_liked_it 1581766906857 360 210 touchmove 126 142 0 0 0 im 1
+im_glad_you_liked_it 1581766906870 360 210 touchmove 130 161 0 0 0 im 1
+im_glad_you_liked_it 1581766906886 360 210 touchmove 132 175 0 0 0 im 1
+im_glad_you_liked_it 1581766906902 360 210 touchmove 133 183 0 0 0 im 1
+im_glad_you_liked_it 1581766906919 360 210 touchmove 134 189 0 0 0 im 1
+im_glad_you_liked_it 1581766906936 360 210 touchmove 134 192 0 0 0 im 1
+im_glad_you_liked_it 1581766906953 360 210 touchmove 133 194 0 0 0 im 1
+im_glad_you_liked_it 1581766906969 360 210 touchmove 131 197 0 0 0 im 1
+im_glad_you_liked_it 1581766906986 360 210 touchmove 128 200 0 0 0 im 1
+im_glad_you_liked_it 1581766907003 360 210 touchmove 125 202 0 0 0 im 1
+im_glad_you_liked_it 1581766907020 360 210 touchmove 123 203 0 0 0 im 1
+im_glad_you_liked_it 1581766907026 360 210 touchmove 123 203 0 0 0 im 1
+im_glad_you_liked_it 1581766907029 360 210 touchend 123 203 0 0 0 im 1
+im_glad_you_liked_it 1581766906351 360 210 touchmove 46 36 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906368 360 210 touchmove 49 38 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906384 360 210 touchmove 57 44 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906401 360 210 touchmove 75 60 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906418 360 210 touchmove 91 79 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906435 360 210 touchmove 106 104 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906452 360 210 touchmove 116 130 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906468 360 210 touchmove 123 152 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906485 360 210 touchmove 125 168 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906502 360 210 touchmove 126 180 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906519 360 210 touchmove 126 189 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906536 360 210 touchmove 127 192 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906552 360 210 touchmove 127 192 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906569 360 210 touchmove 127 191 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906587 360 210 touchmove 129 184 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906603 360 210 touchmove 129 161 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906620 360 210 touchmove 127 128 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906638 360 210 touchmove 117 104 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906653 360 210 touchmove 100 80 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906668 360 210 touchmove 85 62 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906687 360 210 touchmove 64 47 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906702 360 210 touchmove 51 37 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906719 360 210 touchmove 45 32 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906736 360 210 touchmove 44 30 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906753 360 210 touchmove 43 31 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906769 360 210 touchmove 45 31 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906785 360 210 touchmove 54 37 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906802 360 210 touchmove 69 52 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906819 360 210 touchmove 93 81 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906836 360 210 touchmove 112 112 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906857 360 210 touchmove 126 142 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906870 360 210 touchmove 130 161 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906886 360 210 touchmove 132 175 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906902 360 210 touchmove 133 183 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906919 360 210 touchmove 134 189 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906936 360 210 touchmove 134 192 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906953 360 210 touchmove 133 194 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906969 360 210 touchmove 131 197 0 0 0 im 1 1
+im_glad_you_liked_it 1581766906986 360 210 touchmove 128 200 0 0 0 im 1 1
+im_glad_you_liked_it 1581766907003 360 210 touchmove 125 202 0 0 0 im 1 1
+im_glad_you_liked_it 1581766907020 360 210 touchmove 123 203 0 0 0 im 1 1
+im_glad_you_liked_it 1581766907026 360 210 touchmove 123 203 0 0 0 im 1 1
+im_glad_you_liked_it 1581766907029 360 210 touchend 123 203 0 0 0 im 1 1
+im_glad_you_liked_it 1581766907041 360 210 touchmove 250 69 0 0 0 im 1
+im_glad_you_liked_it 1581766907054 360 210 touchmove 251 72 0 0 0 im 1
+im_glad_you_liked_it 1581766907072 360 210 touchmove 251 74 0 0 0 im 1
+im_glad_you_liked_it 1581766907088 360 210 touchend 251 74 0 0 0 im 1

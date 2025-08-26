@@ -1,0 +1,862 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+that_would_likely_be_an_expensive_option 1581435074508 411 222 touchstart 180 114 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074523 411 222 touchmove 184 114 1.1420310735703 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074540 411 222 touchmove 185 113 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074556 411 222 touchmove 191 114 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074574 411 222 touchmove 210 121 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074590 411 222 touchmove 230 130 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074607 411 222 touchmove 242 133 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074624 411 222 touchmove 250 133 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074641 411 222 touchmove 255 130 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074658 411 222 touchmove 257 127 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074675 411 222 touchmove 257 125 1.1420310735703 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074691 411 222 touchmove 255 120 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074708 411 222 touchmove 250 109 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074725 411 222 touchmove 244 98 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074742 411 222 touchmove 239 91 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074759 411 222 touchmove 233 85 1.1420310735703 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074775 411 222 touchmove 225 80 1.1420310735703 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074793 411 222 touchmove 218 79 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074809 411 222 touchmove 202 81 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074828 411 222 touchmove 186 92 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074843 411 222 touchmove 177 106 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074860 411 222 touchmove 175 122 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074877 411 222 touchmove 178 138 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074894 411 222 touchmove 185 154 0.76135402917862 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074911 411 222 touchmove 193 171 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074928 411 222 touchmove 198 178 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074945 411 222 touchmove 205 188 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074962 411 222 touchmove 210 194 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435074978 411 222 touchmove 213 196 0.57101553678513 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435074995 411 222 touchmove 217 196 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075013 411 222 touchmove 222 192 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075030 411 222 touchmove 236 182 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075046 411 222 touchmove 247 170 0.76135402917862 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075063 411 222 touchmove 251 166 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075080 411 222 touchmove 255 160 0.76135402917862 0.76135402917862 0 that 1
+that_would_likely_be_an_expensive_option 1581435075091 411 222 touchend 255 160 0.76135402917862 0.76135402917862 0 that 1
+that_would_likely_be_an_expensive_option 1581435075453 411 222 touchmove 219 54 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075469 411 222 touchmove 200 58 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075485 411 222 touchmove 167 70 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075502 411 222 touchmove 148 89 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075519 411 222 touchmove 138 121 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075536 411 222 touchmove 137 152 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075552 411 222 touchmove 140 174 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075569 411 222 touchmove 148 187 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075587 411 222 touchmove 158 199 0.38067701458931 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075604 411 222 touchmove 162 200 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075621 411 222 touchmove 176 200 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075637 411 222 touchmove 200 188 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075654 411 222 touchmove 219 169 0.76135402917862 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075671 411 222 touchmove 236 147 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075688 411 222 touchmove 247 124 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075705 411 222 touchmove 254 105 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075722 411 222 touchmove 253 99 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075739 411 222 touchmove 245 95 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075755 411 222 touchmove 211 95 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075773 411 222 touchmove 179 101 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075789 411 222 touchmove 159 116 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435075806 411 222 touchmove 147 139 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075823 411 222 touchmove 145 171 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075840 411 222 touchmove 147 195 0.38067701458931 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075856 411 222 touchmove 147 205 0.38067701458931 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075865 411 222 touchend 147 205 0.38067701458931 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435075453 411 222 touchmove 219 54 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075469 411 222 touchmove 200 58 0.95169258117676 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075485 411 222 touchmove 167 70 0.95169258117676 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075502 411 222 touchmove 148 89 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075519 411 222 touchmove 138 121 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075536 411 222 touchmove 137 152 0.76135402917862 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075552 411 222 touchmove 140 174 0.57101553678513 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075569 411 222 touchmove 148 187 0.57101553678513 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075587 411 222 touchmove 158 199 0.38067701458931 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075604 411 222 touchmove 162 200 0.57101553678513 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075621 411 222 touchmove 176 200 0.57101553678513 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075637 411 222 touchmove 200 188 0.57101553678513 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075654 411 222 touchmove 219 169 0.76135402917862 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075671 411 222 touchmove 236 147 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075688 411 222 touchmove 247 124 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075705 411 222 touchmove 254 105 0.95169258117676 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075722 411 222 touchmove 253 99 0.95169258117676 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075739 411 222 touchmove 245 95 0.95169258117676 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075755 411 222 touchmove 211 95 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075773 411 222 touchmove 179 101 0.95169258117676 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075789 411 222 touchmove 159 116 0.95169258117676 1.1420310735703 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075806 411 222 touchmove 147 139 0.76135402917862 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075823 411 222 touchmove 145 171 0.57101553678513 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075840 411 222 touchmove 147 195 0.38067701458931 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075856 411 222 touchmove 147 205 0.38067701458931 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075865 411 222 touchend 147 205 0.38067701458931 0.95169258117676 0 that 1 1
+that_would_likely_be_an_expensive_option 1581435075993 411 222 touchmove 208 195 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076008 411 222 touchmove 216 181 0.57101553678513 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435076025 411 222 touchmove 228 144 0.95169258117676 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076043 411 222 touchmove 234 125 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076047 411 222 touchend 234 125 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076371 411 222 touchstart 155 50 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435076399 411 222 touchmove 169 77 0.95169258117676 1.1420310735703 0 that 1
+that_would_likely_be_an_expensive_option 1581435076416 411 222 touchmove 180 109 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076431 411 222 touchmove 185 141 0.76135402917862 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076448 411 222 touchmove 185 176 0.57101553678513 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076465 411 222 touchmove 180 206 0.38067701458931 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435076476 411 222 touchend 180 206 0.38067701458931 0.95169258117676 0 that 1
+that_would_likely_be_an_expensive_option 1581435077836 411 222 touchstart 171 35 0.95169258117676 0.95169258117676 0 that 0
+that_would_likely_be_an_expensive_option 1581435077849 411 222 touchmove 171 35 0.95169258117676 1.1420310735703 0 that 0
+that_would_likely_be_an_expensive_option 1581435077866 411 222 touchmove 172 36 0.95169258117676 1.1420310735703 0 that 0
+that_would_likely_be_an_expensive_option 1581435077888 411 222 touchmove 172 35 0.95169258117676 1.1420310735703 0 that 0
+that_would_likely_be_an_expensive_option 1581435077933 411 222 touchmove 172 36 0.95169258117676 0.95169258117676 0 that 0
+that_would_likely_be_an_expensive_option 1581435077953 411 222 touchmove 171 36 0.76135402917862 0.95169258117676 0 that 0
+that_would_likely_be_an_expensive_option 1581435077969 411 222 touchend 171 36 0.76135402917862 0.95169258117676 0 that 0
+that_would_likely_be_an_expensive_option 1581435077836 411 222 touchstart 171 35 0.95169258117676 0.95169258117676 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077849 411 222 touchmove 171 35 0.95169258117676 1.1420310735703 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077866 411 222 touchmove 172 36 0.95169258117676 1.1420310735703 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077888 411 222 touchmove 172 35 0.95169258117676 1.1420310735703 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077933 411 222 touchmove 172 36 0.95169258117676 0.95169258117676 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077953 411 222 touchmove 171 36 0.76135402917862 0.95169258117676 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077969 411 222 touchend 171 36 0.76135402917862 0.95169258117676 0 that 0 1
+that_would_likely_be_an_expensive_option 1581435077981 411 222 touchstart 249 89 0 0 0 would 1
+that_would_likely_be_an_expensive_option 1581435077983 411 222 touchmove 247 89 0 0 0 would 1
+that_would_likely_be_an_expensive_option 1581435078120 411 222 touchmove 249 90 0 0 0 would 1
+that_would_likely_be_an_expensive_option 1581435078137 411 222 touchmove 249 89 0 0 0 would 1
+that_would_likely_be_an_expensive_option 1581435078142 411 222 touchend 249 89 0 0 0 would 1
+that_would_likely_be_an_expensive_option 1581435078289 411 222 touchmove 58 96 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435078306 411 222 touchmove 58 97 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435078322 411 222 touchend 58 97 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435080722 411 222 touchstart 59 33 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435080749 411 222 touchmove 60 33 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435080820 411 222 touchmove 61 33 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435080822 411 222 touchend 61 33 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435081645 411 222 touchstart 65 35 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435081668 411 222 touchmove 65 34 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435081684 411 222 touchmove 66 34 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435081702 411 222 touchmove 66 35 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435081719 411 222 touchmove 67 36 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435081731 411 222 touchend 67 36 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082646 411 222 touchstart 63 28 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082664 411 222 touchmove 64 28 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082681 411 222 touchmove 64 28 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082698 411 222 touchmove 65 28 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082716 411 222 touchmove 65 28 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082733 411 222 touchmove 65 28 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435082750 411 222 touchmove 66 28 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435082755 411 222 touchend 66 28 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435083521 411 222 touchstart 360 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083543 411 222 touchmove 359 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083559 411 222 touchmove 358 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083576 411 222 touchmove 358 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083594 411 222 touchmove 357 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083611 411 222 touchmove 357 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083627 411 222 touchmove 357 36 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083646 411 222 touchmove 357 36 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083663 411 222 touchmove 356 36 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083681 411 222 touchmove 356 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083686 411 222 touchend 356 37 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083521 411 222 touchstart 360 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083543 411 222 touchmove 359 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083559 411 222 touchmove 358 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083576 411 222 touchmove 358 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083594 411 222 touchmove 357 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083611 411 222 touchmove 357 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083627 411 222 touchmove 357 36 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083646 411 222 touchmove 357 36 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083663 411 222 touchmove 356 36 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083681 411 222 touchmove 356 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083686 411 222 touchend 356 37 0.76135402917862 0.95169258117676 0 would 1 1
+that_would_likely_be_an_expensive_option 1581435083817 411 222 touchstart 285 33 0.95169258117676 1.1420310735703 0 would 1
+that_would_likely_be_an_expensive_option 1581435083825 411 222 touchmove 284 32 1.1420310735703 1.1420310735703 0 would 1
+that_would_likely_be_an_expensive_option 1581435083834 411 222 touchmove 284 31 1.1420310735703 1.1420310735703 0 would 1
+that_would_likely_be_an_expensive_option 1581435083847 411 222 touchmove 284 31 1.1420310735703 1.1420310735703 0 would 1
+that_would_likely_be_an_expensive_option 1581435083880 411 222 touchmove 285 31 0.95169258117676 1.1420310735703 0 would 1
+that_would_likely_be_an_expensive_option 1581435083931 411 222 touchmove 284 32 0.95169258117676 1.1420310735703 0 would 1
+that_would_likely_be_an_expensive_option 1581435083950 411 222 touchmove 284 33 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435083954 411 222 touchend 284 33 0.95169258117676 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435084719 411 222 touchstart 360 82 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435084742 411 222 touchmove 360 83 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435084759 411 222 touchmove 360 82 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435084776 411 222 touchmove 360 83 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435084793 411 222 touchmove 361 83 0.76135402917862 0.95169258117676 0 would 1
+that_would_likely_be_an_expensive_option 1581435084861 411 222 touchmove 361 82 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435084870 411 222 touchend 361 82 0.76135402917862 0.76135402917862 0 would 1
+that_would_likely_be_an_expensive_option 1581435084719 411 222 touchstart 360 82 0.76135402917862 0.76135402917862 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435084742 411 222 touchmove 360 83 0.76135402917862 0.95169258117676 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435084759 411 222 touchmove 360 82 0.76135402917862 0.76135402917862 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435084776 411 222 touchmove 360 83 0.76135402917862 0.95169258117676 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435084793 411 222 touchmove 361 83 0.76135402917862 0.95169258117676 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435084861 411 222 touchmove 361 82 0.76135402917862 0.76135402917862 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435084870 411 222 touchend 361 82 0.76135402917862 0.76135402917862 0 would 1 0
+that_would_likely_be_an_expensive_option 1581435085025 411 222 touchstart 128 100 0.95169258117676 1.1420310735703 0 would 0
+that_would_likely_be_an_expensive_option 1581435085078 411 222 touchmove 129 100 0.95169258117676 1.1420310735703 0 would 0
+that_would_likely_be_an_expensive_option 1581435085097 411 222 touchmove 128 100 0.95169258117676 1.1420310735703 0 would 0
+that_would_likely_be_an_expensive_option 1581435085166 411 222 touchmove 129 100 0.95169258117676 1.1420310735703 0 would 0
+that_would_likely_be_an_expensive_option 1581435085182 411 222 touchmove 130 100 0.76135402917862 0.95169258117676 0 would 0
+that_would_likely_be_an_expensive_option 1581435085185 411 222 touchend 130 100 0.76135402917862 0.95169258117676 0 would 0
+that_would_likely_be_an_expensive_option 1581435086566 411 222 touchstart 366 98 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086570 411 222 touchmove 366 98 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086583 411 222 touchmove 366 97 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086603 411 222 touchmove 365 97 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086702 411 222 touchmove 366 97 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086721 411 222 touchmove 366 97 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086732 411 222 touchend 366 97 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086566 411 222 touchstart 366 98 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086570 411 222 touchmove 366 98 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086583 411 222 touchmove 366 97 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086603 411 222 touchmove 365 97 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086702 411 222 touchmove 366 97 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086721 411 222 touchmove 366 97 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086732 411 222 touchend 366 97 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435086897 411 222 touchstart 307 46 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086921 411 222 touchmove 306 46 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086937 411 222 touchmove 305 45 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435086954 411 222 touchmove 306 45 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087005 411 222 touchmove 306 46 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087023 411 222 touchmove 308 47 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087038 411 222 touchend 308 47 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087140 411 222 touchstart 332 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087157 411 222 touchmove 332 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087174 411 222 touchmove 332 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087191 411 222 touchmove 333 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087208 411 222 touchmove 333 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087224 411 222 touchmove 334 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087242 411 222 touchmove 336 90 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087258 411 222 touchmove 336 90 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087267 411 222 touchend 336 90 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087398 411 222 touchend 98 41 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087398 411 222 touchend 98 41 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435087420 411 222 touchstart 379 85 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087427 411 222 touchmove 379 85 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087444 411 222 touchmove 379 86 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087529 411 222 touchmove 379 85 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435087535 411 222 touchend 379 85 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435088711 411 222 touchstart 221 40 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435088728 411 222 touchmove 222 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435088745 411 222 touchmove 222 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435088762 411 222 touchmove 222 38 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435088829 411 222 touchmove 222 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435088850 411 222 touchend 222 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435089783 411 222 touchstart 237 124 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435089793 411 222 touchmove 237 124 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435089810 411 222 touchmove 238 123 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435089877 411 222 touchmove 238 122 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435089878 411 222 touchend 238 122 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095670 411 222 touchmove 245 196 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095690 411 222 touchmove 244 196 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095705 411 222 touchmove 241 196 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095721 411 222 touchmove 234 195 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095738 411 222 touchmove 216 196 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095755 411 222 touchmove 201 199 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095773 411 222 touchmove 190 202 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095790 411 222 touchmove 181 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095807 411 222 touchmove 173 209 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095824 411 222 touchmove 171 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095840 411 222 touchmove 166 211 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095857 411 222 touchmove 163 212 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095874 411 222 touchmove 159 212 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095890 411 222 touchmove 159 211 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095907 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095924 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095949 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095960 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435096009 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435096015 411 222 touchend 158 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435096936 411 222 touchmove 173 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435096953 411 222 touchmove 175 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435096971 411 222 touchmove 181 204 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435096988 411 222 touchmove 195 202 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097005 411 222 touchmove 212 198 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097023 411 222 touchmove 230 192 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097040 411 222 touchmove 237 190 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097055 411 222 touchmove 253 186 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097071 411 222 touchmove 266 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097089 411 222 touchmove 273 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097106 411 222 touchmove 275 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097122 411 222 touchmove 275 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097173 411 222 touchmove 274 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435097301 411 222 touchend 274 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099023 411 222 touchstart 375 86 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099047 411 222 touchmove 373 87 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099064 411 222 touchmove 372 87 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099082 411 222 touchmove 371 87 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099099 411 222 touchmove 371 86 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099166 411 222 touchmove 370 86 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099183 411 222 touchmove 369 87 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099191 411 222 touchend 369 87 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435095670 411 222 touchmove 245 196 0.57101553678513 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095690 411 222 touchmove 244 196 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095705 411 222 touchmove 241 196 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095721 411 222 touchmove 234 195 0.57101553678513 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095738 411 222 touchmove 216 196 0.57101553678513 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095755 411 222 touchmove 201 199 0.57101553678513 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095773 411 222 touchmove 190 202 0.38067701458931 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095790 411 222 touchmove 181 205 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095807 411 222 touchmove 173 209 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095824 411 222 touchmove 171 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095840 411 222 touchmove 166 211 0.38067701458931 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095857 411 222 touchmove 163 212 0.38067701458931 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095874 411 222 touchmove 159 212 0.38067701458931 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095890 411 222 touchmove 159 211 0.38067701458931 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095907 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095924 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095949 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435095960 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435096009 411 222 touchmove 158 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435096015 411 222 touchend 158 210 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435096936 411 222 touchmove 173 205 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435096953 411 222 touchmove 175 205 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435096971 411 222 touchmove 181 204 0.57101553678513 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435096988 411 222 touchmove 195 202 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097005 411 222 touchmove 212 198 0.57101553678513 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097023 411 222 touchmove 230 192 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097040 411 222 touchmove 237 190 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097055 411 222 touchmove 253 186 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097071 411 222 touchmove 266 184 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097089 411 222 touchmove 273 184 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097106 411 222 touchmove 275 184 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097122 411 222 touchmove 275 184 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097173 411 222 touchmove 274 184 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435097301 411 222 touchend 274 184 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099023 411 222 touchstart 375 86 0.57101553678513 0.76135402917862 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099047 411 222 touchmove 373 87 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099064 411 222 touchmove 372 87 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099082 411 222 touchmove 371 87 0.76135402917862 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099099 411 222 touchmove 371 86 0.76135402917862 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099166 411 222 touchmove 370 86 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099183 411 222 touchmove 369 87 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099191 411 222 touchend 369 87 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099321 411 222 touchstart 309 47 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099327 411 222 touchmove 309 46 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099336 411 222 touchmove 309 46 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099352 411 222 touchmove 309 45 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099369 411 222 touchmove 309 44 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099399 411 222 touchmove 309 45 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099420 411 222 touchmove 309 46 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099436 411 222 touchmove 309 49 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099454 411 222 touchmove 309 54 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099463 411 222 touchend 309 54 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099554 411 222 touchstart 327 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099561 411 222 touchmove 327 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099579 411 222 touchmove 328 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099622 411 222 touchmove 328 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099639 411 222 touchmove 328 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099656 411 222 touchmove 329 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099673 411 222 touchmove 330 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099678 411 222 touchend 330 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099825 411 222 touchmove 100 37 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099833 411 222 touchend 100 37 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099825 411 222 touchmove 100 37 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099833 411 222 touchend 100 37 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435099846 411 222 touchstart 374 96 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099849 411 222 touchmove 374 96 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099860 411 222 touchmove 374 95 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099886 411 222 touchmove 374 96 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435099940 411 222 touchend 374 96 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435100315 411 222 touchmove 231 42 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435100320 411 222 touchend 231 42 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101167 411 222 touchstart 214 151 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101193 411 222 touchmove 213 122 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101210 411 222 touchmove 210 110 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101227 411 222 touchmove 210 90 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101244 411 222 touchmove 212 73 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101261 411 222 touchmove 212 61 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101278 411 222 touchmove 210 53 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101295 411 222 touchmove 207 51 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101312 411 222 touchmove 196 52 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101329 411 222 touchmove 179 58 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101346 411 222 touchmove 157 74 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101363 411 222 touchmove 145 92 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101381 411 222 touchmove 142 104 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101396 411 222 touchmove 143 117 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101414 411 222 touchmove 148 135 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101431 411 222 touchmove 155 156 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101447 411 222 touchmove 165 176 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101465 411 222 touchmove 169 192 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101481 411 222 touchmove 172 200 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101498 411 222 touchmove 174 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101514 411 222 touchmove 173 213 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435101526 411 222 touchend 173 213 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102259 411 222 touchstart 230 127 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102291 411 222 touchmove 229 128 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102309 411 222 touchmove 224 129 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102325 411 222 touchmove 204 127 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102342 411 222 touchmove 179 124 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102359 411 222 touchmove 157 118 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102375 411 222 touchmove 137 111 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102393 411 222 touchmove 121 105 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102410 411 222 touchmove 115 101 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102429 411 222 touchmove 109 97 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102445 411 222 touchmove 107 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102461 411 222 touchmove 108 69 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102478 411 222 touchmove 118 40 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102495 411 222 touchmove 133 26 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102512 411 222 touchmove 148 21 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102528 411 222 touchmove 156 22 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102546 411 222 touchmove 185 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102562 411 222 touchmove 194 47 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102582 411 222 touchmove 215 66 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102596 411 222 touchmove 231 82 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102613 411 222 touchmove 244 100 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102629 411 222 touchmove 253 114 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102646 411 222 touchmove 258 127 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102664 411 222 touchmove 258 141 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102681 411 222 touchmove 254 151 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102698 411 222 touchmove 245 167 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102715 411 222 touchmove 235 180 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102731 411 222 touchmove 231 188 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102748 411 222 touchmove 227 192 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102765 411 222 touchmove 226 193 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102771 411 222 touchend 226 193 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435102259 411 222 touchstart 230 127 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102291 411 222 touchmove 229 128 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102309 411 222 touchmove 224 129 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102325 411 222 touchmove 204 127 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102342 411 222 touchmove 179 124 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102359 411 222 touchmove 157 118 0.76135402917862 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102375 411 222 touchmove 137 111 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102393 411 222 touchmove 121 105 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102410 411 222 touchmove 115 101 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102429 411 222 touchmove 109 97 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102445 411 222 touchmove 107 90 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102461 411 222 touchmove 108 69 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102478 411 222 touchmove 118 40 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102495 411 222 touchmove 133 26 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102512 411 222 touchmove 148 21 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102528 411 222 touchmove 156 22 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102546 411 222 touchmove 185 39 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102562 411 222 touchmove 194 47 1.1420310735703 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102582 411 222 touchmove 215 66 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102596 411 222 touchmove 231 82 1.1420310735703 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102613 411 222 touchmove 244 100 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102629 411 222 touchmove 253 114 1.1420310735703 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102646 411 222 touchmove 258 127 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102664 411 222 touchmove 258 141 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102681 411 222 touchmove 254 151 0.76135402917862 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102698 411 222 touchmove 245 167 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102715 411 222 touchmove 235 180 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102731 411 222 touchmove 231 188 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102748 411 222 touchmove 227 192 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102765 411 222 touchmove 226 193 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435102771 411 222 touchend 226 193 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435103043 411 222 touchstart 276 76 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103051 411 222 touchmove 275 76 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103068 411 222 touchmove 274 77 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103086 411 222 touchmove 264 81 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103103 411 222 touchmove 239 95 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103119 411 222 touchmove 215 115 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103136 411 222 touchmove 193 142 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103153 411 222 touchmove 177 178 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103171 411 222 touchmove 170 196 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103179 411 222 touchend 170 196 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103286 411 222 touchstart 151 170 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103304 411 222 touchmove 147 139 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103321 411 222 touchmove 143 108 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103339 411 222 touchmove 142 93 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103356 411 222 touchmove 145 62 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103372 411 222 touchmove 150 34 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103389 411 222 touchmove 159 14 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103406 411 222 touchmove 175 9 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103424 411 222 touchmove 199 15 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103441 411 222 touchmove 222 35 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103457 411 222 touchmove 239 63 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103475 411 222 touchmove 245 78 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103491 411 222 touchmove 254 106 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103508 411 222 touchmove 256 132 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103525 411 222 touchmove 255 158 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103542 411 222 touchmove 248 184 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103559 411 222 touchmove 236 202 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103576 411 222 touchmove 227 208 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103582 411 222 touchend 227 208 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103863 411 222 touchstart 166 138 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103879 411 222 touchmove 161 130 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103896 411 222 touchmove 141 97 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103913 411 222 touchmove 125 65 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103929 411 222 touchmove 110 28 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103948 411 222 touchmove 98 -9 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435103959 411 222 touchend 98 -9 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104034 411 222 touchstart 89 2 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104048 411 222 touchmove 92 17 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104067 411 222 touchmove 96 64 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104082 411 222 touchmove 100 106 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104098 411 222 touchmove 108 141 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104122 411 222 touchmove 114 175 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104133 411 222 touchmove 112 192 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104141 411 222 touchend 112 192 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104455 411 222 touchmove 372 197 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104483 411 222 touchmove 373 197 0.57101553678513 0.57101553678513 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104502 411 222 touchmove 373 196 0.57101553678513 0.57101553678513 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104518 411 222 touchend 373 196 0.57101553678513 0.57101553678513 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104656 411 222 touchmove 366 198 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104706 411 222 touchmove 367 198 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104724 411 222 touchmove 366 198 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104727 411 222 touchend 366 198 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104817 411 222 touchmove 358 209 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104826 411 222 touchmove 357 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104842 411 222 touchmove 357 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104859 411 222 touchmove 357 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104876 411 222 touchmove 357 207 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104893 411 222 touchmove 357 207 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104910 411 222 touchmove 358 207 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435104924 411 222 touchend 358 207 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105027 411 222 touchmove 352 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105045 411 222 touchmove 351 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105062 411 222 touchmove 352 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105079 411 222 touchmove 351 209 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105096 411 222 touchmove 352 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105105 411 222 touchend 352 208 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105229 411 222 touchmove 210 206 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105249 411 222 touchmove 210 206 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105263 411 222 touchmove 210 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105282 411 222 touchmove 210 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105298 411 222 touchmove 210 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105347 411 222 touchend 210 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105516 411 222 touchmove 215 209 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105533 411 222 touchmove 214 210 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105551 411 222 touchmove 215 210 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105568 411 222 touchmove 215 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105582 411 222 touchend 215 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105702 411 222 touchmove 236 208 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105753 411 222 touchmove 235 208 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105770 411 222 touchmove 236 208 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105779 411 222 touchend 236 208 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105888 411 222 touchmove 245 210 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105907 411 222 touchmove 246 209 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105922 411 222 touchmove 246 208 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105938 411 222 touchmove 247 208 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105956 411 222 touchmove 247 208 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435105969 411 222 touchend 247 208 0.38067701458931 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106091 411 222 touchmove 242 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106108 411 222 touchmove 242 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106125 411 222 touchmove 242 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106144 411 222 touchmove 242 210 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106159 411 222 touchmove 242 209 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106177 411 222 touchend 242 209 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106311 411 222 touchmove 241 205 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106327 411 222 touchmove 242 204 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106349 411 222 touchmove 242 204 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106362 411 222 touchmove 242 204 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106378 411 222 touchmove 242 204 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106385 411 222 touchend 242 204 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106513 411 222 touchmove 225 196 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106530 411 222 touchmove 224 195 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106567 411 222 touchmove 223 194 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106582 411 222 touchmove 222 192 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106598 411 222 touchmove 222 190 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106602 411 222 touchend 222 190 0.57101553678513 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106684 411 222 touchstart 200 161 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106716 411 222 touchmove 199 160 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106735 411 222 touchmove 198 159 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106750 411 222 touchmove 198 158 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106767 411 222 touchmove 197 156 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106784 411 222 touchmove 196 152 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106801 411 222 touchmove 194 145 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106819 411 222 touchmove 194 140 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106836 411 222 touchmove 194 133 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106852 411 222 touchmove 194 129 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106869 411 222 touchmove 194 127 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106885 411 222 touchmove 194 125 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106902 411 222 touchmove 193 123 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106920 411 222 touchmove 193 122 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106936 411 222 touchmove 192 122 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106954 411 222 touchmove 191 120 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106971 411 222 touchmove 190 118 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106988 411 222 touchmove 190 117 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435106993 411 222 touchend 190 117 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107839 411 222 touchstart 264 126 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107847 411 222 touchmove 263 125 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107865 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107932 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107949 411 222 touchmove 264 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107966 411 222 touchmove 265 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107983 411 222 touchmove 265 124 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107991 411 222 touchend 265 124 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107839 411 222 touchstart 264 126 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107847 411 222 touchmove 263 125 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107865 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107932 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107949 411 222 touchmove 264 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107966 411 222 touchmove 265 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107983 411 222 touchmove 265 124 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435107991 411 222 touchend 265 124 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108002 411 222 touchstart 161 113 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108005 411 222 touchmove 162 113 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108084 411 222 touchmove 161 111 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108097 411 222 touchend 161 111 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107839 411 222 touchstart 264 126 0.95169258117676 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107847 411 222 touchmove 263 125 0.95169258117676 1.1420310735703 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107865 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107932 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107949 411 222 touchmove 264 125 0.95169258117676 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107966 411 222 touchmove 265 125 0.95169258117676 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107983 411 222 touchmove 265 124 0.76135402917862 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435107991 411 222 touchend 265 124 0.76135402917862 0.95169258117676 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435108002 411 222 touchstart 161 113 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108005 411 222 touchmove 162 113 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108084 411 222 touchmove 161 111 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108097 411 222 touchend 161 111 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108163 411 222 touchstart 296 138 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108185 411 222 touchmove 296 139 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108204 411 222 touchmove 295 140 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108209 411 222 touchstart 153 86 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108219 411 222 touchmove 295 140 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108236 411 222 touchmove 295 140 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108253 411 222 touchmove 295 141 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108270 411 222 touchmove 296 141 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108278 411 222 touchend 151 81 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435107839 411 222 touchstart 264 126 0.95169258117676 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107847 411 222 touchmove 263 125 0.95169258117676 1.1420310735703 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107865 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107932 411 222 touchmove 263 125 0.95169258117676 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107949 411 222 touchmove 264 125 0.95169258117676 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107966 411 222 touchmove 265 125 0.95169258117676 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107983 411 222 touchmove 265 124 0.76135402917862 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435107991 411 222 touchend 265 124 0.76135402917862 0.95169258117676 0 likely 1 1 1 1
+that_would_likely_be_an_expensive_option 1581435108002 411 222 touchstart 161 113 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435108005 411 222 touchmove 162 113 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435108084 411 222 touchmove 161 111 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435108097 411 222 touchend 161 111 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435108163 411 222 touchstart 296 138 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108185 411 222 touchmove 296 139 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108204 411 222 touchmove 295 140 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108209 411 222 touchstart 153 86 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108219 411 222 touchmove 295 140 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108236 411 222 touchmove 295 140 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108253 411 222 touchmove 295 141 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108270 411 222 touchmove 296 141 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108278 411 222 touchend 151 81 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108295 411 222 touchend 296 141 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108415 411 222 touchmove 146 71 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108424 411 222 touchmove 146 71 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108439 411 222 touchmove 145 70 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108450 411 222 touchend 145 70 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108415 411 222 touchmove 146 71 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108424 411 222 touchmove 146 71 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108439 411 222 touchmove 145 70 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108450 411 222 touchend 145 70 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108474 411 222 touchmove 295 149 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108486 411 222 touchend 295 149 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108624 411 222 touchmove 147 69 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108641 411 222 touchmove 147 68 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108649 411 222 touchend 147 68 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108624 411 222 touchmove 147 69 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108641 411 222 touchmove 147 68 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108649 411 222 touchend 147 68 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108676 411 222 touchmove 291 149 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108693 411 222 touchmove 291 149 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108698 411 222 touchend 291 149 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108810 411 222 touchmove 161 109 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108827 411 222 touchmove 161 110 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108844 411 222 touchmove 161 109 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108858 411 222 touchend 161 109 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108810 411 222 touchmove 161 109 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108827 411 222 touchmove 161 110 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108844 411 222 touchmove 161 109 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108858 411 222 touchend 161 109 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435108884 411 222 touchmove 296 137 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435108902 411 222 touchend 296 137 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109013 411 222 touchmove 298 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109024 411 222 touchmove 298 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109026 411 222 touchstart 194 142 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109034 411 222 touchmove 298 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109080 411 222 touchmove 299 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109085 411 222 touchend 299 125 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109013 411 222 touchmove 298 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109024 411 222 touchmove 298 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109026 411 222 touchstart 194 142 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109034 411 222 touchmove 298 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109080 411 222 touchmove 299 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109085 411 222 touchend 299 125 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109098 411 222 touchmove 195 142 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109115 411 222 touchmove 196 142 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109122 411 222 touchend 196 142 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109221 411 222 touchstart 316 101 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109232 411 222 touchmove 316 101 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109251 411 222 touchmove 316 100 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109260 411 222 touchmove 315 100 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109262 411 222 touchstart 207 180 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109283 411 222 touchmove 316 99 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109292 411 222 touchend 316 99 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109221 411 222 touchstart 316 101 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109232 411 222 touchmove 316 101 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109251 411 222 touchmove 316 100 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109260 411 222 touchmove 315 100 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109262 411 222 touchstart 207 180 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109283 411 222 touchmove 316 99 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109292 411 222 touchend 316 99 0.95169258117676 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435109351 411 222 touchmove 207 180 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109366 411 222 touchend 207 180 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109452 411 222 touchmove 318 91 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109502 411 222 touchmove 319 91 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109520 411 222 touchmove 320 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109536 411 222 touchend 320 90 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109690 411 222 touchmove 322 85 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109707 411 222 touchmove 322 85 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109724 411 222 touchmove 323 85 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435109734 411 222 touchend 323 85 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111000 411 222 touchstart 97 40 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111023 411 222 touchmove 99 40 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111040 411 222 touchmove 100 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111057 411 222 touchmove 101 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111074 411 222 touchmove 101 39 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111125 411 222 touchmove 102 40 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111142 411 222 touchmove 103 42 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111157 411 222 touchend 103 42 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111000 411 222 touchstart 97 40 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111023 411 222 touchmove 99 40 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111040 411 222 touchmove 100 39 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111057 411 222 touchmove 101 39 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111074 411 222 touchmove 101 39 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111125 411 222 touchmove 102 40 0.95169258117676 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111142 411 222 touchmove 103 42 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111157 411 222 touchend 103 42 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435111358 411 222 touchstart 139 159 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111378 411 222 touchmove 139 160 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111398 411 222 touchmove 139 161 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111462 411 222 touchmove 139 160 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111476 411 222 touchstart 389 30 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111482 411 222 touchmove 387 30 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111491 411 222 touchend 139 160 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111533 411 222 touchmove 387 30 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111547 411 222 touchmove 386 30 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111631 411 222 touchmove 387 31 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111636 411 222 touchend 387 31 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111868 411 222 touchmove 98 35 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435111878 411 222 touchend 98 35 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112710 411 222 touchstart 177 156 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112730 411 222 touchmove 185 147 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112747 411 222 touchmove 204 125 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112764 411 222 touchmove 226 105 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112782 411 222 touchmove 251 86 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112798 411 222 touchmove 263 76 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112815 411 222 touchmove 289 61 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112833 411 222 touchmove 314 46 1.1420310735703 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112848 411 222 touchmove 338 33 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112866 411 222 touchmove 360 23 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112882 411 222 touchmove 377 17 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112900 411 222 touchmove 383 16 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112916 411 222 touchmove 385 16 0.57101553678513 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112933 411 222 touchmove 389 15 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112951 411 222 touchmove 393 14 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112972 411 222 touchmove 394 14 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435112976 411 222 touchend 394 14 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114009 411 222 touchstart 390 35 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114028 411 222 touchmove 388 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114030 411 222 touchstart 102 32 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114047 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114064 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114081 411 222 touchmove 103 33 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114107 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114125 411 222 touchmove 386 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114384 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114404 411 222 touchmove 386 36 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114418 411 222 touchmove 387 35 0.57101553678513 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114435 411 222 touchmove 387 35 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114452 411 222 touchmove 387 35 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114458 411 222 touchend 387 35 0.38067701458931 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114009 411 222 touchstart 390 35 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114028 411 222 touchmove 388 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114030 411 222 touchstart 102 32 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114047 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114064 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114081 411 222 touchmove 103 33 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114107 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114125 411 222 touchmove 386 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114384 411 222 touchmove 387 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114404 411 222 touchmove 386 36 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114418 411 222 touchmove 387 35 0.57101553678513 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114435 411 222 touchmove 387 35 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114452 411 222 touchmove 387 35 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114458 411 222 touchend 387 35 0.38067701458931 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114469 411 222 touchend 103 33 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114908 411 222 touchmove 97 91 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114925 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114942 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114959 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114976 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115110 411 222 touchmove 97 91 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115128 411 222 touchmove 98 91 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115189 411 222 touchend 363 84 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435114908 411 222 touchmove 97 91 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114925 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114942 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114959 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435114976 411 222 touchmove 363 84 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115110 411 222 touchmove 97 91 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115128 411 222 touchmove 98 91 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115189 411 222 touchend 363 84 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115212 411 222 touchmove 98 91 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115230 411 222 touchmove 98 91 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115242 411 222 touchend 98 91 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115601 411 222 touchmove 117 163 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115617 411 222 touchmove 118 162 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115634 411 222 touchmove 118 160 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115651 411 222 touchmove 118 159 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115668 411 222 touchmove 118 159 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115685 411 222 touchmove 118 158 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115803 411 222 touchmove 118 158 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115820 411 222 touchmove 119 157 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115837 411 222 touchmove 120 156 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115841 411 222 touchend 120 156 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115601 411 222 touchmove 117 163 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115617 411 222 touchmove 118 162 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115634 411 222 touchmove 118 160 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115651 411 222 touchmove 118 159 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115668 411 222 touchmove 118 159 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115685 411 222 touchmove 118 158 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115803 411 222 touchmove 118 158 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115820 411 222 touchmove 119 157 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115837 411 222 touchmove 120 156 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115841 411 222 touchend 120 156 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435115871 411 222 touchmove 342 143 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435115893 411 222 touchend 342 143 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116225 411 222 touchmove 307 171 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116320 411 222 touchmove 306 171 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116329 411 222 touchmove 306 171 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116347 411 222 touchend 306 171 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116225 411 222 touchmove 307 171 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116320 411 222 touchmove 306 171 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116329 411 222 touchmove 306 171 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116347 411 222 touchend 306 171 0 0 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116355 411 222 touchmove 187 181 0.76135402917862 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116378 411 222 touchmove 181 157 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116390 411 222 touchend 181 157 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116225 411 222 touchmove 307 171 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435116320 411 222 touchmove 306 171 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435116329 411 222 touchmove 306 171 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435116347 411 222 touchend 306 171 0 0 0 likely 1 1 1
+that_would_likely_be_an_expensive_option 1581435116355 411 222 touchmove 187 181 0.76135402917862 1.1420310735703 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116378 411 222 touchmove 181 157 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116390 411 222 touchend 181 157 0.76135402917862 0.95169258117676 0 likely 1 1
+that_would_likely_be_an_expensive_option 1581435116537 411 222 touchstart 132 42 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116546 411 222 touchmove 132 42 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116563 411 222 touchmove 134 42 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116581 411 222 touchmove 134 42 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116598 411 222 touchmove 134 41 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116614 411 222 touchmove 135 41 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116631 411 222 touchmove 135 41 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116654 411 222 touchmove 134 41 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116665 411 222 touchmove 134 39 0.76135402917862 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116680 411 222 touchend 134 39 0.76135402917862 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116750 411 222 touchmove 268 209 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116756 411 222 touchend 268 209 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116761 411 222 touchstart 117 18 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116801 411 222 touchmove 117 18 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116817 411 222 touchmove 117 18 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116834 411 222 touchmove 117 18 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116846 411 222 touchmove 117 17 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116860 411 222 touchmove 268 191 0 0 0 likely 1
+that_would_likely_be_an_expensive_option 1581435116862 411 222 touchend 117 17 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435117222 411 222 touchmove 62 205 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435117239 411 222 touchmove 62 206 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435117255 411 222 touchend 62 206 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435117442 411 222 touchmove 56 206 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435117459 411 222 touchmove 56 206 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435117517 411 222 touchend 56 206 0.38067701458931 0.76135402917862 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120228 411 222 touchmove 175 168 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120248 411 222 touchmove 165 135 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120263 411 222 touchmove 157 106 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120279 411 222 touchmove 153 76 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120296 411 222 touchmove 146 46 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120313 411 222 touchmove 144 30 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435120318 411 222 touchend 144 30 0.76135402917862 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435121185 411 222 touchstart 178 146 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435121207 411 222 touchmove 168 113 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435121225 411 222 touchmove 150 70 0.95169258117676 0.95169258117676 0 likely 1
+that_would_likely_be_an_expensive_option 1581435121242 411 222 touchmove 130 25 0.95169258117676 1.1420310735703 0 likely 1
+that_would_likely_be_an_expensive_option 1581435121254 411 222 touchend 130 25 0.95169258117676 1.1420310735703 0 likely 1

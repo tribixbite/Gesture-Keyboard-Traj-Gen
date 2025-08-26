@@ -1,0 +1,42 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+mineral_adobe_safari_de 1580739143589 360 207 touchstart 287 131 0 0 0 mineral 0
+mineral_adobe_safari_de 1580739143647 360 207 touchend 287 131 0 0 0 mineral 0
+mineral_adobe_safari_de 1580739144080 360 207 touchstart 280 21 0 0 0 adobe 1
+mineral_adobe_safari_de 1580739144176 360 207 touchend 280 21 0 0 0 adobe 1
+mineral_adobe_safari_de 1580739145632 360 207 touchstart 41 79 0 0 0 adobe 1
+mineral_adobe_safari_de 1580739145708 360 207 touchend 41 79 0 0 0 adobe 1
+mineral_adobe_safari_de 1580739146760 360 207 touchstart 120 88 0 0 0 adobe 0
+mineral_adobe_safari_de 1580739146832 360 207 touchend 120 88 0 0 0 adobe 0
+mineral_adobe_safari_de 1580739149092 360 207 touchstart 86 78 0 0 0 safari 1
+mineral_adobe_safari_de 1580739149175 360 207 touchend 86 78 0 0 0 safari 1
+mineral_adobe_safari_de 1580739151200 360 207 touchstart 128 85 0 0 0 safari 1
+mineral_adobe_safari_de 1580739151292 360 207 touchend 128 85 0 0 0 safari 1
+mineral_adobe_safari_de 1580739151200 360 207 touchstart 128 85 0 0 0 safari 1 1
+mineral_adobe_safari_de 1580739151292 360 207 touchend 128 85 0 0 0 safari 1 1
+mineral_adobe_safari_de 1580739151430 360 207 touchstart 98 18 0 0 0 safari 1
+mineral_adobe_safari_de 1580739151516 360 207 touchend 98 18 0 0 0 safari 1
+mineral_adobe_safari_de 1580739152767 360 207 touchstart 115 76 0 0 0 safari 1
+mineral_adobe_safari_de 1580739152835 360 207 touchend 115 76 0 0 0 safari 1
+mineral_adobe_safari_de 1580739152767 360 207 touchstart 115 76 0 0 0 safari 1 1
+mineral_adobe_safari_de 1580739152835 360 207 touchend 115 76 0 0 0 safari 1 1
+mineral_adobe_safari_de 1580739152967 360 207 touchstart 110 24 0 0 0 safari 1
+mineral_adobe_safari_de 1580739153051 360 207 touchend 110 24 0 0 0 safari 1
+mineral_adobe_safari_de 1580739155486 360 207 touchstart 76 83 0 0 0 safari 1
+mineral_adobe_safari_de 1580739155560 360 207 touchend 76 83 0 0 0 safari 1
+mineral_adobe_safari_de 1580739155984 360 207 touchstart 88 91 0 0 0 safari 1
+mineral_adobe_safari_de 1580739156066 360 207 touchend 88 91 0 0 0 safari 1
+mineral_adobe_safari_de 1580739159602 360 207 touchstart 235 130 0 0 0 safari 1
+mineral_adobe_safari_de 1580739159752 360 207 touchend 235 130 0 0 0 safari 1
+mineral_adobe_safari_de 1580739160553 360 207 touchstart 36 98 0 0 0 safari 1
+mineral_adobe_safari_de 1580739160769 360 207 touchend 36 98 0 0 0 safari 1
+mineral_adobe_safari_de 1580739160553 360 207 touchstart 36 98 0 0 0 safari 1 1
+mineral_adobe_safari_de 1580739160769 360 207 touchend 36 98 0 0 0 safari 1 1
+mineral_adobe_safari_de 1580739160966 360 207 touchstart 233 131 0 0 0 safari 1
+mineral_adobe_safari_de 1580739161099 360 207 touchend 233 131 0 0 0 safari 1
+mineral_adobe_safari_de 1580739161203 360 207 touchstart 234 116 0 0 0 safari 1
+mineral_adobe_safari_de 1580739161321 360 207 touchend 234 116 0 0 0 safari 1
+mineral_adobe_safari_de 1580739161448 360 207 touchstart 247 40 0 0 0 safari 1
+mineral_adobe_safari_de 1580739161606 360 207 touchend 247 40 0 0 0 safari 1
+mineral_adobe_safari_de 1580739162027 360 207 touchmove 11 42 0 0 0 safari 1
+mineral_adobe_safari_de 1580739162044 360 207 touchmove 6 39 0 0 0 safari 1
+mineral_adobe_safari_de 1580739162255 360 207 touchend 6 39 0 0 0 safari 1

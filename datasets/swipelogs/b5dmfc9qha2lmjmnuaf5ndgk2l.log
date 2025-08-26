@@ -1,0 +1,1121 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+im_going_to_class 1582106632654 360 216 touchstart 263 47 2 2 0 im 1
+im_going_to_class 1582106632692 360 216 touchmove 262 46 1.75 1.75 0 im 1
+im_going_to_class 1582106632707 360 216 touchmove 258 44 1.5 1.5 0 im 1
+im_going_to_class 1582106632724 360 216 touchmove 249 40 1.75 1.75 0 im 1
+im_going_to_class 1582106632742 360 216 touchmove 237 40 1.25 1.25 0 im 1
+im_going_to_class 1582106632757 360 216 touchmove 221 44 1 1 0 im 1
+im_going_to_class 1582106632774 360 216 touchmove 203 57 2 2 0 im 1
+im_going_to_class 1582106632792 360 216 touchmove 188 73 2.25 2.25 0 im 1
+im_going_to_class 1582106632808 360 216 touchmove 178 89 1.25 1.25 0 im 1
+im_going_to_class 1582106632825 360 216 touchmove 173 101 2 2 0 im 1
+im_going_to_class 1582106632841 360 216 touchmove 172 111 1.5 1.5 0 im 1
+im_going_to_class 1582106632857 360 216 touchmove 173 119 1.25 1.25 0 im 1
+im_going_to_class 1582106632874 360 216 touchmove 176 127 1.5 1.5 0 im 1
+im_going_to_class 1582106632891 360 216 touchmove 183 131 1.75 1.75 0 im 1
+im_going_to_class 1582106632908 360 216 touchmove 191 131 1.25 1.25 0 im 1
+im_going_to_class 1582106632924 360 216 touchmove 202 127 2 2 0 im 1
+im_going_to_class 1582106632943 360 216 touchmove 212 124 1 1 0 im 1
+im_going_to_class 1582106632957 360 216 touchmove 220 121 2.25 2.25 0 im 1
+im_going_to_class 1582106632975 360 216 touchmove 226 120 1 1 0 im 1
+im_going_to_class 1582106632990 360 216 touchmove 230 119 1.75 1.75 0 im 1
+im_going_to_class 1582106633007 360 216 touchmove 232 119 1 1 0 im 1
+im_going_to_class 1582106633024 360 216 touchmove 232 120 1.5 1.5 0 im 1
+im_going_to_class 1582106633040 360 216 touchmove 230 123 1.5 1.5 0 im 1
+im_going_to_class 1582106633057 360 216 touchmove 221 130 1.25 1.25 0 im 1
+im_going_to_class 1582106633074 360 216 touchmove 207 140 1.25 1.25 0 im 1
+im_going_to_class 1582106633090 360 216 touchmove 191 150 1 1 0 im 1
+im_going_to_class 1582106633107 360 216 touchmove 175 159 0.5 0.5 0 im 1
+im_going_to_class 1582106633124 360 216 touchmove 160 165 1 1 0 im 1
+im_going_to_class 1582106633140 360 216 touchmove 146 171 1.25 1.25 0 im 1
+im_going_to_class 1582106633157 360 216 touchmove 132 177 1.75 1.75 0 im 1
+im_going_to_class 1582106633163 360 216 touchend 132 177 1.75 1.75 0 im 1
+im_going_to_class 1582106634762 360 216 touchstart 190 46 2.25 2.25 0 im 1
+im_going_to_class 1582106634823 360 216 touchmove 190 48 2.75 2.75 0 im 1
+im_going_to_class 1582106634839 360 216 touchmove 189 56 2 2 0 im 1
+im_going_to_class 1582106634855 360 216 touchmove 186 74 1 1 0 im 1
+im_going_to_class 1582106634873 360 216 touchmove 183 98 1 1 0 im 1
+im_going_to_class 1582106634892 360 216 touchmove 180 117 2.5 2.5 0 im 1
+im_going_to_class 1582106634907 360 216 touchmove 178 130 1.5 1.5 0 im 1
+im_going_to_class 1582106634924 360 216 touchmove 177 140 1.25 1.25 0 im 1
+im_going_to_class 1582106634939 360 216 touchmove 177 148 1 1 0 im 1
+im_going_to_class 1582106634955 360 216 touchmove 177 155 1.5 1.5 0 im 1
+im_going_to_class 1582106634973 360 216 touchmove 177 160 1.25 1.25 0 im 1
+im_going_to_class 1582106634988 360 216 touchmove 177 163 2 2 0 im 1
+im_going_to_class 1582106635007 360 216 touchmove 177 164 1.25 1.25 0 im 1
+im_going_to_class 1582106635022 360 216 touchmove 177 165 1.5 1.5 0 im 1
+im_going_to_class 1582106635040 360 216 touchmove 178 165 1.5 1.5 0 im 1
+im_going_to_class 1582106635060 360 216 touchmove 180 161 1.25 1.25 0 im 1
+im_going_to_class 1582106635074 360 216 touchmove 185 150 1 1 0 im 1
+im_going_to_class 1582106635089 360 216 touchmove 194 131 2.25 2.25 0 im 1
+im_going_to_class 1582106635106 360 216 touchmove 203 109 1.25 1.25 0 im 1
+im_going_to_class 1582106635122 360 216 touchmove 210 90 1 1 0 im 1
+im_going_to_class 1582106635139 360 216 touchmove 216 74 0.75 0.75 0 im 1
+im_going_to_class 1582106635155 360 216 touchmove 221 61 1.25 1.25 0 im 1
+im_going_to_class 1582106635173 360 216 touchmove 225 53 2.75 2.75 0 im 1
+im_going_to_class 1582106635195 360 216 touchmove 228 47 2 2 0 im 1
+im_going_to_class 1582106635217 360 216 touchmove 229 46 2 2 0 im 1
+im_going_to_class 1582106635238 360 216 touchmove 234 47 2.25 2.25 0 im 1
+im_going_to_class 1582106635255 360 216 touchmove 237 55 1.25 1.25 0 im 1
+im_going_to_class 1582106635271 360 216 touchmove 239 69 1.5 1.5 0 im 1
+im_going_to_class 1582106635288 360 216 touchmove 238 89 1.25 1.25 0 im 1
+im_going_to_class 1582106635305 360 216 touchmove 236 109 0.75 0.75 0 im 1
+im_going_to_class 1582106635323 360 216 touchmove 234 121 2 2 0 im 1
+im_going_to_class 1582106635338 360 216 touchmove 233 126 2 2 0 im 1
+im_going_to_class 1582106635356 360 216 touchmove 233 128 2.25 2.25 0 im 1
+im_going_to_class 1582106635372 360 216 touchmove 234 126 2 2 0 im 1
+im_going_to_class 1582106635388 360 216 touchmove 235 118 0.5 0.5 0 im 1
+im_going_to_class 1582106635405 360 216 touchmove 238 108 2.25 2.25 0 im 1
+im_going_to_class 1582106635422 360 216 touchmove 241 100 1.25 1.25 0 im 1
+im_going_to_class 1582106635439 360 216 touchmove 244 95 1.75 1.75 0 im 1
+im_going_to_class 1582106635456 360 216 touchmove 247 92 1.75 1.75 0 im 1
+im_going_to_class 1582106635471 360 216 touchmove 250 91 1.25 1.25 0 im 1
+im_going_to_class 1582106635490 360 216 touchmove 255 92 1.25 1.25 0 im 1
+im_going_to_class 1582106635506 360 216 touchmove 261 94 0.75 0.75 0 im 1
+im_going_to_class 1582106635523 360 216 touchmove 266 98 1.75 1.75 0 im 1
+im_going_to_class 1582106635538 360 216 touchmove 269 101 2 2 0 im 1
+im_going_to_class 1582106635555 360 216 touchmove 270 102 1.5 1.5 0 im 1
+im_going_to_class 1582106635572 360 216 touchmove 271 101 1.5 1.5 0 im 1
+im_going_to_class 1582106635588 360 216 touchmove 272 98 1 1 0 im 1
+im_going_to_class 1582106635605 360 216 touchmove 273 94 1.5 1.5 0 im 1
+im_going_to_class 1582106635621 360 216 touchmove 274 92 2.25 2.25 0 im 1
+im_going_to_class 1582106635638 360 216 touchmove 274 91 2 2 0 im 1
+im_going_to_class 1582106635654 360 216 touchmove 274 90 1.75 1.75 0 im 1
+im_going_to_class 1582106635671 360 216 touchmove 274 90 2 2 0 im 1
+im_going_to_class 1582106635688 360 216 touchmove 276 92 1.5 1.5 0 im 1
+im_going_to_class 1582106635705 360 216 touchmove 279 100 1.75 1.75 0 im 1
+im_going_to_class 1582106635721 360 216 touchmove 283 111 1.75 1.75 0 im 1
+im_going_to_class 1582106635739 360 216 touchmove 286 122 1.75 1.75 0 im 1
+im_going_to_class 1582106635755 360 216 touchmove 289 133 1.5 1.5 0 im 1
+im_going_to_class 1582106635761 360 216 touchend 289 133 1.5 1.5 0 im 1
+im_going_to_class 1582106637428 360 216 touchstart 201 31 1.25 1.25 0 im 1
+im_going_to_class 1582106637461 360 216 touchmove 201 32 1.5 1.5 0 im 1
+im_going_to_class 1582106637489 360 216 touchmove 200 39 1.75 1.75 0 im 1
+im_going_to_class 1582106637505 360 216 touchmove 198 53 1.25 1.25 0 im 1
+im_going_to_class 1582106637526 360 216 touchmove 198 71 1.75 1.75 0 im 1
+im_going_to_class 1582106637538 360 216 touchmove 200 85 2 2 0 im 1
+im_going_to_class 1582106637554 360 216 touchmove 203 91 1.75 1.75 0 im 1
+im_going_to_class 1582106637570 360 216 touchmove 206 92 1.75 1.75 0 im 1
+im_going_to_class 1582106637587 360 216 touchmove 212 90 1.25 1.25 0 im 1
+im_going_to_class 1582106637604 360 216 touchmove 218 82 2.25 2.25 0 im 1
+im_going_to_class 1582106637620 360 216 touchmove 222 72 1.75 1.75 0 im 1
+im_going_to_class 1582106637636 360 216 touchmove 224 60 2 2 0 im 1
+im_going_to_class 1582106637653 360 216 touchmove 224 48 2.5 2.5 0 im 1
+im_going_to_class 1582106637669 360 216 touchmove 223 37 2 2 0 im 1
+im_going_to_class 1582106637687 360 216 touchmove 221 29 0.75 0.75 0 im 1
+im_going_to_class 1582106637704 360 216 touchmove 219 25 1.75 1.75 0 im 1
+im_going_to_class 1582106637720 360 216 touchmove 218 23 2.25 2.25 0 im 1
+im_going_to_class 1582106637738 360 216 touchmove 218 22 2 2 0 im 1
+im_going_to_class 1582106637753 360 216 touchmove 217 23 2 2 0 im 1
+im_going_to_class 1582106637770 360 216 touchmove 216 27 1.75 1.75 0 im 1
+im_going_to_class 1582106637788 360 216 touchmove 216 37 1.5 1.5 0 im 1
+im_going_to_class 1582106637803 360 216 touchmove 217 50 1.25 1.25 0 im 1
+im_going_to_class 1582106637820 360 216 touchmove 221 64 0.75 0.75 0 im 1
+im_going_to_class 1582106637836 360 216 touchmove 226 77 1.5 1.5 0 im 1
+im_going_to_class 1582106637854 360 216 touchmove 231 90 1.25 1.25 0 im 1
+im_going_to_class 1582106637870 360 216 touchmove 235 101 1.25 1.25 0 im 1
+im_going_to_class 1582106637886 360 216 touchmove 237 111 1.5 1.5 0 im 1
+im_going_to_class 1582106637903 360 216 touchmove 236 121 1.25 1.25 0 im 1
+im_going_to_class 1582106637920 360 216 touchmove 233 132 2 2 0 im 1
+im_going_to_class 1582106637936 360 216 touchmove 227 142 1.75 1.75 0 im 1
+im_going_to_class 1582106637954 360 216 touchmove 218 150 1.5 1.5 0 im 1
+im_going_to_class 1582106637969 360 216 touchmove 208 156 1.75 1.75 0 im 1
+im_going_to_class 1582106637986 360 216 touchmove 197 158 1 1 0 im 1
+im_going_to_class 1582106638002 360 216 touchmove 189 159 1.5 1.5 0 im 1
+im_going_to_class 1582106638020 360 216 touchmove 182 159 1 1 0 im 1
+im_going_to_class 1582106638036 360 216 touchmove 178 158 2.25 2.25 0 im 1
+im_going_to_class 1582106638053 360 216 touchmove 175 157 1.25 1.25 0 im 1
+im_going_to_class 1582106638070 360 216 touchmove 174 154 1.75 1.75 0 im 1
+im_going_to_class 1582106638086 360 216 touchmove 175 149 0.5 0.5 0 im 1
+im_going_to_class 1582106638102 360 216 touchmove 181 139 0.75 0.75 0 im 1
+im_going_to_class 1582106638119 360 216 touchmove 193 127 2 2 0 im 1
+im_going_to_class 1582106638136 360 216 touchmove 208 115 1.5 1.5 0 im 1
+im_going_to_class 1582106638152 360 216 touchmove 223 105 1.5 1.5 0 im 1
+im_going_to_class 1582106638169 360 216 touchmove 235 98 1.5 1.5 0 im 1
+im_going_to_class 1582106638186 360 216 touchmove 243 94 1.25 1.25 0 im 1
+im_going_to_class 1582106638204 360 216 touchmove 250 90 1 1 0 im 1
+im_going_to_class 1582106638219 360 216 touchmove 257 85 1.25 1.25 0 im 1
+im_going_to_class 1582106638236 360 216 touchmove 262 78 1 1 0 im 1
+im_going_to_class 1582106638253 360 216 touchmove 266 72 1.5 1.5 0 im 1
+im_going_to_class 1582106638270 360 216 touchmove 268 64 1.25 1.25 0 im 1
+im_going_to_class 1582106638286 360 216 touchmove 270 55 2 2 0 im 1
+im_going_to_class 1582106638302 360 216 touchmove 270 48 1.5 1.5 0 im 1
+im_going_to_class 1582106638319 360 216 touchmove 270 42 1.5 1.5 0 im 1
+im_going_to_class 1582106638335 360 216 touchmove 270 38 0.5 0.5 0 im 1
+im_going_to_class 1582106638352 360 216 touchmove 270 36 2.25 2.25 0 im 1
+im_going_to_class 1582106638369 360 216 touchmove 269 35 1.75 1.75 0 im 1
+im_going_to_class 1582106638385 360 216 touchmove 266 36 1.5 1.5 0 im 1
+im_going_to_class 1582106638402 360 216 touchmove 262 43 2 2 0 im 1
+im_going_to_class 1582106638419 360 216 touchmove 258 52 2 2 0 im 1
+im_going_to_class 1582106638436 360 216 touchmove 257 58 1 1 0 im 1
+im_going_to_class 1582106638452 360 216 touchmove 258 62 2.25 2.25 0 im 1
+im_going_to_class 1582106638469 360 216 touchmove 261 64 0.75 0.75 0 im 1
+im_going_to_class 1582106638486 360 216 touchmove 264 63 2.5 2.5 0 im 1
+im_going_to_class 1582106638503 360 216 touchmove 267 61 1.5 1.5 0 im 1
+im_going_to_class 1582106638519 360 216 touchmove 269 58 1.25 1.25 0 im 1
+im_going_to_class 1582106638524 360 216 touchend 269 58 1.25 1.25 0 im 1
+im_going_to_class 1582106639787 360 216 touchstart 179 89 1.75 1.75 0 im 1
+im_going_to_class 1582106639886 360 216 touchmove 180 89 1.75 1.75 0 im 1
+im_going_to_class 1582106639903 360 216 touchmove 180 89 0.5 0.5 0 im 1
+im_going_to_class 1582106639919 360 216 touchmove 188 85 1.5 1.5 0 im 1
+im_going_to_class 1582106639934 360 216 touchmove 202 79 1 1 0 im 1
+im_going_to_class 1582106639951 360 216 touchmove 217 73 2 2 0 im 1
+im_going_to_class 1582106639968 360 216 touchmove 225 70 1 1 0 im 1
+im_going_to_class 1582106639985 360 216 touchmove 232 68 1 1 0 im 1
+im_going_to_class 1582106640001 360 216 touchmove 239 67 2.25 2.25 0 im 1
+im_going_to_class 1582106640018 360 216 touchmove 245 66 2.25 2.25 0 im 1
+im_going_to_class 1582106640036 360 216 touchmove 250 64 1.75 1.75 0 im 1
+im_going_to_class 1582106640051 360 216 touchmove 254 60 1.75 1.75 0 im 1
+im_going_to_class 1582106640068 360 216 touchmove 257 56 1.5 1.5 0 im 1
+im_going_to_class 1582106640113 360 216 touchmove 259 50 1.75 1.75 0 im 1
+im_going_to_class 1582106640134 360 216 touchmove 264 37 2.25 2.25 0 im 1
+im_going_to_class 1582106640152 360 216 touchmove 264 34 1.75 1.75 0 im 1
+im_going_to_class 1582106640168 360 216 touchmove 265 31 2.25 2.25 0 im 1
+im_going_to_class 1582106640185 360 216 touchmove 264 28 2.5 2.5 0 im 1
+im_going_to_class 1582106640201 360 216 touchmove 263 25 1.75 1.75 0 im 1
+im_going_to_class 1582106640217 360 216 touchmove 262 24 1 1 0 im 1
+im_going_to_class 1582106640234 360 216 touchmove 261 25 1 1 0 im 1
+im_going_to_class 1582106640251 360 216 touchmove 258 32 2 2 0 im 1
+im_going_to_class 1582106640267 360 216 touchmove 255 47 2.5 2.5 0 im 1
+im_going_to_class 1582106640286 360 216 touchmove 252 65 1.25 1.25 0 im 1
+im_going_to_class 1582106640301 360 216 touchmove 251 81 1.25 1.25 0 im 1
+im_going_to_class 1582106640305 360 216 touchend 251 81 1.25 1.25 0 im 1
+im_going_to_class 1582106641390 360 216 touchstart 176 91 1.25 1.25 0 im 1
+im_going_to_class 1582106641450 360 216 touchmove 176 90 1.25 1.25 0 im 1
+im_going_to_class 1582106641466 360 216 touchmove 180 89 0.75 0.75 0 im 1
+im_going_to_class 1582106641483 360 216 touchmove 189 88 2.5 2.5 0 im 1
+im_going_to_class 1582106641500 360 216 touchmove 201 86 1.25 1.25 0 im 1
+im_going_to_class 1582106641516 360 216 touchmove 213 84 1.25 1.25 0 im 1
+im_going_to_class 1582106641533 360 216 touchmove 223 82 2 2 0 im 1
+im_going_to_class 1582106641550 360 216 touchmove 233 79 1.5 1.5 0 im 1
+im_going_to_class 1582106641566 360 216 touchmove 243 76 1.75 1.75 0 im 1
+im_going_to_class 1582106641583 360 216 touchmove 251 74 0.75 0.75 0 im 1
+im_going_to_class 1582106641599 360 216 touchmove 258 71 1.75 1.75 0 im 1
+im_going_to_class 1582106641616 360 216 touchmove 263 69 1.25 1.25 0 im 1
+im_going_to_class 1582106641633 360 216 touchmove 267 66 1.75 1.75 0 im 1
+im_going_to_class 1582106641649 360 216 touchmove 270 63 0.5 0.5 0 im 1
+im_going_to_class 1582106641666 360 216 touchmove 273 60 1.5 1.5 0 im 1
+im_going_to_class 1582106641682 360 216 touchmove 276 56 1.25 1.25 0 im 1
+im_going_to_class 1582106641701 360 216 touchmove 279 51 2 2 0 im 1
+im_going_to_class 1582106641716 360 216 touchmove 282 45 1.25 1.25 0 im 1
+im_going_to_class 1582106641733 360 216 touchmove 285 40 2 2 0 im 1
+im_going_to_class 1582106641749 360 216 touchmove 287 35 1.25 1.25 0 im 1
+im_going_to_class 1582106641766 360 216 touchmove 288 30 1.75 1.75 0 im 1
+im_going_to_class 1582106641783 360 216 touchmove 289 26 2.25 2.25 0 im 1
+im_going_to_class 1582106641799 360 216 touchmove 290 23 0.5 0.5 0 im 1
+im_going_to_class 1582106641816 360 216 touchmove 291 21 1.25 1.25 0 im 1
+im_going_to_class 1582106641833 360 216 touchmove 291 18 0.75 0.75 0 im 1
+im_going_to_class 1582106641849 360 216 touchmove 291 15 1 1 0 im 1
+im_going_to_class 1582106641865 360 216 touchmove 292 11 1.5 1.5 0 im 1
+im_going_to_class 1582106641882 360 216 touchmove 292 7 1.75 1.75 0 im 1
+im_going_to_class 1582106641899 360 216 touchmove 292 5 1.25 1.25 0 im 1
+im_going_to_class 1582106641915 360 216 touchmove 292 3 0.75 0.75 0 im 1
+im_going_to_class 1582106641932 360 216 touchmove 292 3 2 2 0 im 1
+im_going_to_class 1582106641949 360 216 touchmove 292 2 1.75 1.75 0 im 1
+im_going_to_class 1582106641969 360 216 touchmove 292 3 2 2 0 im 1
+im_going_to_class 1582106641982 360 216 touchmove 292 3 0.75 0.75 0 im 1
+im_going_to_class 1582106641999 360 216 touchmove 292 5 1.25 1.25 0 im 1
+im_going_to_class 1582106642016 360 216 touchmove 292 7 1.75 1.75 0 im 1
+im_going_to_class 1582106642032 360 216 touchmove 292 10 1.25 1.25 0 im 1
+im_going_to_class 1582106642049 360 216 touchmove 291 13 0.75 0.75 0 im 1
+im_going_to_class 1582106642066 360 216 touchmove 291 16 1.25 1.25 0 im 1
+im_going_to_class 1582106642082 360 216 touchmove 290 20 0.75 0.75 0 im 1
+im_going_to_class 1582106642099 360 216 touchmove 289 24 1.5 1.5 0 im 1
+im_going_to_class 1582106642116 360 216 touchmove 289 28 2.5 2.5 0 im 1
+im_going_to_class 1582106642132 360 216 touchmove 288 32 2 2 0 im 1
+im_going_to_class 1582106642149 360 216 touchmove 287 36 1.5 1.5 0 im 1
+im_going_to_class 1582106642170 360 216 touchmove 286 40 1.25 1.25 0 im 1
+im_going_to_class 1582106642183 360 216 touchmove 285 44 0.75 0.75 0 im 1
+im_going_to_class 1582106642199 360 216 touchmove 284 49 1.5 1.5 0 im 1
+im_going_to_class 1582106642215 360 216 touchmove 283 53 2.25 2.25 0 im 1
+im_going_to_class 1582106642232 360 216 touchmove 282 57 1.75 1.75 0 im 1
+im_going_to_class 1582106642249 360 216 touchmove 281 60 1.25 1.25 0 im 1
+im_going_to_class 1582106642265 360 216 touchmove 280 65 0.75 0.75 0 im 1
+im_going_to_class 1582106642282 360 216 touchmove 279 70 1.75 1.75 0 im 1
+im_going_to_class 1582106642299 360 216 touchmove 278 76 1.75 1.75 0 im 1
+im_going_to_class 1582106642315 360 216 touchmove 276 83 1.75 1.75 0 im 1
+im_going_to_class 1582106642332 360 216 touchmove 274 89 1.5 1.5 0 im 1
+im_going_to_class 1582106642348 360 216 touchmove 272 94 1 1 0 im 1
+im_going_to_class 1582106642367 360 216 touchmove 269 99 1.75 1.75 0 im 1
+im_going_to_class 1582106642382 360 216 touchmove 267 105 1.25 1.25 0 im 1
+im_going_to_class 1582106642398 360 216 touchmove 264 110 1.75 1.75 0 im 1
+im_going_to_class 1582106642415 360 216 touchmove 261 114 0.75 0.75 0 im 1
+im_going_to_class 1582106642432 360 216 touchmove 259 118 2.5 2.5 0 im 1
+im_going_to_class 1582106642450 360 216 touchmove 256 122 1.5 1.5 0 im 1
+im_going_to_class 1582106642465 360 216 touchmove 254 125 2 2 0 im 1
+im_going_to_class 1582106642482 360 216 touchmove 251 129 0.75 0.75 0 im 1
+im_going_to_class 1582106642498 360 216 touchmove 247 132 1.75 1.75 0 im 1
+im_going_to_class 1582106642515 360 216 touchmove 241 135 1 1 0 im 1
+im_going_to_class 1582106642532 360 216 touchmove 234 136 2 2 0 im 1
+im_going_to_class 1582106642548 360 216 touchmove 226 137 1.5 1.5 0 im 1
+im_going_to_class 1582106642566 360 216 touchmove 218 136 2 2 0 im 1
+im_going_to_class 1582106642582 360 216 touchmove 212 135 1.5 1.5 0 im 1
+im_going_to_class 1582106642598 360 216 touchmove 207 133 0.75 0.75 0 im 1
+im_going_to_class 1582106642615 360 216 touchmove 202 129 1 1 0 im 1
+im_going_to_class 1582106642632 360 216 touchmove 197 123 2 2 0 im 1
+im_going_to_class 1582106642649 360 216 touchmove 194 115 1.75 1.75 0 im 1
+im_going_to_class 1582106642665 360 216 touchmove 192 106 1.75 1.75 0 im 1
+im_going_to_class 1582106642682 360 216 touchmove 192 98 1 1 0 im 1
+im_going_to_class 1582106642698 360 216 touchmove 193 89 1.25 1.25 0 im 1
+im_going_to_class 1582106642715 360 216 touchmove 196 79 1 1 0 im 1
+im_going_to_class 1582106642732 360 216 touchmove 200 71 2.25 2.25 0 im 1
+im_going_to_class 1582106642748 360 216 touchmove 205 64 0.5 0.5 0 im 1
+im_going_to_class 1582106642765 360 216 touchmove 212 57 1.75 1.75 0 im 1
+im_going_to_class 1582106642781 360 216 touchmove 219 51 2 2 0 im 1
+im_going_to_class 1582106642798 360 216 touchmove 226 46 1.25 1.25 0 im 1
+im_going_to_class 1582106642815 360 216 touchmove 231 43 1.75 1.75 0 im 1
+im_going_to_class 1582106642832 360 216 touchmove 237 39 1 1 0 im 1
+im_going_to_class 1582106642848 360 216 touchmove 242 36 1.5 1.5 0 im 1
+im_going_to_class 1582106642865 360 216 touchmove 246 34 0.75 0.75 0 im 1
+im_going_to_class 1582106642882 360 216 touchmove 250 31 1.25 1.25 0 im 1
+im_going_to_class 1582106642898 360 216 touchmove 255 29 1.75 1.75 0 im 1
+im_going_to_class 1582106642915 360 216 touchmove 259 26 2 2 0 im 1
+im_going_to_class 1582106642931 360 216 touchmove 262 24 1.25 1.25 0 im 1
+im_going_to_class 1582106642948 360 216 touchmove 265 22 2.5 2.5 0 im 1
+im_going_to_class 1582106642965 360 216 touchmove 267 21 1.5 1.5 0 im 1
+im_going_to_class 1582106642982 360 216 touchmove 268 19 1.5 1.5 0 im 1
+im_going_to_class 1582106642998 360 216 touchmove 269 18 1.5 1.5 0 im 1
+im_going_to_class 1582106643014 360 216 touchmove 270 18 1.5 1.5 0 im 1
+im_going_to_class 1582106643031 360 216 touchmove 271 17 1.5 1.5 0 im 1
+im_going_to_class 1582106643048 360 216 touchmove 271 17 1.5 1.5 0 im 1
+im_going_to_class 1582106643064 360 216 touchmove 272 16 1.5 1.5 0 im 1
+im_going_to_class 1582106643181 360 216 touchmove 272 16 1.5 1.5 0 im 1
+im_going_to_class 1582106643197 360 216 touchmove 272 15 1.25 1.25 0 im 1
+im_going_to_class 1582106643247 360 216 touchmove 271 15 1.25 1.25 0 im 1
+im_going_to_class 1582106643275 360 216 touchmove 271 15 1 1 0 im 1
+im_going_to_class 1582106643283 360 216 touchmove 271 16 1.25 1.25 0 im 1
+im_going_to_class 1582106643299 360 216 touchmove 270 16 1.25 1.25 0 im 1
+im_going_to_class 1582106643315 360 216 touchmove 270 18 1.5 1.5 0 im 1
+im_going_to_class 1582106643333 360 216 touchmove 268 23 1.25 1.25 0 im 1
+im_going_to_class 1582106643349 360 216 touchmove 265 33 0.5 0.5 0 im 1
+im_going_to_class 1582106643366 360 216 touchmove 261 45 1.25 1.25 0 im 1
+im_going_to_class 1582106643384 360 216 touchmove 257 59 1 1 0 im 1
+im_going_to_class 1582106643399 360 216 touchmove 255 71 2.25 2.25 0 im 1
+im_going_to_class 1582106643416 360 216 touchmove 253 81 1.75 1.75 0 im 1
+im_going_to_class 1582106643432 360 216 touchmove 252 90 1.25 1.25 0 im 1
+im_going_to_class 1582106643449 360 216 touchmove 251 96 1.5 1.5 0 im 1
+im_going_to_class 1582106643466 360 216 touchmove 251 103 1.75 1.75 0 im 1
+im_going_to_class 1582106643482 360 216 touchmove 251 108 1.75 1.75 0 im 1
+im_going_to_class 1582106643499 360 216 touchmove 251 113 1.75 1.75 0 im 1
+im_going_to_class 1582106643516 360 216 touchmove 251 117 1.75 1.75 0 im 1
+im_going_to_class 1582106643532 360 216 touchmove 251 122 1.5 1.5 0 im 1
+im_going_to_class 1582106643549 360 216 touchmove 251 126 1.25 1.25 0 im 1
+im_going_to_class 1582106643566 360 216 touchmove 250 130 1 1 0 im 1
+im_going_to_class 1582106643582 360 216 touchmove 249 134 1.5 1.5 0 im 1
+im_going_to_class 1582106643599 360 216 touchmove 249 137 2.25 2.25 0 im 1
+im_going_to_class 1582106643615 360 216 touchmove 249 139 1.75 1.75 0 im 1
+im_going_to_class 1582106643632 360 216 touchmove 249 142 2.25 2.25 0 im 1
+im_going_to_class 1582106643649 360 216 touchmove 249 144 1.75 1.75 0 im 1
+im_going_to_class 1582106643666 360 216 touchmove 249 147 2.5 2.5 0 im 1
+im_going_to_class 1582106643682 360 216 touchmove 249 150 2 2 0 im 1
+im_going_to_class 1582106643699 360 216 touchmove 250 153 2.75 2.75 0 im 1
+im_going_to_class 1582106643716 360 216 touchmove 250 155 2 2 0 im 1
+im_going_to_class 1582106643733 360 216 touchmove 250 157 2.5 2.5 0 im 1
+im_going_to_class 1582106643749 360 216 touchmove 250 159 1.75 1.75 0 im 1
+im_going_to_class 1582106643765 360 216 touchmove 250 160 1 1 0 im 1
+im_going_to_class 1582106643783 360 216 touchmove 250 161 1.25 1.25 0 im 1
+im_going_to_class 1582106643799 360 216 touchmove 251 163 1.75 1.75 0 im 1
+im_going_to_class 1582106643816 360 216 touchmove 251 164 0.75 0.75 0 im 1
+im_going_to_class 1582106643832 360 216 touchmove 252 165 1.25 1.25 0 im 1
+im_going_to_class 1582106643848 360 216 touchmove 252 166 1.75 1.75 0 im 1
+im_going_to_class 1582106643865 360 216 touchmove 253 167 2 2 0 im 1
+im_going_to_class 1582106643882 360 216 touchmove 254 168 1.25 1.25 0 im 1
+im_going_to_class 1582106643899 360 216 touchmove 255 169 1.75 1.75 0 im 1
+im_going_to_class 1582106643916 360 216 touchmove 256 169 1 1 0 im 1
+im_going_to_class 1582106643932 360 216 touchmove 258 169 1.5 1.5 0 im 1
+im_going_to_class 1582106643948 360 216 touchmove 262 168 0.75 0.75 0 im 1
+im_going_to_class 1582106643965 360 216 touchmove 266 166 1.5 1.5 0 im 1
+im_going_to_class 1582106643984 360 216 touchmove 272 164 1 1 0 im 1
+im_going_to_class 1582106643998 360 216 touchmove 277 161 1.5 1.5 0 im 1
+im_going_to_class 1582106644015 360 216 touchmove 281 159 0.75 0.75 0 im 1
+im_going_to_class 1582106644032 360 216 touchmove 286 155 1 1 0 im 1
+im_going_to_class 1582106644049 360 216 touchmove 290 151 2.25 2.25 0 im 1
+im_going_to_class 1582106644065 360 216 touchmove 293 147 2 2 0 im 1
+im_going_to_class 1582106644082 360 216 touchmove 295 143 0.5 0.5 0 im 1
+im_going_to_class 1582106644099 360 216 touchmove 297 140 1.25 1.25 0 im 1
+im_going_to_class 1582106644115 360 216 touchmove 298 136 1.75 1.75 0 im 1
+im_going_to_class 1582106644132 360 216 touchmove 298 132 2 2 0 im 1
+im_going_to_class 1582106644148 360 216 touchmove 298 127 2 2 0 im 1
+im_going_to_class 1582106644165 360 216 touchmove 297 123 1 1 0 im 1
+im_going_to_class 1582106644181 360 216 touchmove 297 119 1 1 0 im 1
+im_going_to_class 1582106644198 360 216 touchmove 296 115 1 1 0 im 1
+im_going_to_class 1582106644215 360 216 touchmove 294 110 1.75 1.75 0 im 1
+im_going_to_class 1582106644231 360 216 touchmove 291 104 0.75 0.75 0 im 1
+im_going_to_class 1582106644249 360 216 touchmove 286 98 1.75 1.75 0 im 1
+im_going_to_class 1582106644265 360 216 touchmove 281 92 1.75 1.75 0 im 1
+im_going_to_class 1582106644282 360 216 touchmove 276 90 1 1 0 im 1
+im_going_to_class 1582106644298 360 216 touchmove 272 88 0.75 0.75 0 im 1
+im_going_to_class 1582106644315 360 216 touchmove 267 88 2 2 0 im 1
+im_going_to_class 1582106644332 360 216 touchmove 262 88 2 2 0 im 1
+im_going_to_class 1582106644348 360 216 touchmove 257 89 1 1 0 im 1
+im_going_to_class 1582106644365 360 216 touchmove 251 90 1 1 0 im 1
+im_going_to_class 1582106644382 360 216 touchmove 244 91 2.25 2.25 0 im 1
+im_going_to_class 1582106644398 360 216 touchmove 238 92 2 2 0 im 1
+im_going_to_class 1582106644415 360 216 touchmove 231 94 0.75 0.75 0 im 1
+im_going_to_class 1582106644431 360 216 touchmove 223 96 2 2 0 im 1
+im_going_to_class 1582106644448 360 216 touchmove 217 99 1 1 0 im 1
+im_going_to_class 1582106644465 360 216 touchmove 212 101 1.5 1.5 0 im 1
+im_going_to_class 1582106644481 360 216 touchmove 207 102 1.75 1.75 0 im 1
+im_going_to_class 1582106644497 360 216 touchmove 202 104 1 1 0 im 1
+im_going_to_class 1582106644514 360 216 touchmove 198 106 1.75 1.75 0 im 1
+im_going_to_class 1582106644530 360 216 touchmove 194 107 2.5 2.5 0 im 1
+im_going_to_class 1582106644548 360 216 touchmove 191 108 0.75 0.75 0 im 1
+im_going_to_class 1582106644564 360 216 touchmove 188 109 1.25 1.25 0 im 1
+im_going_to_class 1582106644580 360 216 touchmove 184 110 1.75 1.75 0 im 1
+im_going_to_class 1582106644597 360 216 touchmove 181 109 0.75 0.75 0 im 1
+im_going_to_class 1582106644614 360 216 touchmove 177 108 2 2 0 im 1
+im_going_to_class 1582106644631 360 216 touchmove 175 105 2 2 0 im 1
+im_going_to_class 1582106644647 360 216 touchmove 173 101 1.75 1.75 0 im 1
+im_going_to_class 1582106644664 360 216 touchmove 173 96 2 2 0 im 1
+im_going_to_class 1582106644681 360 216 touchmove 173 92 2.25 2.25 0 im 1
+im_going_to_class 1582106644697 360 216 touchmove 173 90 1.5 1.5 0 im 1
+im_going_to_class 1582106644713 360 216 touchmove 173 88 1.25 1.25 0 im 1
+im_going_to_class 1582106644730 360 216 touchmove 173 87 2.25 2.25 0 im 1
+im_going_to_class 1582106644747 360 216 touchmove 173 87 2 2 0 im 1
+im_going_to_class 1582106644763 360 216 touchmove 173 86 2 2 0 im 1
+im_going_to_class 1582106644780 360 216 touchmove 173 86 1.75 1.75 0 im 1
+im_going_to_class 1582106644797 360 216 touchmove 174 86 2 2 0 im 1
+im_going_to_class 1582106644814 360 216 touchmove 176 85 1 1 0 im 1
+im_going_to_class 1582106644830 360 216 touchmove 181 85 1 1 0 im 1
+im_going_to_class 1582106644847 360 216 touchmove 189 84 1.75 1.75 0 im 1
+im_going_to_class 1582106644864 360 216 touchmove 198 84 1.25 1.25 0 im 1
+im_going_to_class 1582106644880 360 216 touchmove 209 83 1.25 1.25 0 im 1
+im_going_to_class 1582106644897 360 216 touchmove 218 83 1 1 0 im 1
+im_going_to_class 1582106644913 360 216 touchmove 225 83 0.5 0.5 0 im 1
+im_going_to_class 1582106644930 360 216 touchmove 231 83 0.75 0.75 0 im 1
+im_going_to_class 1582106644947 360 216 touchmove 236 83 1.75 1.75 0 im 1
+im_going_to_class 1582106644963 360 216 touchmove 240 82 1.5 1.5 0 im 1
+im_going_to_class 1582106644980 360 216 touchmove 243 82 2 2 0 im 1
+im_going_to_class 1582106644996 360 216 touchmove 246 81 1.25 1.25 0 im 1
+im_going_to_class 1582106645013 360 216 touchmove 248 81 1.75 1.75 0 im 1
+im_going_to_class 1582106645030 360 216 touchmove 249 80 2 2 0 im 1
+im_going_to_class 1582106645046 360 216 touchmove 251 80 1 1 0 im 1
+im_going_to_class 1582106645063 360 216 touchmove 252 80 1.25 1.25 0 im 1
+im_going_to_class 1582106645080 360 216 touchmove 253 80 1.75 1.75 0 im 1
+im_going_to_class 1582106645096 360 216 touchmove 255 82 2.5 2.5 0 im 1
+im_going_to_class 1582106645114 360 216 touchmove 256 85 1 1 0 im 1
+im_going_to_class 1582106645130 360 216 touchmove 257 90 1.25 1.25 0 im 1
+im_going_to_class 1582106645147 360 216 touchmove 257 97 1.75 1.75 0 im 1
+im_going_to_class 1582106645163 360 216 touchmove 255 107 1.25 1.25 0 im 1
+im_going_to_class 1582106645179 360 216 touchmove 252 116 1.5 1.5 0 im 1
+im_going_to_class 1582106645197 360 216 touchmove 249 123 1.25 1.25 0 im 1
+im_going_to_class 1582106645213 360 216 touchmove 245 130 2 2 0 im 1
+im_going_to_class 1582106645230 360 216 touchmove 240 135 2 2 0 im 1
+im_going_to_class 1582106645246 360 216 touchmove 234 140 1.75 1.75 0 im 1
+im_going_to_class 1582106645263 360 216 touchmove 228 144 1.5 1.5 0 im 1
+im_going_to_class 1582106645279 360 216 touchmove 223 148 2.25 2.25 0 im 1
+im_going_to_class 1582106645296 360 216 touchmove 219 151 2 2 0 im 1
+im_going_to_class 1582106645313 360 216 touchmove 214 153 1.5 1.5 0 im 1
+im_going_to_class 1582106645330 360 216 touchmove 210 155 2 2 0 im 1
+im_going_to_class 1582106645346 360 216 touchmove 206 157 1.5 1.5 0 im 1
+im_going_to_class 1582106645363 360 216 touchmove 204 158 2.5 2.5 0 im 1
+im_going_to_class 1582106645379 360 216 touchmove 202 159 1 1 0 im 1
+im_going_to_class 1582106645396 360 216 touchmove 200 159 0.75 0.75 0 im 1
+im_going_to_class 1582106645412 360 216 touchmove 199 160 1.75 1.75 0 im 1
+im_going_to_class 1582106645431 360 216 touchmove 198 160 1.5 1.5 0 im 1
+im_going_to_class 1582106645446 360 216 touchmove 196 158 1.75 1.75 0 im 1
+im_going_to_class 1582106645463 360 216 touchmove 192 152 1.75 1.75 0 im 1
+im_going_to_class 1582106645479 360 216 touchmove 186 141 1.5 1.5 0 im 1
+im_going_to_class 1582106645496 360 216 touchmove 182 126 1.5 1.5 0 im 1
+im_going_to_class 1582106645513 360 216 touchmove 180 108 0.5 0.5 0 im 1
+im_going_to_class 1582106645529 360 216 touchmove 182 88 1 1 0 im 1
+im_going_to_class 1582106645546 360 216 touchmove 187 66 1.5 1.5 0 im 1
+im_going_to_class 1582106645563 360 216 touchmove 193 47 2.25 2.25 0 im 1
+im_going_to_class 1582106645579 360 216 touchmove 200 34 1.75 1.75 0 im 1
+im_going_to_class 1582106645596 360 216 touchmove 205 25 0.75 0.75 0 im 1
+im_going_to_class 1582106645613 360 216 touchmove 209 18 1.5 1.5 0 im 1
+im_going_to_class 1582106645630 360 216 touchmove 211 14 1 1 0 im 1
+im_going_to_class 1582106645646 360 216 touchmove 210 12 1.5 1.5 0 im 1
+im_going_to_class 1582106645663 360 216 touchmove 208 11 2 2 0 im 1
+im_going_to_class 1582106645680 360 216 touchmove 205 11 1.25 1.25 0 im 1
+im_going_to_class 1582106645685 360 216 touchend 205 11 1.25 1.25 0 im 1
+im_going_to_class 1582106641390 360 216 touchstart 176 91 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641450 360 216 touchmove 176 90 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641466 360 216 touchmove 180 89 0.75 0.75 0 im 1 1
+im_going_to_class 1582106641483 360 216 touchmove 189 88 2.5 2.5 0 im 1 1
+im_going_to_class 1582106641500 360 216 touchmove 201 86 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641516 360 216 touchmove 213 84 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641533 360 216 touchmove 223 82 2 2 0 im 1 1
+im_going_to_class 1582106641550 360 216 touchmove 233 79 1.5 1.5 0 im 1 1
+im_going_to_class 1582106641566 360 216 touchmove 243 76 1.75 1.75 0 im 1 1
+im_going_to_class 1582106641583 360 216 touchmove 251 74 0.75 0.75 0 im 1 1
+im_going_to_class 1582106641599 360 216 touchmove 258 71 1.75 1.75 0 im 1 1
+im_going_to_class 1582106641616 360 216 touchmove 263 69 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641633 360 216 touchmove 267 66 1.75 1.75 0 im 1 1
+im_going_to_class 1582106641649 360 216 touchmove 270 63 0.5 0.5 0 im 1 1
+im_going_to_class 1582106641666 360 216 touchmove 273 60 1.5 1.5 0 im 1 1
+im_going_to_class 1582106641682 360 216 touchmove 276 56 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641701 360 216 touchmove 279 51 2 2 0 im 1 1
+im_going_to_class 1582106641716 360 216 touchmove 282 45 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641733 360 216 touchmove 285 40 2 2 0 im 1 1
+im_going_to_class 1582106641749 360 216 touchmove 287 35 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641766 360 216 touchmove 288 30 1.75 1.75 0 im 1 1
+im_going_to_class 1582106641783 360 216 touchmove 289 26 2.25 2.25 0 im 1 1
+im_going_to_class 1582106641799 360 216 touchmove 290 23 0.5 0.5 0 im 1 1
+im_going_to_class 1582106641816 360 216 touchmove 291 21 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641833 360 216 touchmove 291 18 0.75 0.75 0 im 1 1
+im_going_to_class 1582106641849 360 216 touchmove 291 15 1 1 0 im 1 1
+im_going_to_class 1582106641865 360 216 touchmove 292 11 1.5 1.5 0 im 1 1
+im_going_to_class 1582106641882 360 216 touchmove 292 7 1.75 1.75 0 im 1 1
+im_going_to_class 1582106641899 360 216 touchmove 292 5 1.25 1.25 0 im 1 1
+im_going_to_class 1582106641915 360 216 touchmove 292 3 0.75 0.75 0 im 1 1
+im_going_to_class 1582106641932 360 216 touchmove 292 3 2 2 0 im 1 1
+im_going_to_class 1582106641949 360 216 touchmove 292 2 1.75 1.75 0 im 1 1
+im_going_to_class 1582106641969 360 216 touchmove 292 3 2 2 0 im 1 1
+im_going_to_class 1582106641982 360 216 touchmove 292 3 0.75 0.75 0 im 1 1
+im_going_to_class 1582106641999 360 216 touchmove 292 5 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642016 360 216 touchmove 292 7 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642032 360 216 touchmove 292 10 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642049 360 216 touchmove 291 13 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642066 360 216 touchmove 291 16 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642082 360 216 touchmove 290 20 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642099 360 216 touchmove 289 24 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642116 360 216 touchmove 289 28 2.5 2.5 0 im 1 1
+im_going_to_class 1582106642132 360 216 touchmove 288 32 2 2 0 im 1 1
+im_going_to_class 1582106642149 360 216 touchmove 287 36 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642170 360 216 touchmove 286 40 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642183 360 216 touchmove 285 44 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642199 360 216 touchmove 284 49 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642215 360 216 touchmove 283 53 2.25 2.25 0 im 1 1
+im_going_to_class 1582106642232 360 216 touchmove 282 57 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642249 360 216 touchmove 281 60 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642265 360 216 touchmove 280 65 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642282 360 216 touchmove 279 70 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642299 360 216 touchmove 278 76 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642315 360 216 touchmove 276 83 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642332 360 216 touchmove 274 89 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642348 360 216 touchmove 272 94 1 1 0 im 1 1
+im_going_to_class 1582106642367 360 216 touchmove 269 99 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642382 360 216 touchmove 267 105 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642398 360 216 touchmove 264 110 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642415 360 216 touchmove 261 114 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642432 360 216 touchmove 259 118 2.5 2.5 0 im 1 1
+im_going_to_class 1582106642450 360 216 touchmove 256 122 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642465 360 216 touchmove 254 125 2 2 0 im 1 1
+im_going_to_class 1582106642482 360 216 touchmove 251 129 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642498 360 216 touchmove 247 132 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642515 360 216 touchmove 241 135 1 1 0 im 1 1
+im_going_to_class 1582106642532 360 216 touchmove 234 136 2 2 0 im 1 1
+im_going_to_class 1582106642548 360 216 touchmove 226 137 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642566 360 216 touchmove 218 136 2 2 0 im 1 1
+im_going_to_class 1582106642582 360 216 touchmove 212 135 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642598 360 216 touchmove 207 133 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642615 360 216 touchmove 202 129 1 1 0 im 1 1
+im_going_to_class 1582106642632 360 216 touchmove 197 123 2 2 0 im 1 1
+im_going_to_class 1582106642649 360 216 touchmove 194 115 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642665 360 216 touchmove 192 106 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642682 360 216 touchmove 192 98 1 1 0 im 1 1
+im_going_to_class 1582106642698 360 216 touchmove 193 89 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642715 360 216 touchmove 196 79 1 1 0 im 1 1
+im_going_to_class 1582106642732 360 216 touchmove 200 71 2.25 2.25 0 im 1 1
+im_going_to_class 1582106642748 360 216 touchmove 205 64 0.5 0.5 0 im 1 1
+im_going_to_class 1582106642765 360 216 touchmove 212 57 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642781 360 216 touchmove 219 51 2 2 0 im 1 1
+im_going_to_class 1582106642798 360 216 touchmove 226 46 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642815 360 216 touchmove 231 43 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642832 360 216 touchmove 237 39 1 1 0 im 1 1
+im_going_to_class 1582106642848 360 216 touchmove 242 36 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642865 360 216 touchmove 246 34 0.75 0.75 0 im 1 1
+im_going_to_class 1582106642882 360 216 touchmove 250 31 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642898 360 216 touchmove 255 29 1.75 1.75 0 im 1 1
+im_going_to_class 1582106642915 360 216 touchmove 259 26 2 2 0 im 1 1
+im_going_to_class 1582106642931 360 216 touchmove 262 24 1.25 1.25 0 im 1 1
+im_going_to_class 1582106642948 360 216 touchmove 265 22 2.5 2.5 0 im 1 1
+im_going_to_class 1582106642965 360 216 touchmove 267 21 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642982 360 216 touchmove 268 19 1.5 1.5 0 im 1 1
+im_going_to_class 1582106642998 360 216 touchmove 269 18 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643014 360 216 touchmove 270 18 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643031 360 216 touchmove 271 17 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643048 360 216 touchmove 271 17 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643064 360 216 touchmove 272 16 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643181 360 216 touchmove 272 16 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643197 360 216 touchmove 272 15 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643247 360 216 touchmove 271 15 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643275 360 216 touchmove 271 15 1 1 0 im 1 1
+im_going_to_class 1582106643283 360 216 touchmove 271 16 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643299 360 216 touchmove 270 16 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643315 360 216 touchmove 270 18 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643333 360 216 touchmove 268 23 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643349 360 216 touchmove 265 33 0.5 0.5 0 im 1 1
+im_going_to_class 1582106643366 360 216 touchmove 261 45 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643384 360 216 touchmove 257 59 1 1 0 im 1 1
+im_going_to_class 1582106643399 360 216 touchmove 255 71 2.25 2.25 0 im 1 1
+im_going_to_class 1582106643416 360 216 touchmove 253 81 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643432 360 216 touchmove 252 90 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643449 360 216 touchmove 251 96 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643466 360 216 touchmove 251 103 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643482 360 216 touchmove 251 108 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643499 360 216 touchmove 251 113 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643516 360 216 touchmove 251 117 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643532 360 216 touchmove 251 122 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643549 360 216 touchmove 251 126 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643566 360 216 touchmove 250 130 1 1 0 im 1 1
+im_going_to_class 1582106643582 360 216 touchmove 249 134 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643599 360 216 touchmove 249 137 2.25 2.25 0 im 1 1
+im_going_to_class 1582106643615 360 216 touchmove 249 139 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643632 360 216 touchmove 249 142 2.25 2.25 0 im 1 1
+im_going_to_class 1582106643649 360 216 touchmove 249 144 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643666 360 216 touchmove 249 147 2.5 2.5 0 im 1 1
+im_going_to_class 1582106643682 360 216 touchmove 249 150 2 2 0 im 1 1
+im_going_to_class 1582106643699 360 216 touchmove 250 153 2.75 2.75 0 im 1 1
+im_going_to_class 1582106643716 360 216 touchmove 250 155 2 2 0 im 1 1
+im_going_to_class 1582106643733 360 216 touchmove 250 157 2.5 2.5 0 im 1 1
+im_going_to_class 1582106643749 360 216 touchmove 250 159 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643765 360 216 touchmove 250 160 1 1 0 im 1 1
+im_going_to_class 1582106643783 360 216 touchmove 250 161 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643799 360 216 touchmove 251 163 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643816 360 216 touchmove 251 164 0.75 0.75 0 im 1 1
+im_going_to_class 1582106643832 360 216 touchmove 252 165 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643848 360 216 touchmove 252 166 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643865 360 216 touchmove 253 167 2 2 0 im 1 1
+im_going_to_class 1582106643882 360 216 touchmove 254 168 1.25 1.25 0 im 1 1
+im_going_to_class 1582106643899 360 216 touchmove 255 169 1.75 1.75 0 im 1 1
+im_going_to_class 1582106643916 360 216 touchmove 256 169 1 1 0 im 1 1
+im_going_to_class 1582106643932 360 216 touchmove 258 169 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643948 360 216 touchmove 262 168 0.75 0.75 0 im 1 1
+im_going_to_class 1582106643965 360 216 touchmove 266 166 1.5 1.5 0 im 1 1
+im_going_to_class 1582106643984 360 216 touchmove 272 164 1 1 0 im 1 1
+im_going_to_class 1582106643998 360 216 touchmove 277 161 1.5 1.5 0 im 1 1
+im_going_to_class 1582106644015 360 216 touchmove 281 159 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644032 360 216 touchmove 286 155 1 1 0 im 1 1
+im_going_to_class 1582106644049 360 216 touchmove 290 151 2.25 2.25 0 im 1 1
+im_going_to_class 1582106644065 360 216 touchmove 293 147 2 2 0 im 1 1
+im_going_to_class 1582106644082 360 216 touchmove 295 143 0.5 0.5 0 im 1 1
+im_going_to_class 1582106644099 360 216 touchmove 297 140 1.25 1.25 0 im 1 1
+im_going_to_class 1582106644115 360 216 touchmove 298 136 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644132 360 216 touchmove 298 132 2 2 0 im 1 1
+im_going_to_class 1582106644148 360 216 touchmove 298 127 2 2 0 im 1 1
+im_going_to_class 1582106644165 360 216 touchmove 297 123 1 1 0 im 1 1
+im_going_to_class 1582106644181 360 216 touchmove 297 119 1 1 0 im 1 1
+im_going_to_class 1582106644198 360 216 touchmove 296 115 1 1 0 im 1 1
+im_going_to_class 1582106644215 360 216 touchmove 294 110 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644231 360 216 touchmove 291 104 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644249 360 216 touchmove 286 98 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644265 360 216 touchmove 281 92 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644282 360 216 touchmove 276 90 1 1 0 im 1 1
+im_going_to_class 1582106644298 360 216 touchmove 272 88 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644315 360 216 touchmove 267 88 2 2 0 im 1 1
+im_going_to_class 1582106644332 360 216 touchmove 262 88 2 2 0 im 1 1
+im_going_to_class 1582106644348 360 216 touchmove 257 89 1 1 0 im 1 1
+im_going_to_class 1582106644365 360 216 touchmove 251 90 1 1 0 im 1 1
+im_going_to_class 1582106644382 360 216 touchmove 244 91 2.25 2.25 0 im 1 1
+im_going_to_class 1582106644398 360 216 touchmove 238 92 2 2 0 im 1 1
+im_going_to_class 1582106644415 360 216 touchmove 231 94 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644431 360 216 touchmove 223 96 2 2 0 im 1 1
+im_going_to_class 1582106644448 360 216 touchmove 217 99 1 1 0 im 1 1
+im_going_to_class 1582106644465 360 216 touchmove 212 101 1.5 1.5 0 im 1 1
+im_going_to_class 1582106644481 360 216 touchmove 207 102 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644497 360 216 touchmove 202 104 1 1 0 im 1 1
+im_going_to_class 1582106644514 360 216 touchmove 198 106 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644530 360 216 touchmove 194 107 2.5 2.5 0 im 1 1
+im_going_to_class 1582106644548 360 216 touchmove 191 108 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644564 360 216 touchmove 188 109 1.25 1.25 0 im 1 1
+im_going_to_class 1582106644580 360 216 touchmove 184 110 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644597 360 216 touchmove 181 109 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644614 360 216 touchmove 177 108 2 2 0 im 1 1
+im_going_to_class 1582106644631 360 216 touchmove 175 105 2 2 0 im 1 1
+im_going_to_class 1582106644647 360 216 touchmove 173 101 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644664 360 216 touchmove 173 96 2 2 0 im 1 1
+im_going_to_class 1582106644681 360 216 touchmove 173 92 2.25 2.25 0 im 1 1
+im_going_to_class 1582106644697 360 216 touchmove 173 90 1.5 1.5 0 im 1 1
+im_going_to_class 1582106644713 360 216 touchmove 173 88 1.25 1.25 0 im 1 1
+im_going_to_class 1582106644730 360 216 touchmove 173 87 2.25 2.25 0 im 1 1
+im_going_to_class 1582106644747 360 216 touchmove 173 87 2 2 0 im 1 1
+im_going_to_class 1582106644763 360 216 touchmove 173 86 2 2 0 im 1 1
+im_going_to_class 1582106644780 360 216 touchmove 173 86 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644797 360 216 touchmove 174 86 2 2 0 im 1 1
+im_going_to_class 1582106644814 360 216 touchmove 176 85 1 1 0 im 1 1
+im_going_to_class 1582106644830 360 216 touchmove 181 85 1 1 0 im 1 1
+im_going_to_class 1582106644847 360 216 touchmove 189 84 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644864 360 216 touchmove 198 84 1.25 1.25 0 im 1 1
+im_going_to_class 1582106644880 360 216 touchmove 209 83 1.25 1.25 0 im 1 1
+im_going_to_class 1582106644897 360 216 touchmove 218 83 1 1 0 im 1 1
+im_going_to_class 1582106644913 360 216 touchmove 225 83 0.5 0.5 0 im 1 1
+im_going_to_class 1582106644930 360 216 touchmove 231 83 0.75 0.75 0 im 1 1
+im_going_to_class 1582106644947 360 216 touchmove 236 83 1.75 1.75 0 im 1 1
+im_going_to_class 1582106644963 360 216 touchmove 240 82 1.5 1.5 0 im 1 1
+im_going_to_class 1582106644980 360 216 touchmove 243 82 2 2 0 im 1 1
+im_going_to_class 1582106644996 360 216 touchmove 246 81 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645013 360 216 touchmove 248 81 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645030 360 216 touchmove 249 80 2 2 0 im 1 1
+im_going_to_class 1582106645046 360 216 touchmove 251 80 1 1 0 im 1 1
+im_going_to_class 1582106645063 360 216 touchmove 252 80 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645080 360 216 touchmove 253 80 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645096 360 216 touchmove 255 82 2.5 2.5 0 im 1 1
+im_going_to_class 1582106645114 360 216 touchmove 256 85 1 1 0 im 1 1
+im_going_to_class 1582106645130 360 216 touchmove 257 90 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645147 360 216 touchmove 257 97 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645163 360 216 touchmove 255 107 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645179 360 216 touchmove 252 116 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645197 360 216 touchmove 249 123 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645213 360 216 touchmove 245 130 2 2 0 im 1 1
+im_going_to_class 1582106645230 360 216 touchmove 240 135 2 2 0 im 1 1
+im_going_to_class 1582106645246 360 216 touchmove 234 140 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645263 360 216 touchmove 228 144 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645279 360 216 touchmove 223 148 2.25 2.25 0 im 1 1
+im_going_to_class 1582106645296 360 216 touchmove 219 151 2 2 0 im 1 1
+im_going_to_class 1582106645313 360 216 touchmove 214 153 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645330 360 216 touchmove 210 155 2 2 0 im 1 1
+im_going_to_class 1582106645346 360 216 touchmove 206 157 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645363 360 216 touchmove 204 158 2.5 2.5 0 im 1 1
+im_going_to_class 1582106645379 360 216 touchmove 202 159 1 1 0 im 1 1
+im_going_to_class 1582106645396 360 216 touchmove 200 159 0.75 0.75 0 im 1 1
+im_going_to_class 1582106645412 360 216 touchmove 199 160 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645431 360 216 touchmove 198 160 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645446 360 216 touchmove 196 158 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645463 360 216 touchmove 192 152 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645479 360 216 touchmove 186 141 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645496 360 216 touchmove 182 126 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645513 360 216 touchmove 180 108 0.5 0.5 0 im 1 1
+im_going_to_class 1582106645529 360 216 touchmove 182 88 1 1 0 im 1 1
+im_going_to_class 1582106645546 360 216 touchmove 187 66 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645563 360 216 touchmove 193 47 2.25 2.25 0 im 1 1
+im_going_to_class 1582106645579 360 216 touchmove 200 34 1.75 1.75 0 im 1 1
+im_going_to_class 1582106645596 360 216 touchmove 205 25 0.75 0.75 0 im 1 1
+im_going_to_class 1582106645613 360 216 touchmove 209 18 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645630 360 216 touchmove 211 14 1 1 0 im 1 1
+im_going_to_class 1582106645646 360 216 touchmove 210 12 1.5 1.5 0 im 1 1
+im_going_to_class 1582106645663 360 216 touchmove 208 11 2 2 0 im 1 1
+im_going_to_class 1582106645680 360 216 touchmove 205 11 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645685 360 216 touchend 205 11 1.25 1.25 0 im 1 1
+im_going_to_class 1582106645703 360 216 touchstart 119 93 2.5 2.5 0 im 1
+im_going_to_class 1582106645714 360 216 touchmove 118 94 1.25 1.25 0 im 1
+im_going_to_class 1582106645730 360 216 touchmove 118 95 1.5 1.5 0 im 1
+im_going_to_class 1582106645746 360 216 touchmove 113 102 2 2 0 im 1
+im_going_to_class 1582106645763 360 216 touchmove 103 118 2.25 2.25 0 im 1
+im_going_to_class 1582106645768 360 216 touchend 103 118 2.25 2.25 0 im 1
+im_going_to_class 1582106646384 360 216 touchstart 96 121 1.25 1.25 0 im 1
+im_going_to_class 1582106646413 360 216 touchmove 96 120 1.25 1.25 0 im 1
+im_going_to_class 1582106646428 360 216 touchmove 97 119 1 1 0 im 1
+im_going_to_class 1582106646445 360 216 touchmove 103 108 1.25 1.25 0 im 1
+im_going_to_class 1582106646461 360 216 touchmove 122 83 2 2 0 im 1
+im_going_to_class 1582106646478 360 216 touchmove 148 56 1.75 1.75 0 im 1
+im_going_to_class 1582106646495 360 216 touchmove 171 43 0.5 0.5 0 im 1
+im_going_to_class 1582106646511 360 216 touchmove 189 40 1.75 1.75 0 im 1
+im_going_to_class 1582106646528 360 216 touchmove 210 40 2 2 0 im 1
+im_going_to_class 1582106646544 360 216 touchmove 231 43 0.75 0.75 0 im 1
+im_going_to_class 1582106646561 360 216 touchmove 247 48 1 1 0 im 1
+im_going_to_class 1582106646578 360 216 touchmove 256 54 0.75 0.75 0 im 1
+im_going_to_class 1582106646595 360 216 touchmove 262 59 1 1 0 im 1
+im_going_to_class 1582106646613 360 216 touchmove 266 66 1.25 1.25 0 im 1
+im_going_to_class 1582106646627 360 216 touchmove 266 69 0.75 0.75 0 im 1
+im_going_to_class 1582106646645 360 216 touchmove 267 74 1 1 0 im 1
+im_going_to_class 1582106646661 360 216 touchmove 268 80 1.5 1.5 0 im 1
+im_going_to_class 1582106646678 360 216 touchmove 270 85 2 2 0 im 1
+im_going_to_class 1582106646695 360 216 touchmove 272 89 1 1 0 im 1
+im_going_to_class 1582106646711 360 216 touchmove 274 92 2.25 2.25 0 im 1
+im_going_to_class 1582106646728 360 216 touchmove 276 96 1.25 1.25 0 im 1
+im_going_to_class 1582106646745 360 216 touchmove 277 101 1.5 1.5 0 im 1
+im_going_to_class 1582106646761 360 216 touchmove 277 105 1.25 1.25 0 im 1
+im_going_to_class 1582106646778 360 216 touchmove 275 111 2.25 2.25 0 im 1
+im_going_to_class 1582106646795 360 216 touchmove 269 119 1.5 1.5 0 im 1
+im_going_to_class 1582106646811 360 216 touchmove 258 130 1.5 1.5 0 im 1
+im_going_to_class 1582106646829 360 216 touchmove 246 139 0.75 0.75 0 im 1
+im_going_to_class 1582106646844 360 216 touchmove 233 146 2 2 0 im 1
+im_going_to_class 1582106646863 360 216 touchmove 222 150 1.5 1.5 0 im 1
+im_going_to_class 1582106646877 360 216 touchmove 213 151 2 2 0 im 1
+im_going_to_class 1582106646894 360 216 touchmove 203 150 1.5 1.5 0 im 1
+im_going_to_class 1582106646911 360 216 touchmove 194 145 1.75 1.75 0 im 1
+im_going_to_class 1582106646927 360 216 touchmove 190 136 2.25 2.25 0 im 1
+im_going_to_class 1582106646944 360 216 touchmove 191 122 1.5 1.5 0 im 1
+im_going_to_class 1582106646961 360 216 touchmove 199 98 1.5 1.5 0 im 1
+im_going_to_class 1582106646978 360 216 touchmove 212 76 1.75 1.75 0 im 1
+im_going_to_class 1582106646994 360 216 touchmove 226 57 1.5 1.5 0 im 1
+im_going_to_class 1582106647011 360 216 touchmove 238 43 2.25 2.25 0 im 1
+im_going_to_class 1582106647028 360 216 touchmove 248 30 1.5 1.5 0 im 1
+im_going_to_class 1582106647044 360 216 touchmove 258 18 1 1 0 im 1
+im_going_to_class 1582106647049 360 216 touchend 258 18 1 1 0 im 1
+im_going_to_class 1582106650598 360 216 touchstart 263 18 2.25 2.25 0 im 0
+im_going_to_class 1582106650742 360 216 touchmove 263 18 1.25 1.25 0 im 0
+im_going_to_class 1582106650759 360 216 touchmove 264 20 1.75 1.75 0 im 0
+im_going_to_class 1582106650774 360 216 touchmove 265 24 0.5 0.5 0 im 0
+im_going_to_class 1582106650791 360 216 touchmove 266 29 0.75 0.75 0 im 0
+im_going_to_class 1582106650807 360 216 touchmove 265 36 1 1 0 im 0
+im_going_to_class 1582106650824 360 216 touchmove 263 43 1.25 1.25 0 im 0
+im_going_to_class 1582106650841 360 216 touchmove 260 50 0.75 0.75 0 im 0
+im_going_to_class 1582106650857 360 216 touchmove 258 56 1.75 1.75 0 im 0
+im_going_to_class 1582106650874 360 216 touchmove 256 61 1.25 1.25 0 im 0
+im_going_to_class 1582106650890 360 216 touchmove 254 67 2.5 2.5 0 im 0
+im_going_to_class 1582106650907 360 216 touchmove 253 73 1.25 1.25 0 im 0
+im_going_to_class 1582106650924 360 216 touchmove 253 79 1.25 1.25 0 im 0
+im_going_to_class 1582106650940 360 216 touchmove 252 86 1.5 1.5 0 im 0
+im_going_to_class 1582106650957 360 216 touchmove 252 93 2 2 0 im 0
+im_going_to_class 1582106650973 360 216 touchmove 250 101 1 1 0 im 0
+im_going_to_class 1582106650990 360 216 touchmove 249 108 1.25 1.25 0 im 0
+im_going_to_class 1582106651007 360 216 touchmove 247 116 1.75 1.75 0 im 0
+im_going_to_class 1582106651023 360 216 touchmove 246 124 0.75 0.75 0 im 0
+im_going_to_class 1582106651040 360 216 touchmove 245 130 2 2 0 im 0
+im_going_to_class 1582106651057 360 216 touchmove 244 136 2 2 0 im 0
+im_going_to_class 1582106651073 360 216 touchmove 243 140 1.75 1.75 0 im 0
+im_going_to_class 1582106651090 360 216 touchmove 243 145 1.5 1.5 0 im 0
+im_going_to_class 1582106651107 360 216 touchmove 243 150 1.5 1.5 0 im 0
+im_going_to_class 1582106651123 360 216 touchmove 243 154 1.25 1.25 0 im 0
+im_going_to_class 1582106651140 360 216 touchmove 243 158 2.25 2.25 0 im 0
+im_going_to_class 1582106651157 360 216 touchmove 244 161 2 2 0 im 0
+im_going_to_class 1582106651173 360 216 touchmove 245 164 0.5 0.5 0 im 0
+im_going_to_class 1582106651190 360 216 touchmove 246 167 1.5 1.5 0 im 0
+im_going_to_class 1582106651207 360 216 touchmove 247 170 1.25 1.25 0 im 0
+im_going_to_class 1582106651223 360 216 touchmove 247 174 1 1 0 im 0
+im_going_to_class 1582106651240 360 216 touchmove 247 177 1.75 1.75 0 im 0
+im_going_to_class 1582106651257 360 216 touchmove 246 179 1 1 0 im 0
+im_going_to_class 1582106651273 360 216 touchmove 246 181 1.25 1.25 0 im 0
+im_going_to_class 1582106651290 360 216 touchmove 246 182 1.75 1.75 0 im 0
+im_going_to_class 1582106651307 360 216 touchmove 246 183 1.75 1.75 0 im 0
+im_going_to_class 1582106651323 360 216 touchmove 248 183 2.25 2.25 0 im 0
+im_going_to_class 1582106651340 360 216 touchmove 253 179 1.5 1.5 0 im 0
+im_going_to_class 1582106651356 360 216 touchmove 264 173 2.5 2.5 0 im 0
+im_going_to_class 1582106651373 360 216 touchmove 276 165 1.25 1.25 0 im 0
+im_going_to_class 1582106651390 360 216 touchmove 286 160 1 1 0 im 0
+im_going_to_class 1582106651406 360 216 touchmove 292 155 1.25 1.25 0 im 0
+im_going_to_class 1582106651423 360 216 touchmove 296 152 1.5 1.5 0 im 0
+im_going_to_class 1582106651440 360 216 touchmove 298 150 1.75 1.75 0 im 0
+im_going_to_class 1582106651456 360 216 touchmove 300 149 1.75 1.75 0 im 0
+im_going_to_class 1582106651473 360 216 touchmove 301 149 0.75 0.75 0 im 0
+im_going_to_class 1582106651490 360 216 touchmove 301 148 0.75 0.75 0 im 0
+im_going_to_class 1582106651506 360 216 touchmove 302 148 2 2 0 im 0
+im_going_to_class 1582106651523 360 216 touchmove 302 148 2 2 0 im 0
+im_going_to_class 1582106651590 360 216 touchmove 302 148 2 2 0 im 0
+im_going_to_class 1582106651593 360 216 touchend 302 148 2 2 0 im 0
+im_going_to_class 1582106653127 360 216 touchstart 174 82 2.25 2.25 0 going 0
+im_going_to_class 1582106653245 360 216 touchmove 174 82 2.5 2.5 0 going 0
+im_going_to_class 1582106653260 360 216 touchmove 182 85 1.25 1.25 0 going 0
+im_going_to_class 1582106653275 360 216 touchmove 188 88 2.25 2.25 0 going 0
+im_going_to_class 1582106653291 360 216 touchmove 200 92 2.5 2.5 0 going 0
+im_going_to_class 1582106653307 360 216 touchmove 210 93 0.5 0.5 0 going 0
+im_going_to_class 1582106653324 360 216 touchmove 221 94 0.75 0.75 0 going 0
+im_going_to_class 1582106653342 360 216 touchmove 232 93 2 2 0 going 0
+im_going_to_class 1582106653357 360 216 touchmove 242 91 1.5 1.5 0 going 0
+im_going_to_class 1582106653373 360 216 touchmove 252 86 1.5 1.5 0 going 0
+im_going_to_class 1582106653390 360 216 touchmove 259 80 1.75 1.75 0 going 0
+im_going_to_class 1582106653407 360 216 touchmove 266 74 0.75 0.75 0 going 0
+im_going_to_class 1582106653424 360 216 touchmove 271 68 1.75 1.75 0 going 0
+im_going_to_class 1582106653440 360 216 touchmove 276 61 1.5 1.5 0 going 0
+im_going_to_class 1582106653456 360 216 touchmove 282 55 1.25 1.25 0 going 0
+im_going_to_class 1582106653473 360 216 touchmove 287 48 1 1 0 going 0
+im_going_to_class 1582106653489 360 216 touchmove 291 44 0.75 0.75 0 going 0
+im_going_to_class 1582106653506 360 216 touchmove 294 39 1.5 1.5 0 going 0
+im_going_to_class 1582106653522 360 216 touchmove 297 36 1.5 1.5 0 going 0
+im_going_to_class 1582106653539 360 216 touchmove 299 32 2.5 2.5 0 going 0
+im_going_to_class 1582106653556 360 216 touchmove 302 29 1 1 0 going 0
+im_going_to_class 1582106653573 360 216 touchmove 304 26 2 2 0 going 0
+im_going_to_class 1582106653589 360 216 touchmove 305 24 0.5 0.5 0 going 0
+im_going_to_class 1582106653606 360 216 touchmove 307 22 1.75 1.75 0 going 0
+im_going_to_class 1582106653622 360 216 touchmove 308 21 1.75 1.75 0 going 0
+im_going_to_class 1582106653639 360 216 touchmove 308 20 1.5 1.5 0 going 0
+im_going_to_class 1582106653656 360 216 touchmove 309 19 1.5 1.5 0 going 0
+im_going_to_class 1582106653672 360 216 touchmove 309 19 1.5 1.5 0 going 0
+im_going_to_class 1582106653823 360 216 touchmove 308 19 1.25 1.25 0 going 0
+im_going_to_class 1582106653973 360 216 touchmove 308 19 1.25 1.25 0 going 0
+im_going_to_class 1582106653990 360 216 touchmove 307 19 1 1 0 going 0
+im_going_to_class 1582106654223 360 216 touchmove 307 19 1 1 0 going 0
+im_going_to_class 1582106654240 360 216 touchmove 306 19 0.75 0.75 0 going 0
+im_going_to_class 1582106654257 360 216 touchmove 306 19 0.75 0.75 0 going 0
+im_going_to_class 1582106654273 360 216 touchmove 305 19 1.75 1.75 0 going 0
+im_going_to_class 1582106654291 360 216 touchmove 303 19 1.25 1.25 0 going 0
+im_going_to_class 1582106654307 360 216 touchmove 302 19 1 1 0 going 0
+im_going_to_class 1582106654323 360 216 touchmove 301 19 0.75 0.75 0 going 0
+im_going_to_class 1582106654340 360 216 touchmove 299 20 1.75 1.75 0 going 0
+im_going_to_class 1582106654356 360 216 touchmove 298 20 1.5 1.5 0 going 0
+im_going_to_class 1582106654372 360 216 touchmove 296 21 1.25 1.25 0 going 0
+im_going_to_class 1582106654389 360 216 touchmove 295 21 2.25 2.25 0 going 0
+im_going_to_class 1582106654406 360 216 touchmove 293 22 2 2 0 going 0
+im_going_to_class 1582106654422 360 216 touchmove 292 22 1.75 1.75 0 going 0
+im_going_to_class 1582106654438 360 216 touchmove 290 23 2.75 2.75 0 going 0
+im_going_to_class 1582106654456 360 216 touchmove 288 23 1 1 0 going 0
+im_going_to_class 1582106654473 360 216 touchmove 286 23 0.75 0.75 0 going 0
+im_going_to_class 1582106654488 360 216 touchmove 285 23 1.5 1.5 0 going 0
+im_going_to_class 1582106654505 360 216 touchmove 282 24 1 1 0 going 0
+im_going_to_class 1582106654522 360 216 touchmove 280 24 1.75 1.75 0 going 0
+im_going_to_class 1582106654539 360 216 touchmove 277 25 1.5 1.5 0 going 0
+im_going_to_class 1582106654556 360 216 touchmove 275 26 2.25 2.25 0 going 0
+im_going_to_class 1582106654572 360 216 touchmove 273 27 2 2 0 going 0
+im_going_to_class 1582106654588 360 216 touchmove 270 28 1.5 1.5 0 going 0
+im_going_to_class 1582106654604 360 216 touchmove 266 31 1.25 1.25 0 going 0
+im_going_to_class 1582106654623 360 216 touchmove 262 35 1.25 1.25 0 going 0
+im_going_to_class 1582106654638 360 216 touchmove 257 39 1.25 1.25 0 going 0
+im_going_to_class 1582106654655 360 216 touchmove 254 44 1.5 1.5 0 going 0
+im_going_to_class 1582106654672 360 216 touchmove 251 47 1.5 1.5 0 going 0
+im_going_to_class 1582106654688 360 216 touchmove 249 50 2 2 0 going 0
+im_going_to_class 1582106654705 360 216 touchmove 247 53 2 2 0 going 0
+im_going_to_class 1582106654721 360 216 touchmove 245 55 2 2 0 going 0
+im_going_to_class 1582106654739 360 216 touchmove 243 58 1 1 0 going 0
+im_going_to_class 1582106654755 360 216 touchmove 241 62 1.5 1.5 0 going 0
+im_going_to_class 1582106654773 360 216 touchmove 240 65 2 2 0 going 0
+im_going_to_class 1582106654788 360 216 touchmove 239 69 1.5 1.5 0 going 0
+im_going_to_class 1582106654805 360 216 touchmove 238 73 1 1 0 going 0
+im_going_to_class 1582106654821 360 216 touchmove 238 77 2 2 0 going 0
+im_going_to_class 1582106654839 360 216 touchmove 238 81 1.75 1.75 0 going 0
+im_going_to_class 1582106654854 360 216 touchmove 238 84 1.25 1.25 0 going 0
+im_going_to_class 1582106654871 360 216 touchmove 239 87 2.25 2.25 0 going 0
+im_going_to_class 1582106654888 360 216 touchmove 239 89 1.5 1.5 0 going 0
+im_going_to_class 1582106654904 360 216 touchmove 239 91 2.25 2.25 0 going 0
+im_going_to_class 1582106654921 360 216 touchmove 239 92 2.5 2.5 0 going 0
+im_going_to_class 1582106654938 360 216 touchmove 240 94 1.75 1.75 0 going 0
+im_going_to_class 1582106654954 360 216 touchmove 240 96 2.25 2.25 0 going 0
+im_going_to_class 1582106654972 360 216 touchmove 240 98 1.5 1.5 0 going 0
+im_going_to_class 1582106654988 360 216 touchmove 240 101 1 1 0 going 0
+im_going_to_class 1582106655005 360 216 touchmove 240 103 1.5 1.5 0 going 0
+im_going_to_class 1582106655021 360 216 touchmove 241 104 0.75 0.75 0 going 0
+im_going_to_class 1582106655039 360 216 touchmove 241 105 1.25 1.25 0 going 0
+im_going_to_class 1582106655054 360 216 touchmove 242 105 1.25 1.25 0 going 0
+im_going_to_class 1582106655071 360 216 touchmove 245 102 2.5 2.5 0 going 0
+im_going_to_class 1582106655089 360 216 touchmove 250 95 1 1 0 going 0
+im_going_to_class 1582106655105 360 216 touchmove 256 87 1.5 1.5 0 going 0
+im_going_to_class 1582106655122 360 216 touchmove 261 77 1.5 1.5 0 going 0
+im_going_to_class 1582106655138 360 216 touchmove 266 65 1 1 0 going 0
+im_going_to_class 1582106655154 360 216 touchmove 270 54 0.5 0.5 0 going 0
+im_going_to_class 1582106655172 360 216 touchmove 274 43 2.5 2.5 0 going 0
+im_going_to_class 1582106655188 360 216 touchmove 276 33 0.75 0.75 0 going 0
+im_going_to_class 1582106655204 360 216 touchmove 278 26 1.75 1.75 0 going 0
+im_going_to_class 1582106655221 360 216 touchmove 279 21 2.25 2.25 0 going 0
+im_going_to_class 1582106655237 360 216 touchmove 280 19 1.75 1.75 0 going 0
+im_going_to_class 1582106655254 360 216 touchmove 280 17 2.5 2.5 0 going 0
+im_going_to_class 1582106655271 360 216 touchmove 280 16 2.25 2.25 0 going 0
+im_going_to_class 1582106655288 360 216 touchmove 279 15 2 2 0 going 0
+im_going_to_class 1582106655306 360 216 touchmove 279 15 1.75 1.75 0 going 0
+im_going_to_class 1582106655320 360 216 touchmove 279 14 1.75 1.75 0 going 0
+im_going_to_class 1582106655337 360 216 touchmove 279 14 1.5 1.5 0 going 0
+im_going_to_class 1582106655687 360 216 touchmove 279 14 1.5 1.5 0 going 0
+im_going_to_class 1582106655771 360 216 touchmove 278 14 1.5 1.5 0 going 0
+im_going_to_class 1582106656038 360 216 touchmove 278 15 1.5 1.5 0 going 0
+im_going_to_class 1582106656055 360 216 touchmove 277 15 1.5 1.5 0 going 0
+im_going_to_class 1582106656071 360 216 touchmove 276 16 1.25 1.25 0 going 0
+im_going_to_class 1582106656087 360 216 touchmove 275 16 1.25 1.25 0 going 0
+im_going_to_class 1582106656105 360 216 touchmove 274 18 1.25 1.25 0 going 0
+im_going_to_class 1582106656122 360 216 touchmove 271 22 1.5 1.5 0 going 0
+im_going_to_class 1582106656138 360 216 touchmove 267 27 1.75 1.75 0 going 0
+im_going_to_class 1582106656153 360 216 touchmove 263 32 2 2 0 going 0
+im_going_to_class 1582106656169 360 216 touchmove 258 37 2 2 0 going 0
+im_going_to_class 1582106656186 360 216 touchmove 255 41 1.25 1.25 0 going 0
+im_going_to_class 1582106656203 360 216 touchmove 253 44 1.5 1.5 0 going 0
+im_going_to_class 1582106656220 360 216 touchmove 251 47 1.75 1.75 0 going 0
+im_going_to_class 1582106656236 360 216 touchmove 250 50 2 2 0 going 0
+im_going_to_class 1582106656253 360 216 touchmove 249 54 1.5 1.5 0 going 0
+im_going_to_class 1582106656269 360 216 touchmove 247 58 1 1 0 going 0
+im_going_to_class 1582106656285 360 216 touchmove 246 63 0.5 0.5 0 going 0
+im_going_to_class 1582106656302 360 216 touchmove 245 69 1.75 1.75 0 going 0
+im_going_to_class 1582106656319 360 216 touchmove 244 75 1.75 1.75 0 going 0
+im_going_to_class 1582106656336 360 216 touchmove 243 81 2 2 0 going 0
+im_going_to_class 1582106656352 360 216 touchmove 243 87 2.25 2.25 0 going 0
+im_going_to_class 1582106656369 360 216 touchmove 243 93 1.25 1.25 0 going 0
+im_going_to_class 1582106656386 360 216 touchmove 243 100 1.75 1.75 0 going 0
+im_going_to_class 1582106656403 360 216 touchmove 244 107 2.25 2.25 0 going 0
+im_going_to_class 1582106656419 360 216 touchmove 244 113 1.5 1.5 0 going 0
+im_going_to_class 1582106656436 360 216 touchmove 245 120 1 1 0 going 0
+im_going_to_class 1582106656452 360 216 touchmove 247 127 2 2 0 going 0
+im_going_to_class 1582106656469 360 216 touchmove 249 133 1.5 1.5 0 going 0
+im_going_to_class 1582106656485 360 216 touchmove 251 139 0.75 0.75 0 going 0
+im_going_to_class 1582106656502 360 216 touchmove 253 144 1.25 1.25 0 going 0
+im_going_to_class 1582106656519 360 216 touchmove 255 149 1.75 1.75 0 going 0
+im_going_to_class 1582106656536 360 216 touchmove 256 154 0.75 0.75 0 going 0
+im_going_to_class 1582106656552 360 216 touchmove 257 157 2 2 0 going 0
+im_going_to_class 1582106656569 360 216 touchmove 258 160 1.5 1.5 0 going 0
+im_going_to_class 1582106656585 360 216 touchmove 259 161 2 2 0 going 0
+im_going_to_class 1582106656603 360 216 touchmove 259 163 2.5 2.5 0 going 0
+im_going_to_class 1582106656619 360 216 touchmove 260 164 1.75 1.75 0 going 0
+im_going_to_class 1582106656636 360 216 touchmove 260 164 1.75 1.75 0 going 0
+im_going_to_class 1582106656652 360 216 touchmove 260 165 2 2 0 going 0
+im_going_to_class 1582106656668 360 216 touchmove 260 165 2 2 0 going 0
+im_going_to_class 1582106656685 360 216 touchmove 260 166 2.25 2.25 0 going 0
+im_going_to_class 1582106656754 360 216 touchmove 259 166 2 2 0 going 0
+im_going_to_class 1582106656770 360 216 touchmove 259 165 1.75 1.75 0 going 0
+im_going_to_class 1582106656786 360 216 touchmove 258 165 1.5 1.5 0 going 0
+im_going_to_class 1582106656802 360 216 touchmove 258 164 1.25 1.25 0 going 0
+im_going_to_class 1582106656820 360 216 touchmove 257 164 1.25 1.25 0 going 0
+im_going_to_class 1582106656836 360 216 touchmove 257 164 1 1 0 going 0
+im_going_to_class 1582106656854 360 216 touchmove 256 163 1.75 1.75 0 going 0
+im_going_to_class 1582106656870 360 216 touchmove 256 160 1 1 0 going 0
+im_going_to_class 1582106656886 360 216 touchmove 255 156 1.25 1.25 0 going 0
+im_going_to_class 1582106656904 360 216 touchmove 255 150 1 1 0 going 0
+im_going_to_class 1582106656920 360 216 touchmove 256 143 1.75 1.75 0 going 0
+im_going_to_class 1582106656936 360 216 touchmove 257 133 1 1 0 going 0
+im_going_to_class 1582106656953 360 216 touchmove 259 123 2.5 2.5 0 going 0
+im_going_to_class 1582106656970 360 216 touchmove 262 113 1 1 0 going 0
+im_going_to_class 1582106656987 360 216 touchmove 265 105 0.75 0.75 0 going 0
+im_going_to_class 1582106657003 360 216 touchmove 268 97 2 2 0 going 0
+im_going_to_class 1582106657020 360 216 touchmove 270 90 2 2 0 going 0
+im_going_to_class 1582106657037 360 216 touchmove 271 84 1 1 0 going 0
+im_going_to_class 1582106657053 360 216 touchmove 272 79 1.25 1.25 0 going 0
+im_going_to_class 1582106657069 360 216 touchmove 273 75 1.75 1.75 0 going 0
+im_going_to_class 1582106657086 360 216 touchmove 274 72 2.25 2.25 0 going 0
+im_going_to_class 1582106657102 360 216 touchmove 275 68 1.5 1.5 0 going 0
+im_going_to_class 1582106657120 360 216 touchmove 275 65 2 2 0 going 0
+im_going_to_class 1582106657136 360 216 touchmove 274 60 2 2 0 going 0
+im_going_to_class 1582106657153 360 216 touchmove 273 56 1.75 1.75 0 going 0
+im_going_to_class 1582106657169 360 216 touchmove 272 52 1.75 1.75 0 going 0
+im_going_to_class 1582106657185 360 216 touchmove 270 50 2 2 0 going 0
+im_going_to_class 1582106657202 360 216 touchmove 267 49 1 1 0 going 0
+im_going_to_class 1582106657219 360 216 touchmove 262 49 1.25 1.25 0 going 0
+im_going_to_class 1582106657236 360 216 touchmove 253 52 2 2 0 going 0
+im_going_to_class 1582106657253 360 216 touchmove 241 58 1.75 1.75 0 going 0
+im_going_to_class 1582106657269 360 216 touchmove 230 64 1.75 1.75 0 going 0
+im_going_to_class 1582106657286 360 216 touchmove 219 72 2.25 2.25 0 going 0
+im_going_to_class 1582106657303 360 216 touchmove 209 79 1.75 1.75 0 going 0
+im_going_to_class 1582106657320 360 216 touchmove 200 86 2.25 2.25 0 going 0
+im_going_to_class 1582106657336 360 216 touchmove 192 91 1.75 1.75 0 going 0
+im_going_to_class 1582106657353 360 216 touchmove 186 94 0.75 0.75 0 going 0
+im_going_to_class 1582106657369 360 216 touchmove 181 97 1.75 1.75 0 going 0
+im_going_to_class 1582106657386 360 216 touchmove 178 99 1.25 1.25 0 going 0
+im_going_to_class 1582106657402 360 216 touchmove 176 100 1 1 0 going 0
+im_going_to_class 1582106657419 360 216 touchmove 175 101 2.25 2.25 0 going 0
+im_going_to_class 1582106657436 360 216 touchmove 174 101 2 2 0 going 0
+im_going_to_class 1582106657452 360 216 touchmove 173 102 2 2 0 going 0
+im_going_to_class 1582106657468 360 216 touchmove 173 102 2 2 0 going 0
+im_going_to_class 1582106657591 360 216 touchmove 173 101 1.75 1.75 0 going 0
+im_going_to_class 1582106657602 360 216 touchmove 173 101 1.75 1.75 0 going 0
+im_going_to_class 1582106657608 360 216 touchend 173 101 1.75 1.75 0 going 0
+im_going_to_class 1582106659224 360 216 touchstart 162 26 1.5 1.5 0 to 0
+im_going_to_class 1582106659336 360 216 touchmove 163 26 2 2 0 to 0
+im_going_to_class 1582106659352 360 216 touchmove 167 27 1.75 1.75 0 to 0
+im_going_to_class 1582106659369 360 216 touchmove 174 29 1.75 1.75 0 to 0
+im_going_to_class 1582106659385 360 216 touchmove 184 32 2.5 2.5 0 to 0
+im_going_to_class 1582106659402 360 216 touchmove 193 36 1.75 1.75 0 to 0
+im_going_to_class 1582106659417 360 216 touchmove 203 40 1.5 1.5 0 to 0
+im_going_to_class 1582106659433 360 216 touchmove 213 44 1.25 1.25 0 to 0
+im_going_to_class 1582106659450 360 216 touchmove 222 47 1.75 1.75 0 to 0
+im_going_to_class 1582106659467 360 216 touchmove 231 50 1 1 0 to 0
+im_going_to_class 1582106659484 360 216 touchmove 238 52 2 2 0 to 0
+im_going_to_class 1582106659500 360 216 touchmove 244 54 1.75 1.75 0 to 0
+im_going_to_class 1582106659516 360 216 touchmove 250 56 1 1 0 to 0
+im_going_to_class 1582106659533 360 216 touchmove 256 56 1.5 1.5 0 to 0
+im_going_to_class 1582106659550 360 216 touchmove 263 57 2 2 0 to 0
+im_going_to_class 1582106659567 360 216 touchmove 269 57 2.25 2.25 0 to 0
+im_going_to_class 1582106659583 360 216 touchmove 275 57 2.5 2.5 0 to 0
+im_going_to_class 1582106659600 360 216 touchmove 281 55 1.25 1.25 0 to 0
+im_going_to_class 1582106659616 360 216 touchmove 287 53 2 2 0 to 0
+im_going_to_class 1582106659633 360 216 touchmove 292 49 1.25 1.25 0 to 0
+im_going_to_class 1582106659650 360 216 touchmove 297 46 1.5 1.5 0 to 0
+im_going_to_class 1582106659667 360 216 touchmove 300 43 1.5 1.5 0 to 0
+im_going_to_class 1582106659683 360 216 touchmove 302 41 1.5 1.5 0 to 0
+im_going_to_class 1582106659700 360 216 touchmove 304 39 1.5 1.5 0 to 0
+im_going_to_class 1582106659716 360 216 touchmove 305 37 1.25 1.25 0 to 0
+im_going_to_class 1582106659733 360 216 touchmove 307 34 1.25 1.25 0 to 0
+im_going_to_class 1582106659751 360 216 touchmove 309 32 2.25 2.25 0 to 0
+im_going_to_class 1582106659766 360 216 touchmove 310 29 0.75 0.75 0 to 0
+im_going_to_class 1582106659783 360 216 touchmove 311 27 1.5 1.5 0 to 0
+im_going_to_class 1582106659800 360 216 touchmove 312 25 1.5 1.5 0 to 0
+im_going_to_class 1582106659816 360 216 touchmove 313 24 1.25 1.25 0 to 0
+im_going_to_class 1582106659832 360 216 touchmove 313 24 1.25 1.25 0 to 0
+im_going_to_class 1582106659849 360 216 touchmove 313 23 1.25 1.25 0 to 0
+im_going_to_class 1582106659971 360 216 touchend 313 23 1.25 1.25 0 to 0
+im_going_to_class 1582106661719 360 216 touchstart 142 139 1 1 0 class 0
+im_going_to_class 1582106661832 360 216 touchmove 142 139 1.25 1.25 0 class 0
+im_going_to_class 1582106661848 360 216 touchmove 142 141 1.5 1.5 0 class 0
+im_going_to_class 1582106661865 360 216 touchmove 142 145 1.25 1.25 0 class 0
+im_going_to_class 1582106661881 360 216 touchmove 142 149 1 1 0 class 0
+im_going_to_class 1582106661899 360 216 touchmove 143 153 1 1 0 class 0
+im_going_to_class 1582106661915 360 216 touchmove 144 157 2.25 2.25 0 class 0
+im_going_to_class 1582106661931 360 216 touchmove 146 160 1 1 0 class 0
+im_going_to_class 1582106661947 360 216 touchmove 148 162 2.25 2.25 0 class 0
+im_going_to_class 1582106661964 360 216 touchmove 152 165 1.25 1.25 0 class 0
+im_going_to_class 1582106661981 360 216 touchmove 156 167 1.5 1.5 0 class 0
+im_going_to_class 1582106661998 360 216 touchmove 161 169 0.75 0.75 0 class 0
+im_going_to_class 1582106662014 360 216 touchmove 166 171 1.5 1.5 0 class 0
+im_going_to_class 1582106662031 360 216 touchmove 172 172 2 2 0 class 0
+im_going_to_class 1582106662047 360 216 touchmove 178 173 2.25 2.25 0 class 0
+im_going_to_class 1582106662064 360 216 touchmove 185 173 2.75 2.75 0 class 0
+im_going_to_class 1582106662080 360 216 touchmove 193 172 2 2 0 class 0
+im_going_to_class 1582106662098 360 216 touchmove 201 171 1.25 1.25 0 class 0
+im_going_to_class 1582106662114 360 216 touchmove 211 170 1 1 0 class 0
+im_going_to_class 1582106662131 360 216 touchmove 221 169 0.75 0.75 0 class 0
+im_going_to_class 1582106662148 360 216 touchmove 229 168 2.5 2.5 0 class 0
+im_going_to_class 1582106662164 360 216 touchmove 236 167 1.5 1.5 0 class 0
+im_going_to_class 1582106662181 360 216 touchmove 242 166 1.5 1.5 0 class 0
+im_going_to_class 1582106662198 360 216 touchmove 248 166 1.75 1.75 0 class 0
+im_going_to_class 1582106662214 360 216 touchmove 254 165 1.75 1.75 0 class 0
+im_going_to_class 1582106662231 360 216 touchmove 260 164 0.5 0.5 0 class 0
+im_going_to_class 1582106662247 360 216 touchmove 267 162 1.75 1.75 0 class 0
+im_going_to_class 1582106662264 360 216 touchmove 274 160 2 2 0 class 0
+im_going_to_class 1582106662281 360 216 touchmove 282 158 2 2 0 class 0
+im_going_to_class 1582106662297 360 216 touchmove 289 154 1.5 1.5 0 class 0
+im_going_to_class 1582106662314 360 216 touchmove 294 150 2 2 0 class 0
+im_going_to_class 1582106662332 360 216 touchmove 300 146 2.25 2.25 0 class 0
+im_going_to_class 1582106662347 360 216 touchmove 304 141 2.25 2.25 0 class 0
+im_going_to_class 1582106662364 360 216 touchmove 310 136 2.25 2.25 0 class 0
+im_going_to_class 1582106662381 360 216 touchmove 314 129 1.75 1.75 0 class 0
+im_going_to_class 1582106662397 360 216 touchmove 318 122 2.25 2.25 0 class 0
+im_going_to_class 1582106662414 360 216 touchmove 322 115 1.25 1.25 0 class 0
+im_going_to_class 1582106662431 360 216 touchmove 324 108 1.5 1.5 0 class 0
+im_going_to_class 1582106662447 360 216 touchmove 326 102 1.75 1.75 0 class 0
+im_going_to_class 1582106662464 360 216 touchmove 328 98 2.25 2.25 0 class 0
+im_going_to_class 1582106662480 360 216 touchmove 328 94 1.5 1.5 0 class 0
+im_going_to_class 1582106662497 360 216 touchmove 328 92 2 2 0 class 0
+im_going_to_class 1582106662515 360 216 touchmove 328 90 1.75 1.75 0 class 0
+im_going_to_class 1582106662530 360 216 touchmove 328 88 1 1 0 class 0
+im_going_to_class 1582106662547 360 216 touchmove 327 87 1.75 1.75 0 class 0
+im_going_to_class 1582106662563 360 216 touchmove 327 85 1.25 1.25 0 class 0
+im_going_to_class 1582106662580 360 216 touchmove 327 84 1 1 0 class 0
+im_going_to_class 1582106662597 360 216 touchmove 326 83 0.75 0.75 0 class 0
+im_going_to_class 1582106662614 360 216 touchmove 326 83 1.75 1.75 0 class 0
+im_going_to_class 1582106662630 360 216 touchmove 326 82 1.75 1.75 0 class 0
+im_going_to_class 1582106662647 360 216 touchmove 326 82 1.5 1.5 0 class 0
+im_going_to_class 1582106662664 360 216 touchmove 326 81 1.25 1.25 0 class 0
+im_going_to_class 1582106662681 360 216 touchmove 324 81 2 2 0 class 0
+im_going_to_class 1582106662697 360 216 touchmove 320 79 1.75 1.75 0 class 0
+im_going_to_class 1582106662714 360 216 touchmove 312 77 1.75 1.75 0 class 0
+im_going_to_class 1582106662730 360 216 touchmove 301 76 1.25 1.25 0 class 0
+im_going_to_class 1582106662747 360 216 touchmove 288 77 2 2 0 class 0
+im_going_to_class 1582106662764 360 216 touchmove 273 80 1.5 1.5 0 class 0
+im_going_to_class 1582106662780 360 216 touchmove 259 84 1.5 1.5 0 class 0
+im_going_to_class 1582106662797 360 216 touchmove 244 89 1.5 1.5 0 class 0
+im_going_to_class 1582106662814 360 216 touchmove 229 93 1.25 1.25 0 class 0
+im_going_to_class 1582106662830 360 216 touchmove 213 99 1.25 1.25 0 class 0
+im_going_to_class 1582106662847 360 216 touchmove 199 104 1.5 1.5 0 class 0
+im_going_to_class 1582106662863 360 216 touchmove 186 108 1.75 1.75 0 class 0
+im_going_to_class 1582106662880 360 216 touchmove 173 112 2 2 0 class 0
+im_going_to_class 1582106662897 360 216 touchmove 160 116 1 1 0 class 0
+im_going_to_class 1582106662914 360 216 touchmove 148 119 1.25 1.25 0 class 0
+im_going_to_class 1582106662930 360 216 touchmove 136 122 1.75 1.75 0 class 0
+im_going_to_class 1582106662947 360 216 touchmove 125 125 0.75 0.75 0 class 0
+im_going_to_class 1582106662963 360 216 touchmove 114 127 2.25 2.25 0 class 0
+im_going_to_class 1582106662980 360 216 touchmove 103 128 2.25 2.25 0 class 0
+im_going_to_class 1582106662997 360 216 touchmove 91 128 1.75 1.75 0 class 0
+im_going_to_class 1582106663014 360 216 touchmove 78 127 2 2 0 class 0
+im_going_to_class 1582106663030 360 216 touchmove 65 125 0.75 0.75 0 class 0
+im_going_to_class 1582106663048 360 216 touchmove 54 122 2.25 2.25 0 class 0
+im_going_to_class 1582106663063 360 216 touchmove 45 119 1.75 1.75 0 class 0
+im_going_to_class 1582106663080 360 216 touchmove 38 115 1.5 1.5 0 class 0
+im_going_to_class 1582106663096 360 216 touchmove 33 110 1.5 1.5 0 class 0
+im_going_to_class 1582106663114 360 216 touchmove 29 104 1.5 1.5 0 class 0
+im_going_to_class 1582106663129 360 216 touchmove 26 99 0.75 0.75 0 class 0
+im_going_to_class 1582106663147 360 216 touchmove 24 96 2 2 0 class 0
+im_going_to_class 1582106663163 360 216 touchmove 23 93 1.25 1.25 0 class 0
+im_going_to_class 1582106663180 360 216 touchmove 23 92 2 2 0 class 0
+im_going_to_class 1582106663197 360 216 touchmove 23 89 1.25 1.25 0 class 0
+im_going_to_class 1582106663214 360 216 touchmove 25 84 0.75 0.75 0 class 0
+im_going_to_class 1582106663230 360 216 touchmove 28 80 1.5 1.5 0 class 0
+im_going_to_class 1582106663247 360 216 touchmove 32 76 1.5 1.5 0 class 0
+im_going_to_class 1582106663263 360 216 touchmove 36 74 0.75 0.75 0 class 0
+im_going_to_class 1582106663280 360 216 touchmove 40 73 2.75 2.75 0 class 0
+im_going_to_class 1582106663296 360 216 touchmove 43 73 2.25 2.25 0 class 0
+im_going_to_class 1582106663314 360 216 touchmove 47 74 1 1 0 class 0
+im_going_to_class 1582106663330 360 216 touchmove 50 75 1 1 0 class 0
+im_going_to_class 1582106663347 360 216 touchmove 53 77 2 2 0 class 0
+im_going_to_class 1582106663363 360 216 touchmove 55 79 0.5 0.5 0 class 0
+im_going_to_class 1582106663379 360 216 touchmove 58 81 2 2 0 class 0
+im_going_to_class 1582106663397 360 216 touchmove 61 84 0.75 0.75 0 class 0
+im_going_to_class 1582106663414 360 216 touchmove 63 87 2.25 2.25 0 class 0
+im_going_to_class 1582106663430 360 216 touchmove 65 90 1 1 0 class 0
+im_going_to_class 1582106663446 360 216 touchmove 67 93 0.75 0.75 0 class 0
+im_going_to_class 1582106663463 360 216 touchmove 68 96 1.75 1.75 0 class 0
+im_going_to_class 1582106663480 360 216 touchmove 69 97 2.5 2.5 0 class 0
+im_going_to_class 1582106663496 360 216 touchmove 70 98 0.5 0.5 0 class 0
+im_going_to_class 1582106663514 360 216 touchmove 71 99 0.75 0.75 0 class 0
+im_going_to_class 1582106663530 360 216 touchmove 72 99 1 1 0 class 0
+im_going_to_class 1582106663548 360 216 touchmove 73 98 1 1 0 class 0
+im_going_to_class 1582106663563 360 216 touchmove 74 97 2.25 2.25 0 class 0
+im_going_to_class 1582106663580 360 216 touchmove 75 96 2.25 2.25 0 class 0
+im_going_to_class 1582106663596 360 216 touchmove 76 93 1.75 1.75 0 class 0
+im_going_to_class 1582106663613 360 216 touchmove 78 90 1.5 1.5 0 class 0
+im_going_to_class 1582106663629 360 216 touchmove 79 86 2 2 0 class 0
+im_going_to_class 1582106663647 360 216 touchmove 79 84 1.75 1.75 0 class 0
+im_going_to_class 1582106663663 360 216 touchmove 79 83 2.5 2.5 0 class 0
+im_going_to_class 1582106663679 360 216 touchmove 79 82 2.25 2.25 0 class 0
+im_going_to_class 1582106663696 360 216 touchmove 79 81 2.25 2.25 0 class 0
+im_going_to_class 1582106663713 360 216 touchmove 79 81 2 2 0 class 0
+im_going_to_class 1582106663729 360 216 touchmove 79 80 1.75 1.75 0 class 0
+im_going_to_class 1582106663746 360 216 touchmove 78 80 1.75 1.75 0 class 0
+im_going_to_class 1582106663796 360 216 touchmove 78 80 1.5 1.5 0 class 0
+im_going_to_class 1582106663813 360 216 touchmove 77 79 1.25 1.25 0 class 0
+im_going_to_class 1582106663830 360 216 touchmove 76 79 0.75 0.75 0 class 0
+im_going_to_class 1582106663834 360 216 touchend 76 79 0.75 0.75 0 class 0

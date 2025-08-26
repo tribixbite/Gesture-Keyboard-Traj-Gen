@@ -1,0 +1,382 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+he_would_love_anything_about_rocks 1582483554208 360 216 touchend 358 159 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581659 360 216 touchstart 213 84 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581729 360 216 touchmove 208 78 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581745 360 216 touchmove 202 69 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581763 360 216 touchmove 197 63 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581778 360 216 touchmove 191 58 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581795 360 216 touchmove 184 53 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581813 360 216 touchmove 174 44 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581829 360 216 touchmove 170 42 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581845 360 216 touchmove 159 38 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581862 360 216 touchmove 151 37 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581878 360 216 touchmove 142 35 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581895 360 216 touchmove 134 34 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581912 360 216 touchmove 128 33 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581930 360 216 touchmove 121 32 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581946 360 216 touchmove 117 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581963 360 216 touchmove 112 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581980 360 216 touchmove 108 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483581996 360 216 touchmove 104 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582012 360 216 touchmove 99 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582030 360 216 touchmove 96 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582046 360 216 touchmove 94 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582063 360 216 touchmove 92 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582080 360 216 touchmove 90 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582097 360 216 touchmove 89 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582114 360 216 touchmove 88 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582131 360 216 touchmove 87 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582148 360 216 touchmove 86 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582163 360 216 touchmove 85 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582181 360 216 touchmove 85 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582566 360 216 touchmove 85 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582584 360 216 touchmove 86 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582601 360 216 touchmove 88 31 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582613 360 216 touchmove 90 30 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483582616 360 216 touchend 90 30 0 0 0 he 0
+he_would_love_anything_about_rocks 1582483554208 360 216 touchend 358 159 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581659 360 216 touchstart 213 84 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581729 360 216 touchmove 208 78 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581745 360 216 touchmove 202 69 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581763 360 216 touchmove 197 63 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581778 360 216 touchmove 191 58 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581795 360 216 touchmove 184 53 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581813 360 216 touchmove 174 44 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581829 360 216 touchmove 170 42 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581845 360 216 touchmove 159 38 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581862 360 216 touchmove 151 37 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581878 360 216 touchmove 142 35 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581895 360 216 touchmove 134 34 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581912 360 216 touchmove 128 33 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581930 360 216 touchmove 121 32 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581946 360 216 touchmove 117 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581963 360 216 touchmove 112 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581980 360 216 touchmove 108 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483581996 360 216 touchmove 104 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582012 360 216 touchmove 99 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582030 360 216 touchmove 96 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582046 360 216 touchmove 94 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582063 360 216 touchmove 92 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582080 360 216 touchmove 90 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582097 360 216 touchmove 89 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582114 360 216 touchmove 88 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582131 360 216 touchmove 87 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582148 360 216 touchmove 86 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582163 360 216 touchmove 85 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582181 360 216 touchmove 85 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582566 360 216 touchmove 85 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582584 360 216 touchmove 86 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582601 360 216 touchmove 88 31 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582613 360 216 touchmove 90 30 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483582616 360 216 touchend 90 30 0 0 0 he 0 0
+he_would_love_anything_about_rocks 1582483583333 360 216 touchstart 70 27 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583390 360 216 touchmove 77 28 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583407 360 216 touchmove 91 31 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583424 360 216 touchmove 110 33 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583440 360 216 touchmove 134 34 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583458 360 216 touchmove 162 33 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583474 360 216 touchmove 189 32 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583491 360 216 touchmove 221 31 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583507 360 216 touchmove 237 32 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583524 360 216 touchmove 249 34 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583541 360 216 touchmove 258 35 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583558 360 216 touchmove 266 36 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583575 360 216 touchmove 273 36 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583591 360 216 touchmove 282 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583608 360 216 touchmove 290 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583625 360 216 touchmove 295 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583643 360 216 touchmove 299 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583658 360 216 touchmove 301 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583675 360 216 touchmove 302 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583692 360 216 touchmove 303 37 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583775 360 216 touchmove 301 36 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583792 360 216 touchmove 298 35 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583810 360 216 touchmove 296 34 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583828 360 216 touchmove 294 33 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583846 360 216 touchmove 292 32 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583861 360 216 touchmove 292 32 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583876 360 216 touchmove 287 31 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583893 360 216 touchmove 283 30 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583910 360 216 touchmove 278 28 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583929 360 216 touchmove 270 26 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583943 360 216 touchmove 262 24 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583961 360 216 touchmove 255 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583977 360 216 touchmove 249 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483583994 360 216 touchmove 245 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584011 360 216 touchmove 242 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584030 360 216 touchmove 240 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584045 360 216 touchmove 239 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584095 360 216 touchmove 241 23 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584111 360 216 touchmove 245 24 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584128 360 216 touchmove 251 27 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584147 360 216 touchmove 258 32 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584163 360 216 touchmove 265 39 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584180 360 216 touchmove 274 46 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584195 360 216 touchmove 282 52 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584214 360 216 touchmove 291 59 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584230 360 216 touchmove 298 66 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584246 360 216 touchmove 304 73 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584265 360 216 touchmove 310 80 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584280 360 216 touchmove 313 84 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584296 360 216 touchmove 314 86 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584314 360 216 touchmove 314 89 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584331 360 216 touchmove 312 91 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584346 360 216 touchmove 307 92 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584364 360 216 touchmove 294 90 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584381 360 216 touchmove 276 84 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584398 360 216 touchmove 255 76 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584415 360 216 touchmove 232 70 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584430 360 216 touchmove 211 67 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584448 360 216 touchmove 194 68 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584467 360 216 touchmove 171 73 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584481 360 216 touchmove 153 78 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584498 360 216 touchmove 140 82 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584513 360 216 touchmove 131 84 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584530 360 216 touchmove 123 85 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584550 360 216 touchmove 118 87 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584565 360 216 touchmove 114 87 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584581 360 216 touchmove 110 88 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584599 360 216 touchmove 108 88 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584615 360 216 touchmove 107 88 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584633 360 216 touchmove 107 88 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483584649 360 216 touchend 107 88 0 0 0 would 0
+he_would_love_anything_about_rocks 1582483554208 360 216 touchend 358 159 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581659 360 216 touchstart 213 84 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581729 360 216 touchmove 208 78 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581745 360 216 touchmove 202 69 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581763 360 216 touchmove 197 63 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581778 360 216 touchmove 191 58 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581795 360 216 touchmove 184 53 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581813 360 216 touchmove 174 44 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581829 360 216 touchmove 170 42 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581845 360 216 touchmove 159 38 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581862 360 216 touchmove 151 37 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581878 360 216 touchmove 142 35 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581895 360 216 touchmove 134 34 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581912 360 216 touchmove 128 33 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581930 360 216 touchmove 121 32 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581946 360 216 touchmove 117 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581963 360 216 touchmove 112 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581980 360 216 touchmove 108 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483581996 360 216 touchmove 104 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582012 360 216 touchmove 99 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582030 360 216 touchmove 96 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582046 360 216 touchmove 94 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582063 360 216 touchmove 92 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582080 360 216 touchmove 90 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582097 360 216 touchmove 89 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582114 360 216 touchmove 88 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582131 360 216 touchmove 87 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582148 360 216 touchmove 86 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582163 360 216 touchmove 85 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582181 360 216 touchmove 85 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582566 360 216 touchmove 85 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582584 360 216 touchmove 86 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582601 360 216 touchmove 88 31 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582613 360 216 touchmove 90 30 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483582616 360 216 touchend 90 30 0 0 0 he 0 0 1
+he_would_love_anything_about_rocks 1582483583333 360 216 touchstart 70 27 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583390 360 216 touchmove 77 28 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583407 360 216 touchmove 91 31 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583424 360 216 touchmove 110 33 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583440 360 216 touchmove 134 34 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583458 360 216 touchmove 162 33 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583474 360 216 touchmove 189 32 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583491 360 216 touchmove 221 31 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583507 360 216 touchmove 237 32 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583524 360 216 touchmove 249 34 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583541 360 216 touchmove 258 35 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583558 360 216 touchmove 266 36 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583575 360 216 touchmove 273 36 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583591 360 216 touchmove 282 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583608 360 216 touchmove 290 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583625 360 216 touchmove 295 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583643 360 216 touchmove 299 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583658 360 216 touchmove 301 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583675 360 216 touchmove 302 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583692 360 216 touchmove 303 37 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583775 360 216 touchmove 301 36 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583792 360 216 touchmove 298 35 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583810 360 216 touchmove 296 34 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583828 360 216 touchmove 294 33 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583846 360 216 touchmove 292 32 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583861 360 216 touchmove 292 32 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583876 360 216 touchmove 287 31 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583893 360 216 touchmove 283 30 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583910 360 216 touchmove 278 28 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583929 360 216 touchmove 270 26 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583943 360 216 touchmove 262 24 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583961 360 216 touchmove 255 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583977 360 216 touchmove 249 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483583994 360 216 touchmove 245 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584011 360 216 touchmove 242 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584030 360 216 touchmove 240 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584045 360 216 touchmove 239 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584095 360 216 touchmove 241 23 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584111 360 216 touchmove 245 24 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584128 360 216 touchmove 251 27 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584147 360 216 touchmove 258 32 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584163 360 216 touchmove 265 39 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584180 360 216 touchmove 274 46 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584195 360 216 touchmove 282 52 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584214 360 216 touchmove 291 59 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584230 360 216 touchmove 298 66 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584246 360 216 touchmove 304 73 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584265 360 216 touchmove 310 80 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584280 360 216 touchmove 313 84 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584296 360 216 touchmove 314 86 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584314 360 216 touchmove 314 89 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584331 360 216 touchmove 312 91 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584346 360 216 touchmove 307 92 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584364 360 216 touchmove 294 90 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584381 360 216 touchmove 276 84 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584398 360 216 touchmove 255 76 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584415 360 216 touchmove 232 70 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584430 360 216 touchmove 211 67 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584448 360 216 touchmove 194 68 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584467 360 216 touchmove 171 73 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584481 360 216 touchmove 153 78 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584498 360 216 touchmove 140 82 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584513 360 216 touchmove 131 84 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584530 360 216 touchmove 123 85 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584550 360 216 touchmove 118 87 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584565 360 216 touchmove 114 87 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584581 360 216 touchmove 110 88 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584599 360 216 touchmove 108 88 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584615 360 216 touchmove 107 88 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584633 360 216 touchmove 107 88 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584649 360 216 touchend 107 88 0 0 0 would 0 1
+he_would_love_anything_about_rocks 1582483584981 360 216 touchstart 23 87 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585051 360 216 touchmove 29 87 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585068 360 216 touchmove 49 90 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585086 360 216 touchmove 66 91 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585101 360 216 touchmove 85 93 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585119 360 216 touchmove 107 95 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585136 360 216 touchmove 129 99 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585152 360 216 touchmove 150 105 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585170 360 216 touchmove 171 112 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585187 360 216 touchmove 187 120 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585203 360 216 touchmove 200 127 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585220 360 216 touchmove 210 133 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585237 360 216 touchmove 222 141 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585254 360 216 touchmove 229 145 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585271 360 216 touchmove 233 149 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585286 360 216 touchmove 234 150 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585305 360 216 touchmove 235 150 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585321 360 216 touchmove 236 151 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585339 360 216 touchmove 234 148 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585354 360 216 touchmove 227 138 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585372 360 216 touchmove 217 124 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585387 360 216 touchmove 208 110 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585406 360 216 touchmove 201 96 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585423 360 216 touchmove 196 85 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585439 360 216 touchmove 190 70 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585454 360 216 touchmove 187 59 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585470 360 216 touchmove 186 47 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585487 360 216 touchmove 186 38 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585504 360 216 touchmove 186 32 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585521 360 216 touchmove 187 28 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585540 360 216 touchmove 188 25 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585556 360 216 touchmove 188 23 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585574 360 216 touchmove 189 23 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585590 360 216 touchmove 191 22 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585600 360 216 touchmove 193 23 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483585603 360 216 touchend 193 23 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587022 360 216 touchmove 243 86 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587033 360 216 touchmove 237 87 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587050 360 216 touchmove 232 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587067 360 216 touchmove 227 89 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587084 360 216 touchmove 223 89 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587100 360 216 touchmove 217 89 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587117 360 216 touchmove 212 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587133 360 216 touchmove 208 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587150 360 216 touchmove 204 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587167 360 216 touchmove 199 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587185 360 216 touchmove 194 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587201 360 216 touchmove 191 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587217 360 216 touchmove 189 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587233 360 216 touchmove 188 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587251 360 216 touchmove 185 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587267 360 216 touchmove 183 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587284 360 216 touchmove 181 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587302 360 216 touchmove 179 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587319 360 216 touchmove 179 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587336 360 216 touchmove 178 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587353 360 216 touchmove 177 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587369 360 216 touchmove 177 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587373 360 216 touchend 177 88 0 0 0 love 1
+he_would_love_anything_about_rocks 1582483587022 360 216 touchmove 243 86 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587033 360 216 touchmove 237 87 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587050 360 216 touchmove 232 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587067 360 216 touchmove 227 89 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587084 360 216 touchmove 223 89 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587100 360 216 touchmove 217 89 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587117 360 216 touchmove 212 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587133 360 216 touchmove 208 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587150 360 216 touchmove 204 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587167 360 216 touchmove 199 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587185 360 216 touchmove 194 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587201 360 216 touchmove 191 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587217 360 216 touchmove 189 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587233 360 216 touchmove 188 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587251 360 216 touchmove 185 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587267 360 216 touchmove 183 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587284 360 216 touchmove 181 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587302 360 216 touchmove 179 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587319 360 216 touchmove 179 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587336 360 216 touchmove 178 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587353 360 216 touchmove 177 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587369 360 216 touchmove 177 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483587373 360 216 touchend 177 88 0 0 0 love 1 0
+he_would_love_anything_about_rocks 1582483589647 360 216 touchstart 320 89 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589739 360 216 touchmove 318 85 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589752 360 216 touchmove 312 73 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589770 360 216 touchmove 307 58 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589787 360 216 touchmove 300 34 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589802 360 216 touchmove 296 21 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589820 360 216 touchmove 294 11 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589836 360 216 touchmove 291 4 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589853 360 216 touchmove 288 -1 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589871 360 216 touchmove 286 -4 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589888 360 216 touchmove 284 -7 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589904 360 216 touchmove 283 -8 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589920 360 216 touchmove 281 -8 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589938 360 216 touchmove 279 -8 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589954 360 216 touchmove 277 -7 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589970 360 216 touchmove 275 -4 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483589987 360 216 touchmove 269 6 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590003 360 216 touchmove 256 24 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590022 360 216 touchmove 244 42 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590038 360 216 touchmove 235 54 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590057 360 216 touchmove 225 68 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590072 360 216 touchmove 222 73 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590089 360 216 touchmove 216 84 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590105 360 216 touchmove 207 99 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590122 360 216 touchmove 202 108 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590139 360 216 touchmove 198 114 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590160 360 216 touchmove 195 120 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590174 360 216 touchmove 192 126 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590190 360 216 touchmove 190 131 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590207 360 216 touchmove 188 135 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590223 360 216 touchmove 186 137 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590241 360 216 touchmove 184 138 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590257 360 216 touchmove 180 138 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590274 360 216 touchmove 173 133 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590290 360 216 touchmove 164 124 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590308 360 216 touchmove 157 114 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590323 360 216 touchmove 149 102 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590341 360 216 touchmove 142 92 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590357 360 216 touchmove 136 83 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590375 360 216 touchmove 129 74 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590391 360 216 touchmove 124 66 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590409 360 216 touchmove 118 61 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590424 360 216 touchmove 113 56 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590442 360 216 touchmove 108 49 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590459 360 216 touchmove 105 47 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590475 360 216 touchmove 102 45 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590492 360 216 touchmove 100 43 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590508 360 216 touchmove 99 42 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590525 360 216 touchmove 98 42 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590542 360 216 touchmove 97 42 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590561 360 216 touchmove 94 41 0 0 0 love 0
+he_would_love_anything_about_rocks 1582483590565 360 216 touchend 94 41 0 0 0 love 0

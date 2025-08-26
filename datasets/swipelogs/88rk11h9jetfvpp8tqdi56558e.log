@@ -1,0 +1,1704 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+john_this_message_concerns_me 1581258796884 360 220 touchmove 321 173    john 1
+john_this_message_concerns_me 1581258797123 360 220 touchmove 322 173    john 1
+john_this_message_concerns_me 1581258797270 360 220 touchmove 321 173    john 1
+john_this_message_concerns_me 1581258797287 360 220 touchmove 319 174    john 1
+john_this_message_concerns_me 1581258797304 360 220 touchmove 318 174    john 1
+john_this_message_concerns_me 1581258797321 360 220 touchmove 315 174    john 1
+john_this_message_concerns_me 1581258797338 360 220 touchmove 309 174    john 1
+john_this_message_concerns_me 1581258797354 360 220 touchmove 305 174    john 1
+john_this_message_concerns_me 1581258797373 360 220 touchmove 300 172    john 1
+john_this_message_concerns_me 1581258797388 360 220 touchmove 297 172    john 1
+john_this_message_concerns_me 1581258797422 360 220 touchmove 297 172    john 1
+john_this_message_concerns_me 1581258797686 360 220 touchmove 296 172    john 1
+john_this_message_concerns_me 1581258797703 360 220 touchmove 296 173    john 1
+john_this_message_concerns_me 1581258797853 360 220 touchmove 296 174    john 1
+john_this_message_concerns_me 1581258797869 360 220 touchmove 294 174    john 1
+john_this_message_concerns_me 1581258797885 360 220 touchmove 292 173    john 1
+john_this_message_concerns_me 1581258797902 360 220 touchmove 291 172    john 1
+john_this_message_concerns_me 1581258797918 360 220 touchmove 290 167    john 1
+john_this_message_concerns_me 1581258797938 360 220 touchmove 286 162    john 1
+john_this_message_concerns_me 1581258797955 360 220 touchmove 284 159    john 1
+john_this_message_concerns_me 1581258797973 360 220 touchmove 280 157    john 1
+john_this_message_concerns_me 1581258797989 360 220 touchmove 278 157    john 1
+john_this_message_concerns_me 1581258798003 360 220 touchmove 274 157    john 1
+john_this_message_concerns_me 1581258798022 360 220 touchmove 269 157    john 1
+john_this_message_concerns_me 1581258798036 360 220 touchmove 267 157    john 1
+john_this_message_concerns_me 1581258798053 360 220 touchmove 263 158    john 1
+john_this_message_concerns_me 1581258798071 360 220 touchmove 260 158    john 1
+john_this_message_concerns_me 1581258798088 360 220 touchmove 253 159    john 1
+john_this_message_concerns_me 1581258798105 360 220 touchmove 244 161    john 1
+john_this_message_concerns_me 1581258798120 360 220 touchmove 239 162    john 1
+john_this_message_concerns_me 1581258798137 360 220 touchmove 232 162    john 1
+john_this_message_concerns_me 1581258798154 360 220 touchmove 230 163    john 1
+john_this_message_concerns_me 1581258798169 360 220 touchmove 229 164    john 1
+john_this_message_concerns_me 1581258798188 360 220 touchmove 227 165    john 1
+john_this_message_concerns_me 1581258798205 360 220 touchmove 227 166    john 1
+john_this_message_concerns_me 1581258798367 360 220 touchmove 226 166    john 1
+john_this_message_concerns_me 1581258798466 360 220 touchmove 225 166    john 1
+john_this_message_concerns_me 1581258798483 360 220 touchmove 224 166    john 1
+john_this_message_concerns_me 1581258798499 360 220 touchmove 222 166    john 1
+john_this_message_concerns_me 1581258798516 360 220 touchmove 217 162    john 1
+john_this_message_concerns_me 1581258798533 360 220 touchmove 213 159    john 1
+john_this_message_concerns_me 1581258798549 360 220 touchmove 204 154    john 1
+john_this_message_concerns_me 1581258798567 360 220 touchmove 195 149    john 1
+john_this_message_concerns_me 1581258798584 360 220 touchmove 192 147    john 1
+john_this_message_concerns_me 1581258798601 360 220 touchmove 190 144    john 1
+john_this_message_concerns_me 1581258798633 360 220 touchmove 188 142    john 1
+john_this_message_concerns_me 1581258798649 360 220 touchmove 180 131    john 1
+john_this_message_concerns_me 1581258798668 360 220 touchmove 162 112    john 1
+john_this_message_concerns_me 1581258798684 360 220 touchmove 143 98    john 1
+john_this_message_concerns_me 1581258798701 360 220 touchmove 109 77    john 1
+john_this_message_concerns_me 1581258798716 360 220 touchmove 98 70    john 1
+john_this_message_concerns_me 1581258798733 360 220 touchmove 90 74    john 1
+john_this_message_concerns_me 1581258798750 360 220 touchmove 83 75    john 1
+john_this_message_concerns_me 1581258798815 360 220 touchmove 83 74    john 1
+john_this_message_concerns_me 1581258798832 360 220 touchmove 84 66    john 1
+john_this_message_concerns_me 1581258798850 360 220 touchmove 87 60    john 1
+john_this_message_concerns_me 1581258798882 360 220 touchmove 89 56    john 1
+john_this_message_concerns_me 1581258798898 360 220 touchmove 91 52    john 1
+john_this_message_concerns_me 1581258798916 360 220 touchmove 94 49    john 1
+john_this_message_concerns_me 1581258798933 360 220 touchmove 95 47    john 1
+john_this_message_concerns_me 1581258798948 360 220 touchmove 98 43    john 1
+john_this_message_concerns_me 1581258798964 360 220 touchmove 101 42    john 1
+john_this_message_concerns_me 1581258798983 360 220 touchmove 102 42    john 1
+john_this_message_concerns_me 1581258798999 360 220 touchmove 106 42    john 1
+john_this_message_concerns_me 1581258799017 360 220 touchmove 108 44    john 1
+john_this_message_concerns_me 1581258799033 360 220 touchmove 112 45    john 1
+john_this_message_concerns_me 1581258799052 360 220 touchmove 117 46    john 1
+john_this_message_concerns_me 1581258799069 360 220 touchmove 118 47    john 1
+john_this_message_concerns_me 1581258799085 360 220 touchmove 120 48    john 1
+john_this_message_concerns_me 1581258799099 360 220 touchmove 124 51    john 1
+john_this_message_concerns_me 1581258799131 360 220 touchmove 125 52    john 1
+john_this_message_concerns_me 1581258799147 360 220 touchmove 126 53    john 1
+john_this_message_concerns_me 1581258799166 360 220 touchmove 127 54    john 1
+john_this_message_concerns_me 1581258799185 360 220 touchmove 129 57    john 1
+john_this_message_concerns_me 1581258799198 360 220 touchmove 133 62    john 1
+john_this_message_concerns_me 1581258799214 360 220 touchmove 135 65    john 1
+john_this_message_concerns_me 1581258799231 360 220 touchmove 143 71    john 1
+john_this_message_concerns_me 1581258799247 360 220 touchmove 152 77    john 1
+john_this_message_concerns_me 1581258799264 360 220 touchmove 156 80    john 1
+john_this_message_concerns_me 1581258799281 360 220 touchmove 162 84    john 1
+john_this_message_concerns_me 1581258799297 360 220 touchmove 168 88    john 1
+john_this_message_concerns_me 1581258799314 360 220 touchmove 169 89    john 1
+john_this_message_concerns_me 1581258799330 360 220 touchmove 169 89    john 1
+john_this_message_concerns_me 1581258799348 360 220 touchmove 170 89    john 1
+john_this_message_concerns_me 1581258799382 360 220 touchmove 172 89    john 1
+john_this_message_concerns_me 1581258799401 360 220 touchmove 173 90    john 1
+john_this_message_concerns_me 1581258799415 360 220 touchmove 174 91    john 1
+john_this_message_concerns_me 1581258799432 360 220 touchmove 178 92    john 1
+john_this_message_concerns_me 1581258799447 360 220 touchmove 179 92    john 1
+john_this_message_concerns_me 1581258799466 360 220 touchmove 185 92    john 1
+john_this_message_concerns_me 1581258799481 360 220 touchmove 195 94    john 1
+john_this_message_concerns_me 1581258799497 360 220 touchmove 197 95    john 1
+john_this_message_concerns_me 1581258799515 360 220 touchmove 200 98    john 1
+john_this_message_concerns_me 1581258799532 360 220 touchmove 202 99    john 1
+john_this_message_concerns_me 1581258799547 360 220 touchmove 204 99    john 1
+john_this_message_concerns_me 1581258799563 360 220 touchmove 205 99    john 1
+john_this_message_concerns_me 1581258799580 360 220 touchmove 207 98    john 1
+john_this_message_concerns_me 1581258799604 360 220 touchmove 208 98    john 1
+john_this_message_concerns_me 1581258799616 360 220 touchmove 209 97    john 1
+john_this_message_concerns_me 1581258799631 360 220 touchmove 211 95    john 1
+john_this_message_concerns_me 1581258799647 360 220 touchmove 212 94    john 1
+john_this_message_concerns_me 1581258799664 360 220 touchmove 212 93    john 1
+john_this_message_concerns_me 1581258799682 360 220 touchmove 213 92    john 1
+john_this_message_concerns_me 1581258799698 360 220 touchmove 214 91    john 1
+john_this_message_concerns_me 1581258799713 360 220 touchmove 214 90    john 1
+john_this_message_concerns_me 1581258799735 360 220 touchmove 217 89    john 1
+john_this_message_concerns_me 1581258799749 360 220 touchmove 218 88    john 1
+john_this_message_concerns_me 1581258799765 360 220 touchmove 222 87    john 1
+john_this_message_concerns_me 1581258799781 360 220 touchmove 225 86    john 1
+john_this_message_concerns_me 1581258799797 360 220 touchmove 227 85    john 1
+john_this_message_concerns_me 1581258799814 360 220 touchmove 228 84    john 1
+john_this_message_concerns_me 1581258799978 360 220 touchmove 232 84    john 1
+john_this_message_concerns_me 1581258799995 360 220 touchmove 234 84    john 1
+john_this_message_concerns_me 1581258800011 360 220 touchmove 235 84    john 1
+john_this_message_concerns_me 1581258800111 360 220 touchmove 235 84    john 1
+john_this_message_concerns_me 1581258800127 360 220 touchmove 236 84    john 1
+john_this_message_concerns_me 1581258800146 360 220 touchmove 241 84    john 1
+john_this_message_concerns_me 1581258800163 360 220 touchmove 248 84    john 1
+john_this_message_concerns_me 1581258800178 360 220 touchmove 252 84    john 1
+john_this_message_concerns_me 1581258800196 360 220 touchmove 257 84    john 1
+john_this_message_concerns_me 1581258800213 360 220 touchmove 257 84    john 1
+john_this_message_concerns_me 1581258800427 360 220 touchmove 258 84    john 1
+john_this_message_concerns_me 1581258800477 360 220 touchmove 257 84    john 1
+john_this_message_concerns_me 1581258800493 360 220 touchmove 251 85    john 1
+john_this_message_concerns_me 1581258800510 360 220 touchmove 249 85    john 1
+john_this_message_concerns_me 1581258800528 360 220 touchmove 248 86    john 1
+john_this_message_concerns_me 1581258800599 360 220 touchstart 248 86    john 1
+john_this_message_concerns_me 1581258800692 360 220 touchmove 248 86    john 1
+john_this_message_concerns_me 1581258800776 360 220 touchmove 247 87    john 1
+john_this_message_concerns_me 1581258800792 360 220 touchmove 245 87    john 1
+john_this_message_concerns_me 1581258800809 360 220 touchmove 243 85    john 1
+john_this_message_concerns_me 1581258800828 360 220 touchmove 243 79    john 1
+john_this_message_concerns_me 1581258800846 360 220 touchmove 244 75    john 1
+john_this_message_concerns_me 1581258800857 360 220 touchmove 255 68    john 1
+john_this_message_concerns_me 1581258800861 360 220 touchend 257 68    john 1
+john_this_message_concerns_me 1581258796884 360 220 touchmove 321 173    john 1 1
+john_this_message_concerns_me 1581258797123 360 220 touchmove 322 173    john 1 1
+john_this_message_concerns_me 1581258797270 360 220 touchmove 321 173    john 1 1
+john_this_message_concerns_me 1581258797287 360 220 touchmove 319 174    john 1 1
+john_this_message_concerns_me 1581258797304 360 220 touchmove 318 174    john 1 1
+john_this_message_concerns_me 1581258797321 360 220 touchmove 315 174    john 1 1
+john_this_message_concerns_me 1581258797338 360 220 touchmove 309 174    john 1 1
+john_this_message_concerns_me 1581258797354 360 220 touchmove 305 174    john 1 1
+john_this_message_concerns_me 1581258797373 360 220 touchmove 300 172    john 1 1
+john_this_message_concerns_me 1581258797388 360 220 touchmove 297 172    john 1 1
+john_this_message_concerns_me 1581258797422 360 220 touchmove 297 172    john 1 1
+john_this_message_concerns_me 1581258797686 360 220 touchmove 296 172    john 1 1
+john_this_message_concerns_me 1581258797703 360 220 touchmove 296 173    john 1 1
+john_this_message_concerns_me 1581258797853 360 220 touchmove 296 174    john 1 1
+john_this_message_concerns_me 1581258797869 360 220 touchmove 294 174    john 1 1
+john_this_message_concerns_me 1581258797885 360 220 touchmove 292 173    john 1 1
+john_this_message_concerns_me 1581258797902 360 220 touchmove 291 172    john 1 1
+john_this_message_concerns_me 1581258797918 360 220 touchmove 290 167    john 1 1
+john_this_message_concerns_me 1581258797938 360 220 touchmove 286 162    john 1 1
+john_this_message_concerns_me 1581258797955 360 220 touchmove 284 159    john 1 1
+john_this_message_concerns_me 1581258797973 360 220 touchmove 280 157    john 1 1
+john_this_message_concerns_me 1581258797989 360 220 touchmove 278 157    john 1 1
+john_this_message_concerns_me 1581258798003 360 220 touchmove 274 157    john 1 1
+john_this_message_concerns_me 1581258798022 360 220 touchmove 269 157    john 1 1
+john_this_message_concerns_me 1581258798036 360 220 touchmove 267 157    john 1 1
+john_this_message_concerns_me 1581258798053 360 220 touchmove 263 158    john 1 1
+john_this_message_concerns_me 1581258798071 360 220 touchmove 260 158    john 1 1
+john_this_message_concerns_me 1581258798088 360 220 touchmove 253 159    john 1 1
+john_this_message_concerns_me 1581258798105 360 220 touchmove 244 161    john 1 1
+john_this_message_concerns_me 1581258798120 360 220 touchmove 239 162    john 1 1
+john_this_message_concerns_me 1581258798137 360 220 touchmove 232 162    john 1 1
+john_this_message_concerns_me 1581258798154 360 220 touchmove 230 163    john 1 1
+john_this_message_concerns_me 1581258798169 360 220 touchmove 229 164    john 1 1
+john_this_message_concerns_me 1581258798188 360 220 touchmove 227 165    john 1 1
+john_this_message_concerns_me 1581258798205 360 220 touchmove 227 166    john 1 1
+john_this_message_concerns_me 1581258798367 360 220 touchmove 226 166    john 1 1
+john_this_message_concerns_me 1581258798466 360 220 touchmove 225 166    john 1 1
+john_this_message_concerns_me 1581258798483 360 220 touchmove 224 166    john 1 1
+john_this_message_concerns_me 1581258798499 360 220 touchmove 222 166    john 1 1
+john_this_message_concerns_me 1581258798516 360 220 touchmove 217 162    john 1 1
+john_this_message_concerns_me 1581258798533 360 220 touchmove 213 159    john 1 1
+john_this_message_concerns_me 1581258798549 360 220 touchmove 204 154    john 1 1
+john_this_message_concerns_me 1581258798567 360 220 touchmove 195 149    john 1 1
+john_this_message_concerns_me 1581258798584 360 220 touchmove 192 147    john 1 1
+john_this_message_concerns_me 1581258798601 360 220 touchmove 190 144    john 1 1
+john_this_message_concerns_me 1581258798633 360 220 touchmove 188 142    john 1 1
+john_this_message_concerns_me 1581258798649 360 220 touchmove 180 131    john 1 1
+john_this_message_concerns_me 1581258798668 360 220 touchmove 162 112    john 1 1
+john_this_message_concerns_me 1581258798684 360 220 touchmove 143 98    john 1 1
+john_this_message_concerns_me 1581258798701 360 220 touchmove 109 77    john 1 1
+john_this_message_concerns_me 1581258798716 360 220 touchmove 98 70    john 1 1
+john_this_message_concerns_me 1581258798733 360 220 touchmove 90 74    john 1 1
+john_this_message_concerns_me 1581258798750 360 220 touchmove 83 75    john 1 1
+john_this_message_concerns_me 1581258798815 360 220 touchmove 83 74    john 1 1
+john_this_message_concerns_me 1581258798832 360 220 touchmove 84 66    john 1 1
+john_this_message_concerns_me 1581258798850 360 220 touchmove 87 60    john 1 1
+john_this_message_concerns_me 1581258798882 360 220 touchmove 89 56    john 1 1
+john_this_message_concerns_me 1581258798898 360 220 touchmove 91 52    john 1 1
+john_this_message_concerns_me 1581258798916 360 220 touchmove 94 49    john 1 1
+john_this_message_concerns_me 1581258798933 360 220 touchmove 95 47    john 1 1
+john_this_message_concerns_me 1581258798948 360 220 touchmove 98 43    john 1 1
+john_this_message_concerns_me 1581258798964 360 220 touchmove 101 42    john 1 1
+john_this_message_concerns_me 1581258798983 360 220 touchmove 102 42    john 1 1
+john_this_message_concerns_me 1581258798999 360 220 touchmove 106 42    john 1 1
+john_this_message_concerns_me 1581258799017 360 220 touchmove 108 44    john 1 1
+john_this_message_concerns_me 1581258799033 360 220 touchmove 112 45    john 1 1
+john_this_message_concerns_me 1581258799052 360 220 touchmove 117 46    john 1 1
+john_this_message_concerns_me 1581258799069 360 220 touchmove 118 47    john 1 1
+john_this_message_concerns_me 1581258799085 360 220 touchmove 120 48    john 1 1
+john_this_message_concerns_me 1581258799099 360 220 touchmove 124 51    john 1 1
+john_this_message_concerns_me 1581258799131 360 220 touchmove 125 52    john 1 1
+john_this_message_concerns_me 1581258799147 360 220 touchmove 126 53    john 1 1
+john_this_message_concerns_me 1581258799166 360 220 touchmove 127 54    john 1 1
+john_this_message_concerns_me 1581258799185 360 220 touchmove 129 57    john 1 1
+john_this_message_concerns_me 1581258799198 360 220 touchmove 133 62    john 1 1
+john_this_message_concerns_me 1581258799214 360 220 touchmove 135 65    john 1 1
+john_this_message_concerns_me 1581258799231 360 220 touchmove 143 71    john 1 1
+john_this_message_concerns_me 1581258799247 360 220 touchmove 152 77    john 1 1
+john_this_message_concerns_me 1581258799264 360 220 touchmove 156 80    john 1 1
+john_this_message_concerns_me 1581258799281 360 220 touchmove 162 84    john 1 1
+john_this_message_concerns_me 1581258799297 360 220 touchmove 168 88    john 1 1
+john_this_message_concerns_me 1581258799314 360 220 touchmove 169 89    john 1 1
+john_this_message_concerns_me 1581258799330 360 220 touchmove 169 89    john 1 1
+john_this_message_concerns_me 1581258799348 360 220 touchmove 170 89    john 1 1
+john_this_message_concerns_me 1581258799382 360 220 touchmove 172 89    john 1 1
+john_this_message_concerns_me 1581258799401 360 220 touchmove 173 90    john 1 1
+john_this_message_concerns_me 1581258799415 360 220 touchmove 174 91    john 1 1
+john_this_message_concerns_me 1581258799432 360 220 touchmove 178 92    john 1 1
+john_this_message_concerns_me 1581258799447 360 220 touchmove 179 92    john 1 1
+john_this_message_concerns_me 1581258799466 360 220 touchmove 185 92    john 1 1
+john_this_message_concerns_me 1581258799481 360 220 touchmove 195 94    john 1 1
+john_this_message_concerns_me 1581258799497 360 220 touchmove 197 95    john 1 1
+john_this_message_concerns_me 1581258799515 360 220 touchmove 200 98    john 1 1
+john_this_message_concerns_me 1581258799532 360 220 touchmove 202 99    john 1 1
+john_this_message_concerns_me 1581258799547 360 220 touchmove 204 99    john 1 1
+john_this_message_concerns_me 1581258799563 360 220 touchmove 205 99    john 1 1
+john_this_message_concerns_me 1581258799580 360 220 touchmove 207 98    john 1 1
+john_this_message_concerns_me 1581258799604 360 220 touchmove 208 98    john 1 1
+john_this_message_concerns_me 1581258799616 360 220 touchmove 209 97    john 1 1
+john_this_message_concerns_me 1581258799631 360 220 touchmove 211 95    john 1 1
+john_this_message_concerns_me 1581258799647 360 220 touchmove 212 94    john 1 1
+john_this_message_concerns_me 1581258799664 360 220 touchmove 212 93    john 1 1
+john_this_message_concerns_me 1581258799682 360 220 touchmove 213 92    john 1 1
+john_this_message_concerns_me 1581258799698 360 220 touchmove 214 91    john 1 1
+john_this_message_concerns_me 1581258799713 360 220 touchmove 214 90    john 1 1
+john_this_message_concerns_me 1581258799735 360 220 touchmove 217 89    john 1 1
+john_this_message_concerns_me 1581258799749 360 220 touchmove 218 88    john 1 1
+john_this_message_concerns_me 1581258799765 360 220 touchmove 222 87    john 1 1
+john_this_message_concerns_me 1581258799781 360 220 touchmove 225 86    john 1 1
+john_this_message_concerns_me 1581258799797 360 220 touchmove 227 85    john 1 1
+john_this_message_concerns_me 1581258799814 360 220 touchmove 228 84    john 1 1
+john_this_message_concerns_me 1581258799978 360 220 touchmove 232 84    john 1 1
+john_this_message_concerns_me 1581258799995 360 220 touchmove 234 84    john 1 1
+john_this_message_concerns_me 1581258800011 360 220 touchmove 235 84    john 1 1
+john_this_message_concerns_me 1581258800111 360 220 touchmove 235 84    john 1 1
+john_this_message_concerns_me 1581258800127 360 220 touchmove 236 84    john 1 1
+john_this_message_concerns_me 1581258800146 360 220 touchmove 241 84    john 1 1
+john_this_message_concerns_me 1581258800163 360 220 touchmove 248 84    john 1 1
+john_this_message_concerns_me 1581258800178 360 220 touchmove 252 84    john 1 1
+john_this_message_concerns_me 1581258800196 360 220 touchmove 257 84    john 1 1
+john_this_message_concerns_me 1581258800213 360 220 touchmove 257 84    john 1 1
+john_this_message_concerns_me 1581258800427 360 220 touchmove 258 84    john 1 1
+john_this_message_concerns_me 1581258800477 360 220 touchmove 257 84    john 1 1
+john_this_message_concerns_me 1581258800493 360 220 touchmove 251 85    john 1 1
+john_this_message_concerns_me 1581258800510 360 220 touchmove 249 85    john 1 1
+john_this_message_concerns_me 1581258800528 360 220 touchmove 248 86    john 1 1
+john_this_message_concerns_me 1581258800599 360 220 touchstart 248 86    john 1 1
+john_this_message_concerns_me 1581258800692 360 220 touchmove 248 86    john 1 1
+john_this_message_concerns_me 1581258800776 360 220 touchmove 247 87    john 1 1
+john_this_message_concerns_me 1581258800792 360 220 touchmove 245 87    john 1 1
+john_this_message_concerns_me 1581258800809 360 220 touchmove 243 85    john 1 1
+john_this_message_concerns_me 1581258800828 360 220 touchmove 243 79    john 1 1
+john_this_message_concerns_me 1581258800846 360 220 touchmove 244 75    john 1 1
+john_this_message_concerns_me 1581258800857 360 220 touchmove 255 68    john 1 1
+john_this_message_concerns_me 1581258800861 360 220 touchend 257 68    john 1 1
+john_this_message_concerns_me 1581258800885 360 220 touchmove 260 67    john 1
+john_this_message_concerns_me 1581258800909 360 220 touchmove 262 64    john 1
+john_this_message_concerns_me 1581258800924 360 220 touchmove 265 61    john 1
+john_this_message_concerns_me 1581258800942 360 220 touchmove 267 60    john 1
+john_this_message_concerns_me 1581258800958 360 220 touchmove 268 57    john 1
+john_this_message_concerns_me 1581258800975 360 220 touchmove 270 56    john 1
+john_this_message_concerns_me 1581258800992 360 220 touchmove 272 53    john 1
+john_this_message_concerns_me 1581258801012 360 220 touchmove 274 51    john 1
+john_this_message_concerns_me 1581258801027 360 220 touchmove 275 49    john 1
+john_this_message_concerns_me 1581258801042 360 220 touchmove 277 46    john 1
+john_this_message_concerns_me 1581258801058 360 220 touchmove 280 42    john 1
+john_this_message_concerns_me 1581258801075 360 220 touchmove 283 39    john 1
+john_this_message_concerns_me 1581258801092 360 220 touchmove 287 37    john 1
+john_this_message_concerns_me 1581258801110 360 220 touchmove 289 34    john 1
+john_this_message_concerns_me 1581258801124 360 220 touchmove 290 32    john 1
+john_this_message_concerns_me 1581258801141 360 220 touchmove 291 30    john 1
+john_this_message_concerns_me 1581258801157 360 220 touchmove 292 29    john 1
+john_this_message_concerns_me 1581258801175 360 220 touchmove 293 29    john 1
+john_this_message_concerns_me 1581258801191 360 220 touchmove 294 28    john 1
+john_this_message_concerns_me 1581258801208 360 220 touchmove 297 26    john 1
+john_this_message_concerns_me 1581258801273 360 220 touchmove 298 26    john 1
+john_this_message_concerns_me 1581258801291 360 220 touchmove 298 26    john 1
+john_this_message_concerns_me 1581258801308 360 220 touchmove 299 25    john 1
+john_this_message_concerns_me 1581258801327 360 220 touchmove 301 24    john 1
+john_this_message_concerns_me 1581258801423 360 220 touchmove 302 23    john 1
+john_this_message_concerns_me 1581258801465 360 220 touchstart 302 23    john 1
+john_this_message_concerns_me 1581258801639 360 220 touchmove 302 24    john 1
+john_this_message_concerns_me 1581258801654 360 220 touchmove 282 37    john 1
+john_this_message_concerns_me 1581258801657 360 220 touchend 269 42    john 1
+john_this_message_concerns_me 1581258796884 360 220 touchmove 321 173    john 1 1 1
+john_this_message_concerns_me 1581258797123 360 220 touchmove 322 173    john 1 1 1
+john_this_message_concerns_me 1581258797270 360 220 touchmove 321 173    john 1 1 1
+john_this_message_concerns_me 1581258797287 360 220 touchmove 319 174    john 1 1 1
+john_this_message_concerns_me 1581258797304 360 220 touchmove 318 174    john 1 1 1
+john_this_message_concerns_me 1581258797321 360 220 touchmove 315 174    john 1 1 1
+john_this_message_concerns_me 1581258797338 360 220 touchmove 309 174    john 1 1 1
+john_this_message_concerns_me 1581258797354 360 220 touchmove 305 174    john 1 1 1
+john_this_message_concerns_me 1581258797373 360 220 touchmove 300 172    john 1 1 1
+john_this_message_concerns_me 1581258797388 360 220 touchmove 297 172    john 1 1 1
+john_this_message_concerns_me 1581258797422 360 220 touchmove 297 172    john 1 1 1
+john_this_message_concerns_me 1581258797686 360 220 touchmove 296 172    john 1 1 1
+john_this_message_concerns_me 1581258797703 360 220 touchmove 296 173    john 1 1 1
+john_this_message_concerns_me 1581258797853 360 220 touchmove 296 174    john 1 1 1
+john_this_message_concerns_me 1581258797869 360 220 touchmove 294 174    john 1 1 1
+john_this_message_concerns_me 1581258797885 360 220 touchmove 292 173    john 1 1 1
+john_this_message_concerns_me 1581258797902 360 220 touchmove 291 172    john 1 1 1
+john_this_message_concerns_me 1581258797918 360 220 touchmove 290 167    john 1 1 1
+john_this_message_concerns_me 1581258797938 360 220 touchmove 286 162    john 1 1 1
+john_this_message_concerns_me 1581258797955 360 220 touchmove 284 159    john 1 1 1
+john_this_message_concerns_me 1581258797973 360 220 touchmove 280 157    john 1 1 1
+john_this_message_concerns_me 1581258797989 360 220 touchmove 278 157    john 1 1 1
+john_this_message_concerns_me 1581258798003 360 220 touchmove 274 157    john 1 1 1
+john_this_message_concerns_me 1581258798022 360 220 touchmove 269 157    john 1 1 1
+john_this_message_concerns_me 1581258798036 360 220 touchmove 267 157    john 1 1 1
+john_this_message_concerns_me 1581258798053 360 220 touchmove 263 158    john 1 1 1
+john_this_message_concerns_me 1581258798071 360 220 touchmove 260 158    john 1 1 1
+john_this_message_concerns_me 1581258798088 360 220 touchmove 253 159    john 1 1 1
+john_this_message_concerns_me 1581258798105 360 220 touchmove 244 161    john 1 1 1
+john_this_message_concerns_me 1581258798120 360 220 touchmove 239 162    john 1 1 1
+john_this_message_concerns_me 1581258798137 360 220 touchmove 232 162    john 1 1 1
+john_this_message_concerns_me 1581258798154 360 220 touchmove 230 163    john 1 1 1
+john_this_message_concerns_me 1581258798169 360 220 touchmove 229 164    john 1 1 1
+john_this_message_concerns_me 1581258798188 360 220 touchmove 227 165    john 1 1 1
+john_this_message_concerns_me 1581258798205 360 220 touchmove 227 166    john 1 1 1
+john_this_message_concerns_me 1581258798367 360 220 touchmove 226 166    john 1 1 1
+john_this_message_concerns_me 1581258798466 360 220 touchmove 225 166    john 1 1 1
+john_this_message_concerns_me 1581258798483 360 220 touchmove 224 166    john 1 1 1
+john_this_message_concerns_me 1581258798499 360 220 touchmove 222 166    john 1 1 1
+john_this_message_concerns_me 1581258798516 360 220 touchmove 217 162    john 1 1 1
+john_this_message_concerns_me 1581258798533 360 220 touchmove 213 159    john 1 1 1
+john_this_message_concerns_me 1581258798549 360 220 touchmove 204 154    john 1 1 1
+john_this_message_concerns_me 1581258798567 360 220 touchmove 195 149    john 1 1 1
+john_this_message_concerns_me 1581258798584 360 220 touchmove 192 147    john 1 1 1
+john_this_message_concerns_me 1581258798601 360 220 touchmove 190 144    john 1 1 1
+john_this_message_concerns_me 1581258798633 360 220 touchmove 188 142    john 1 1 1
+john_this_message_concerns_me 1581258798649 360 220 touchmove 180 131    john 1 1 1
+john_this_message_concerns_me 1581258798668 360 220 touchmove 162 112    john 1 1 1
+john_this_message_concerns_me 1581258798684 360 220 touchmove 143 98    john 1 1 1
+john_this_message_concerns_me 1581258798701 360 220 touchmove 109 77    john 1 1 1
+john_this_message_concerns_me 1581258798716 360 220 touchmove 98 70    john 1 1 1
+john_this_message_concerns_me 1581258798733 360 220 touchmove 90 74    john 1 1 1
+john_this_message_concerns_me 1581258798750 360 220 touchmove 83 75    john 1 1 1
+john_this_message_concerns_me 1581258798815 360 220 touchmove 83 74    john 1 1 1
+john_this_message_concerns_me 1581258798832 360 220 touchmove 84 66    john 1 1 1
+john_this_message_concerns_me 1581258798850 360 220 touchmove 87 60    john 1 1 1
+john_this_message_concerns_me 1581258798882 360 220 touchmove 89 56    john 1 1 1
+john_this_message_concerns_me 1581258798898 360 220 touchmove 91 52    john 1 1 1
+john_this_message_concerns_me 1581258798916 360 220 touchmove 94 49    john 1 1 1
+john_this_message_concerns_me 1581258798933 360 220 touchmove 95 47    john 1 1 1
+john_this_message_concerns_me 1581258798948 360 220 touchmove 98 43    john 1 1 1
+john_this_message_concerns_me 1581258798964 360 220 touchmove 101 42    john 1 1 1
+john_this_message_concerns_me 1581258798983 360 220 touchmove 102 42    john 1 1 1
+john_this_message_concerns_me 1581258798999 360 220 touchmove 106 42    john 1 1 1
+john_this_message_concerns_me 1581258799017 360 220 touchmove 108 44    john 1 1 1
+john_this_message_concerns_me 1581258799033 360 220 touchmove 112 45    john 1 1 1
+john_this_message_concerns_me 1581258799052 360 220 touchmove 117 46    john 1 1 1
+john_this_message_concerns_me 1581258799069 360 220 touchmove 118 47    john 1 1 1
+john_this_message_concerns_me 1581258799085 360 220 touchmove 120 48    john 1 1 1
+john_this_message_concerns_me 1581258799099 360 220 touchmove 124 51    john 1 1 1
+john_this_message_concerns_me 1581258799131 360 220 touchmove 125 52    john 1 1 1
+john_this_message_concerns_me 1581258799147 360 220 touchmove 126 53    john 1 1 1
+john_this_message_concerns_me 1581258799166 360 220 touchmove 127 54    john 1 1 1
+john_this_message_concerns_me 1581258799185 360 220 touchmove 129 57    john 1 1 1
+john_this_message_concerns_me 1581258799198 360 220 touchmove 133 62    john 1 1 1
+john_this_message_concerns_me 1581258799214 360 220 touchmove 135 65    john 1 1 1
+john_this_message_concerns_me 1581258799231 360 220 touchmove 143 71    john 1 1 1
+john_this_message_concerns_me 1581258799247 360 220 touchmove 152 77    john 1 1 1
+john_this_message_concerns_me 1581258799264 360 220 touchmove 156 80    john 1 1 1
+john_this_message_concerns_me 1581258799281 360 220 touchmove 162 84    john 1 1 1
+john_this_message_concerns_me 1581258799297 360 220 touchmove 168 88    john 1 1 1
+john_this_message_concerns_me 1581258799314 360 220 touchmove 169 89    john 1 1 1
+john_this_message_concerns_me 1581258799330 360 220 touchmove 169 89    john 1 1 1
+john_this_message_concerns_me 1581258799348 360 220 touchmove 170 89    john 1 1 1
+john_this_message_concerns_me 1581258799382 360 220 touchmove 172 89    john 1 1 1
+john_this_message_concerns_me 1581258799401 360 220 touchmove 173 90    john 1 1 1
+john_this_message_concerns_me 1581258799415 360 220 touchmove 174 91    john 1 1 1
+john_this_message_concerns_me 1581258799432 360 220 touchmove 178 92    john 1 1 1
+john_this_message_concerns_me 1581258799447 360 220 touchmove 179 92    john 1 1 1
+john_this_message_concerns_me 1581258799466 360 220 touchmove 185 92    john 1 1 1
+john_this_message_concerns_me 1581258799481 360 220 touchmove 195 94    john 1 1 1
+john_this_message_concerns_me 1581258799497 360 220 touchmove 197 95    john 1 1 1
+john_this_message_concerns_me 1581258799515 360 220 touchmove 200 98    john 1 1 1
+john_this_message_concerns_me 1581258799532 360 220 touchmove 202 99    john 1 1 1
+john_this_message_concerns_me 1581258799547 360 220 touchmove 204 99    john 1 1 1
+john_this_message_concerns_me 1581258799563 360 220 touchmove 205 99    john 1 1 1
+john_this_message_concerns_me 1581258799580 360 220 touchmove 207 98    john 1 1 1
+john_this_message_concerns_me 1581258799604 360 220 touchmove 208 98    john 1 1 1
+john_this_message_concerns_me 1581258799616 360 220 touchmove 209 97    john 1 1 1
+john_this_message_concerns_me 1581258799631 360 220 touchmove 211 95    john 1 1 1
+john_this_message_concerns_me 1581258799647 360 220 touchmove 212 94    john 1 1 1
+john_this_message_concerns_me 1581258799664 360 220 touchmove 212 93    john 1 1 1
+john_this_message_concerns_me 1581258799682 360 220 touchmove 213 92    john 1 1 1
+john_this_message_concerns_me 1581258799698 360 220 touchmove 214 91    john 1 1 1
+john_this_message_concerns_me 1581258799713 360 220 touchmove 214 90    john 1 1 1
+john_this_message_concerns_me 1581258799735 360 220 touchmove 217 89    john 1 1 1
+john_this_message_concerns_me 1581258799749 360 220 touchmove 218 88    john 1 1 1
+john_this_message_concerns_me 1581258799765 360 220 touchmove 222 87    john 1 1 1
+john_this_message_concerns_me 1581258799781 360 220 touchmove 225 86    john 1 1 1
+john_this_message_concerns_me 1581258799797 360 220 touchmove 227 85    john 1 1 1
+john_this_message_concerns_me 1581258799814 360 220 touchmove 228 84    john 1 1 1
+john_this_message_concerns_me 1581258799978 360 220 touchmove 232 84    john 1 1 1
+john_this_message_concerns_me 1581258799995 360 220 touchmove 234 84    john 1 1 1
+john_this_message_concerns_me 1581258800011 360 220 touchmove 235 84    john 1 1 1
+john_this_message_concerns_me 1581258800111 360 220 touchmove 235 84    john 1 1 1
+john_this_message_concerns_me 1581258800127 360 220 touchmove 236 84    john 1 1 1
+john_this_message_concerns_me 1581258800146 360 220 touchmove 241 84    john 1 1 1
+john_this_message_concerns_me 1581258800163 360 220 touchmove 248 84    john 1 1 1
+john_this_message_concerns_me 1581258800178 360 220 touchmove 252 84    john 1 1 1
+john_this_message_concerns_me 1581258800196 360 220 touchmove 257 84    john 1 1 1
+john_this_message_concerns_me 1581258800213 360 220 touchmove 257 84    john 1 1 1
+john_this_message_concerns_me 1581258800427 360 220 touchmove 258 84    john 1 1 1
+john_this_message_concerns_me 1581258800477 360 220 touchmove 257 84    john 1 1 1
+john_this_message_concerns_me 1581258800493 360 220 touchmove 251 85    john 1 1 1
+john_this_message_concerns_me 1581258800510 360 220 touchmove 249 85    john 1 1 1
+john_this_message_concerns_me 1581258800528 360 220 touchmove 248 86    john 1 1 1
+john_this_message_concerns_me 1581258800599 360 220 touchstart 248 86    john 1 1 1
+john_this_message_concerns_me 1581258800692 360 220 touchmove 248 86    john 1 1 1
+john_this_message_concerns_me 1581258800776 360 220 touchmove 247 87    john 1 1 1
+john_this_message_concerns_me 1581258800792 360 220 touchmove 245 87    john 1 1 1
+john_this_message_concerns_me 1581258800809 360 220 touchmove 243 85    john 1 1 1
+john_this_message_concerns_me 1581258800828 360 220 touchmove 243 79    john 1 1 1
+john_this_message_concerns_me 1581258800846 360 220 touchmove 244 75    john 1 1 1
+john_this_message_concerns_me 1581258800857 360 220 touchmove 255 68    john 1 1 1
+john_this_message_concerns_me 1581258800861 360 220 touchend 257 68    john 1 1 1
+john_this_message_concerns_me 1581258800885 360 220 touchmove 260 67    john 1 1
+john_this_message_concerns_me 1581258800909 360 220 touchmove 262 64    john 1 1
+john_this_message_concerns_me 1581258800924 360 220 touchmove 265 61    john 1 1
+john_this_message_concerns_me 1581258800942 360 220 touchmove 267 60    john 1 1
+john_this_message_concerns_me 1581258800958 360 220 touchmove 268 57    john 1 1
+john_this_message_concerns_me 1581258800975 360 220 touchmove 270 56    john 1 1
+john_this_message_concerns_me 1581258800992 360 220 touchmove 272 53    john 1 1
+john_this_message_concerns_me 1581258801012 360 220 touchmove 274 51    john 1 1
+john_this_message_concerns_me 1581258801027 360 220 touchmove 275 49    john 1 1
+john_this_message_concerns_me 1581258801042 360 220 touchmove 277 46    john 1 1
+john_this_message_concerns_me 1581258801058 360 220 touchmove 280 42    john 1 1
+john_this_message_concerns_me 1581258801075 360 220 touchmove 283 39    john 1 1
+john_this_message_concerns_me 1581258801092 360 220 touchmove 287 37    john 1 1
+john_this_message_concerns_me 1581258801110 360 220 touchmove 289 34    john 1 1
+john_this_message_concerns_me 1581258801124 360 220 touchmove 290 32    john 1 1
+john_this_message_concerns_me 1581258801141 360 220 touchmove 291 30    john 1 1
+john_this_message_concerns_me 1581258801157 360 220 touchmove 292 29    john 1 1
+john_this_message_concerns_me 1581258801175 360 220 touchmove 293 29    john 1 1
+john_this_message_concerns_me 1581258801191 360 220 touchmove 294 28    john 1 1
+john_this_message_concerns_me 1581258801208 360 220 touchmove 297 26    john 1 1
+john_this_message_concerns_me 1581258801273 360 220 touchmove 298 26    john 1 1
+john_this_message_concerns_me 1581258801291 360 220 touchmove 298 26    john 1 1
+john_this_message_concerns_me 1581258801308 360 220 touchmove 299 25    john 1 1
+john_this_message_concerns_me 1581258801327 360 220 touchmove 301 24    john 1 1
+john_this_message_concerns_me 1581258801423 360 220 touchmove 302 23    john 1 1
+john_this_message_concerns_me 1581258801465 360 220 touchstart 302 23    john 1 1
+john_this_message_concerns_me 1581258801639 360 220 touchmove 302 24    john 1 1
+john_this_message_concerns_me 1581258801654 360 220 touchmove 282 37    john 1 1
+john_this_message_concerns_me 1581258801657 360 220 touchend 269 42    john 1 1
+john_this_message_concerns_me 1581258801689 360 220 touchmove 249 44    john 1
+john_this_message_concerns_me 1581258801705 360 220 touchmove 220 53    john 1
+john_this_message_concerns_me 1581258801722 360 220 touchmove 208 58    john 1
+john_this_message_concerns_me 1581258801738 360 220 touchmove 191 62    john 1
+john_this_message_concerns_me 1581258801755 360 220 touchmove 188 63    john 1
+john_this_message_concerns_me 1581258801772 360 220 touchmove 187 64    john 1
+john_this_message_concerns_me 1581258801818 360 220 touchmove 186 65    john 1
+john_this_message_concerns_me 1581258801839 360 220 touchmove 180 68    john 1
+john_this_message_concerns_me 1581258801856 360 220 touchmove 178 69    john 1
+john_this_message_concerns_me 1581258801872 360 220 touchmove 176 69    john 1
+john_this_message_concerns_me 1581258801888 360 220 touchmove 175 70    john 1
+john_this_message_concerns_me 1581258801905 360 220 touchmove 174 71    john 1
+john_this_message_concerns_me 1581258801921 360 220 touchmove 173 72    john 1
+john_this_message_concerns_me 1581258801938 360 220 touchmove 171 75    john 1
+john_this_message_concerns_me 1581258801955 360 220 touchmove 170 76    john 1
+john_this_message_concerns_me 1581258801971 360 220 touchmove 170 77    john 1
+john_this_message_concerns_me 1581258801988 360 220 touchmove 170 78    john 1
+john_this_message_concerns_me 1581258802121 360 220 touchmove 170 79    john 1
+john_this_message_concerns_me 1581258802137 360 220 touchmove 174 81    john 1
+john_this_message_concerns_me 1581258802154 360 220 touchmove 176 82    john 1
+john_this_message_concerns_me 1581258802172 360 220 touchmove 188 84    john 1
+john_this_message_concerns_me 1581258802189 360 220 touchmove 198 84    john 1
+john_this_message_concerns_me 1581258802206 360 220 touchmove 203 86    john 1
+john_this_message_concerns_me 1581258802222 360 220 touchmove 206 87    john 1
+john_this_message_concerns_me 1581258802237 360 220 touchmove 207 87    john 1
+john_this_message_concerns_me 1581258802469 360 220 touchmove 209 86    john 1
+john_this_message_concerns_me 1581258802574 360 220 touchstart 209 86    john 1
+john_this_message_concerns_me 1581258802753 360 220 touchend 210 86    john 1
+john_this_message_concerns_me 1581258803515 360 220 touchmove 252 134    john 0
+john_this_message_concerns_me 1581258803523 360 220 touchend 252 136    john 0
+john_this_message_concerns_me 1581258804493 360 220 touchend 183 183    this 1
+john_this_message_concerns_me 1581258804493 360 220 touchend 183 183    this 1 1
+john_this_message_concerns_me 1581258804529 360 220 touchmove 183 183    this 1
+john_this_message_concerns_me 1581258804596 360 220 touchmove 182 182    this 1
+john_this_message_concerns_me 1581258804613 360 220 touchmove 182 181    this 1
+john_this_message_concerns_me 1581258804629 360 220 touchmove 182 179    this 1
+john_this_message_concerns_me 1581258804646 360 220 touchmove 182 176    this 1
+john_this_message_concerns_me 1581258804663 360 220 touchmove 182 175    this 1
+john_this_message_concerns_me 1581258804679 360 220 touchmove 183 171    this 1
+john_this_message_concerns_me 1581258804696 360 220 touchmove 183 167    this 1
+john_this_message_concerns_me 1581258804713 360 220 touchmove 184 165    this 1
+john_this_message_concerns_me 1581258804730 360 220 touchmove 186 156    this 1
+john_this_message_concerns_me 1581258804746 360 220 touchmove 186 154    this 1
+john_this_message_concerns_me 1581258804763 360 220 touchmove 186 148    this 1
+john_this_message_concerns_me 1581258804780 360 220 touchmove 186 144    this 1
+john_this_message_concerns_me 1581258804796 360 220 touchmove 186 141    this 1
+john_this_message_concerns_me 1581258804812 360 220 touchmove 184 138    this 1
+john_this_message_concerns_me 1581258804830 360 220 touchmove 183 135    this 1
+john_this_message_concerns_me 1581258804847 360 220 touchmove 181 132    this 1
+john_this_message_concerns_me 1581258804880 360 220 touchmove 180 126    this 1
+john_this_message_concerns_me 1581258804898 360 220 touchmove 177 119    this 1
+john_this_message_concerns_me 1581258804914 360 220 touchmove 175 114    this 1
+john_this_message_concerns_me 1581258804930 360 220 touchmove 170 107    this 1
+john_this_message_concerns_me 1581258804947 360 220 touchmove 170 102    this 1
+john_this_message_concerns_me 1581258804962 360 220 touchmove 169 100    this 1
+john_this_message_concerns_me 1581258804979 360 220 touchmove 168 96    this 1
+john_this_message_concerns_me 1581258804996 360 220 touchmove 166 91    this 1
+john_this_message_concerns_me 1581258805012 360 220 touchmove 164 88    this 1
+john_this_message_concerns_me 1581258805029 360 220 touchmove 159 80    this 1
+john_this_message_concerns_me 1581258805046 360 220 touchmove 155 74    this 1
+john_this_message_concerns_me 1581258805063 360 220 touchmove 154 71    this 1
+john_this_message_concerns_me 1581258805079 360 220 touchmove 152 66    this 1
+john_this_message_concerns_me 1581258805095 360 220 touchmove 152 63    this 1
+john_this_message_concerns_me 1581258805113 360 220 touchmove 152 62    this 1
+john_this_message_concerns_me 1581258805129 360 220 touchmove 152 58    this 1
+john_this_message_concerns_me 1581258805145 360 220 touchmove 152 54    this 1
+john_this_message_concerns_me 1581258805162 360 220 touchmove 152 52    this 1
+john_this_message_concerns_me 1581258805178 360 220 touchmove 152 48    this 1
+john_this_message_concerns_me 1581258805195 360 220 touchmove 152 44    this 1
+john_this_message_concerns_me 1581258805211 360 220 touchmove 152 43    this 1
+john_this_message_concerns_me 1581258805229 360 220 touchmove 152 37    this 1
+john_this_message_concerns_me 1581258805249 360 220 touchmove 152 35    this 1
+john_this_message_concerns_me 1581258805262 360 220 touchmove 152 33    this 1
+john_this_message_concerns_me 1581258805278 360 220 touchmove 152 31    this 1
+john_this_message_concerns_me 1581258805326 360 220 touchmove 152 29    this 1
+john_this_message_concerns_me 1581258805454 360 220 touchstart 152 29    this 1
+john_this_message_concerns_me 1581258805627 360 220 touchmove 158 30    this 1
+john_this_message_concerns_me 1581258805642 360 220 touchmove 165 36    this 1
+john_this_message_concerns_me 1581258805647 360 220 touchend 168 40    this 1
+john_this_message_concerns_me 1581258806041 360 220 touchmove 200 79    this 1
+john_this_message_concerns_me 1581258806058 360 220 touchmove 201 80    this 1
+john_this_message_concerns_me 1581258806075 360 220 touchmove 202 82    this 1
+john_this_message_concerns_me 1581258806091 360 220 touchmove 204 82    this 1
+john_this_message_concerns_me 1581258806110 360 220 touchmove 210 86    this 1
+john_this_message_concerns_me 1581258806126 360 220 touchstart 211 87    this 1
+john_this_message_concerns_me 1581258806207 360 220 touchmove 212 88    this 1
+john_this_message_concerns_me 1581258806323 360 220 touchmove 213 82    this 1
+john_this_message_concerns_me 1581258806325 360 220 touchend 215 76    this 1
+john_this_message_concerns_me 1581258806041 360 220 touchmove 200 79    this 1 1
+john_this_message_concerns_me 1581258806058 360 220 touchmove 201 80    this 1 1
+john_this_message_concerns_me 1581258806075 360 220 touchmove 202 82    this 1 1
+john_this_message_concerns_me 1581258806091 360 220 touchmove 204 82    this 1 1
+john_this_message_concerns_me 1581258806110 360 220 touchmove 210 86    this 1 1
+john_this_message_concerns_me 1581258806126 360 220 touchstart 211 87    this 1 1
+john_this_message_concerns_me 1581258806207 360 220 touchmove 212 88    this 1 1
+john_this_message_concerns_me 1581258806323 360 220 touchmove 213 82    this 1 1
+john_this_message_concerns_me 1581258806325 360 220 touchend 215 76    this 1 1
+john_this_message_concerns_me 1581258806343 360 220 touchmove 218 70    this 1
+john_this_message_concerns_me 1581258806359 360 220 touchmove 223 59    this 1
+john_this_message_concerns_me 1581258806376 360 220 touchmove 226 51    this 1
+john_this_message_concerns_me 1581258806409 360 220 touchmove 235 37    this 1
+john_this_message_concerns_me 1581258806427 360 220 touchmove 236 35    this 1
+john_this_message_concerns_me 1581258806441 360 220 touchmove 239 31    this 1
+john_this_message_concerns_me 1581258806466 360 220 touchmove 241 29    this 1
+john_this_message_concerns_me 1581258806491 360 220 touchmove 243 27    this 1
+john_this_message_concerns_me 1581258806507 360 220 touchmove 243 26    this 1
+john_this_message_concerns_me 1581258806524 360 220 touchmove 244 25    this 1
+john_this_message_concerns_me 1581258806541 360 220 touchmove 246 23    this 1
+john_this_message_concerns_me 1581258806557 360 220 touchmove 247 22    this 1
+john_this_message_concerns_me 1581258806574 360 220 touchmove 249 22    this 1
+john_this_message_concerns_me 1581258806591 360 220 touchmove 250 21    this 1
+john_this_message_concerns_me 1581258806609 360 220 touchmove 250 21    this 1
+john_this_message_concerns_me 1581258806624 360 220 touchmove 251 20    this 1
+john_this_message_concerns_me 1581258806757 360 220 touchmove 251 19    this 1
+john_this_message_concerns_me 1581258806772 360 220 touchmove 252 19    this 1
+john_this_message_concerns_me 1581258806789 360 220 touchmove 252 19    this 1
+john_this_message_concerns_me 1581258806806 360 220 touchmove 254 19    this 1
+john_this_message_concerns_me 1581258806822 360 220 touchmove 255 19    this 1
+john_this_message_concerns_me 1581258806889 360 220 touchmove 257 20    this 1
+john_this_message_concerns_me 1581258806939 360 220 touchmove 258 20    this 1
+john_this_message_concerns_me 1581258806955 360 220 touchstart 259 21    this 1
+john_this_message_concerns_me 1581258807006 360 220 touchmove 260 23    this 1
+john_this_message_concerns_me 1581258807023 360 220 touchmove 260 24    this 1
+john_this_message_concerns_me 1581258807143 360 220 touchend 256 25    this 1
+john_this_message_concerns_me 1581258806041 360 220 touchmove 200 79    this 1 1 1
+john_this_message_concerns_me 1581258806058 360 220 touchmove 201 80    this 1 1 1
+john_this_message_concerns_me 1581258806075 360 220 touchmove 202 82    this 1 1 1
+john_this_message_concerns_me 1581258806091 360 220 touchmove 204 82    this 1 1 1
+john_this_message_concerns_me 1581258806110 360 220 touchmove 210 86    this 1 1 1
+john_this_message_concerns_me 1581258806126 360 220 touchstart 211 87    this 1 1 1
+john_this_message_concerns_me 1581258806207 360 220 touchmove 212 88    this 1 1 1
+john_this_message_concerns_me 1581258806323 360 220 touchmove 213 82    this 1 1 1
+john_this_message_concerns_me 1581258806325 360 220 touchend 215 76    this 1 1 1
+john_this_message_concerns_me 1581258806343 360 220 touchmove 218 70    this 1 1
+john_this_message_concerns_me 1581258806359 360 220 touchmove 223 59    this 1 1
+john_this_message_concerns_me 1581258806376 360 220 touchmove 226 51    this 1 1
+john_this_message_concerns_me 1581258806409 360 220 touchmove 235 37    this 1 1
+john_this_message_concerns_me 1581258806427 360 220 touchmove 236 35    this 1 1
+john_this_message_concerns_me 1581258806441 360 220 touchmove 239 31    this 1 1
+john_this_message_concerns_me 1581258806466 360 220 touchmove 241 29    this 1 1
+john_this_message_concerns_me 1581258806491 360 220 touchmove 243 27    this 1 1
+john_this_message_concerns_me 1581258806507 360 220 touchmove 243 26    this 1 1
+john_this_message_concerns_me 1581258806524 360 220 touchmove 244 25    this 1 1
+john_this_message_concerns_me 1581258806541 360 220 touchmove 246 23    this 1 1
+john_this_message_concerns_me 1581258806557 360 220 touchmove 247 22    this 1 1
+john_this_message_concerns_me 1581258806574 360 220 touchmove 249 22    this 1 1
+john_this_message_concerns_me 1581258806591 360 220 touchmove 250 21    this 1 1
+john_this_message_concerns_me 1581258806609 360 220 touchmove 250 21    this 1 1
+john_this_message_concerns_me 1581258806624 360 220 touchmove 251 20    this 1 1
+john_this_message_concerns_me 1581258806757 360 220 touchmove 251 19    this 1 1
+john_this_message_concerns_me 1581258806772 360 220 touchmove 252 19    this 1 1
+john_this_message_concerns_me 1581258806789 360 220 touchmove 252 19    this 1 1
+john_this_message_concerns_me 1581258806806 360 220 touchmove 254 19    this 1 1
+john_this_message_concerns_me 1581258806822 360 220 touchmove 255 19    this 1 1
+john_this_message_concerns_me 1581258806889 360 220 touchmove 257 20    this 1 1
+john_this_message_concerns_me 1581258806939 360 220 touchmove 258 20    this 1 1
+john_this_message_concerns_me 1581258806955 360 220 touchstart 259 21    this 1 1
+john_this_message_concerns_me 1581258807006 360 220 touchmove 260 23    this 1 1
+john_this_message_concerns_me 1581258807023 360 220 touchmove 260 24    this 1 1
+john_this_message_concerns_me 1581258807143 360 220 touchend 256 25    this 1 1
+john_this_message_concerns_me 1581258807157 360 220 touchmove 256 25    this 1
+john_this_message_concerns_me 1581258807172 360 220 touchmove 231 28    this 1
+john_this_message_concerns_me 1581258807188 360 220 touchmove 191 32    this 1
+john_this_message_concerns_me 1581258807205 360 220 touchmove 169 36    this 1
+john_this_message_concerns_me 1581258807222 360 220 touchmove 123 41    this 1
+john_this_message_concerns_me 1581258807238 360 220 touchmove 96 45    this 1
+john_this_message_concerns_me 1581258807255 360 220 touchmove 88 45    this 1
+john_this_message_concerns_me 1581258807272 360 220 touchmove 84 47    this 1
+john_this_message_concerns_me 1581258807288 360 220 touchmove 80 48    this 1
+john_this_message_concerns_me 1581258807305 360 220 touchmove 78 48    this 1
+john_this_message_concerns_me 1581258807321 360 220 touchmove 75 50    this 1
+john_this_message_concerns_me 1581258807338 360 220 touchmove 71 53    this 1
+john_this_message_concerns_me 1581258807355 360 220 touchmove 68 54    this 1
+john_this_message_concerns_me 1581258807387 360 220 touchmove 65 56    this 1
+john_this_message_concerns_me 1581258807403 360 220 touchmove 63 58    this 1
+john_this_message_concerns_me 1581258807421 360 220 touchmove 62 59    this 1
+john_this_message_concerns_me 1581258807503 360 220 touchmove 62 60    this 1
+john_this_message_concerns_me 1581258807520 360 220 touchmove 62 61    this 1
+john_this_message_concerns_me 1581258807537 360 220 touchmove 62 62    this 1
+john_this_message_concerns_me 1581258807554 360 220 touchmove 63 64    this 1
+john_this_message_concerns_me 1581258807570 360 220 touchmove 64 66    this 1
+john_this_message_concerns_me 1581258807586 360 220 touchmove 65 69    this 1
+john_this_message_concerns_me 1581258807603 360 220 touchmove 67 72    this 1
+john_this_message_concerns_me 1581258807620 360 220 touchmove 68 74    this 1
+john_this_message_concerns_me 1581258807637 360 220 touchmove 69 77    this 1
+john_this_message_concerns_me 1581258807653 360 220 touchmove 70 79    this 1
+john_this_message_concerns_me 1581258807669 360 220 touchmove 70 80    this 1
+john_this_message_concerns_me 1581258807686 360 220 touchmove 71 81    this 1
+john_this_message_concerns_me 1581258807703 360 220 touchmove 72 83    this 1
+john_this_message_concerns_me 1581258807719 360 220 touchmove 74 84    this 1
+john_this_message_concerns_me 1581258807736 360 220 touchmove 74 86    this 1
+john_this_message_concerns_me 1581258807753 360 220 touchmove 75 87    this 1
+john_this_message_concerns_me 1581258807766 360 220 touchstart 75 87    this 1
+john_this_message_concerns_me 1581258807919 360 220 touchmove 75 87    this 1
+john_this_message_concerns_me 1581258807932 360 220 touchmove 75 88    this 1
+john_this_message_concerns_me 1581258807934 360 220 touchend 75 89    this 1
+john_this_message_concerns_me 1581258808301 360 220 touchmove 160 157    this 1
+john_this_message_concerns_me 1581258808318 360 220 touchmove 163 160    this 1
+john_this_message_concerns_me 1581258808334 360 220 touchmove 166 163    this 1
+john_this_message_concerns_me 1581258808352 360 220 touchmove 168 164    this 1
+john_this_message_concerns_me 1581258808367 360 220 touchmove 170 167    this 1
+john_this_message_concerns_me 1581258808384 360 220 touchmove 172 169    this 1
+john_this_message_concerns_me 1581258808401 360 220 touchmove 173 169    this 1
+john_this_message_concerns_me 1581258808417 360 220 touchmove 174 171    this 1
+john_this_message_concerns_me 1581258808435 360 220 touchmove 175 171    this 1
+john_this_message_concerns_me 1581258808453 360 220 touchmove 176 173    this 1
+john_this_message_concerns_me 1581258808468 360 220 touchmove 178 174    this 1
+john_this_message_concerns_me 1581258808485 360 220 touchmove 178 174    this 1
+john_this_message_concerns_me 1581258808501 360 220 touchmove 179 176    this 1
+john_this_message_concerns_me 1581258808518 360 220 touchmove 181 178    this 1
+john_this_message_concerns_me 1581258808534 360 220 touchmove 182 179    this 1
+john_this_message_concerns_me 1581258808551 360 220 touchmove 183 181    this 1
+john_this_message_concerns_me 1581258808567 360 220 touchmove 185 183    this 1
+john_this_message_concerns_me 1581258808618 360 220 touchmove 187 184    this 1
+john_this_message_concerns_me 1581258808633 360 220 touchmove 188 186    this 1
+john_this_message_concerns_me 1581258808651 360 220 touchmove 189 188    this 1
+john_this_message_concerns_me 1581258808666 360 220 touchmove 189 189    this 1
+john_this_message_concerns_me 1581258808683 360 220 touchmove 190 191    this 1
+john_this_message_concerns_me 1581258808700 360 220 touchmove 191 192    this 1
+john_this_message_concerns_me 1581258808716 360 220 touchmove 192 193    this 1
+john_this_message_concerns_me 1581258808733 360 220 touchmove 194 195    this 1
+john_this_message_concerns_me 1581258808750 360 220 touchmove 196 196    this 1
+john_this_message_concerns_me 1581258808766 360 220 touchmove 197 198    this 1
+john_this_message_concerns_me 1581258808783 360 220 touchmove 197 198    this 1
+john_this_message_concerns_me 1581258808799 360 220 touchmove 198 199    this 1
+john_this_message_concerns_me 1581258808817 360 220 touchmove 198 199    this 1
+john_this_message_concerns_me 1581258808965 360 220 touchmove 198 199    this 1
+john_this_message_concerns_me 1581258809098 360 220 touchmove 197 199    this 1
+john_this_message_concerns_me 1581258809165 360 220 touchmove 196 199    this 1
+john_this_message_concerns_me 1581258809173 360 220 touchmove 195 197    this 1
+john_this_message_concerns_me 1581258809177 360 220 touchend 194 197    this 1
+john_this_message_concerns_me 1581258809929 360 220 touchmove 194 191    this 1
+john_this_message_concerns_me 1581258809946 360 220 touchmove 198 188    this 1
+john_this_message_concerns_me 1581258809963 360 220 touchmove 201 184    this 1
+john_this_message_concerns_me 1581258809980 360 220 touchmove 203 182    this 1
+john_this_message_concerns_me 1581258809996 360 220 touchmove 205 179    this 1
+john_this_message_concerns_me 1581258810012 360 220 touchmove 207 177    this 1
+john_this_message_concerns_me 1581258810030 360 220 touchmove 210 173    this 1
+john_this_message_concerns_me 1581258810046 360 220 touchmove 211 171    this 1
+john_this_message_concerns_me 1581258810062 360 220 touchmove 214 164    this 1
+john_this_message_concerns_me 1581258810081 360 220 touchmove 216 159    this 1
+john_this_message_concerns_me 1581258810096 360 220 touchmove 217 156    this 1
+john_this_message_concerns_me 1581258810118 360 220 touchmove 219 150    this 1
+john_this_message_concerns_me 1581258810131 360 220 touchmove 220 141    this 1
+john_this_message_concerns_me 1581258810146 360 220 touchmove 220 136    this 1
+john_this_message_concerns_me 1581258810162 360 220 touchmove 220 125    this 1
+john_this_message_concerns_me 1581258810181 360 220 touchmove 216 111    this 1
+john_this_message_concerns_me 1581258810196 360 220 touchmove 213 104    this 1
+john_this_message_concerns_me 1581258810213 360 220 touchmove 209 89    this 1
+john_this_message_concerns_me 1581258810230 360 220 touchmove 206 84    this 1
+john_this_message_concerns_me 1581258810247 360 220 touchmove 206 81    this 1
+john_this_message_concerns_me 1581258810263 360 220 touchmove 206 75    this 1
+john_this_message_concerns_me 1581258810281 360 220 touchmove 206 72    this 1
+john_this_message_concerns_me 1581258810297 360 220 touchmove 206 71    this 1
+john_this_message_concerns_me 1581258810312 360 220 touchmove 206 68    this 1
+john_this_message_concerns_me 1581258810329 360 220 touchmove 206 67    this 1
+john_this_message_concerns_me 1581258810345 360 220 touchmove 206 66    this 1
+john_this_message_concerns_me 1581258810378 360 220 touchmove 206 65    this 1
+john_this_message_concerns_me 1581258810394 360 220 touchmove 205 63    this 1
+john_this_message_concerns_me 1581258810412 360 220 touchmove 205 62    this 1
+john_this_message_concerns_me 1581258810428 360 220 touchmove 205 61    this 1
+john_this_message_concerns_me 1581258810445 360 220 touchmove 205 60    this 1
+john_this_message_concerns_me 1581258810462 360 220 touchmove 205 58    this 1
+john_this_message_concerns_me 1581258810478 360 220 touchmove 205 55    this 1
+john_this_message_concerns_me 1581258810495 360 220 touchmove 205 53    this 1
+john_this_message_concerns_me 1581258810513 360 220 touchmove 205 48    this 1
+john_this_message_concerns_me 1581258810528 360 220 touchmove 205 44    this 1
+john_this_message_concerns_me 1581258810545 360 220 touchmove 205 42    this 1
+john_this_message_concerns_me 1581258810562 360 220 touchmove 204 39    this 1
+john_this_message_concerns_me 1581258810578 360 220 touchmove 202 36    this 1
+john_this_message_concerns_me 1581258810595 360 220 touchmove 201 34    this 1
+john_this_message_concerns_me 1581258810612 360 220 touchmove 199 32    this 1
+john_this_message_concerns_me 1581258810629 360 220 touchmove 195 30    this 1
+john_this_message_concerns_me 1581258810645 360 220 touchmove 192 30    this 1
+john_this_message_concerns_me 1581258810662 360 220 touchmove 185 28    this 1
+john_this_message_concerns_me 1581258810679 360 220 touchmove 180 28    this 1
+john_this_message_concerns_me 1581258810695 360 220 touchmove 178 27    this 1
+john_this_message_concerns_me 1581258810712 360 220 touchmove 178 27    this 1
+john_this_message_concerns_me 1581258810777 360 220 touchmove 177 27    this 1
+john_this_message_concerns_me 1581258810960 360 220 touchmove 176 27    this 1
+john_this_message_concerns_me 1581258810976 360 220 touchmove 174 27    this 1
+john_this_message_concerns_me 1581258810995 360 220 touchmove 172 27    this 1
+john_this_message_concerns_me 1581258811013 360 220 touchmove 169 27    this 1
+john_this_message_concerns_me 1581258811060 360 220 touchmove 167 27    this 1
+john_this_message_concerns_me 1581258811225 360 220 touchmove 167 27    this 1
+john_this_message_concerns_me 1581258811255 360 220 touchstart 167 27    this 1
+john_this_message_concerns_me 1581258811292 360 220 touchmove 166 27    this 1
+john_this_message_concerns_me 1581258811372 360 220 touchend 166 27    this 1
+john_this_message_concerns_me 1581258811798 360 220 touchmove 204 68    this 1
+john_this_message_concerns_me 1581258811809 360 220 touchmove 205 68    this 1
+john_this_message_concerns_me 1581258811825 360 220 touchmove 205 68    this 1
+john_this_message_concerns_me 1581258811842 360 220 touchmove 206 70    this 1
+john_this_message_concerns_me 1581258811862 360 220 touchmove 207 70    this 1
+john_this_message_concerns_me 1581258811875 360 220 touchmove 209 72    this 1
+john_this_message_concerns_me 1581258811892 360 220 touchmove 210 74    this 1
+john_this_message_concerns_me 1581258811908 360 220 touchmove 210 75    this 1
+john_this_message_concerns_me 1581258811925 360 220 touchmove 212 77    this 1
+john_this_message_concerns_me 1581258811942 360 220 touchmove 212 79    this 1
+john_this_message_concerns_me 1581258811958 360 220 touchmove 213 80    this 1
+john_this_message_concerns_me 1581258811969 360 220 touchmove 214 81    this 1
+john_this_message_concerns_me 1581258811972 360 220 touchstart 214 82    this 1
+john_this_message_concerns_me 1581258811991 360 220 touchmove 216 83    this 1
+john_this_message_concerns_me 1581258812008 360 220 touchmove 217 84    this 1
+john_this_message_concerns_me 1581258812024 360 220 touchmove 218 86    this 1
+john_this_message_concerns_me 1581258812041 360 220 touchmove 218 86    this 1
+john_this_message_concerns_me 1581258812106 360 220 touchmove 218 87    this 1
+john_this_message_concerns_me 1581258812130 360 220 touchmove 218 88    this 1
+john_this_message_concerns_me 1581258812143 360 220 touchmove 217 89    this 1
+john_this_message_concerns_me 1581258812165 360 220 touchend 216 89    this 1
+john_this_message_concerns_me 1581258811798 360 220 touchmove 204 68    this 1 1
+john_this_message_concerns_me 1581258811809 360 220 touchmove 205 68    this 1 1
+john_this_message_concerns_me 1581258811825 360 220 touchmove 205 68    this 1 1
+john_this_message_concerns_me 1581258811842 360 220 touchmove 206 70    this 1 1
+john_this_message_concerns_me 1581258811862 360 220 touchmove 207 70    this 1 1
+john_this_message_concerns_me 1581258811875 360 220 touchmove 209 72    this 1 1
+john_this_message_concerns_me 1581258811892 360 220 touchmove 210 74    this 1 1
+john_this_message_concerns_me 1581258811908 360 220 touchmove 210 75    this 1 1
+john_this_message_concerns_me 1581258811925 360 220 touchmove 212 77    this 1 1
+john_this_message_concerns_me 1581258811942 360 220 touchmove 212 79    this 1 1
+john_this_message_concerns_me 1581258811958 360 220 touchmove 213 80    this 1 1
+john_this_message_concerns_me 1581258811969 360 220 touchmove 214 81    this 1 1
+john_this_message_concerns_me 1581258811972 360 220 touchstart 214 82    this 1 1
+john_this_message_concerns_me 1581258811991 360 220 touchmove 216 83    this 1 1
+john_this_message_concerns_me 1581258812008 360 220 touchmove 217 84    this 1 1
+john_this_message_concerns_me 1581258812024 360 220 touchmove 218 86    this 1 1
+john_this_message_concerns_me 1581258812041 360 220 touchmove 218 86    this 1 1
+john_this_message_concerns_me 1581258812106 360 220 touchmove 218 87    this 1 1
+john_this_message_concerns_me 1581258812130 360 220 touchmove 218 88    this 1 1
+john_this_message_concerns_me 1581258812143 360 220 touchmove 217 89    this 1 1
+john_this_message_concerns_me 1581258812165 360 220 touchend 216 89    this 1 1
+john_this_message_concerns_me 1581258812182 360 220 touchmove 216 89    this 1
+john_this_message_concerns_me 1581258812206 360 220 touchmove 213 86    this 1
+john_this_message_concerns_me 1581258812222 360 220 touchmove 212 85    this 1
+john_this_message_concerns_me 1581258812239 360 220 touchmove 212 83    this 1
+john_this_message_concerns_me 1581258812255 360 220 touchmove 212 81    this 1
+john_this_message_concerns_me 1581258812273 360 220 touchmove 212 78    this 1
+john_this_message_concerns_me 1581258812289 360 220 touchmove 212 77    this 1
+john_this_message_concerns_me 1581258812306 360 220 touchmove 213 72    this 1
+john_this_message_concerns_me 1581258812323 360 220 touchmove 217 69    this 1
+john_this_message_concerns_me 1581258812342 360 220 touchmove 222 66    this 1
+john_this_message_concerns_me 1581258812362 360 220 touchmove 225 64    this 1
+john_this_message_concerns_me 1581258812375 360 220 touchmove 230 61    this 1
+john_this_message_concerns_me 1581258812390 360 220 touchmove 234 58    this 1
+john_this_message_concerns_me 1581258812407 360 220 touchmove 237 56    this 1
+john_this_message_concerns_me 1581258812422 360 220 touchmove 243 52    this 1
+john_this_message_concerns_me 1581258812440 360 220 touchmove 247 50    this 1
+john_this_message_concerns_me 1581258812456 360 220 touchmove 251 47    this 1
+john_this_message_concerns_me 1581258812475 360 220 touchmove 257 44    this 1
+john_this_message_concerns_me 1581258812490 360 220 touchmove 264 41    this 1
+john_this_message_concerns_me 1581258812506 360 220 touchmove 265 40    this 1
+john_this_message_concerns_me 1581258812523 360 220 touchmove 267 39    this 1
+john_this_message_concerns_me 1581258812540 360 220 touchmove 269 37    this 1
+john_this_message_concerns_me 1581258812556 360 220 touchmove 270 36    this 1
+john_this_message_concerns_me 1581258812573 360 220 touchmove 271 35    this 1
+john_this_message_concerns_me 1581258812589 360 220 touchmove 271 34    this 1
+john_this_message_concerns_me 1581258812606 360 220 touchmove 271 33    this 1
+john_this_message_concerns_me 1581258812622 360 220 touchmove 271 32    this 1
+john_this_message_concerns_me 1581258812638 360 220 touchmove 272 31    this 1
+john_this_message_concerns_me 1581258812687 360 220 touchmove 272 31    this 1
+john_this_message_concerns_me 1581258812704 360 220 touchmove 273 30    this 1
+john_this_message_concerns_me 1581258812915 360 220 touchstart 273 30    this 1
+john_this_message_concerns_me 1581258813044 360 220 touchend 273 30    this 1
+john_this_message_concerns_me 1581258813718 360 220 touchmove 83 81    this 1
+john_this_message_concerns_me 1581258813767 360 220 touchmove 83 81    this 1
+john_this_message_concerns_me 1581258813783 360 220 touchmove 82 82    this 1
+john_this_message_concerns_me 1581258813800 360 220 touchmove 81 82    this 1
+john_this_message_concerns_me 1581258813850 360 220 touchmove 81 83    this 1
+john_this_message_concerns_me 1581258813883 360 220 touchmove 80 83    this 1
+john_this_message_concerns_me 1581258813901 360 220 touchmove 80 84    this 1
+john_this_message_concerns_me 1581258813918 360 220 touchmove 79 84    this 1
+john_this_message_concerns_me 1581258813983 360 220 touchmove 79 84    this 1
+john_this_message_concerns_me 1581258814095 360 220 touchstart 79 84    this 1
+john_this_message_concerns_me 1581258814293 360 220 touchend 79 84    this 1
+john_this_message_concerns_me 1581258814688 360 220 touchmove 137 160    this 1
+john_this_message_concerns_me 1581258814700 360 220 touchmove 138 163    this 1
+john_this_message_concerns_me 1581258814715 360 220 touchmove 139 165    this 1
+john_this_message_concerns_me 1581258814732 360 220 touchmove 141 167    this 1
+john_this_message_concerns_me 1581258814749 360 220 touchmove 143 171    this 1
+john_this_message_concerns_me 1581258814765 360 220 touchmove 144 173    this 1
+john_this_message_concerns_me 1581258814781 360 220 touchmove 144 176    this 1
+john_this_message_concerns_me 1581258814797 360 220 touchmove 145 178    this 1
+john_this_message_concerns_me 1581258814814 360 220 touchmove 145 178    this 1
+john_this_message_concerns_me 1581258814831 360 220 touchmove 146 181    this 1
+john_this_message_concerns_me 1581258814847 360 220 touchmove 146 181    this 1
+john_this_message_concerns_me 1581258814882 360 220 touchmove 147 182    this 1
+john_this_message_concerns_me 1581258814897 360 220 touchmove 147 183    this 1
+john_this_message_concerns_me 1581258814913 360 220 touchmove 148 185    this 1
+john_this_message_concerns_me 1581258814930 360 220 touchmove 148 186    this 1
+john_this_message_concerns_me 1581258814947 360 220 touchmove 149 187    this 1
+john_this_message_concerns_me 1581258814963 360 220 touchmove 150 188    this 1
+john_this_message_concerns_me 1581258814980 360 220 touchmove 150 188    this 1
+john_this_message_concerns_me 1581258814997 360 220 touchmove 151 189    this 1
+john_this_message_concerns_me 1581258815013 360 220 touchmove 151 190    this 1
+john_this_message_concerns_me 1581258815031 360 220 touchmove 151 192    this 1
+john_this_message_concerns_me 1581258815079 360 220 touchmove 152 194    this 1
+john_this_message_concerns_me 1581258815096 360 220 touchmove 153 194    this 1
+john_this_message_concerns_me 1581258815113 360 220 touchmove 153 195    this 1
+john_this_message_concerns_me 1581258815130 360 220 touchmove 153 196    this 1
+john_this_message_concerns_me 1581258815179 360 220 touchmove 154 197    this 1
+john_this_message_concerns_me 1581258815196 360 220 touchmove 154 198    this 1
+john_this_message_concerns_me 1581258815213 360 220 touchmove 155 198    this 1
+john_this_message_concerns_me 1581258815230 360 220 touchmove 157 199    this 1
+john_this_message_concerns_me 1581258815279 360 220 touchmove 157 199    this 1
+john_this_message_concerns_me 1581258815296 360 220 touchmove 158 201    this 1
+john_this_message_concerns_me 1581258815313 360 220 touchmove 159 201    this 1
+john_this_message_concerns_me 1581258815573 360 220 touchmove 158 201    this 1
+john_this_message_concerns_me 1581258815575 360 220 touchend 158 201    this 1
+john_this_message_concerns_me 1581258817762 360 220 touchend 276 148    this 1
+john_this_message_concerns_me 1581258818203 360 220 touchmove 61 24    this 1
+john_this_message_concerns_me 1581258818221 360 220 touchmove 62 23    this 1
+john_this_message_concerns_me 1581258818236 360 220 touchmove 65 23    this 1
+john_this_message_concerns_me 1581258818253 360 220 touchmove 67 23    this 1
+john_this_message_concerns_me 1581258818270 360 220 touchmove 70 23    this 1
+john_this_message_concerns_me 1581258818286 360 220 touchmove 75 23    this 1
+john_this_message_concerns_me 1581258818303 360 220 touchmove 76 23    this 1
+john_this_message_concerns_me 1581258818320 360 220 touchmove 82 25    this 1
+john_this_message_concerns_me 1581258818336 360 220 touchmove 84 25    this 1
+john_this_message_concerns_me 1581258818353 360 220 touchmove 85 25    this 1
+john_this_message_concerns_me 1581258818369 360 220 touchmove 86 25    this 1
+john_this_message_concerns_me 1581258818385 360 220 touchmove 86 25    this 1
+john_this_message_concerns_me 1581258818403 360 220 touchmove 88 25    this 1
+john_this_message_concerns_me 1581258818420 360 220 touchmove 88 27    this 1
+john_this_message_concerns_me 1581258818436 360 220 touchmove 89 28    this 1
+john_this_message_concerns_me 1581258818454 360 220 touchmove 90 29    this 1
+john_this_message_concerns_me 1581258818470 360 220 touchmove 90 29    this 1
+john_this_message_concerns_me 1581258818669 360 220 touchmove 90 30    this 1
+john_this_message_concerns_me 1581258818685 360 220 touchmove 91 31    this 1
+john_this_message_concerns_me 1581258818734 360 220 touchmove 92 31    this 1
+john_this_message_concerns_me 1581258818855 360 220 touchstart 92 31    this 1
+john_this_message_concerns_me 1581258818986 360 220 touchmove 92 31    this 1
+john_this_message_concerns_me 1581258819013 360 220 touchend 92 31    this 1
+john_this_message_concerns_me 1581258819482 360 220 touchmove 83 69    this 1
+john_this_message_concerns_me 1581258819499 360 220 touchmove 83 72    this 1
+john_this_message_concerns_me 1581258819549 360 220 touchmove 83 75    this 1
+john_this_message_concerns_me 1581258819565 360 220 touchmove 82 76    this 1
+john_this_message_concerns_me 1581258819582 360 220 touchmove 82 77    this 1
+john_this_message_concerns_me 1581258819600 360 220 touchmove 82 78    this 1
+john_this_message_concerns_me 1581258819632 360 220 touchmove 82 78    this 1
+john_this_message_concerns_me 1581258819648 360 220 touchmove 81 79    this 1
+john_this_message_concerns_me 1581258819666 360 220 touchmove 81 80    this 1
+john_this_message_concerns_me 1581258819682 360 220 touchmove 80 81    this 1
+john_this_message_concerns_me 1581258819699 360 220 touchmove 80 81    this 1
+john_this_message_concerns_me 1581258819714 360 220 touchmove 80 82    this 1
+john_this_message_concerns_me 1581258819736 360 220 touchstart 80 82    this 1
+john_this_message_concerns_me 1581258819864 360 220 touchmove 80 83    this 1
+john_this_message_concerns_me 1581258819867 360 220 touchend 80 83    this 1
+john_this_message_concerns_me 1581258819482 360 220 touchmove 83 69    this 1 1
+john_this_message_concerns_me 1581258819499 360 220 touchmove 83 72    this 1 1
+john_this_message_concerns_me 1581258819549 360 220 touchmove 83 75    this 1 1
+john_this_message_concerns_me 1581258819565 360 220 touchmove 82 76    this 1 1
+john_this_message_concerns_me 1581258819582 360 220 touchmove 82 77    this 1 1
+john_this_message_concerns_me 1581258819600 360 220 touchmove 82 78    this 1 1
+john_this_message_concerns_me 1581258819632 360 220 touchmove 82 78    this 1 1
+john_this_message_concerns_me 1581258819648 360 220 touchmove 81 79    this 1 1
+john_this_message_concerns_me 1581258819666 360 220 touchmove 81 80    this 1 1
+john_this_message_concerns_me 1581258819682 360 220 touchmove 80 81    this 1 1
+john_this_message_concerns_me 1581258819699 360 220 touchmove 80 81    this 1 1
+john_this_message_concerns_me 1581258819714 360 220 touchmove 80 82    this 1 1
+john_this_message_concerns_me 1581258819736 360 220 touchstart 80 82    this 1 1
+john_this_message_concerns_me 1581258819864 360 220 touchmove 80 83    this 1 1
+john_this_message_concerns_me 1581258819867 360 220 touchend 80 83    this 1 1
+john_this_message_concerns_me 1581258819883 360 220 touchmove 80 83    this 1
+john_this_message_concerns_me 1581258819984 360 220 touchstart 80 84    this 1
+john_this_message_concerns_me 1581258820082 360 220 touchend 79 85    this 1
+john_this_message_concerns_me 1581258820629 360 220 touchmove 32 82    this 1
+john_this_message_concerns_me 1581258820646 360 220 touchstart 32 82    this 1
+john_this_message_concerns_me 1581258820779 360 220 touchmove 33 82    this 1
+john_this_message_concerns_me 1581258820796 360 220 touchmove 37 84    this 1
+john_this_message_concerns_me 1581258820805 360 220 touchmove 66 85    this 1
+john_this_message_concerns_me 1581258820808 360 220 touchend 77 84    this 1
+john_this_message_concerns_me 1581258821426 360 220 touchmove 198 79    this 1
+john_this_message_concerns_me 1581258821443 360 220 touchmove 197 79    this 1
+john_this_message_concerns_me 1581258821460 360 220 touchmove 195 80    this 1
+john_this_message_concerns_me 1581258821476 360 220 touchmove 194 80    this 1
+john_this_message_concerns_me 1581258821493 360 220 touchmove 193 80    this 1
+john_this_message_concerns_me 1581258821559 360 220 touchmove 193 81    this 1
+john_this_message_concerns_me 1581258821575 360 220 touchmove 190 83    this 1
+john_this_message_concerns_me 1581258821594 360 220 touchmove 189 84    this 1
+john_this_message_concerns_me 1581258821692 360 220 touchmove 189 85    this 1
+john_this_message_concerns_me 1581258821707 360 220 touchstart 189 85    this 1
+john_this_message_concerns_me 1581258821742 360 220 touchmove 189 85    this 1
+john_this_message_concerns_me 1581258821893 360 220 touchmove 186 86    this 1
+john_this_message_concerns_me 1581258821897 360 220 touchend 184 84    this 1
+john_this_message_concerns_me 1581258822415 360 220 touchstart 96 28    this 1
+john_this_message_concerns_me 1581258822574 360 220 touchmove 96 32    this 1
+john_this_message_concerns_me 1581258822576 360 220 touchend 98 34    this 1
+john_this_message_concerns_me 1581258823006 360 220 touchmove 217 157    this 1
+john_this_message_concerns_me 1581258823024 360 220 touchmove 219 160    this 1
+john_this_message_concerns_me 1581258823040 360 220 touchmove 219 164    this 1
+john_this_message_concerns_me 1581258823057 360 220 touchmove 220 166    this 1
+john_this_message_concerns_me 1581258823073 360 220 touchmove 220 170    this 1
+john_this_message_concerns_me 1581258823090 360 220 touchmove 220 175    this 1
+john_this_message_concerns_me 1581258823107 360 220 touchmove 220 178    this 1
+john_this_message_concerns_me 1581258823138 360 220 touchmove 220 183    this 1
+john_this_message_concerns_me 1581258823154 360 220 touchmove 220 188    this 1
+john_this_message_concerns_me 1581258823172 360 220 touchmove 220 191    this 1
+john_this_message_concerns_me 1581258823189 360 220 touchmove 220 192    this 1
+john_this_message_concerns_me 1581258823205 360 220 touchmove 220 193    this 1
+john_this_message_concerns_me 1581258823223 360 220 touchmove 219 194    this 1
+john_this_message_concerns_me 1581258823271 360 220 touchmove 219 195    this 1
+john_this_message_concerns_me 1581258823388 360 220 touchmove 219 196    this 1
+john_this_message_concerns_me 1581258823634 360 220 touchmove 215 192    this 1
+john_this_message_concerns_me 1581258823637 360 220 touchend 214 190    this 1
+john_this_message_concerns_me 1581258824271 360 220 touchmove 207 101    this 1
+john_this_message_concerns_me 1581258824284 360 220 touchmove 206 101    this 1
+john_this_message_concerns_me 1581258824302 360 220 touchmove 202 99    this 1
+john_this_message_concerns_me 1581258824317 360 220 touchmove 198 99    this 1
+john_this_message_concerns_me 1581258824335 360 220 touchmove 197 99    this 1
+john_this_message_concerns_me 1581258824351 360 220 touchmove 194 99    this 1
+john_this_message_concerns_me 1581258824383 360 220 touchmove 188 100    this 1
+john_this_message_concerns_me 1581258824400 360 220 touchmove 188 99    this 1
+john_this_message_concerns_me 1581258824418 360 220 touchmove 185 100    this 1
+john_this_message_concerns_me 1581258824434 360 220 touchmove 183 104    this 1
+john_this_message_concerns_me 1581258824450 360 220 touchmove 183 105    this 1
+john_this_message_concerns_me 1581258824468 360 220 touchmove 180 110    this 1
+john_this_message_concerns_me 1581258824483 360 220 touchmove 176 117    this 1
+john_this_message_concerns_me 1581258824500 360 220 touchmove 175 119    this 1
+john_this_message_concerns_me 1581258824516 360 220 touchmove 173 123    this 1
+john_this_message_concerns_me 1581258824533 360 220 touchmove 172 124    this 1
+john_this_message_concerns_me 1581258824550 360 220 touchmove 170 127    this 1
+john_this_message_concerns_me 1581258824566 360 220 touchmove 168 130    this 1
+john_this_message_concerns_me 1581258824583 360 220 touchmove 167 130    this 1
+john_this_message_concerns_me 1581258824599 360 220 touchmove 164 132    this 1
+john_this_message_concerns_me 1581258824616 360 220 touchmove 162 132    this 1
+john_this_message_concerns_me 1581258824633 360 220 touchmove 162 133    this 1
+john_this_message_concerns_me 1581258824650 360 220 touchmove 161 133    this 1
+john_this_message_concerns_me 1581258824666 360 220 touchmove 161 134    this 1
+john_this_message_concerns_me 1581258824683 360 220 touchmove 159 134    this 1
+john_this_message_concerns_me 1581258824699 360 220 touchmove 157 135    this 1
+john_this_message_concerns_me 1581258824717 360 220 touchmove 155 136    this 1
+john_this_message_concerns_me 1581258824733 360 220 touchmove 152 137    this 1
+john_this_message_concerns_me 1581258824750 360 220 touchmove 151 138    this 1
+john_this_message_concerns_me 1581258824815 360 220 touchmove 151 139    this 1
+john_this_message_concerns_me 1581258824832 360 220 touchmove 149 141    this 1
+john_this_message_concerns_me 1581258824849 360 220 touchmove 147 143    this 1
+john_this_message_concerns_me 1581258824882 360 220 touchmove 147 144    this 1
+john_this_message_concerns_me 1581258824899 360 220 touchmove 146 145    this 1
+john_this_message_concerns_me 1581258824915 360 220 touchmove 145 146    this 1
+john_this_message_concerns_me 1581258824965 360 220 touchmove 145 147    this 1
+john_this_message_concerns_me 1581258825086 360 220 touchmove 145 147    this 1
+john_this_message_concerns_me 1581258825088 360 220 touchstart 145 147    this 1
+john_this_message_concerns_me 1581258825198 360 220 touchmove 147 148    this 1
+john_this_message_concerns_me 1581258825214 360 220 touchmove 154 145    this 1
+john_this_message_concerns_me 1581258825232 360 220 touchmove 164 141    this 1
+john_this_message_concerns_me 1581258825238 360 220 touchmove 193 132    this 1
+john_this_message_concerns_me 1581258825241 360 220 touchend 207 120    this 1
+john_this_message_concerns_me 1581258825879 360 220 touchmove 310 10    this 1
+john_this_message_concerns_me 1581258825895 360 220 touchmove 309 12    this 1
+john_this_message_concerns_me 1581258825912 360 220 touchmove 309 12    this 1
+john_this_message_concerns_me 1581258825929 360 220 touchmove 309 14    this 1
+john_this_message_concerns_me 1581258825946 360 220 touchmove 308 14    this 1
+john_this_message_concerns_me 1581258825962 360 220 touchmove 308 15    this 1
+john_this_message_concerns_me 1581258825979 360 220 touchmove 307 16    this 1
+john_this_message_concerns_me 1581258825995 360 220 touchmove 307 18    this 1
+john_this_message_concerns_me 1581258826012 360 220 touchmove 307 19    this 1
+john_this_message_concerns_me 1581258826031 360 220 touchmove 307 20    this 1
+john_this_message_concerns_me 1581258826046 360 220 touchmove 308 20    this 1
+john_this_message_concerns_me 1581258826062 360 220 touchmove 308 21    this 1
+john_this_message_concerns_me 1581258826111 360 220 touchmove 308 21    this 1
+john_this_message_concerns_me 1581258826129 360 220 touchmove 308 22    this 1
+john_this_message_concerns_me 1581258826146 360 220 touchmove 308 23    this 1
+john_this_message_concerns_me 1581258826194 360 220 touchmove 309 24    this 1
+john_this_message_concerns_me 1581258826212 360 220 touchmove 309 24    this 1
+john_this_message_concerns_me 1581258826229 360 220 touchmove 310 25    this 1
+john_this_message_concerns_me 1581258826245 360 220 touchmove 310 25    this 1
+john_this_message_concerns_me 1581258826327 360 220 touchmove 310 27    this 1
+john_this_message_concerns_me 1581258826344 360 220 touchmove 310 28    this 1
+john_this_message_concerns_me 1581258826362 360 220 touchmove 310 29    this 1
+john_this_message_concerns_me 1581258826380 360 220 touchmove 310 30    this 1
+john_this_message_concerns_me 1581258826410 360 220 touchmove 310 30    this 1
+john_this_message_concerns_me 1581258826428 360 220 touchmove 310 31    this 1
+john_this_message_concerns_me 1581258826445 360 220 touchmove 310 31    this 1
+john_this_message_concerns_me 1581258826655 360 220 touchstart 310 31    this 1
+john_this_message_concerns_me 1581258826726 360 220 touchmove 311 32    this 1
+john_this_message_concerns_me 1581258826812 360 220 touchend 311 32    this 1
+john_this_message_concerns_me 1581258825879 360 220 touchmove 310 10    this 1 1
+john_this_message_concerns_me 1581258825895 360 220 touchmove 309 12    this 1 1
+john_this_message_concerns_me 1581258825912 360 220 touchmove 309 12    this 1 1
+john_this_message_concerns_me 1581258825929 360 220 touchmove 309 14    this 1 1
+john_this_message_concerns_me 1581258825946 360 220 touchmove 308 14    this 1 1
+john_this_message_concerns_me 1581258825962 360 220 touchmove 308 15    this 1 1
+john_this_message_concerns_me 1581258825979 360 220 touchmove 307 16    this 1 1
+john_this_message_concerns_me 1581258825995 360 220 touchmove 307 18    this 1 1
+john_this_message_concerns_me 1581258826012 360 220 touchmove 307 19    this 1 1
+john_this_message_concerns_me 1581258826031 360 220 touchmove 307 20    this 1 1
+john_this_message_concerns_me 1581258826046 360 220 touchmove 308 20    this 1 1
+john_this_message_concerns_me 1581258826062 360 220 touchmove 308 21    this 1 1
+john_this_message_concerns_me 1581258826111 360 220 touchmove 308 21    this 1 1
+john_this_message_concerns_me 1581258826129 360 220 touchmove 308 22    this 1 1
+john_this_message_concerns_me 1581258826146 360 220 touchmove 308 23    this 1 1
+john_this_message_concerns_me 1581258826194 360 220 touchmove 309 24    this 1 1
+john_this_message_concerns_me 1581258826212 360 220 touchmove 309 24    this 1 1
+john_this_message_concerns_me 1581258826229 360 220 touchmove 310 25    this 1 1
+john_this_message_concerns_me 1581258826245 360 220 touchmove 310 25    this 1 1
+john_this_message_concerns_me 1581258826327 360 220 touchmove 310 27    this 1 1
+john_this_message_concerns_me 1581258826344 360 220 touchmove 310 28    this 1 1
+john_this_message_concerns_me 1581258826362 360 220 touchmove 310 29    this 1 1
+john_this_message_concerns_me 1581258826380 360 220 touchmove 310 30    this 1 1
+john_this_message_concerns_me 1581258826410 360 220 touchmove 310 30    this 1 1
+john_this_message_concerns_me 1581258826428 360 220 touchmove 310 31    this 1 1
+john_this_message_concerns_me 1581258826445 360 220 touchmove 310 31    this 1 1
+john_this_message_concerns_me 1581258826655 360 220 touchstart 310 31    this 1 1
+john_this_message_concerns_me 1581258826726 360 220 touchmove 311 32    this 1 1
+john_this_message_concerns_me 1581258826812 360 220 touchend 311 32    this 1 1
+john_this_message_concerns_me 1581258826842 360 220 touchmove 311 32    this 1
+john_this_message_concerns_me 1581258826863 360 220 touchmove 302 38    this 1
+john_this_message_concerns_me 1581258826877 360 220 touchmove 299 43    this 1
+john_this_message_concerns_me 1581258826896 360 220 touchmove 295 48    this 1
+john_this_message_concerns_me 1581258826910 360 220 touchmove 290 53    this 1
+john_this_message_concerns_me 1581258826928 360 220 touchmove 289 55    this 1
+john_this_message_concerns_me 1581258826944 360 220 touchmove 285 60    this 1
+john_this_message_concerns_me 1581258826961 360 220 touchmove 282 64    this 1
+john_this_message_concerns_me 1581258826978 360 220 touchmove 281 66    this 1
+john_this_message_concerns_me 1581258826994 360 220 touchmove 279 72    this 1
+john_this_message_concerns_me 1581258827011 360 220 touchmove 278 76    this 1
+john_this_message_concerns_me 1581258827027 360 220 touchmove 278 77    this 1
+john_this_message_concerns_me 1581258827043 360 220 touchmove 276 85    this 1
+john_this_message_concerns_me 1581258827061 360 220 touchmove 275 92    this 1
+john_this_message_concerns_me 1581258827077 360 220 touchmove 274 95    this 1
+john_this_message_concerns_me 1581258827094 360 220 touchmove 273 99    this 1
+john_this_message_concerns_me 1581258827110 360 220 touchmove 273 102    this 1
+john_this_message_concerns_me 1581258827159 360 220 touchmove 273 103    this 1
+john_this_message_concerns_me 1581258827177 360 220 touchmove 273 104    this 1
+john_this_message_concerns_me 1581258827193 360 220 touchmove 273 105    this 1
+john_this_message_concerns_me 1581258827208 360 220 touchmove 273 108    this 1
+john_this_message_concerns_me 1581258827225 360 220 touchmove 273 109    this 1
+john_this_message_concerns_me 1581258827241 360 220 touchmove 273 110    this 1
+john_this_message_concerns_me 1581258827259 360 220 touchmove 273 111    this 1
+john_this_message_concerns_me 1581258827275 360 220 touchmove 273 113    this 1
+john_this_message_concerns_me 1581258827291 360 220 touchmove 273 114    this 1
+john_this_message_concerns_me 1581258827308 360 220 touchmove 273 117    this 1
+john_this_message_concerns_me 1581258827326 360 220 touchmove 272 120    this 1
+john_this_message_concerns_me 1581258827342 360 220 touchmove 271 121    this 1
+john_this_message_concerns_me 1581258827359 360 220 touchmove 266 129    this 1
+john_this_message_concerns_me 1581258827376 360 220 touchmove 264 132    this 1
+john_this_message_concerns_me 1581258827392 360 220 touchmove 262 135    this 1
+john_this_message_concerns_me 1581258827408 360 220 touchmove 260 137    this 1
+john_this_message_concerns_me 1581258827426 360 220 touchmove 260 138    this 1
+john_this_message_concerns_me 1581258827443 360 220 touchmove 259 139    this 1
+john_this_message_concerns_me 1581258827458 360 220 touchmove 257 142    this 1
+john_this_message_concerns_me 1581258827476 360 220 touchmove 255 143    this 1
+john_this_message_concerns_me 1581258827492 360 220 touchmove 253 145    this 1
+john_this_message_concerns_me 1581258827510 360 220 touchmove 253 146    this 1
+john_this_message_concerns_me 1581258827527 360 220 touchmove 252 147    this 1
+john_this_message_concerns_me 1581258827542 360 220 touchmove 251 148    this 1
+john_this_message_concerns_me 1581258827591 360 220 touchmove 251 148    this 1
+john_this_message_concerns_me 1581258827613 360 220 touchmove 250 148    this 1
+john_this_message_concerns_me 1581258827724 360 220 touchstart 250 148    this 1
+john_this_message_concerns_me 1581258827865 360 220 touchmove 248 147    this 1
+john_this_message_concerns_me 1581258827867 360 220 touchend 244 145    this 1
+john_this_message_concerns_me 1581258829767 360 220 touchmove 149 160    this 1
+john_this_message_concerns_me 1581258829785 360 220 touchstart 149 160    this 1
+john_this_message_concerns_me 1581258829949 360 220 touchmove 147 155    this 1
+john_this_message_concerns_me 1581258829954 360 220 touchmove 146 151    this 1
+john_this_message_concerns_me 1581258829956 360 220 touchend 145 147    this 1
+john_this_message_concerns_me 1581258830352 360 220 touchmove 109 51    this 1
+john_this_message_concerns_me 1581258830382 360 220 touchmove 109 51    this 1
+john_this_message_concerns_me 1581258830399 360 220 touchmove 108 49    this 1
+john_this_message_concerns_me 1581258830465 360 220 touchmove 106 48    this 1
+john_this_message_concerns_me 1581258830481 360 220 touchmove 106 47    this 1
+john_this_message_concerns_me 1581258830498 360 220 touchmove 105 46    this 1
+john_this_message_concerns_me 1581258830515 360 220 touchmove 103 45    this 1
+john_this_message_concerns_me 1581258830532 360 220 touchmove 102 44    this 1
+john_this_message_concerns_me 1581258830550 360 220 touchmove 100 43    this 1
+john_this_message_concerns_me 1581258830566 360 220 touchmove 96 41    this 1
+john_this_message_concerns_me 1581258830582 360 220 touchmove 94 40    this 1
+john_this_message_concerns_me 1581258830598 360 220 touchmove 91 39    this 1
+john_this_message_concerns_me 1581258830615 360 220 touchmove 89 37    this 1
+john_this_message_concerns_me 1581258830633 360 220 touchmove 88 37    this 1
+john_this_message_concerns_me 1581258830649 360 220 touchmove 87 36    this 1
+john_this_message_concerns_me 1581258830698 360 220 touchmove 86 34    this 1
+john_this_message_concerns_me 1581258830715 360 220 touchmove 86 33    this 1
+john_this_message_concerns_me 1581258830732 360 220 touchmove 86 32    this 1
+john_this_message_concerns_me 1581258830750 360 220 touchmove 86 31    this 1
+john_this_message_concerns_me 1581258830765 360 220 touchmove 86 30    this 1
+john_this_message_concerns_me 1581258830782 360 220 touchmove 86 29    this 1
+john_this_message_concerns_me 1581258830799 360 220 touchmove 86 29    this 1
+john_this_message_concerns_me 1581258830847 360 220 touchmove 86 27    this 1
+john_this_message_concerns_me 1581258830882 360 220 touchmove 86 27    this 1
+john_this_message_concerns_me 1581258831045 360 220 touchstart 86 27    this 1
+john_this_message_concerns_me 1581258831205 360 220 touchmove 88 27    this 1
+john_this_message_concerns_me 1581258831207 360 220 touchend 91 27    this 1
+john_this_message_concerns_me 1581258831936 360 220 touchstart 125 26    this 1
+john_this_message_concerns_me 1581258832143 360 220 touchend 125 26    this 1
+john_this_message_concerns_me 1581258832612 360 220 touchmove 132 97    this 1
+john_this_message_concerns_me 1581258832627 360 220 touchmove 133 98    this 1
+john_this_message_concerns_me 1581258832645 360 220 touchmove 134 101    this 1
+john_this_message_concerns_me 1581258832660 360 220 touchmove 135 105    this 1
+john_this_message_concerns_me 1581258832677 360 220 touchmove 137 106    this 1
+john_this_message_concerns_me 1581258832693 360 220 touchmove 138 111    this 1
+john_this_message_concerns_me 1581258832710 360 220 touchmove 141 115    this 1
+john_this_message_concerns_me 1581258832726 360 220 touchmove 142 116    this 1
+john_this_message_concerns_me 1581258832742 360 220 touchmove 144 118    this 1
+john_this_message_concerns_me 1581258832758 360 220 touchmove 147 123    this 1
+john_this_message_concerns_me 1581258832776 360 220 touchmove 149 125    this 1
+john_this_message_concerns_me 1581258832792 360 220 touchmove 153 129    this 1
+john_this_message_concerns_me 1581258832809 360 220 touchmove 155 129    this 1
+john_this_message_concerns_me 1581258832825 360 220 touchmove 155 130    this 1
+john_this_message_concerns_me 1581258832842 360 220 touchmove 158 133    this 1
+john_this_message_concerns_me 1581258832860 360 220 touchmove 163 136    this 1
+john_this_message_concerns_me 1581258832875 360 220 touchmove 165 137    this 1
+john_this_message_concerns_me 1581258832892 360 220 touchmove 169 139    this 1
+john_this_message_concerns_me 1581258832908 360 220 touchmove 173 140    this 1
+john_this_message_concerns_me 1581258832925 360 220 touchmove 175 141    this 1
+john_this_message_concerns_me 1581258832942 360 220 touchmove 179 141    this 1
+john_this_message_concerns_me 1581258832958 360 220 touchmove 181 141    this 1
+john_this_message_concerns_me 1581258832975 360 220 touchmove 184 143    this 1
+john_this_message_concerns_me 1581258832992 360 220 touchmove 188 143    this 1
+john_this_message_concerns_me 1581258833008 360 220 touchmove 191 144    this 1
+john_this_message_concerns_me 1581258833025 360 220 touchmove 197 144    this 1
+john_this_message_concerns_me 1581258833042 360 220 touchmove 200 145    this 1
+john_this_message_concerns_me 1581258833058 360 220 touchmove 203 145    this 1
+john_this_message_concerns_me 1581258833075 360 220 touchmove 206 147    this 1
+john_this_message_concerns_me 1581258833091 360 220 touchmove 209 147    this 1
+john_this_message_concerns_me 1581258833110 360 220 touchmove 210 147    this 1
+john_this_message_concerns_me 1581258833124 360 220 touchmove 211 148    this 1
+john_this_message_concerns_me 1581258833173 360 220 touchmove 212 148    this 1
+john_this_message_concerns_me 1581258833189 360 220 touchmove 219 149    this 1
+john_this_message_concerns_me 1581258833206 360 220 touchmove 224 150    this 1
+john_this_message_concerns_me 1581258833223 360 220 touchmove 228 151    this 1
+john_this_message_concerns_me 1581258833239 360 220 touchmove 234 151    this 1
+john_this_message_concerns_me 1581258833257 360 220 touchmove 235 151    this 1
+john_this_message_concerns_me 1581258833355 360 220 touchmove 236 151    this 1
+john_this_message_concerns_me 1581258833390 360 220 touchmove 238 151    this 1
+john_this_message_concerns_me 1581258833406 360 220 touchmove 239 151    this 1
+john_this_message_concerns_me 1581258833424 360 220 touchmove 242 150    this 1
+john_this_message_concerns_me 1581258833442 360 220 touchmove 243 149    this 1
+john_this_message_concerns_me 1581258833538 360 220 touchmove 245 148    this 1
+john_this_message_concerns_me 1581258833555 360 220 touchmove 246 146    this 1
+john_this_message_concerns_me 1581258833573 360 220 touchmove 246 144    this 1
+john_this_message_concerns_me 1581258833591 360 220 touchmove 248 142    this 1
+john_this_message_concerns_me 1581258833607 360 220 touchmove 249 141    this 1
+john_this_message_concerns_me 1581258833639 360 220 touchmove 249 140    this 1
+john_this_message_concerns_me 1581258833729 360 220 touchmove 250 140    this 1
+john_this_message_concerns_me 1581258833731 360 220 touchstart 250 140    this 1
+john_this_message_concerns_me 1581258833888 360 220 touchmove 250 139    this 1
+john_this_message_concerns_me 1581258833903 360 220 touchmove 237 134    this 1
+john_this_message_concerns_me 1581258833906 360 220 touchend 228 130    this 1
+john_this_message_concerns_me 1581258834302 360 220 touchmove 123 104    this 1
+john_this_message_concerns_me 1581258834322 360 220 touchmove 113 102    this 1
+john_this_message_concerns_me 1581258834336 360 220 touchmove 110 101    this 1
+john_this_message_concerns_me 1581258834352 360 220 touchmove 100 100    this 1
+john_this_message_concerns_me 1581258834385 360 220 touchmove 89 98    this 1
+john_this_message_concerns_me 1581258834402 360 220 touchmove 84 96    this 1
+john_this_message_concerns_me 1581258834418 360 220 touchmove 78 93    this 1
+john_this_message_concerns_me 1581258834435 360 220 touchmove 75 91    this 1
+john_this_message_concerns_me 1581258834452 360 220 touchmove 74 91    this 1
+john_this_message_concerns_me 1581258834468 360 220 touchmove 72 90    this 1
+john_this_message_concerns_me 1581258834485 360 220 touchmove 70 89    this 1
+john_this_message_concerns_me 1581258834502 360 220 touchmove 69 88    this 1
+john_this_message_concerns_me 1581258834518 360 220 touchmove 66 86    this 1
+john_this_message_concerns_me 1581258834534 360 220 touchmove 64 85    this 1
+john_this_message_concerns_me 1581258834551 360 220 touchmove 63 85    this 1
+john_this_message_concerns_me 1581258834724 360 220 touchstart 63 85    this 1
+john_this_message_concerns_me 1581258834834 360 220 touchmove 65 85    this 1
+john_this_message_concerns_me 1581258834870 360 220 touchmove 67 85    this 1
+john_this_message_concerns_me 1581258834887 360 220 touchmove 69 85    this 1
+john_this_message_concerns_me 1581258834904 360 220 touchmove 74 86    this 1
+john_this_message_concerns_me 1581258834917 360 220 touchmove 80 88    this 1
+john_this_message_concerns_me 1581258834919 360 220 touchend 88 92    this 1
+john_this_message_concerns_me 1581258835515 360 220 touchmove 195 191    this 1
+john_this_message_concerns_me 1581258835533 360 220 touchmove 195 191    this 1
+john_this_message_concerns_me 1581258835549 360 220 touchmove 195 192    this 1
+john_this_message_concerns_me 1581258835615 360 220 touchmove 195 193    this 1
+john_this_message_concerns_me 1581258835747 360 220 touchmove 197 192    this 1
+john_this_message_concerns_me 1581258835764 360 220 touchmove 204 189    this 1
+john_this_message_concerns_me 1581258835781 360 220 touchmove 209 188    this 1
+john_this_message_concerns_me 1581258835797 360 220 touchmove 222 186    this 1
+john_this_message_concerns_me 1581258835813 360 220 touchmove 247 181    this 1
+john_this_message_concerns_me 1581258835815 360 220 touchend 252 181    this 1
+john_this_message_concerns_me 1581258836475 360 220 touchstart 291 143    this 1
+john_this_message_concerns_me 1581258836653 360 220 touchmove 280 136    this 1
+john_this_message_concerns_me 1581258836655 360 220 touchend 260 128    this 1
+john_this_message_concerns_me 1581258837076 360 220 touchmove 52 8    this 1
+john_this_message_concerns_me 1581258837094 360 220 touchmove 62 12    this 1
+john_this_message_concerns_me 1581258837111 360 220 touchmove 67 14    this 1
+john_this_message_concerns_me 1581258837128 360 220 touchmove 77 18    this 1
+john_this_message_concerns_me 1581258837144 360 220 touchmove 84 21    this 1
+john_this_message_concerns_me 1581258837161 360 220 touchmove 85 22    this 1
+john_this_message_concerns_me 1581258837177 360 220 touchmove 88 23    this 1
+john_this_message_concerns_me 1581258837193 360 220 touchmove 89 24    this 1
+john_this_message_concerns_me 1581258837212 360 220 touchmove 90 24    this 1
+john_this_message_concerns_me 1581258837229 360 220 touchmove 91 25    this 1
+john_this_message_concerns_me 1581258837244 360 220 touchmove 91 25    this 1
+john_this_message_concerns_me 1581258837342 360 220 touchmove 91 26    this 1
+john_this_message_concerns_me 1581258837377 360 220 touchmove 92 26    this 1
+john_this_message_concerns_me 1581258837494 360 220 touchstart 92 26    this 1
+john_this_message_concerns_me 1581258837559 360 220 touchmove 92 27    this 1
+john_this_message_concerns_me 1581258837662 360 220 touchend 92 27    this 1
+john_this_message_concerns_me 1581258838042 360 220 touchmove 67 45    this 1
+john_this_message_concerns_me 1581258838059 360 220 touchmove 46 48    this 1
+john_this_message_concerns_me 1581258838075 360 220 touchmove 32 51    this 1
+john_this_message_concerns_me 1581258838091 360 220 touchmove 10 52    this 1
+john_this_message_concerns_me 1581258838109 360 220 touchmove 2 55    this 1
+john_this_message_concerns_me 1581258838125 360 220 touchmove 1 56    this 1
+john_this_message_concerns_me 1581258838142 360 220 touchmove 0 59    this 1
+john_this_message_concerns_me 1581258838159 360 220 touchmove 0 63    this 1
+john_this_message_concerns_me 1581258838175 360 220 touchmove 0 64    this 1
+john_this_message_concerns_me 1581258838191 360 220 touchmove 0 69    this 1
+john_this_message_concerns_me 1581258838208 360 220 touchmove 0 76    this 1
+john_this_message_concerns_me 1581258838224 360 220 touchmove 0 79    this 1
+john_this_message_concerns_me 1581258838242 360 220 touchmove 0 83    this 1
+john_this_message_concerns_me 1581258838259 360 220 touchmove 0 86    this 1
+john_this_message_concerns_me 1581258838277 360 220 touchmove 0 93    this 1
+john_this_message_concerns_me 1581258838292 360 220 touchmove 1 100    this 1
+john_this_message_concerns_me 1581258838307 360 220 touchmove 3 106    this 1
+john_this_message_concerns_me 1581258838325 360 220 touchmove 8 119    this 1
+john_this_message_concerns_me 1581258838342 360 220 touchmove 18 132    this 1
+john_this_message_concerns_me 1581258838359 360 220 touchmove 21 139    this 1
+john_this_message_concerns_me 1581258838375 360 220 touchmove 35 160    this 1
+john_this_message_concerns_me 1581258838391 360 220 touchmove 61 180    this 1
+john_this_message_concerns_me 1581258838408 360 220 touchmove 78 188    this 1
+john_this_message_concerns_me 1581258838425 360 220 touchmove 121 197    this 1
+john_this_message_concerns_me 1581258838441 360 220 touchmove 158 203    this 1
+john_this_message_concerns_me 1581258838457 360 220 touchmove 182 205    this 1
+john_this_message_concerns_me 1581258838475 360 220 touchmove 234 198    this 1
+john_this_message_concerns_me 1581258838493 360 220 touchmove 268 180    this 1
+john_this_message_concerns_me 1581258838508 360 220 touchmove 281 171    this 1
+john_this_message_concerns_me 1581258838525 360 220 touchmove 299 143    this 1
+john_this_message_concerns_me 1581258838540 360 220 touchmove 306 118    this 1
+john_this_message_concerns_me 1581258838558 360 220 touchmove 308 105    this 1
+john_this_message_concerns_me 1581258838573 360 220 touchmove 309 90    this 1
+john_this_message_concerns_me 1581258838592 360 220 touchmove 309 82    this 1
+john_this_message_concerns_me 1581258838607 360 220 touchmove 308 81    this 1
+john_this_message_concerns_me 1581258838639 360 220 touchmove 307 78    this 1
+john_this_message_concerns_me 1581258838656 360 220 touchmove 307 77    this 1
+john_this_message_concerns_me 1581258838740 360 220 touchmove 306 77    this 1
+john_this_message_concerns_me 1581258838757 360 220 touchmove 305 79    this 1
+john_this_message_concerns_me 1581258838771 360 220 touchmove 305 83    this 1
+john_this_message_concerns_me 1581258838789 360 220 touchmove 310 91    this 1
+john_this_message_concerns_me 1581258838805 360 220 touchmove 318 100    this 1
+john_this_message_concerns_me 1581258838822 360 220 touchmove 324 103    this 1
+john_this_message_concerns_me 1581258838838 360 220 touchmove 336 108    this 1
+john_this_message_concerns_me 1581258838855 360 220 touchmove 345 111    this 1
+john_this_message_concerns_me 1581258838873 360 220 touchmove 348 113    this 1
+john_this_message_concerns_me 1581258838889 360 220 touchmove 351 115    this 1
+john_this_message_concerns_me 1581258838905 360 220 touchmove 354 118    this 1
+john_this_message_concerns_me 1581258838921 360 220 touchmove 355 120    this 1
+john_this_message_concerns_me 1581258838939 360 220 touchmove 356 122    this 1
+john_this_message_concerns_me 1581258838956 360 220 touchmove 358 124    this 1
+john_this_message_concerns_me 1581258838972 360 220 touchmove 359 125    this 1
+john_this_message_concerns_me 1581258838988 360 220 touchmove 359 126    this 1
+john_this_message_concerns_me 1581258839004 360 220 touchmove 359 128    this 1
+john_this_message_concerns_me 1581258839022 360 220 touchmove 359 128    this 1
+john_this_message_concerns_me 1581258839038 360 220 touchmove 359 129    this 1
+john_this_message_concerns_me 1581258839137 360 220 touchmove 352 129    this 1
+john_this_message_concerns_me 1581258839153 360 220 touchmove 333 129    this 1
+john_this_message_concerns_me 1581258839170 360 220 touchmove 322 130    this 1
+john_this_message_concerns_me 1581258839187 360 220 touchmove 311 133    this 1
+john_this_message_concerns_me 1581258839204 360 220 touchmove 308 134    this 1
+john_this_message_concerns_me 1581258839220 360 220 touchmove 308 135    this 1
+john_this_message_concerns_me 1581258839237 360 220 touchmove 307 139    this 1
+john_this_message_concerns_me 1581258839253 360 220 touchmove 307 147    this 1
+john_this_message_concerns_me 1581258839271 360 220 touchmove 307 157    this 1
+john_this_message_concerns_me 1581258839287 360 220 touchmove 306 164    this 1
+john_this_message_concerns_me 1581258839304 360 220 touchmove 306 165    this 1
+john_this_message_concerns_me 1581258839321 360 220 touchmove 305 174    this 1
+john_this_message_concerns_me 1581258839337 360 220 touchmove 303 179    this 1
+john_this_message_concerns_me 1581258839353 360 220 touchmove 298 185    this 1
+john_this_message_concerns_me 1581258839386 360 220 touchmove 293 188    this 1
+john_this_message_concerns_me 1581258839402 360 220 touchmove 289 189    this 1
+john_this_message_concerns_me 1581258839421 360 220 touchmove 274 189    this 1
+john_this_message_concerns_me 1581258839439 360 220 touchmove 245 186    this 1
+john_this_message_concerns_me 1581258839454 360 220 touchmove 229 183    this 1
+john_this_message_concerns_me 1581258839470 360 220 touchmove 216 182    this 1
+john_this_message_concerns_me 1581258839488 360 220 touchmove 210 182    this 1
+john_this_message_concerns_me 1581258839555 360 220 touchmove 206 182    this 1
+john_this_message_concerns_me 1581258839573 360 220 touchmove 203 182    this 1
+john_this_message_concerns_me 1581258839588 360 220 touchmove 202 182    this 1
+john_this_message_concerns_me 1581258839619 360 220 touchmove 199 183    this 1
+john_this_message_concerns_me 1581258839635 360 220 touchmove 196 183    this 1
+john_this_message_concerns_me 1581258839652 360 220 touchmove 194 183    this 1
+john_this_message_concerns_me 1581258839669 360 220 touchmove 191 184    this 1
+john_this_message_concerns_me 1581258839685 360 220 touchmove 190 184    this 1
+john_this_message_concerns_me 1581258839703 360 220 touchmove 190 183    this 1
+john_this_message_concerns_me 1581258840083 360 220 touchend 190 183    this 1
+john_this_message_concerns_me 1581258841297 360 220 touchmove 198 191    this 1
+john_this_message_concerns_me 1581258841363 360 220 touchmove 198 193    this 1
+john_this_message_concerns_me 1581258841380 360 220 touchmove 197 193    this 1
+john_this_message_concerns_me 1581258841530 360 220 touchmove 208 193    this 1
+john_this_message_concerns_me 1581258841546 360 220 touchmove 226 193    this 1
+john_this_message_concerns_me 1581258841564 360 220 touchmove 247 193    this 1
+john_this_message_concerns_me 1581258841580 360 220 touchmove 274 195    this 1
+john_this_message_concerns_me 1581258841596 360 220 touchmove 298 195    this 1
+john_this_message_concerns_me 1581258841615 360 220 touchmove 307 195    this 1
+john_this_message_concerns_me 1581258841630 360 220 touchmove 316 195    this 1
+john_this_message_concerns_me 1581258841648 360 220 touchmove 322 195    this 1
+john_this_message_concerns_me 1581258841663 360 220 touchmove 323 194    this 1
+john_this_message_concerns_me 1581258841679 360 220 touchmove 323 194    this 1
+john_this_message_concerns_me 1581258841880 360 220 touchmove 322 194    this 1
+john_this_message_concerns_me 1581258841896 360 220 touchmove 317 194    this 1
+john_this_message_concerns_me 1581258841905 360 220 touchmove 314 194    this 1
+john_this_message_concerns_me 1581258841908 360 220 touchend 311 194    this 1
+john_this_message_concerns_me 1581258841922 360 220 touchmove 311 194    this 1
+john_this_message_concerns_me 1581258841946 360 220 touchmove 306 194    this 1
+john_this_message_concerns_me 1581258841963 360 220 touchmove 301 194    this 1
+john_this_message_concerns_me 1581258841981 360 220 touchmove 298 194    this 1
+john_this_message_concerns_me 1581258841997 360 220 touchmove 296 195    this 1
+john_this_message_concerns_me 1581258842014 360 220 touchmove 295 195    this 1
+john_this_message_concerns_me 1581258842030 360 220 touchmove 293 197    this 1
+john_this_message_concerns_me 1581258842047 360 220 touchmove 293 197    this 1
+john_this_message_concerns_me 1581258842064 360 220 touchmove 291 198    this 1
+john_this_message_concerns_me 1581258842080 360 220 touchmove 290 199    this 1
+john_this_message_concerns_me 1581258842097 360 220 touchmove 290 200    this 1
+john_this_message_concerns_me 1581258842129 360 220 touchmove 289 201    this 1
+john_this_message_concerns_me 1581258842145 360 220 touchmove 288 201    this 1
+john_this_message_concerns_me 1581258842162 360 220 touchmove 288 201    this 1
+john_this_message_concerns_me 1581258842178 360 220 touchmove 285 202    this 1
+john_this_message_concerns_me 1581258842195 360 220 touchmove 280 203    this 1
+john_this_message_concerns_me 1581258842211 360 220 touchmove 278 203    this 1
+john_this_message_concerns_me 1581258842228 360 220 touchmove 271 203    this 1
+john_this_message_concerns_me 1581258842244 360 220 touchmove 260 203    this 1
+john_this_message_concerns_me 1581258842262 360 220 touchmove 256 203    this 1
+john_this_message_concerns_me 1581258842278 360 220 touchmove 249 203    this 1
+john_this_message_concerns_me 1581258842295 360 220 touchmove 247 203    this 1
+john_this_message_concerns_me 1581258842361 360 220 touchmove 246 204    this 1
+john_this_message_concerns_me 1581258842511 360 220 touchmove 242 204    this 1
+john_this_message_concerns_me 1581258842528 360 220 touchmove 230 204    this 1
+john_this_message_concerns_me 1581258842544 360 220 touchmove 222 204    this 1
+john_this_message_concerns_me 1581258842561 360 220 touchmove 203 203    this 1
+john_this_message_concerns_me 1581258842582 360 220 touchmove 182 196    this 1
+john_this_message_concerns_me 1581258842594 360 220 touchmove 172 195    this 1
+john_this_message_concerns_me 1581258842613 360 220 touchmove 137 187    this 1
+john_this_message_concerns_me 1581258842628 360 220 touchmove 125 186    this 1
+john_this_message_concerns_me 1581258842644 360 220 touchmove 90 180    this 1
+john_this_message_concerns_me 1581258842661 360 220 touchmove 37 171    this 1
+john_this_message_concerns_me 1581258842678 360 220 touchmove 11 167    this 1
+john_this_message_concerns_me 1581258842695 360 220 touchmove 0 156    this 1
+john_this_message_concerns_me 1581258842711 360 220 touchmove 0 151    this 1
+john_this_message_concerns_me 1581258842727 360 220 touchmove 0 151    this 1
+john_this_message_concerns_me 1581258842744 360 220 touchmove 0 150    this 1
+john_this_message_concerns_me 1581258842761 360 220 touchmove 0 150    this 1
+john_this_message_concerns_me 1581258842876 360 220 touchmove 0 148    this 1
+john_this_message_concerns_me 1581258842891 360 220 touchmove 2 145    this 1
+john_this_message_concerns_me 1581258842910 360 220 touchmove 21 140    this 1
+john_this_message_concerns_me 1581258842927 360 220 touchmove 79 124    this 1
+john_this_message_concerns_me 1581258842943 360 220 touchmove 112 116    this 1
+john_this_message_concerns_me 1581258842959 360 220 touchmove 175 94    this 1
+john_this_message_concerns_me 1581258842975 360 220 touchmove 229 73    this 1
+john_this_message_concerns_me 1581258842993 360 220 touchmove 253 62    this 1
+john_this_message_concerns_me 1581258843009 360 220 touchmove 287 47    this 1
+john_this_message_concerns_me 1581258843025 360 220 touchmove 304 39    this 1
+john_this_message_concerns_me 1581258843042 360 220 touchmove 306 37    this 1
+john_this_message_concerns_me 1581258843059 360 220 touchmove 309 34    this 1
+john_this_message_concerns_me 1581258843075 360 220 touchmove 310 33    this 1
+john_this_message_concerns_me 1581258843093 360 220 touchmove 310 32    this 1
+john_this_message_concerns_me 1581258843158 360 220 touchmove 306 32    this 1
+john_this_message_concerns_me 1581258843175 360 220 touchmove 285 38    this 1
+john_this_message_concerns_me 1581258843192 360 220 touchmove 269 40    this 1
+john_this_message_concerns_me 1581258843208 360 220 touchmove 239 52    this 1
+john_this_message_concerns_me 1581258843225 360 220 touchmove 217 59    this 1
+john_this_message_concerns_me 1581258843241 360 220 touchmove 212 62    this 1
+john_this_message_concerns_me 1581258843257 360 220 touchmove 207 65    this 1
+john_this_message_concerns_me 1581258843274 360 220 touchmove 206 68    this 1
+john_this_message_concerns_me 1581258843291 360 220 touchmove 206 70    this 1
+john_this_message_concerns_me 1581258843308 360 220 touchmove 206 72    this 1
+john_this_message_concerns_me 1581258843391 360 220 touchmove 207 70    this 1
+john_this_message_concerns_me 1581258843408 360 220 touchmove 207 64    this 1
+john_this_message_concerns_me 1581258843424 360 220 touchmove 207 62    this 1
+john_this_message_concerns_me 1581258843442 360 220 touchmove 207 60    this 1
+john_this_message_concerns_me 1581258843459 360 220 touchmove 207 56    this 1
+john_this_message_concerns_me 1581258843476 360 220 touchmove 207 55    this 1
+john_this_message_concerns_me 1581258843491 360 220 touchmove 205 54    this 1
+john_this_message_concerns_me 1581258843509 360 220 touchmove 202 53    this 1
+john_this_message_concerns_me 1581258843524 360 220 touchmove 193 52    this 1
+john_this_message_concerns_me 1581258843542 360 220 touchmove 180 52    this 1
+john_this_message_concerns_me 1581258843558 360 220 touchmove 173 54    this 1
+john_this_message_concerns_me 1581258843574 360 220 touchmove 165 58    this 1
+john_this_message_concerns_me 1581258843591 360 220 touchmove 162 60    this 1
+john_this_message_concerns_me 1581258843610 360 220 touchmove 162 61    this 1
+john_this_message_concerns_me 1581258843653 360 220 touchend 162 61    this 1
+john_this_message_concerns_me 1581258841297 360 220 touchmove 198 191    this 1 1
+john_this_message_concerns_me 1581258841363 360 220 touchmove 198 193    this 1 1
+john_this_message_concerns_me 1581258841380 360 220 touchmove 197 193    this 1 1
+john_this_message_concerns_me 1581258841530 360 220 touchmove 208 193    this 1 1
+john_this_message_concerns_me 1581258841546 360 220 touchmove 226 193    this 1 1
+john_this_message_concerns_me 1581258841564 360 220 touchmove 247 193    this 1 1
+john_this_message_concerns_me 1581258841580 360 220 touchmove 274 195    this 1 1
+john_this_message_concerns_me 1581258841596 360 220 touchmove 298 195    this 1 1
+john_this_message_concerns_me 1581258841615 360 220 touchmove 307 195    this 1 1
+john_this_message_concerns_me 1581258841630 360 220 touchmove 316 195    this 1 1
+john_this_message_concerns_me 1581258841648 360 220 touchmove 322 195    this 1 1
+john_this_message_concerns_me 1581258841663 360 220 touchmove 323 194    this 1 1
+john_this_message_concerns_me 1581258841679 360 220 touchmove 323 194    this 1 1
+john_this_message_concerns_me 1581258841880 360 220 touchmove 322 194    this 1 1
+john_this_message_concerns_me 1581258841896 360 220 touchmove 317 194    this 1 1
+john_this_message_concerns_me 1581258841905 360 220 touchmove 314 194    this 1 1
+john_this_message_concerns_me 1581258841908 360 220 touchend 311 194    this 1 1
+john_this_message_concerns_me 1581258841922 360 220 touchmove 311 194    this 1 1
+john_this_message_concerns_me 1581258841946 360 220 touchmove 306 194    this 1 1
+john_this_message_concerns_me 1581258841963 360 220 touchmove 301 194    this 1 1
+john_this_message_concerns_me 1581258841981 360 220 touchmove 298 194    this 1 1
+john_this_message_concerns_me 1581258841997 360 220 touchmove 296 195    this 1 1
+john_this_message_concerns_me 1581258842014 360 220 touchmove 295 195    this 1 1
+john_this_message_concerns_me 1581258842030 360 220 touchmove 293 197    this 1 1
+john_this_message_concerns_me 1581258842047 360 220 touchmove 293 197    this 1 1
+john_this_message_concerns_me 1581258842064 360 220 touchmove 291 198    this 1 1
+john_this_message_concerns_me 1581258842080 360 220 touchmove 290 199    this 1 1
+john_this_message_concerns_me 1581258842097 360 220 touchmove 290 200    this 1 1
+john_this_message_concerns_me 1581258842129 360 220 touchmove 289 201    this 1 1
+john_this_message_concerns_me 1581258842145 360 220 touchmove 288 201    this 1 1
+john_this_message_concerns_me 1581258842162 360 220 touchmove 288 201    this 1 1
+john_this_message_concerns_me 1581258842178 360 220 touchmove 285 202    this 1 1
+john_this_message_concerns_me 1581258842195 360 220 touchmove 280 203    this 1 1
+john_this_message_concerns_me 1581258842211 360 220 touchmove 278 203    this 1 1
+john_this_message_concerns_me 1581258842228 360 220 touchmove 271 203    this 1 1
+john_this_message_concerns_me 1581258842244 360 220 touchmove 260 203    this 1 1
+john_this_message_concerns_me 1581258842262 360 220 touchmove 256 203    this 1 1
+john_this_message_concerns_me 1581258842278 360 220 touchmove 249 203    this 1 1
+john_this_message_concerns_me 1581258842295 360 220 touchmove 247 203    this 1 1
+john_this_message_concerns_me 1581258842361 360 220 touchmove 246 204    this 1 1
+john_this_message_concerns_me 1581258842511 360 220 touchmove 242 204    this 1 1
+john_this_message_concerns_me 1581258842528 360 220 touchmove 230 204    this 1 1
+john_this_message_concerns_me 1581258842544 360 220 touchmove 222 204    this 1 1
+john_this_message_concerns_me 1581258842561 360 220 touchmove 203 203    this 1 1
+john_this_message_concerns_me 1581258842582 360 220 touchmove 182 196    this 1 1
+john_this_message_concerns_me 1581258842594 360 220 touchmove 172 195    this 1 1
+john_this_message_concerns_me 1581258842613 360 220 touchmove 137 187    this 1 1
+john_this_message_concerns_me 1581258842628 360 220 touchmove 125 186    this 1 1
+john_this_message_concerns_me 1581258842644 360 220 touchmove 90 180    this 1 1
+john_this_message_concerns_me 1581258842661 360 220 touchmove 37 171    this 1 1
+john_this_message_concerns_me 1581258842678 360 220 touchmove 11 167    this 1 1
+john_this_message_concerns_me 1581258842695 360 220 touchmove 0 156    this 1 1
+john_this_message_concerns_me 1581258842711 360 220 touchmove 0 151    this 1 1
+john_this_message_concerns_me 1581258842727 360 220 touchmove 0 151    this 1 1
+john_this_message_concerns_me 1581258842744 360 220 touchmove 0 150    this 1 1
+john_this_message_concerns_me 1581258842761 360 220 touchmove 0 150    this 1 1
+john_this_message_concerns_me 1581258842876 360 220 touchmove 0 148    this 1 1
+john_this_message_concerns_me 1581258842891 360 220 touchmove 2 145    this 1 1
+john_this_message_concerns_me 1581258842910 360 220 touchmove 21 140    this 1 1
+john_this_message_concerns_me 1581258842927 360 220 touchmove 79 124    this 1 1
+john_this_message_concerns_me 1581258842943 360 220 touchmove 112 116    this 1 1
+john_this_message_concerns_me 1581258842959 360 220 touchmove 175 94    this 1 1
+john_this_message_concerns_me 1581258842975 360 220 touchmove 229 73    this 1 1
+john_this_message_concerns_me 1581258842993 360 220 touchmove 253 62    this 1 1
+john_this_message_concerns_me 1581258843009 360 220 touchmove 287 47    this 1 1
+john_this_message_concerns_me 1581258843025 360 220 touchmove 304 39    this 1 1
+john_this_message_concerns_me 1581258843042 360 220 touchmove 306 37    this 1 1
+john_this_message_concerns_me 1581258843059 360 220 touchmove 309 34    this 1 1
+john_this_message_concerns_me 1581258843075 360 220 touchmove 310 33    this 1 1
+john_this_message_concerns_me 1581258843093 360 220 touchmove 310 32    this 1 1
+john_this_message_concerns_me 1581258843158 360 220 touchmove 306 32    this 1 1
+john_this_message_concerns_me 1581258843175 360 220 touchmove 285 38    this 1 1
+john_this_message_concerns_me 1581258843192 360 220 touchmove 269 40    this 1 1
+john_this_message_concerns_me 1581258843208 360 220 touchmove 239 52    this 1 1
+john_this_message_concerns_me 1581258843225 360 220 touchmove 217 59    this 1 1
+john_this_message_concerns_me 1581258843241 360 220 touchmove 212 62    this 1 1
+john_this_message_concerns_me 1581258843257 360 220 touchmove 207 65    this 1 1
+john_this_message_concerns_me 1581258843274 360 220 touchmove 206 68    this 1 1
+john_this_message_concerns_me 1581258843291 360 220 touchmove 206 70    this 1 1
+john_this_message_concerns_me 1581258843308 360 220 touchmove 206 72    this 1 1
+john_this_message_concerns_me 1581258843391 360 220 touchmove 207 70    this 1 1
+john_this_message_concerns_me 1581258843408 360 220 touchmove 207 64    this 1 1
+john_this_message_concerns_me 1581258843424 360 220 touchmove 207 62    this 1 1
+john_this_message_concerns_me 1581258843442 360 220 touchmove 207 60    this 1 1
+john_this_message_concerns_me 1581258843459 360 220 touchmove 207 56    this 1 1
+john_this_message_concerns_me 1581258843476 360 220 touchmove 207 55    this 1 1
+john_this_message_concerns_me 1581258843491 360 220 touchmove 205 54    this 1 1
+john_this_message_concerns_me 1581258843509 360 220 touchmove 202 53    this 1 1
+john_this_message_concerns_me 1581258843524 360 220 touchmove 193 52    this 1 1
+john_this_message_concerns_me 1581258843542 360 220 touchmove 180 52    this 1 1
+john_this_message_concerns_me 1581258843558 360 220 touchmove 173 54    this 1 1
+john_this_message_concerns_me 1581258843574 360 220 touchmove 165 58    this 1 1
+john_this_message_concerns_me 1581258843591 360 220 touchmove 162 60    this 1 1
+john_this_message_concerns_me 1581258843610 360 220 touchmove 162 61    this 1 1
+john_this_message_concerns_me 1581258843653 360 220 touchend 162 61    this 1 1
+john_this_message_concerns_me 1581258843689 360 220 touchmove 161 61    this 1
+john_this_message_concerns_me 1581258843706 360 220 touchmove 159 55    this 1
+john_this_message_concerns_me 1581258843722 360 220 touchmove 159 53    this 1
+john_this_message_concerns_me 1581258843739 360 220 touchmove 159 48    this 1
+john_this_message_concerns_me 1581258843755 360 220 touchmove 158 47    this 1
+john_this_message_concerns_me 1581258843806 360 220 touchmove 158 46    this 1
+john_this_message_concerns_me 1581258843819 360 220 touchmove 161 49    this 1
+john_this_message_concerns_me 1581258843825 360 220 touchstart 163 51    this 1
+john_this_message_concerns_me 1581258843840 360 220 touchmove 167 54    this 1
+john_this_message_concerns_me 1581258843857 360 220 touchmove 170 56    this 1
+john_this_message_concerns_me 1581258843889 360 220 touchmove 185 64    this 1
+john_this_message_concerns_me 1581258843905 360 220 touchmove 206 67    this 1
+john_this_message_concerns_me 1581258843922 360 220 touchmove 220 70    this 1
+john_this_message_concerns_me 1581258843938 360 220 touchmove 234 70    this 1
+john_this_message_concerns_me 1581258843955 360 220 touchmove 242 63    this 1
+john_this_message_concerns_me 1581258843972 360 220 touchmove 243 60    this 1
+john_this_message_concerns_me 1581258843988 360 220 touchmove 243 53    this 1
+john_this_message_concerns_me 1581258844005 360 220 touchmove 243 48    this 1
+john_this_message_concerns_me 1581258844022 360 220 touchmove 243 47    this 1
+john_this_message_concerns_me 1581258844038 360 220 touchmove 243 46    this 1
+john_this_message_concerns_me 1581258844055 360 220 touchmove 242 45    this 1
+john_this_message_concerns_me 1581258844072 360 220 touchmove 241 44    this 1
+john_this_message_concerns_me 1581258844088 360 220 touchmove 233 44    this 1
+john_this_message_concerns_me 1581258844107 360 220 touchmove 212 48    this 1
+john_this_message_concerns_me 1581258844122 360 220 touchmove 196 52    this 1
+john_this_message_concerns_me 1581258844138 360 220 touchmove 160 68    this 1
+john_this_message_concerns_me 1581258844154 360 220 touchmove 133 84    this 1
+john_this_message_concerns_me 1581258844172 360 220 touchmove 122 94    this 1
+john_this_message_concerns_me 1581258844187 360 220 touchmove 116 100    this 1
+john_this_message_concerns_me 1581258844204 360 220 touchmove 116 106    this 1
+john_this_message_concerns_me 1581258844221 360 220 touchmove 117 108    this 1
+john_this_message_concerns_me 1581258844238 360 220 touchmove 119 116    this 1
+john_this_message_concerns_me 1581258844256 360 220 touchmove 129 126    this 1
+john_this_message_concerns_me 1581258844272 360 220 touchmove 134 129    this 1
+john_this_message_concerns_me 1581258844290 360 220 touchmove 160 127    this 1
+john_this_message_concerns_me 1581258844308 360 220 touchmove 166 120    this 1
+john_this_message_concerns_me 1581258844322 360 220 touchmove 175 101    this 1
+john_this_message_concerns_me 1581258844339 360 220 touchmove 181 69    this 1
+john_this_message_concerns_me 1581258844346 360 220 touchend 181 63    this 1
+john_this_message_concerns_me 1581258844755 360 220 touchmove 156 69    this 1
+john_this_message_concerns_me 1581258844770 360 220 touchmove 200 91    this 1
+john_this_message_concerns_me 1581258844786 360 220 touchmove 226 101    this 1
+john_this_message_concerns_me 1581258844803 360 220 touchmove 279 121    this 1
+john_this_message_concerns_me 1581258844819 360 220 touchmove 320 132    this 1
+john_this_message_concerns_me 1581258844836 360 220 touchmove 326 133    this 1
+john_this_message_concerns_me 1581258844852 360 220 touchmove 330 133    this 1
+john_this_message_concerns_me 1581258844869 360 220 touchmove 331 133    this 1
+john_this_message_concerns_me 1581258844902 360 220 touchmove 331 134    this 1
+john_this_message_concerns_me 1581258844919 360 220 touchmove 331 135    this 1
+john_this_message_concerns_me 1581258844936 360 220 touchmove 331 136    this 1
+john_this_message_concerns_me 1581258844953 360 220 touchmove 331 138    this 1
+john_this_message_concerns_me 1581258844969 360 220 touchmove 332 142    this 1
+john_this_message_concerns_me 1581258844986 360 220 touchmove 332 143    this 1
+john_this_message_concerns_me 1581258845003 360 220 touchmove 332 147    this 1
+john_this_message_concerns_me 1581258845019 360 220 touchmove 331 151    this 1
+john_this_message_concerns_me 1581258845035 360 220 touchmove 327 153    this 1
+john_this_message_concerns_me 1581258845052 360 220 touchmove 306 154    this 1
+john_this_message_concerns_me 1581258845069 360 220 touchmove 256 150    this 1
+john_this_message_concerns_me 1581258845085 360 220 touchmove 222 144    this 1
+john_this_message_concerns_me 1581258845102 360 220 touchmove 150 117    this 1
+john_this_message_concerns_me 1581258845135 360 220 touchmove 59 83    this 1
+john_this_message_concerns_me 1581258845152 360 220 touchmove 34 61    this 1
+john_this_message_concerns_me 1581258845168 360 220 touchmove 22 42    this 1
+john_this_message_concerns_me 1581258845185 360 220 touchmove 19 34    this 1
+john_this_message_concerns_me 1581258845202 360 220 touchmove 17 23    this 1
+john_this_message_concerns_me 1581258845218 360 220 touchmove 17 15    this 1
+john_this_message_concerns_me 1581258845235 360 220 touchmove 17 14    this 1
+john_this_message_concerns_me 1581258845251 360 220 touchmove 17 12    this 1
+john_this_message_concerns_me 1581258845301 360 220 touchmove 18 12    this 1
+john_this_message_concerns_me 1581258845318 360 220 touchmove 22 12    this 1
+john_this_message_concerns_me 1581258845334 360 220 touchmove 35 12    this 1
+john_this_message_concerns_me 1581258845353 360 220 touchmove 45 12    this 1
+john_this_message_concerns_me 1581258845357 360 220 touchmove 71 14    this 1
+john_this_message_concerns_me 1581258845359 360 220 touchend 85 14    this 1
+john_this_message_concerns_me 1581258845717 360 220 touchmove 169 48    this 1
+john_this_message_concerns_me 1581258845733 360 220 touchmove 159 50    this 1
+john_this_message_concerns_me 1581258845750 360 220 touchmove 143 54    this 1
+john_this_message_concerns_me 1581258845766 360 220 touchmove 132 58    this 1
+john_this_message_concerns_me 1581258845783 360 220 touchmove 98 67    this 1
+john_this_message_concerns_me 1581258845800 360 220 touchmove 90 72    this 1
+john_this_message_concerns_me 1581258845816 360 220 touchmove 88 74    this 1
+john_this_message_concerns_me 1581258845833 360 220 touchmove 88 75    this 1
+john_this_message_concerns_me 1581258845850 360 220 touchmove 88 78    this 1
+john_this_message_concerns_me 1581258845882 360 220 touchmove 88 79    this 1
+john_this_message_concerns_me 1581258845899 360 220 touchmove 88 81    this 1
+john_this_message_concerns_me 1581258845915 360 220 touchmove 88 82    this 1
+john_this_message_concerns_me 1581258845924 360 220 touchmove 95 84    this 1
+john_this_message_concerns_me 1581258845927 360 220 touchend 99 84    this 1
+john_this_message_concerns_me 1581258845717 360 220 touchmove 169 48    this 1 1
+john_this_message_concerns_me 1581258845733 360 220 touchmove 159 50    this 1 1
+john_this_message_concerns_me 1581258845750 360 220 touchmove 143 54    this 1 1
+john_this_message_concerns_me 1581258845766 360 220 touchmove 132 58    this 1 1
+john_this_message_concerns_me 1581258845783 360 220 touchmove 98 67    this 1 1
+john_this_message_concerns_me 1581258845800 360 220 touchmove 90 72    this 1 1
+john_this_message_concerns_me 1581258845816 360 220 touchmove 88 74    this 1 1
+john_this_message_concerns_me 1581258845833 360 220 touchmove 88 75    this 1 1
+john_this_message_concerns_me 1581258845850 360 220 touchmove 88 78    this 1 1
+john_this_message_concerns_me 1581258845882 360 220 touchmove 88 79    this 1 1
+john_this_message_concerns_me 1581258845899 360 220 touchmove 88 81    this 1 1
+john_this_message_concerns_me 1581258845915 360 220 touchmove 88 82    this 1 1
+john_this_message_concerns_me 1581258845924 360 220 touchmove 95 84    this 1 1
+john_this_message_concerns_me 1581258845927 360 220 touchend 99 84    this 1 1
+john_this_message_concerns_me 1581258845937 360 220 touchmove 99 84    this 1
+john_this_message_concerns_me 1581258845950 360 220 touchmove 124 86    this 1
+john_this_message_concerns_me 1581258845966 360 220 touchmove 135 87    this 1
+john_this_message_concerns_me 1581258845982 360 220 touchmove 147 84    this 1
+john_this_message_concerns_me 1581258845999 360 220 touchmove 149 83    this 1
+john_this_message_concerns_me 1581258846015 360 220 touchmove 149 83    this 1
+john_this_message_concerns_me 1581258846032 360 220 touchmove 149 82    this 1
+john_this_message_concerns_me 1581258846049 360 220 touchmove 149 80    this 1
+john_this_message_concerns_me 1581258846066 360 220 touchmove 148 79    this 1
+john_this_message_concerns_me 1581258846082 360 220 touchmove 148 79    this 1
+john_this_message_concerns_me 1581258846098 360 220 touchmove 148 78    this 1
+john_this_message_concerns_me 1581258846131 360 220 touchmove 148 77    this 1
+john_this_message_concerns_me 1581258846148 360 220 touchmove 148 77    this 1
+john_this_message_concerns_me 1581258846173 360 220 touchstart 148 77    this 1
+john_this_message_concerns_me 1581258846214 360 220 touchmove 148 76    this 1
+john_this_message_concerns_me 1581258846231 360 220 touchmove 139 66    this 1
+john_this_message_concerns_me 1581258846248 360 220 touchmove 100 45    this 1
+john_this_message_concerns_me 1581258846253 360 220 touchend 70 34    this 1
+john_this_message_concerns_me 1581258845717 360 220 touchmove 169 48    this 1 1 1
+john_this_message_concerns_me 1581258845733 360 220 touchmove 159 50    this 1 1 1
+john_this_message_concerns_me 1581258845750 360 220 touchmove 143 54    this 1 1 1
+john_this_message_concerns_me 1581258845766 360 220 touchmove 132 58    this 1 1 1
+john_this_message_concerns_me 1581258845783 360 220 touchmove 98 67    this 1 1 1
+john_this_message_concerns_me 1581258845800 360 220 touchmove 90 72    this 1 1 1
+john_this_message_concerns_me 1581258845816 360 220 touchmove 88 74    this 1 1 1
+john_this_message_concerns_me 1581258845833 360 220 touchmove 88 75    this 1 1 1
+john_this_message_concerns_me 1581258845850 360 220 touchmove 88 78    this 1 1 1
+john_this_message_concerns_me 1581258845882 360 220 touchmove 88 79    this 1 1 1
+john_this_message_concerns_me 1581258845899 360 220 touchmove 88 81    this 1 1 1
+john_this_message_concerns_me 1581258845915 360 220 touchmove 88 82    this 1 1 1
+john_this_message_concerns_me 1581258845924 360 220 touchmove 95 84    this 1 1 1
+john_this_message_concerns_me 1581258845927 360 220 touchend 99 84    this 1 1 1
+john_this_message_concerns_me 1581258845937 360 220 touchmove 99 84    this 1 1
+john_this_message_concerns_me 1581258845950 360 220 touchmove 124 86    this 1 1
+john_this_message_concerns_me 1581258845966 360 220 touchmove 135 87    this 1 1
+john_this_message_concerns_me 1581258845982 360 220 touchmove 147 84    this 1 1
+john_this_message_concerns_me 1581258845999 360 220 touchmove 149 83    this 1 1
+john_this_message_concerns_me 1581258846015 360 220 touchmove 149 83    this 1 1
+john_this_message_concerns_me 1581258846032 360 220 touchmove 149 82    this 1 1
+john_this_message_concerns_me 1581258846049 360 220 touchmove 149 80    this 1 1
+john_this_message_concerns_me 1581258846066 360 220 touchmove 148 79    this 1 1
+john_this_message_concerns_me 1581258846082 360 220 touchmove 148 79    this 1 1
+john_this_message_concerns_me 1581258846098 360 220 touchmove 148 78    this 1 1
+john_this_message_concerns_me 1581258846131 360 220 touchmove 148 77    this 1 1
+john_this_message_concerns_me 1581258846148 360 220 touchmove 148 77    this 1 1
+john_this_message_concerns_me 1581258846173 360 220 touchstart 148 77    this 1 1
+john_this_message_concerns_me 1581258846214 360 220 touchmove 148 76    this 1 1
+john_this_message_concerns_me 1581258846231 360 220 touchmove 139 66    this 1 1
+john_this_message_concerns_me 1581258846248 360 220 touchmove 100 45    this 1 1
+john_this_message_concerns_me 1581258846253 360 220 touchend 70 34    this 1 1
+john_this_message_concerns_me 1581258846281 360 220 touchmove 70 34    this 1
+john_this_message_concerns_me 1581258846297 360 220 touchmove 15 16    this 1
+john_this_message_concerns_me 1581258846314 360 220 touchmove 0 11    this 1
+john_this_message_concerns_me 1581258846414 360 220 touchmove 1 11    this 1
+john_this_message_concerns_me 1581258846430 360 220 touchmove 6 11    this 1
+john_this_message_concerns_me 1581258846447 360 220 touchmove 36 11    this 1
+john_this_message_concerns_me 1581258846463 360 220 touchmove 89 26    this 1
+john_this_message_concerns_me 1581258846480 360 220 touchmove 121 37    this 1
+john_this_message_concerns_me 1581258846485 360 220 touchmove 186 56    this 1
+john_this_message_concerns_me 1581258846487 360 220 touchstart 207 58    this 1
+john_this_message_concerns_me 1581258846513 360 220 touchmove 220 63    this 1
+john_this_message_concerns_me 1581258846530 360 220 touchmove 227 67    this 1
+john_this_message_concerns_me 1581258846547 360 220 touchmove 228 68    this 1
+john_this_message_concerns_me 1581258846596 360 220 touchmove 228 67    this 1
+john_this_message_concerns_me 1581258846613 360 220 touchmove 228 66    this 1
+john_this_message_concerns_me 1581258846630 360 220 touchmove 226 66    this 1
+john_this_message_concerns_me 1581258846647 360 220 touchmove 224 67    this 1
+john_this_message_concerns_me 1581258846663 360 220 touchmove 223 67    this 1
+john_this_message_concerns_me 1581258846681 360 220 touchmove 219 68    this 1
+john_this_message_concerns_me 1581258846697 360 220 touchmove 216 68    this 1
+john_this_message_concerns_me 1581258846713 360 220 touchmove 192 66    this 1
+john_this_message_concerns_me 1581258846716 360 220 touchend 177 61    this 1

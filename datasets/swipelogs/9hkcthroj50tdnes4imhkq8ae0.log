@@ -1,0 +1,2329 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+automotive_excessive_der_ppl 1580819801457 360 223 touchstart 45 101 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801478 360 223 touchmove 45 101 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801493 360 223 touchmove 45 101 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801510 360 223 touchmove 45 101 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801526 360 223 touchmove 47 100 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801543 360 223 touchmove 52 99 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801560 360 223 touchmove 61 96 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801576 360 223 touchmove 74 92 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801593 360 223 touchmove 89 85 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801609 360 223 touchmove 107 76 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801626 360 223 touchmove 124 69 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801649 360 223 touchmove 142 61 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801660 360 223 touchmove 158 53 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801676 360 223 touchmove 174 46 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801693 360 223 touchmove 181 43 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801709 360 223 touchmove 194 35 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801726 360 223 touchmove 205 29 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801743 360 223 touchmove 220 24 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801759 360 223 touchmove 223 24 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801776 360 223 touchmove 229 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801792 360 223 touchmove 231 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801809 360 223 touchmove 232 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801825 360 223 touchmove 231 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801842 360 223 touchmove 226 24 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801859 360 223 touchmove 221 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801875 360 223 touchmove 200 33 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801892 360 223 touchmove 185 38 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801908 360 223 touchmove 173 40 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801925 360 223 touchmove 164 40 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801942 360 223 touchmove 158 39 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801959 360 223 touchmove 154 38 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801976 360 223 touchmove 152 38 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819801992 360 223 touchmove 152 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802009 360 223 touchmove 151 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802025 360 223 touchmove 151 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802042 360 223 touchmove 154 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802059 360 223 touchmove 162 36 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802075 360 223 touchmove 168 35 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802092 360 223 touchmove 189 32 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802109 360 223 touchmove 198 30 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802125 360 223 touchmove 224 27 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802143 360 223 touchmove 240 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802158 360 223 touchmove 254 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802176 360 223 touchmove 267 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802193 360 223 touchmove 279 28 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802212 360 223 touchmove 289 29 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802226 360 223 touchmove 295 30 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802243 360 223 touchmove 298 30 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802259 360 223 touchmove 300 31 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802278 360 223 touchmove 302 31 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802292 360 223 touchmove 302 32 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802309 360 223 touchmove 303 33 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802325 360 223 touchmove 303 35 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802343 360 223 touchmove 303 43 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802360 360 223 touchmove 299 60 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802378 360 223 touchmove 294 80 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802394 360 223 touchmove 289 98 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802409 360 223 touchmove 286 112 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802427 360 223 touchmove 284 122 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802443 360 223 touchmove 282 130 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802463 360 223 touchmove 281 137 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802477 360 223 touchmove 281 139 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802494 360 223 touchmove 279 144 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802509 360 223 touchmove 279 146 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802526 360 223 touchmove 278 147 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802542 360 223 touchmove 278 147 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802559 360 223 touchmove 277 148 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802576 360 223 touchmove 277 148 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802594 360 223 touchmove 276 148 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802609 360 223 touchmove 273 148 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802632 360 223 touchmove 269 147 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802651 360 223 touchmove 265 146 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802660 360 223 touchmove 261 145 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802677 360 223 touchmove 257 145 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802692 360 223 touchmove 254 144 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802708 360 223 touchmove 252 144 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802725 360 223 touchmove 251 144 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802743 360 223 touchmove 250 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802759 360 223 touchmove 250 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802875 360 223 touchmove 250 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802893 360 223 touchmove 251 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802909 360 223 touchmove 251 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802925 360 223 touchmove 251 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802941 360 223 touchmove 252 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802958 360 223 touchmove 252 143 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802975 360 223 touchmove 255 140 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819802993 360 223 touchmove 260 131 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803008 360 223 touchmove 267 120 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803025 360 223 touchmove 273 105 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803041 360 223 touchmove 279 89 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803058 360 223 touchmove 284 73 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803075 360 223 touchmove 288 59 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803091 360 223 touchmove 292 49 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803107 360 223 touchmove 294 41 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803124 360 223 touchmove 296 35 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803143 360 223 touchmove 297 31 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803158 360 223 touchmove 299 28 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803179 360 223 touchmove 300 27 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803192 360 223 touchmove 300 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803207 360 223 touchmove 301 24 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803224 360 223 touchmove 301 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803241 360 223 touchmove 301 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803257 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803274 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803291 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803308 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803324 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803341 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803358 360 223 touchmove 301 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803375 360 223 touchmove 300 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803391 360 223 touchmove 299 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803407 360 223 touchmove 299 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803425 360 223 touchmove 298 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803441 360 223 touchmove 297 22 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803457 360 223 touchmove 292 23 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803474 360 223 touchmove 285 25 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803491 360 223 touchmove 275 28 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803507 360 223 touchmove 263 32 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803524 360 223 touchmove 248 35 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803541 360 223 touchmove 241 36 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803558 360 223 touchmove 218 40 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803575 360 223 touchmove 203 40 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803591 360 223 touchmove 189 39 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803608 360 223 touchmove 180 38 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803624 360 223 touchmove 174 38 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803641 360 223 touchmove 171 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803658 360 223 touchmove 170 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803707 360 223 touchmove 170 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803724 360 223 touchmove 174 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803741 360 223 touchmove 185 36 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803757 360 223 touchmove 202 34 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803774 360 223 touchmove 221 32 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803791 360 223 touchmove 242 29 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803807 360 223 touchmove 260 28 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803824 360 223 touchmove 273 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803841 360 223 touchmove 282 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803857 360 223 touchmove 286 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803874 360 223 touchmove 288 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803891 360 223 touchmove 289 25 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803907 360 223 touchmove 289 25 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803924 360 223 touchmove 288 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803941 360 223 touchmove 288 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803957 360 223 touchmove 288 26 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803974 360 223 touchmove 286 28 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819803990 360 223 touchmove 280 33 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804007 360 223 touchmove 269 42 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804024 360 223 touchmove 255 56 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804040 360 223 touchmove 240 72 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804059 360 223 touchmove 226 90 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804074 360 223 touchmove 219 98 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804090 360 223 touchmove 207 112 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804107 360 223 touchmove 198 124 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804126 360 223 touchmove 189 136 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804141 360 223 touchmove 186 139 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804157 360 223 touchmove 181 147 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804174 360 223 touchmove 179 150 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804190 360 223 touchmove 178 152 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804207 360 223 touchmove 177 154 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804224 360 223 touchmove 176 155 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804240 360 223 touchmove 176 155 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804257 360 223 touchmove 175 155 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804274 360 223 touchmove 174 155 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804290 360 223 touchmove 169 148 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804307 360 223 touchmove 163 135 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804324 360 223 touchmove 156 119 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804340 360 223 touchmove 148 103 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804357 360 223 touchmove 140 90 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804374 360 223 touchmove 132 78 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804390 360 223 touchmove 123 68 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804407 360 223 touchmove 115 60 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804423 360 223 touchmove 108 52 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804440 360 223 touchmove 103 46 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804456 360 223 touchmove 99 41 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804473 360 223 touchmove 97 38 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804521 360 223 touchmove 96 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804540 360 223 touchmove 95 36 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804573 360 223 touchmove 95 36 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804590 360 223 touchmove 95 36 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804606 360 223 touchmove 96 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819804623 360 223 touchend 96 37 0 0 0 automotive 0
+automotive_excessive_der_ppl 1580819809822 360 223 touchmove 179 150 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809836 360 223 touchmove 179 150 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809853 360 223 touchmove 178 150 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809870 360 223 touchmove 175 146 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809886 360 223 touchmove 167 134 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809903 360 223 touchmove 159 116 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809919 360 223 touchmove 156 108 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809936 360 223 touchmove 149 90 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809953 360 223 touchmove 139 68 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809969 360 223 touchmove 131 56 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819809986 360 223 touchmove 125 48 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810003 360 223 touchmove 120 42 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810019 360 223 touchmove 116 38 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810036 360 223 touchmove 115 37 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810053 360 223 touchmove 114 36 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810069 360 223 touchmove 114 35 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810086 360 223 touchmove 114 35 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810103 360 223 touchmove 114 35 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810119 360 223 touchmove 114 35 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819810127 360 223 touchend 114 35 0 0 0 excessive 0
+automotive_excessive_der_ppl 1580819811606 360 223 touchstart 109 92 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811653 360 223 touchmove 108 91 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811662 360 223 touchmove 108 91 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811685 360 223 touchmove 105 89 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811702 360 223 touchmove 103 85 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811719 360 223 touchmove 97 68 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811735 360 223 touchmove 94 55 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811752 360 223 touchmove 91 45 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811769 360 223 touchmove 90 39 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811785 360 223 touchmove 90 37 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811802 360 223 touchmove 90 36 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811819 360 223 touchmove 91 36 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811837 360 223 touchmove 91 36 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811855 360 223 touchmove 91 35 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811869 360 223 touchmove 95 35 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811885 360 223 touchmove 102 35 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811904 360 223 touchmove 110 35 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811920 360 223 touchmove 117 36 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811936 360 223 touchmove 124 37 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811952 360 223 touchmove 128 38 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811972 360 223 touchmove 131 38 0 0 0 der 0
+automotive_excessive_der_ppl 1580819811988 360 223 touchmove 132 39 0 0 0 der 0
+automotive_excessive_der_ppl 1580819812003 360 223 touchmove 133 39 0 0 0 der 0
+automotive_excessive_der_ppl 1580819812019 360 223 touchmove 134 40 0 0 0 der 0
+automotive_excessive_der_ppl 1580819812036 360 223 touchmove 135 41 0 0 0 der 0
+automotive_excessive_der_ppl 1580819812052 360 223 touchmove 136 42 0 0 0 der 0
+automotive_excessive_der_ppl 1580819812068 360 223 touchend 136 42 0 0 0 der 0
+automotive_excessive_der_ppl 1580819812821 360 223 touchstart 337 27 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812835 360 223 touchmove 337 27 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812851 360 223 touchmove 337 27 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812884 360 223 touchmove 337 27 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812901 360 223 touchmove 336 27 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812917 360 223 touchmove 336 28 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812934 360 223 touchmove 332 39 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812951 360 223 touchmove 328 51 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812968 360 223 touchmove 325 60 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819812984 360 223 touchmove 324 64 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813001 360 223 touchmove 324 65 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813018 360 223 touchmove 324 66 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813035 360 223 touchmove 323 66 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813059 360 223 touchmove 323 66 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813068 360 223 touchmove 323 66 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813084 360 223 touchmove 324 62 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813101 360 223 touchmove 324 59 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813118 360 223 touchmove 327 47 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813134 360 223 touchmove 328 43 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813151 360 223 touchmove 331 32 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813168 360 223 touchmove 332 30 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813184 360 223 touchmove 333 26 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813201 360 223 touchmove 335 23 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813218 360 223 touchmove 336 21 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813235 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813251 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813301 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813317 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813334 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813359 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813402 360 223 touchmove 336 20 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813417 360 223 touchmove 336 21 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813434 360 223 touchmove 335 21 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813452 360 223 touchmove 335 22 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813467 360 223 touchmove 335 23 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813484 360 223 touchmove 335 24 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813500 360 223 touchmove 334 28 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813517 360 223 touchmove 332 36 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813534 360 223 touchmove 331 40 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813551 360 223 touchmove 327 58 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813567 360 223 touchmove 325 64 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813584 360 223 touchmove 322 84 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813600 360 223 touchmove 319 95 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813617 360 223 touchmove 317 102 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813633 360 223 touchmove 317 104 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813650 360 223 touchmove 316 109 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813667 360 223 touchmove 315 109 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813686 360 223 touchmove 315 110 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813708 360 223 touchmove 315 111 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813751 360 223 touchmove 315 111 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813767 360 223 touchmove 316 110 0 0 0 ppl 0
+automotive_excessive_der_ppl 1580819813777 360 223 touchend 316 110 0 0 0 ppl 0
+this_is_very_sensitive 1580819819926 360 223 touchstart 162 26 0 0 0 this 0
+this_is_very_sensitive 1580819819939 360 223 touchmove 162 26 0 0 0 this 0
+this_is_very_sensitive 1580819819949 360 223 touchmove 162 26 0 0 0 this 0
+this_is_very_sensitive 1580819819958 360 223 touchmove 162 26 0 0 0 this 0
+this_is_very_sensitive 1580819819981 360 223 touchmove 164 26 0 0 0 this 0
+this_is_very_sensitive 1580819819998 360 223 touchmove 169 31 0 0 0 this 0
+this_is_very_sensitive 1580819820014 360 223 touchmove 177 38 0 0 0 this 0
+this_is_very_sensitive 1580819820031 360 223 touchmove 186 48 0 0 0 this 0
+this_is_very_sensitive 1580819820048 360 223 touchmove 197 61 0 0 0 this 0
+this_is_very_sensitive 1580819820064 360 223 touchmove 209 75 0 0 0 this 0
+this_is_very_sensitive 1580819820080 360 223 touchmove 219 85 0 0 0 this 0
+this_is_very_sensitive 1580819820098 360 223 touchmove 227 91 0 0 0 this 0
+this_is_very_sensitive 1580819820117 360 223 touchmove 233 93 0 0 0 this 0
+this_is_very_sensitive 1580819820134 360 223 touchmove 236 94 0 0 0 this 0
+this_is_very_sensitive 1580819820149 360 223 touchmove 239 92 0 0 0 this 0
+this_is_very_sensitive 1580819820163 360 223 touchmove 241 88 0 0 0 this 0
+this_is_very_sensitive 1580819820183 360 223 touchmove 245 78 0 0 0 this 0
+this_is_very_sensitive 1580819820198 360 223 touchmove 249 68 0 0 0 this 0
+this_is_very_sensitive 1580819820214 360 223 touchmove 252 58 0 0 0 this 0
+this_is_very_sensitive 1580819820230 360 223 touchmove 255 51 0 0 0 this 0
+this_is_very_sensitive 1580819820248 360 223 touchmove 258 45 0 0 0 this 0
+this_is_very_sensitive 1580819820264 360 223 touchmove 260 41 0 0 0 this 0
+this_is_very_sensitive 1580819820281 360 223 touchmove 261 38 0 0 0 this 0
+this_is_very_sensitive 1580819820297 360 223 touchmove 262 36 0 0 0 this 0
+this_is_very_sensitive 1580819820314 360 223 touchmove 262 35 0 0 0 this 0
+this_is_very_sensitive 1580819820330 360 223 touchmove 261 34 0 0 0 this 0
+this_is_very_sensitive 1580819820348 360 223 touchmove 257 34 0 0 0 this 0
+this_is_very_sensitive 1580819820364 360 223 touchmove 250 34 0 0 0 this 0
+this_is_very_sensitive 1580819820381 360 223 touchmove 237 38 0 0 0 this 0
+this_is_very_sensitive 1580819820397 360 223 touchmove 222 44 0 0 0 this 0
+this_is_very_sensitive 1580819820414 360 223 touchmove 205 51 0 0 0 this 0
+this_is_very_sensitive 1580819820430 360 223 touchmove 188 59 0 0 0 this 0
+this_is_very_sensitive 1580819820447 360 223 touchmove 172 65 0 0 0 this 0
+this_is_very_sensitive 1580819820463 360 223 touchmove 155 68 0 0 0 this 0
+this_is_very_sensitive 1580819820481 360 223 touchmove 140 72 0 0 0 this 0
+this_is_very_sensitive 1580819820498 360 223 touchmove 125 75 0 0 0 this 0
+this_is_very_sensitive 1580819820513 360 223 touchmove 112 80 0 0 0 this 0
+this_is_very_sensitive 1580819820530 360 223 touchmove 101 83 0 0 0 this 0
+this_is_very_sensitive 1580819820547 360 223 touchmove 93 84 0 0 0 this 0
+this_is_very_sensitive 1580819820563 360 223 touchmove 86 86 0 0 0 this 0
+this_is_very_sensitive 1580819820580 360 223 touchmove 81 88 0 0 0 this 0
+this_is_very_sensitive 1580819820597 360 223 touchmove 78 91 0 0 0 this 0
+this_is_very_sensitive 1580819820616 360 223 touchmove 75 92 0 0 0 this 0
+this_is_very_sensitive 1580819820633 360 223 touchmove 74 93 0 0 0 this 0
+this_is_very_sensitive 1580819820646 360 223 touchmove 73 94 0 0 0 this 0
+this_is_very_sensitive 1580819820667 360 223 touchmove 72 94 0 0 0 this 0
+this_is_very_sensitive 1580819820680 360 223 touchmove 72 95 0 0 0 this 0
+this_is_very_sensitive 1580819820696 360 223 touchmove 72 95 0 0 0 this 0
+this_is_very_sensitive 1580819820712 360 223 touchmove 72 95 0 0 0 this 0
+this_is_very_sensitive 1580819820730 360 223 touchmove 72 95 0 0 0 this 0
+this_is_very_sensitive 1580819820746 360 223 touchmove 72 95 0 0 0 this 0
+this_is_very_sensitive 1580819820756 360 223 touchend 72 95 0 0 0 this 0
+this_is_very_sensitive 1580819819926 360 223 touchstart 162 26 0 0 0 this 0 0
+this_is_very_sensitive 1580819819939 360 223 touchmove 162 26 0 0 0 this 0 0
+this_is_very_sensitive 1580819819949 360 223 touchmove 162 26 0 0 0 this 0 0
+this_is_very_sensitive 1580819819958 360 223 touchmove 162 26 0 0 0 this 0 0
+this_is_very_sensitive 1580819819981 360 223 touchmove 164 26 0 0 0 this 0 0
+this_is_very_sensitive 1580819819998 360 223 touchmove 169 31 0 0 0 this 0 0
+this_is_very_sensitive 1580819820014 360 223 touchmove 177 38 0 0 0 this 0 0
+this_is_very_sensitive 1580819820031 360 223 touchmove 186 48 0 0 0 this 0 0
+this_is_very_sensitive 1580819820048 360 223 touchmove 197 61 0 0 0 this 0 0
+this_is_very_sensitive 1580819820064 360 223 touchmove 209 75 0 0 0 this 0 0
+this_is_very_sensitive 1580819820080 360 223 touchmove 219 85 0 0 0 this 0 0
+this_is_very_sensitive 1580819820098 360 223 touchmove 227 91 0 0 0 this 0 0
+this_is_very_sensitive 1580819820117 360 223 touchmove 233 93 0 0 0 this 0 0
+this_is_very_sensitive 1580819820134 360 223 touchmove 236 94 0 0 0 this 0 0
+this_is_very_sensitive 1580819820149 360 223 touchmove 239 92 0 0 0 this 0 0
+this_is_very_sensitive 1580819820163 360 223 touchmove 241 88 0 0 0 this 0 0
+this_is_very_sensitive 1580819820183 360 223 touchmove 245 78 0 0 0 this 0 0
+this_is_very_sensitive 1580819820198 360 223 touchmove 249 68 0 0 0 this 0 0
+this_is_very_sensitive 1580819820214 360 223 touchmove 252 58 0 0 0 this 0 0
+this_is_very_sensitive 1580819820230 360 223 touchmove 255 51 0 0 0 this 0 0
+this_is_very_sensitive 1580819820248 360 223 touchmove 258 45 0 0 0 this 0 0
+this_is_very_sensitive 1580819820264 360 223 touchmove 260 41 0 0 0 this 0 0
+this_is_very_sensitive 1580819820281 360 223 touchmove 261 38 0 0 0 this 0 0
+this_is_very_sensitive 1580819820297 360 223 touchmove 262 36 0 0 0 this 0 0
+this_is_very_sensitive 1580819820314 360 223 touchmove 262 35 0 0 0 this 0 0
+this_is_very_sensitive 1580819820330 360 223 touchmove 261 34 0 0 0 this 0 0
+this_is_very_sensitive 1580819820348 360 223 touchmove 257 34 0 0 0 this 0 0
+this_is_very_sensitive 1580819820364 360 223 touchmove 250 34 0 0 0 this 0 0
+this_is_very_sensitive 1580819820381 360 223 touchmove 237 38 0 0 0 this 0 0
+this_is_very_sensitive 1580819820397 360 223 touchmove 222 44 0 0 0 this 0 0
+this_is_very_sensitive 1580819820414 360 223 touchmove 205 51 0 0 0 this 0 0
+this_is_very_sensitive 1580819820430 360 223 touchmove 188 59 0 0 0 this 0 0
+this_is_very_sensitive 1580819820447 360 223 touchmove 172 65 0 0 0 this 0 0
+this_is_very_sensitive 1580819820463 360 223 touchmove 155 68 0 0 0 this 0 0
+this_is_very_sensitive 1580819820481 360 223 touchmove 140 72 0 0 0 this 0 0
+this_is_very_sensitive 1580819820498 360 223 touchmove 125 75 0 0 0 this 0 0
+this_is_very_sensitive 1580819820513 360 223 touchmove 112 80 0 0 0 this 0 0
+this_is_very_sensitive 1580819820530 360 223 touchmove 101 83 0 0 0 this 0 0
+this_is_very_sensitive 1580819820547 360 223 touchmove 93 84 0 0 0 this 0 0
+this_is_very_sensitive 1580819820563 360 223 touchmove 86 86 0 0 0 this 0 0
+this_is_very_sensitive 1580819820580 360 223 touchmove 81 88 0 0 0 this 0 0
+this_is_very_sensitive 1580819820597 360 223 touchmove 78 91 0 0 0 this 0 0
+this_is_very_sensitive 1580819820616 360 223 touchmove 75 92 0 0 0 this 0 0
+this_is_very_sensitive 1580819820633 360 223 touchmove 74 93 0 0 0 this 0 0
+this_is_very_sensitive 1580819820646 360 223 touchmove 73 94 0 0 0 this 0 0
+this_is_very_sensitive 1580819820667 360 223 touchmove 72 94 0 0 0 this 0 0
+this_is_very_sensitive 1580819820680 360 223 touchmove 72 95 0 0 0 this 0 0
+this_is_very_sensitive 1580819820696 360 223 touchmove 72 95 0 0 0 this 0 0
+this_is_very_sensitive 1580819820712 360 223 touchmove 72 95 0 0 0 this 0 0
+this_is_very_sensitive 1580819820730 360 223 touchmove 72 95 0 0 0 this 0 0
+this_is_very_sensitive 1580819820746 360 223 touchmove 72 95 0 0 0 this 0 0
+this_is_very_sensitive 1580819820756 360 223 touchend 72 95 0 0 0 this 0 0
+this_is_very_sensitive 1580819821468 360 223 touchstart 271 19 0 0 0 is 0
+this_is_very_sensitive 1580819821480 360 223 touchmove 271 19 0 0 0 is 0
+this_is_very_sensitive 1580819821493 360 223 touchmove 271 19 0 0 0 is 0
+this_is_very_sensitive 1580819821501 360 223 touchmove 271 19 0 0 0 is 0
+this_is_very_sensitive 1580819821512 360 223 touchmove 270 20 0 0 0 is 0
+this_is_very_sensitive 1580819821529 360 223 touchmove 266 21 0 0 0 is 0
+this_is_very_sensitive 1580819821545 360 223 touchmove 256 24 0 0 0 is 0
+this_is_very_sensitive 1580819821574 360 223 touchmove 234 38 0 0 0 is 0
+this_is_very_sensitive 1580819821597 360 223 touchmove 207 54 0 0 0 is 0
+this_is_very_sensitive 1580819821613 360 223 touchmove 188 62 0 0 0 is 0
+this_is_very_sensitive 1580819821634 360 223 touchmove 167 67 0 0 0 is 0
+this_is_very_sensitive 1580819821649 360 223 touchmove 145 72 0 0 0 is 0
+this_is_very_sensitive 1580819821662 360 223 touchmove 126 79 0 0 0 is 0
+this_is_very_sensitive 1580819821678 360 223 touchmove 111 84 0 0 0 is 0
+this_is_very_sensitive 1580819821695 360 223 touchmove 101 87 0 0 0 is 0
+this_is_very_sensitive 1580819821713 360 223 touchmove 93 88 0 0 0 is 0
+this_is_very_sensitive 1580819821729 360 223 touchmove 87 88 0 0 0 is 0
+this_is_very_sensitive 1580819821745 360 223 touchmove 85 89 0 0 0 is 0
+this_is_very_sensitive 1580819821762 360 223 touchmove 83 90 0 0 0 is 0
+this_is_very_sensitive 1580819821779 360 223 touchmove 82 91 0 0 0 is 0
+this_is_very_sensitive 1580819821796 360 223 touchmove 81 91 0 0 0 is 0
+this_is_very_sensitive 1580819821814 360 223 touchmove 81 91 0 0 0 is 0
+this_is_very_sensitive 1580819821829 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821846 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821864 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821878 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821896 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821911 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821930 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821946 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821962 360 223 touchmove 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819821979 360 223 touchend 80 91 0 0 0 is 0
+this_is_very_sensitive 1580819823546 360 223 touchmove 188 49 0 0 0 very 0
+this_is_very_sensitive 1580819823560 360 223 touchmove 190 48 0 0 0 very 0
+this_is_very_sensitive 1580819823577 360 223 touchmove 192 46 0 0 0 very 0
+this_is_very_sensitive 1580819823594 360 223 touchmove 193 44 0 0 0 very 0
+this_is_very_sensitive 1580819823611 360 223 touchmove 195 42 0 0 0 very 0
+this_is_very_sensitive 1580819823627 360 223 touchmove 196 40 0 0 0 very 0
+this_is_very_sensitive 1580819823644 360 223 touchmove 197 38 0 0 0 very 0
+this_is_very_sensitive 1580819823661 360 223 touchmove 198 35 0 0 0 very 0
+this_is_very_sensitive 1580819823677 360 223 touchmove 200 34 0 0 0 very 0
+this_is_very_sensitive 1580819823694 360 223 touchmove 200 33 0 0 0 very 0
+this_is_very_sensitive 1580819823711 360 223 touchmove 201 32 0 0 0 very 0
+this_is_very_sensitive 1580819823727 360 223 touchmove 201 32 0 0 0 very 0
+this_is_very_sensitive 1580819823744 360 223 touchmove 202 31 0 0 0 very 0
+this_is_very_sensitive 1580819823760 360 223 touchmove 202 31 0 0 0 very 0
+this_is_very_sensitive 1580819823777 360 223 touchmove 202 31 0 0 0 very 0
+this_is_very_sensitive 1580819823785 360 223 touchend 202 31 0 0 0 very 0
+this_is_very_sensitive 1580819825327 360 223 touchmove 98 26 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825343 360 223 touchmove 101 25 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825360 360 223 touchmove 104 24 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825377 360 223 touchmove 107 24 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825393 360 223 touchmove 111 25 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825411 360 223 touchmove 114 25 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825427 360 223 touchmove 121 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825443 360 223 touchmove 125 35 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825460 360 223 touchmove 131 43 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825477 360 223 touchmove 137 52 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825493 360 223 touchmove 144 64 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825510 360 223 touchmove 152 77 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825527 360 223 touchmove 161 88 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825543 360 223 touchmove 172 100 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825560 360 223 touchmove 182 112 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825578 360 223 touchmove 187 118 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825594 360 223 touchmove 201 130 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825641 360 223 touchmove 210 137 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825660 360 223 touchmove 226 147 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825676 360 223 touchmove 229 148 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825693 360 223 touchmove 230 148 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825709 360 223 touchmove 232 148 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825726 360 223 touchmove 233 148 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825742 360 223 touchmove 233 148 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825775 360 223 touchmove 234 148 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825792 360 223 touchmove 234 147 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825808 360 223 touchmove 234 147 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825825 360 223 touchmove 233 147 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825842 360 223 touchmove 233 146 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825859 360 223 touchmove 233 146 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825875 360 223 touchmove 233 145 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825892 360 223 touchmove 233 145 0 0 0 sensitive 0
+this_is_very_sensitive 1580819825924 360 223 touchmove 233 145 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826009 360 223 touchmove 233 144 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826042 360 223 touchmove 232 144 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826059 360 223 touchmove 232 144 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826076 360 223 touchmove 231 143 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826093 360 223 touchmove 228 141 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826109 360 223 touchmove 226 139 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826126 360 223 touchmove 215 133 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826143 360 223 touchmove 209 130 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826159 360 223 touchmove 185 115 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826176 360 223 touchmove 167 107 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826192 360 223 touchmove 151 100 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826209 360 223 touchmove 135 95 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826225 360 223 touchmove 122 90 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826242 360 223 touchmove 112 87 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826259 360 223 touchmove 103 86 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826275 360 223 touchmove 96 84 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826292 360 223 touchmove 90 84 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826311 360 223 touchmove 85 84 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826325 360 223 touchmove 83 85 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826342 360 223 touchmove 80 85 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826359 360 223 touchmove 79 85 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826376 360 223 touchmove 79 86 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826426 360 223 touchmove 79 86 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826442 360 223 touchmove 81 86 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826459 360 223 touchmove 87 86 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826476 360 223 touchmove 95 87 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826492 360 223 touchmove 106 88 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826509 360 223 touchmove 120 86 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826526 360 223 touchmove 136 81 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826542 360 223 touchmove 144 79 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826559 360 223 touchmove 172 71 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826575 360 223 touchmove 181 68 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826592 360 223 touchmove 211 56 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826609 360 223 touchmove 229 47 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826625 360 223 touchmove 245 38 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826642 360 223 touchmove 257 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826658 360 223 touchmove 266 26 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826675 360 223 touchmove 271 23 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826692 360 223 touchmove 274 22 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826709 360 223 touchmove 275 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826725 360 223 touchmove 275 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826742 360 223 touchmove 275 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826759 360 223 touchmove 275 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826792 360 223 touchmove 275 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826808 360 223 touchmove 275 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826826 360 223 touchmove 273 21 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826842 360 223 touchmove 268 22 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826858 360 223 touchmove 256 23 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826875 360 223 touchmove 241 25 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826892 360 223 touchmove 223 27 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826909 360 223 touchmove 205 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826925 360 223 touchmove 196 31 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826941 360 223 touchmove 175 32 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826958 360 223 touchmove 166 31 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826975 360 223 touchmove 163 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819826992 360 223 touchmove 161 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827008 360 223 touchmove 161 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827058 360 223 touchmove 162 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827077 360 223 touchmove 166 31 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827092 360 223 touchmove 177 31 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827109 360 223 touchmove 191 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827125 360 223 touchmove 207 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827142 360 223 touchmove 224 29 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827158 360 223 touchmove 232 28 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827175 360 223 touchmove 247 28 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827192 360 223 touchmove 266 27 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827208 360 223 touchmove 270 27 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827225 360 223 touchmove 279 28 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827242 360 223 touchmove 280 28 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827258 360 223 touchmove 282 29 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827275 360 223 touchmove 283 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827291 360 223 touchmove 282 31 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827308 360 223 touchmove 279 34 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827325 360 223 touchmove 270 41 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827342 360 223 touchmove 259 52 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827358 360 223 touchmove 244 67 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827375 360 223 touchmove 228 85 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827392 360 223 touchmove 212 104 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827409 360 223 touchmove 202 120 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827425 360 223 touchmove 195 133 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827442 360 223 touchmove 189 144 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827458 360 223 touchmove 185 151 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827475 360 223 touchmove 182 155 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827492 360 223 touchmove 181 156 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827508 360 223 touchmove 180 157 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827524 360 223 touchmove 179 157 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827541 360 223 touchmove 176 155 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827559 360 223 touchmove 169 144 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827575 360 223 touchmove 161 124 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827591 360 223 touchmove 158 113 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827608 360 223 touchmove 149 85 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827626 360 223 touchmove 143 71 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827641 360 223 touchmove 136 60 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827658 360 223 touchmove 130 50 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827674 360 223 touchmove 125 42 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827691 360 223 touchmove 120 37 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827708 360 223 touchmove 116 34 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827724 360 223 touchmove 113 32 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827741 360 223 touchmove 111 30 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827758 360 223 touchmove 110 29 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827774 360 223 touchmove 110 29 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827790 360 223 touchmove 110 29 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827808 360 223 touchmove 110 29 0 0 0 sensitive 0
+this_is_very_sensitive 1580819827824 360 223 touchend 110 29 0 0 0 sensitive 0
+on_the_plane_doors_closing 1580819833261 360 223 touchstart 306 25 0 0 0 on 0
+on_the_plane_doors_closing 1580819833271 360 223 touchmove 306 25 0 0 0 on 0
+on_the_plane_doors_closing 1580819833281 360 223 touchmove 306 25 0 0 0 on 0
+on_the_plane_doors_closing 1580819833291 360 223 touchmove 306 25 0 0 0 on 0
+on_the_plane_doors_closing 1580819833306 360 223 touchmove 305 26 0 0 0 on 0
+on_the_plane_doors_closing 1580819833322 360 223 touchmove 300 29 0 0 0 on 0
+on_the_plane_doors_closing 1580819833339 360 223 touchmove 293 35 0 0 0 on 0
+on_the_plane_doors_closing 1580819833355 360 223 touchmove 281 49 0 0 0 on 0
+on_the_plane_doors_closing 1580819833377 360 223 touchmove 267 70 0 0 0 on 0
+on_the_plane_doors_closing 1580819833388 360 223 touchmove 253 94 0 0 0 on 0
+on_the_plane_doors_closing 1580819833405 360 223 touchmove 242 120 0 0 0 on 0
+on_the_plane_doors_closing 1580819833422 360 223 touchmove 236 139 0 0 0 on 0
+on_the_plane_doors_closing 1580819833439 360 223 touchmove 232 152 0 0 0 on 0
+on_the_plane_doors_closing 1580819833455 360 223 touchmove 230 161 0 0 0 on 0
+on_the_plane_doors_closing 1580819833472 360 223 touchmove 228 167 0 0 0 on 0
+on_the_plane_doors_closing 1580819833489 360 223 touchmove 228 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833506 360 223 touchmove 227 171 0 0 0 on 0
+on_the_plane_doors_closing 1580819833530 360 223 touchmove 227 171 0 0 0 on 0
+on_the_plane_doors_closing 1580819833613 360 223 touchmove 227 171 0 0 0 on 0
+on_the_plane_doors_closing 1580819833705 360 223 touchmove 227 171 0 0 0 on 0
+on_the_plane_doors_closing 1580819833729 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833745 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833764 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833772 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833788 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833806 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833938 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833955 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833971 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819833988 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819834004 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819834112 360 223 touchmove 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819834137 360 223 touchend 227 170 0 0 0 on 0
+on_the_plane_doors_closing 1580819834683 360 223 touchstart 166 27 0 0 0 the 0
+on_the_plane_doors_closing 1580819834704 360 223 touchmove 166 27 0 0 0 the 0
+on_the_plane_doors_closing 1580819834721 360 223 touchmove 166 27 0 0 0 the 0
+on_the_plane_doors_closing 1580819834737 360 223 touchmove 168 29 0 0 0 the 0
+on_the_plane_doors_closing 1580819834754 360 223 touchmove 173 36 0 0 0 the 0
+on_the_plane_doors_closing 1580819834770 360 223 touchmove 181 45 0 0 0 the 0
+on_the_plane_doors_closing 1580819834787 360 223 touchmove 191 57 0 0 0 the 0
+on_the_plane_doors_closing 1580819834804 360 223 touchmove 202 69 0 0 0 the 0
+on_the_plane_doors_closing 1580819834820 360 223 touchmove 213 83 0 0 0 the 0
+on_the_plane_doors_closing 1580819834836 360 223 touchmove 221 94 0 0 0 the 0
+on_the_plane_doors_closing 1580819834853 360 223 touchmove 228 101 0 0 0 the 0
+on_the_plane_doors_closing 1580819834870 360 223 touchmove 231 106 0 0 0 the 0
+on_the_plane_doors_closing 1580819834886 360 223 touchmove 232 107 0 0 0 the 0
+on_the_plane_doors_closing 1580819834908 360 223 touchmove 232 108 0 0 0 the 0
+on_the_plane_doors_closing 1580819834920 360 223 touchmove 226 108 0 0 0 the 0
+on_the_plane_doors_closing 1580819834937 360 223 touchmove 213 105 0 0 0 the 0
+on_the_plane_doors_closing 1580819834953 360 223 touchmove 194 97 0 0 0 the 0
+on_the_plane_doors_closing 1580819834970 360 223 touchmove 177 87 0 0 0 the 0
+on_the_plane_doors_closing 1580819834990 360 223 touchmove 160 76 0 0 0 the 0
+on_the_plane_doors_closing 1580819835003 360 223 touchmove 143 65 0 0 0 the 0
+on_the_plane_doors_closing 1580819835019 360 223 touchmove 126 54 0 0 0 the 0
+on_the_plane_doors_closing 1580819835036 360 223 touchmove 112 48 0 0 0 the 0
+on_the_plane_doors_closing 1580819835053 360 223 touchmove 101 43 0 0 0 the 0
+on_the_plane_doors_closing 1580819835070 360 223 touchmove 93 40 0 0 0 the 0
+on_the_plane_doors_closing 1580819835086 360 223 touchmove 90 38 0 0 0 the 0
+on_the_plane_doors_closing 1580819835103 360 223 touchmove 86 36 0 0 0 the 0
+on_the_plane_doors_closing 1580819835129 360 223 touchmove 87 37 0 0 0 the 0
+on_the_plane_doors_closing 1580819835137 360 223 touchmove 87 37 0 0 0 the 0
+on_the_plane_doors_closing 1580819835153 360 223 touchmove 89 39 0 0 0 the 0
+on_the_plane_doors_closing 1580819835170 360 223 touchmove 91 41 0 0 0 the 0
+on_the_plane_doors_closing 1580819835178 360 223 touchend 91 41 0 0 0 the 0
+on_the_plane_doors_closing 1580819835619 360 223 touchmove 340 32 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835636 360 223 touchmove 336 46 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835653 360 223 touchmove 333 63 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835669 360 223 touchmove 331 77 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835686 360 223 touchmove 330 86 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835704 360 223 touchmove 329 91 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835720 360 223 touchmove 329 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835736 360 223 touchmove 329 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835753 360 223 touchmove 328 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835769 360 223 touchmove 328 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835786 360 223 touchmove 327 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835803 360 223 touchmove 325 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835820 360 223 touchmove 320 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835836 360 223 touchmove 310 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835853 360 223 touchmove 295 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835869 360 223 touchmove 272 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835886 360 223 touchmove 241 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835902 360 223 touchmove 211 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835919 360 223 touchmove 197 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835936 360 223 touchmove 171 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835953 360 223 touchmove 134 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835969 360 223 touchmove 114 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819835985 360 223 touchmove 95 94 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836003 360 223 touchmove 80 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836019 360 223 touchmove 68 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836036 360 223 touchmove 57 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836052 360 223 touchmove 48 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836072 360 223 touchmove 41 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836086 360 223 touchmove 36 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836102 360 223 touchmove 33 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836119 360 223 touchmove 31 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836136 360 223 touchmove 30 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836152 360 223 touchmove 30 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836169 360 223 touchmove 31 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836186 360 223 touchmove 32 95 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836202 360 223 touchmove 47 96 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836219 360 223 touchmove 61 98 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836235 360 223 touchmove 69 101 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836252 360 223 touchmove 99 111 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836269 360 223 touchmove 120 121 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836286 360 223 touchmove 138 130 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836302 360 223 touchmove 154 139 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836319 360 223 touchmove 167 146 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836338 360 223 touchmove 176 151 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836352 360 223 touchmove 183 155 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836369 360 223 touchmove 191 159 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836385 360 223 touchmove 197 162 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836402 360 223 touchmove 203 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836419 360 223 touchmove 209 167 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836435 360 223 touchmove 213 169 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836452 360 223 touchmove 217 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836469 360 223 touchmove 220 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836485 360 223 touchmove 221 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836501 360 223 touchmove 225 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836518 360 223 touchmove 226 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836534 360 223 touchmove 227 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836551 360 223 touchmove 227 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836568 360 223 touchmove 228 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836687 360 223 touchmove 228 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836702 360 223 touchmove 227 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836718 360 223 touchmove 227 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836735 360 223 touchmove 227 170 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836752 360 223 touchmove 226 169 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836768 360 223 touchmove 226 168 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836785 360 223 touchmove 226 168 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836802 360 223 touchmove 225 168 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836818 360 223 touchmove 225 167 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836835 360 223 touchmove 225 167 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836852 360 223 touchmove 225 167 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836885 360 223 touchmove 225 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836936 360 223 touchmove 226 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836952 360 223 touchmove 226 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836968 360 223 touchmove 226 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819836985 360 223 touchmove 227 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837002 360 223 touchmove 227 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837019 360 223 touchmove 229 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837035 360 223 touchmove 230 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837052 360 223 touchmove 231 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837068 360 223 touchmove 232 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837085 360 223 touchmove 233 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837103 360 223 touchmove 234 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837118 360 223 touchmove 236 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837135 360 223 touchmove 237 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837152 360 223 touchmove 238 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837168 360 223 touchmove 240 165 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837185 360 223 touchmove 243 166 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837202 360 223 touchmove 246 167 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837218 360 223 touchmove 249 168 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837235 360 223 touchmove 253 169 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837251 360 223 touchmove 255 170 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837269 360 223 touchmove 262 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837285 360 223 touchmove 265 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837302 360 223 touchmove 271 175 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837320 360 223 touchmove 274 176 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837335 360 223 touchmove 277 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837351 360 223 touchmove 278 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837369 360 223 touchmove 280 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837385 360 223 touchmove 281 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837401 360 223 touchmove 284 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837418 360 223 touchmove 285 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837435 360 223 touchmove 286 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837451 360 223 touchmove 286 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837468 360 223 touchmove 287 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837486 360 223 touchmove 287 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837534 360 223 touchmove 287 177 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837551 360 223 touchmove 289 175 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837568 360 223 touchmove 289 175 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837585 360 223 touchmove 290 175 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837601 360 223 touchmove 290 174 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837617 360 223 touchmove 290 174 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837634 360 223 touchmove 290 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837651 360 223 touchmove 291 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837667 360 223 touchmove 291 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837684 360 223 touchmove 291 173 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837700 360 223 touchmove 291 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837723 360 223 touchmove 291 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837734 360 223 touchmove 290 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837757 360 223 touchmove 290 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837766 360 223 touchmove 290 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837783 360 223 touchmove 290 172 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837800 360 223 touchmove 290 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837817 360 223 touchmove 289 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837834 360 223 touchmove 289 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837850 360 223 touchmove 289 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837868 360 223 touchmove 289 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837884 360 223 touchmove 289 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837901 360 223 touchmove 288 171 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837924 360 223 touchmove 288 170 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837934 360 223 touchmove 287 170 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837951 360 223 touchmove 285 169 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837967 360 223 touchmove 282 167 0 0 0 plane 0
+on_the_plane_doors_closing 1580819837984 360 223 touchmove 277 164 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838001 360 223 touchmove 270 162 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838017 360 223 touchmove 265 160 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838034 360 223 touchmove 260 159 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838050 360 223 touchmove 255 159 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838067 360 223 touchmove 251 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838084 360 223 touchmove 249 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838101 360 223 touchmove 248 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838118 360 223 touchmove 247 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838134 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838151 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838167 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838193 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838202 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838217 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838234 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838251 360 223 touchmove 246 158 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838301 360 223 touchmove 246 157 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838317 360 223 touchmove 246 157 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838334 360 223 touchmove 246 157 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838351 360 223 touchmove 244 156 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838367 360 223 touchmove 243 154 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838384 360 223 touchmove 230 143 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838401 360 223 touchmove 224 139 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838417 360 223 touchmove 201 121 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838434 360 223 touchmove 183 107 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838451 360 223 touchmove 166 93 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838467 360 223 touchmove 149 80 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838484 360 223 touchmove 142 75 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838501 360 223 touchmove 128 65 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838517 360 223 touchmove 111 52 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838534 360 223 touchmove 106 45 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838550 360 223 touchmove 103 42 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838569 360 223 touchmove 101 39 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838584 360 223 touchmove 100 38 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838600 360 223 touchmove 100 38 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838617 360 223 touchmove 101 38 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838634 360 223 touchmove 101 38 0 0 0 plane 0
+on_the_plane_doors_closing 1580819838641 360 223 touchend 101 38 0 0 0 plane 0
+on_the_plane_doors_closing 1580819839697 360 223 touchstart 108 90 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839708 360 223 touchmove 108 90 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839724 360 223 touchmove 108 90 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839734 360 223 touchmove 108 90 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839751 360 223 touchmove 111 90 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839767 360 223 touchmove 118 90 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839784 360 223 touchmove 130 88 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839800 360 223 touchmove 145 83 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839817 360 223 touchmove 162 75 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839833 360 223 touchmove 181 68 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839850 360 223 touchmove 202 61 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839867 360 223 touchmove 222 54 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839883 360 223 touchmove 241 48 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839900 360 223 touchmove 259 43 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839916 360 223 touchmove 266 40 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839934 360 223 touchmove 276 37 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839950 360 223 touchmove 287 33 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839967 360 223 touchmove 291 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819839983 360 223 touchmove 293 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840001 360 223 touchmove 294 29 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840017 360 223 touchmove 295 29 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840033 360 223 touchmove 295 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840050 360 223 touchmove 295 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840067 360 223 touchmove 296 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840083 360 223 touchmove 296 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840133 360 223 touchmove 295 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840150 360 223 touchmove 295 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840166 360 223 touchmove 294 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840183 360 223 touchmove 293 29 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840200 360 223 touchmove 292 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840216 360 223 touchmove 292 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840233 360 223 touchmove 291 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840250 360 223 touchmove 290 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840266 360 223 touchmove 290 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840282 360 223 touchmove 290 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840300 360 223 touchmove 290 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840316 360 223 touchmove 291 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840333 360 223 touchmove 291 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840349 360 223 touchmove 292 29 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840366 360 223 touchmove 293 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840382 360 223 touchmove 294 28 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840399 360 223 touchmove 295 27 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840416 360 223 touchmove 296 27 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840432 360 223 touchmove 296 26 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840449 360 223 touchmove 296 27 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840466 360 223 touchmove 296 27 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840482 360 223 touchmove 295 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840499 360 223 touchmove 294 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840515 360 223 touchmove 293 37 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840532 360 223 touchmove 293 39 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840549 360 223 touchmove 293 40 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840566 360 223 touchmove 293 41 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840607 360 223 touchmove 293 41 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840624 360 223 touchmove 293 40 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840635 360 223 touchmove 293 40 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840650 360 223 touchmove 293 39 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840666 360 223 touchmove 294 39 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840682 360 223 touchmove 294 38 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840699 360 223 touchmove 296 35 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840716 360 223 touchmove 296 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840732 360 223 touchmove 297 33 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840749 360 223 touchmove 298 32 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840765 360 223 touchmove 298 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840786 360 223 touchmove 298 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840806 360 223 touchmove 298 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840816 360 223 touchmove 298 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840832 360 223 touchmove 298 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840949 360 223 touchmove 298 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840966 360 223 touchmove 298 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840990 360 223 touchmove 298 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819840999 360 223 touchmove 297 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841049 360 223 touchmove 297 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841069 360 223 touchmove 297 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841082 360 223 touchmove 297 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841099 360 223 touchmove 296 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841116 360 223 touchmove 296 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841133 360 223 touchmove 295 30 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841149 360 223 touchmove 295 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841168 360 223 touchmove 294 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841182 360 223 touchmove 293 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841199 360 223 touchmove 291 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841216 360 223 touchmove 290 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841232 360 223 touchmove 288 31 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841249 360 223 touchmove 285 32 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841265 360 223 touchmove 281 33 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841282 360 223 touchmove 275 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841299 360 223 touchmove 267 35 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841315 360 223 touchmove 255 37 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841332 360 223 touchmove 239 39 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841349 360 223 touchmove 220 41 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841365 360 223 touchmove 210 42 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841382 360 223 touchmove 180 44 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841399 360 223 touchmove 160 43 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841415 360 223 touchmove 144 41 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841432 360 223 touchmove 133 38 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841449 360 223 touchmove 126 35 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841465 360 223 touchmove 123 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841482 360 223 touchmove 122 33 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841506 360 223 touchmove 122 33 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841523 360 223 touchmove 122 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841532 360 223 touchmove 122 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841548 360 223 touchmove 122 34 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841565 360 223 touchmove 120 36 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841582 360 223 touchmove 110 46 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841599 360 223 touchmove 101 55 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841615 360 223 touchmove 93 66 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841631 360 223 touchmove 86 74 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841648 360 223 touchmove 82 80 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841665 360 223 touchmove 79 84 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841682 360 223 touchmove 78 86 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841698 360 223 touchmove 77 87 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841715 360 223 touchmove 77 87 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841731 360 223 touchmove 78 87 0 0 0 doors 0
+on_the_plane_doors_closing 1580819841747 360 223 touchend 78 87 0 0 0 doors 0
+on_the_plane_doors_closing 1580819842911 360 223 touchstart 153 155 0 0 0 closing 0
+on_the_plane_doors_closing 1580819842932 360 223 touchmove 153 155 0 0 0 closing 0
+on_the_plane_doors_closing 1580819842948 360 223 touchmove 153 155 0 0 0 closing 0
+on_the_plane_doors_closing 1580819842964 360 223 touchmove 156 154 0 0 0 closing 0
+on_the_plane_doors_closing 1580819842981 360 223 touchmove 164 151 0 0 0 closing 0
+on_the_plane_doors_closing 1580819842998 360 223 touchmove 177 146 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843015 360 223 touchmove 193 138 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843031 360 223 touchmove 215 129 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843048 360 223 touchmove 238 120 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843065 360 223 touchmove 260 113 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843081 360 223 touchmove 279 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843098 360 223 touchmove 295 104 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843115 360 223 touchmove 309 99 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843131 360 223 touchmove 318 97 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843148 360 223 touchmove 324 96 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843164 360 223 touchmove 327 95 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843181 360 223 touchmove 329 95 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843198 360 223 touchmove 332 94 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843215 360 223 touchmove 333 94 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843231 360 223 touchmove 333 94 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843248 360 223 touchmove 333 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843264 360 223 touchmove 333 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843348 360 223 touchmove 333 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843364 360 223 touchmove 333 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843381 360 223 touchmove 332 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843397 360 223 touchmove 332 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843447 360 223 touchmove 332 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843472 360 223 touchmove 331 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843514 360 223 touchmove 331 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843564 360 223 touchmove 331 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843597 360 223 touchmove 330 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843621 360 223 touchmove 330 93 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843664 360 223 touchmove 329 92 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843680 360 223 touchmove 327 90 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843697 360 223 touchmove 324 83 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843714 360 223 touchmove 320 74 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843730 360 223 touchmove 316 66 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843747 360 223 touchmove 312 58 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843764 360 223 touchmove 309 51 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843780 360 223 touchmove 308 46 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843797 360 223 touchmove 306 42 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843816 360 223 touchmove 305 39 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843830 360 223 touchmove 304 36 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843847 360 223 touchmove 303 34 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843864 360 223 touchmove 302 32 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843881 360 223 touchmove 301 31 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843897 360 223 touchmove 298 29 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843914 360 223 touchmove 292 28 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843930 360 223 touchmove 282 27 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843947 360 223 touchmove 265 29 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843964 360 223 touchmove 244 36 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843980 360 223 touchmove 220 45 0 0 0 closing 0
+on_the_plane_doors_closing 1580819843997 360 223 touchmove 195 56 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844013 360 223 touchmove 171 68 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844030 360 223 touchmove 151 79 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844047 360 223 touchmove 134 87 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844064 360 223 touchmove 119 92 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844080 360 223 touchmove 107 96 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844096 360 223 touchmove 96 101 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844113 360 223 touchmove 92 103 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844130 360 223 touchmove 82 107 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844146 360 223 touchmove 79 109 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844163 360 223 touchmove 78 109 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844180 360 223 touchmove 78 110 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844196 360 223 touchmove 78 110 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844214 360 223 touchmove 80 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844230 360 223 touchmove 91 103 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844246 360 223 touchmove 106 95 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844263 360 223 touchmove 125 85 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844280 360 223 touchmove 136 80 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844297 360 223 touchmove 169 66 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844313 360 223 touchmove 190 58 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844330 360 223 touchmove 210 50 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844347 360 223 touchmove 229 46 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844364 360 223 touchmove 245 42 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844380 360 223 touchmove 259 38 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844396 360 223 touchmove 269 36 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844413 360 223 touchmove 276 34 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844430 360 223 touchmove 282 34 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844447 360 223 touchmove 285 34 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844463 360 223 touchmove 286 34 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844480 360 223 touchmove 287 34 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844496 360 223 touchmove 286 35 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844513 360 223 touchmove 284 37 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844530 360 223 touchmove 280 41 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844547 360 223 touchmove 273 48 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844563 360 223 touchmove 269 53 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844580 360 223 touchmove 261 66 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844596 360 223 touchmove 251 91 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844613 360 223 touchmove 246 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844629 360 223 touchmove 244 124 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844646 360 223 touchmove 243 135 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844663 360 223 touchmove 245 143 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844680 360 223 touchmove 245 146 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844697 360 223 touchmove 247 150 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844713 360 223 touchmove 247 151 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844730 360 223 touchmove 247 153 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844747 360 223 touchmove 247 153 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844763 360 223 touchmove 247 153 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844780 360 223 touchmove 247 153 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844796 360 223 touchmove 247 153 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844813 360 223 touchmove 247 153 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844830 360 223 touchmove 241 149 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844846 360 223 touchmove 232 143 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844863 360 223 touchmove 221 136 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844880 360 223 touchmove 208 131 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844896 360 223 touchmove 198 125 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844913 360 223 touchmove 190 120 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844929 360 223 touchmove 184 116 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844946 360 223 touchmove 181 113 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844963 360 223 touchmove 180 113 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844979 360 223 touchmove 179 111 0 0 0 closing 0
+on_the_plane_doors_closing 1580819844997 360 223 touchmove 179 109 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845013 360 223 touchmove 178 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845029 360 223 touchmove 178 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845046 360 223 touchmove 179 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845062 360 223 touchmove 179 108 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845079 360 223 touchmove 179 109 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845096 360 223 touchmove 179 109 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845113 360 223 touchmove 180 109 0 0 0 closing 0
+on_the_plane_doors_closing 1580819845114 360 223 touchend 180 109 0 0 0 closing 0
+reporters_jersey_drives_host 1580819849481 360 223 touchstart 120 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849510 360 223 touchmove 120 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849547 360 223 touchmove 120 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849560 360 223 touchmove 119 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849577 360 223 touchmove 115 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849595 360 223 touchmove 109 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849610 360 223 touchmove 103 35 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849627 360 223 touchmove 98 36 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849644 360 223 touchmove 96 38 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849661 360 223 touchmove 94 38 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849677 360 223 touchmove 94 39 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849694 360 223 touchmove 94 39 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849711 360 223 touchmove 96 40 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849727 360 223 touchmove 105 41 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849744 360 223 touchmove 117 42 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849765 360 223 touchmove 132 43 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849782 360 223 touchmove 149 43 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849795 360 223 touchmove 167 43 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849811 360 223 touchmove 185 44 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849832 360 223 touchmove 204 45 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849845 360 223 touchmove 223 45 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849867 360 223 touchmove 243 46 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849879 360 223 touchmove 264 45 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849896 360 223 touchmove 283 45 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849914 360 223 touchmove 298 44 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849929 360 223 touchmove 311 43 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849944 360 223 touchmove 322 41 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849961 360 223 touchmove 331 40 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849978 360 223 touchmove 337 38 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849998 360 223 touchmove 340 37 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850014 360 223 touchmove 341 36 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850028 360 223 touchmove 341 36 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850044 360 223 touchmove 341 36 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850061 360 223 touchmove 341 36 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850077 360 223 touchmove 340 35 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850094 360 223 touchmove 337 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850111 360 223 touchmove 332 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850128 360 223 touchmove 326 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850150 360 223 touchmove 319 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850161 360 223 touchmove 314 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850177 360 223 touchmove 310 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850193 360 223 touchmove 308 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850211 360 223 touchmove 307 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850226 360 223 touchmove 306 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850246 360 223 touchmove 306 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850260 360 223 touchmove 306 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850277 360 223 touchmove 306 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850317 360 223 touchmove 306 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850360 360 223 touchmove 306 31 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850377 360 223 touchmove 305 31 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850393 360 223 touchmove 301 31 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850410 360 223 touchmove 293 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850426 360 223 touchmove 282 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850443 360 223 touchmove 268 38 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850460 360 223 touchmove 249 42 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850476 360 223 touchmove 239 43 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850493 360 223 touchmove 209 46 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850509 360 223 touchmove 199 46 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850526 360 223 touchmove 181 47 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850543 360 223 touchmove 159 46 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850559 360 223 touchmove 147 44 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850576 360 223 touchmove 136 42 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850593 360 223 touchmove 126 40 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850610 360 223 touchmove 120 37 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850626 360 223 touchmove 117 35 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850642 360 223 touchmove 115 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850659 360 223 touchmove 115 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850676 360 223 touchmove 115 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850693 360 223 touchmove 115 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850709 360 223 touchmove 118 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850726 360 223 touchmove 127 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850743 360 223 touchmove 137 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850759 360 223 touchmove 147 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850777 360 223 touchmove 155 31 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850793 360 223 touchmove 160 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850810 360 223 touchmove 164 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850826 360 223 touchmove 167 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850842 360 223 touchmove 170 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850859 360 223 touchmove 171 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850876 360 223 touchmove 172 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850892 360 223 touchmove 172 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850909 360 223 touchmove 172 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850926 360 223 touchmove 172 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850942 360 223 touchmove 170 34 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850959 360 223 touchmove 165 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850976 360 223 touchmove 157 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819850992 360 223 touchmove 147 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851009 360 223 touchmove 137 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851026 360 223 touchmove 127 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851042 360 223 touchmove 119 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851059 360 223 touchmove 112 33 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851075 360 223 touchmove 107 32 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851092 360 223 touchmove 103 31 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851109 360 223 touchmove 101 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851126 360 223 touchmove 101 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851142 360 223 touchmove 100 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851176 360 223 touchmove 101 29 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851195 360 223 touchmove 103 30 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851209 360 223 touchmove 109 29 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851225 360 223 touchmove 115 29 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851243 360 223 touchmove 122 28 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851260 360 223 touchmove 128 28 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851275 360 223 touchmove 132 28 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851292 360 223 touchmove 135 28 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851308 360 223 touchmove 136 28 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851325 360 223 touchmove 137 29 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851342 360 223 touchmove 137 29 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851359 360 223 touchmove 137 29 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851376 360 223 touchmove 136 31 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851392 360 223 touchmove 132 36 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851409 360 223 touchmove 123 43 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851426 360 223 touchmove 113 52 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851442 360 223 touchmove 103 60 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851459 360 223 touchmove 93 67 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851475 360 223 touchmove 86 72 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851492 360 223 touchmove 82 78 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851509 360 223 touchmove 79 82 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851526 360 223 touchmove 76 84 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851542 360 223 touchmove 75 86 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851559 360 223 touchmove 74 87 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851575 360 223 touchmove 73 88 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851592 360 223 touchmove 73 88 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851608 360 223 touchmove 73 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851625 360 223 touchmove 73 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851643 360 223 touchmove 72 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851659 360 223 touchmove 72 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851676 360 223 touchmove 73 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851695 360 223 touchmove 73 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819851709 360 223 touchend 73 89 0 0 0 reporters 0
+reporters_jersey_drives_host 1580819849481 360 223 touchstart 120 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849510 360 223 touchmove 120 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849547 360 223 touchmove 120 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849560 360 223 touchmove 119 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849577 360 223 touchmove 115 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849595 360 223 touchmove 109 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849610 360 223 touchmove 103 35 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849627 360 223 touchmove 98 36 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849644 360 223 touchmove 96 38 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849661 360 223 touchmove 94 38 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849677 360 223 touchmove 94 39 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849694 360 223 touchmove 94 39 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849711 360 223 touchmove 96 40 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849727 360 223 touchmove 105 41 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849744 360 223 touchmove 117 42 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849765 360 223 touchmove 132 43 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849782 360 223 touchmove 149 43 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849795 360 223 touchmove 167 43 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849811 360 223 touchmove 185 44 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849832 360 223 touchmove 204 45 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849845 360 223 touchmove 223 45 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849867 360 223 touchmove 243 46 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849879 360 223 touchmove 264 45 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849896 360 223 touchmove 283 45 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849914 360 223 touchmove 298 44 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849929 360 223 touchmove 311 43 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849944 360 223 touchmove 322 41 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849961 360 223 touchmove 331 40 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849978 360 223 touchmove 337 38 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819849998 360 223 touchmove 340 37 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850014 360 223 touchmove 341 36 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850028 360 223 touchmove 341 36 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850044 360 223 touchmove 341 36 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850061 360 223 touchmove 341 36 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850077 360 223 touchmove 340 35 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850094 360 223 touchmove 337 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850111 360 223 touchmove 332 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850128 360 223 touchmove 326 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850150 360 223 touchmove 319 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850161 360 223 touchmove 314 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850177 360 223 touchmove 310 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850193 360 223 touchmove 308 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850211 360 223 touchmove 307 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850226 360 223 touchmove 306 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850246 360 223 touchmove 306 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850260 360 223 touchmove 306 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850277 360 223 touchmove 306 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850317 360 223 touchmove 306 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850360 360 223 touchmove 306 31 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850377 360 223 touchmove 305 31 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850393 360 223 touchmove 301 31 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850410 360 223 touchmove 293 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850426 360 223 touchmove 282 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850443 360 223 touchmove 268 38 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850460 360 223 touchmove 249 42 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850476 360 223 touchmove 239 43 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850493 360 223 touchmove 209 46 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850509 360 223 touchmove 199 46 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850526 360 223 touchmove 181 47 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850543 360 223 touchmove 159 46 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850559 360 223 touchmove 147 44 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850576 360 223 touchmove 136 42 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850593 360 223 touchmove 126 40 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850610 360 223 touchmove 120 37 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850626 360 223 touchmove 117 35 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850642 360 223 touchmove 115 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850659 360 223 touchmove 115 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850676 360 223 touchmove 115 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850693 360 223 touchmove 115 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850709 360 223 touchmove 118 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850726 360 223 touchmove 127 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850743 360 223 touchmove 137 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850759 360 223 touchmove 147 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850777 360 223 touchmove 155 31 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850793 360 223 touchmove 160 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850810 360 223 touchmove 164 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850826 360 223 touchmove 167 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850842 360 223 touchmove 170 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850859 360 223 touchmove 171 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850876 360 223 touchmove 172 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850892 360 223 touchmove 172 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850909 360 223 touchmove 172 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850926 360 223 touchmove 172 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850942 360 223 touchmove 170 34 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850959 360 223 touchmove 165 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850976 360 223 touchmove 157 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819850992 360 223 touchmove 147 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851009 360 223 touchmove 137 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851026 360 223 touchmove 127 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851042 360 223 touchmove 119 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851059 360 223 touchmove 112 33 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851075 360 223 touchmove 107 32 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851092 360 223 touchmove 103 31 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851109 360 223 touchmove 101 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851126 360 223 touchmove 101 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851142 360 223 touchmove 100 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851176 360 223 touchmove 101 29 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851195 360 223 touchmove 103 30 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851209 360 223 touchmove 109 29 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851225 360 223 touchmove 115 29 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851243 360 223 touchmove 122 28 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851260 360 223 touchmove 128 28 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851275 360 223 touchmove 132 28 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851292 360 223 touchmove 135 28 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851308 360 223 touchmove 136 28 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851325 360 223 touchmove 137 29 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851342 360 223 touchmove 137 29 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851359 360 223 touchmove 137 29 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851376 360 223 touchmove 136 31 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851392 360 223 touchmove 132 36 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851409 360 223 touchmove 123 43 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851426 360 223 touchmove 113 52 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851442 360 223 touchmove 103 60 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851459 360 223 touchmove 93 67 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851475 360 223 touchmove 86 72 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851492 360 223 touchmove 82 78 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851509 360 223 touchmove 79 82 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851526 360 223 touchmove 76 84 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851542 360 223 touchmove 75 86 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851559 360 223 touchmove 74 87 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851575 360 223 touchmove 73 88 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851592 360 223 touchmove 73 88 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851608 360 223 touchmove 73 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851625 360 223 touchmove 73 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851643 360 223 touchmove 72 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851659 360 223 touchmove 72 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851676 360 223 touchmove 73 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851695 360 223 touchmove 73 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819851709 360 223 touchend 73 89 0 0 0 reporters 0 0
+reporters_jersey_drives_host 1580819852472 360 223 touchstart 253 82 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852482 360 223 touchmove 253 82 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852525 360 223 touchmove 253 82 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852542 360 223 touchmove 252 81 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852558 360 223 touchmove 249 81 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852575 360 223 touchmove 247 81 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852592 360 223 touchmove 234 81 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852609 360 223 touchmove 222 80 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852624 360 223 touchmove 207 78 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852641 360 223 touchmove 200 76 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852658 360 223 touchmove 175 71 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852675 360 223 touchmove 158 67 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852691 360 223 touchmove 142 62 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852708 360 223 touchmove 127 55 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852724 360 223 touchmove 120 53 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852741 360 223 touchmove 105 47 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852758 360 223 touchmove 99 45 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852774 360 223 touchmove 97 44 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852791 360 223 touchmove 92 42 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852808 360 223 touchmove 91 40 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852825 360 223 touchmove 90 39 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852841 360 223 touchmove 90 39 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852858 360 223 touchmove 91 38 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852875 360 223 touchmove 102 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852891 360 223 touchmove 110 35 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852908 360 223 touchmove 115 35 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852925 360 223 touchmove 129 33 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852941 360 223 touchmove 136 32 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852958 360 223 touchmove 139 32 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852974 360 223 touchmove 141 32 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819852991 360 223 touchmove 142 32 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853008 360 223 touchmove 143 33 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853025 360 223 touchmove 143 33 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853042 360 223 touchmove 143 33 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853058 360 223 touchmove 143 34 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853074 360 223 touchmove 142 35 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853093 360 223 touchmove 141 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853108 360 223 touchmove 139 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853124 360 223 touchmove 134 40 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853141 360 223 touchmove 126 45 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853157 360 223 touchmove 122 48 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853174 360 223 touchmove 106 61 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853191 360 223 touchmove 101 65 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853240 360 223 touchmove 88 78 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853257 360 223 touchmove 77 92 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853274 360 223 touchmove 75 94 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853291 360 223 touchmove 75 95 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853307 360 223 touchmove 75 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853324 360 223 touchmove 74 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853340 360 223 touchmove 74 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853357 360 223 touchmove 74 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853373 360 223 touchmove 74 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853390 360 223 touchmove 75 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853406 360 223 touchmove 75 96 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853423 360 223 touchmove 76 94 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853439 360 223 touchmove 78 90 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853457 360 223 touchmove 82 80 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853473 360 223 touchmove 85 70 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853490 360 223 touchmove 89 60 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853507 360 223 touchmove 91 51 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853524 360 223 touchmove 93 44 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853541 360 223 touchmove 94 38 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853557 360 223 touchmove 95 33 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853574 360 223 touchmove 95 31 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853590 360 223 touchmove 95 30 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853607 360 223 touchmove 95 29 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853624 360 223 touchmove 95 29 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853647 360 223 touchmove 95 29 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853664 360 223 touchmove 95 29 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853681 360 223 touchmove 95 29 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853791 360 223 touchmove 95 29 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853807 360 223 touchmove 95 30 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853824 360 223 touchmove 95 30 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853840 360 223 touchmove 96 31 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853857 360 223 touchmove 99 33 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853874 360 223 touchmove 105 35 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853890 360 223 touchmove 111 38 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853907 360 223 touchmove 122 41 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853924 360 223 touchmove 135 43 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853940 360 223 touchmove 150 43 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853957 360 223 touchmove 163 42 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853973 360 223 touchmove 174 41 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819853990 360 223 touchmove 182 40 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854007 360 223 touchmove 189 39 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854023 360 223 touchmove 193 38 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854041 360 223 touchmove 197 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854057 360 223 touchmove 199 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854074 360 223 touchmove 201 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854090 360 223 touchmove 202 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854107 360 223 touchmove 203 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854124 360 223 touchmove 204 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854148 360 223 touchmove 204 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854157 360 223 touchmove 204 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854174 360 223 touchmove 204 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854190 360 223 touchmove 204 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854207 360 223 touchmove 204 36 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854232 360 223 touchmove 204 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854247 360 223 touchmove 204 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854257 360 223 touchmove 204 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854275 360 223 touchmove 205 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819854277 360 223 touchend 205 37 0 0 0 jersey 0
+reporters_jersey_drives_host 1580819856209 360 223 touchmove 96 28 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856222 360 223 touchmove 95 27 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856238 360 223 touchmove 95 27 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856255 360 223 touchmove 94 27 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856272 360 223 touchmove 93 27 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856288 360 223 touchmove 90 35 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856305 360 223 touchmove 87 43 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856322 360 223 touchmove 84 53 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856339 360 223 touchmove 81 64 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856356 360 223 touchmove 79 73 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856372 360 223 touchmove 78 81 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856389 360 223 touchmove 77 86 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856405 360 223 touchmove 77 88 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856422 360 223 touchmove 76 91 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856439 360 223 touchmove 76 93 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856455 360 223 touchmove 76 94 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856472 360 223 touchmove 76 94 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856489 360 223 touchmove 76 94 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856505 360 223 touchmove 77 94 0 0 0 drives 0
+reporters_jersey_drives_host 1580819856521 360 223 touchend 77 94 0 0 0 drives 0
+reporters_jersey_drives_host 1580819857251 360 223 touchstart 214 90 0 0 0 host 0
+reporters_jersey_drives_host 1580819857272 360 223 touchmove 214 90 0 0 0 host 0
+reporters_jersey_drives_host 1580819857288 360 223 touchmove 214 90 0 0 0 host 0
+reporters_jersey_drives_host 1580819857305 360 223 touchmove 215 90 0 0 0 host 0
+reporters_jersey_drives_host 1580819857322 360 223 touchmove 219 89 0 0 0 host 0
+reporters_jersey_drives_host 1580819857338 360 223 touchmove 227 85 0 0 0 host 0
+reporters_jersey_drives_host 1580819857355 360 223 touchmove 238 78 0 0 0 host 0
+reporters_jersey_drives_host 1580819857371 360 223 touchmove 250 69 0 0 0 host 0
+reporters_jersey_drives_host 1580819857388 360 223 touchmove 264 59 0 0 0 host 0
+reporters_jersey_drives_host 1580819857404 360 223 touchmove 276 49 0 0 0 host 0
+reporters_jersey_drives_host 1580819857421 360 223 touchmove 281 46 0 0 0 host 0
+reporters_jersey_drives_host 1580819857438 360 223 touchmove 291 37 0 0 0 host 0
+reporters_jersey_drives_host 1580819857454 360 223 touchmove 294 34 0 0 0 host 0
+reporters_jersey_drives_host 1580819857471 360 223 touchmove 296 32 0 0 0 host 0
+reporters_jersey_drives_host 1580819857488 360 223 touchmove 296 31 0 0 0 host 0
+reporters_jersey_drives_host 1580819857505 360 223 touchmove 295 30 0 0 0 host 0
+reporters_jersey_drives_host 1580819857521 360 223 touchmove 291 28 0 0 0 host 0
+reporters_jersey_drives_host 1580819857538 360 223 touchmove 279 26 0 0 0 host 0
+reporters_jersey_drives_host 1580819857555 360 223 touchmove 259 28 0 0 0 host 0
+reporters_jersey_drives_host 1580819857571 360 223 touchmove 235 36 0 0 0 host 0
+reporters_jersey_drives_host 1580819857588 360 223 touchmove 209 45 0 0 0 host 0
+reporters_jersey_drives_host 1580819857604 360 223 touchmove 183 55 0 0 0 host 0
+reporters_jersey_drives_host 1580819857621 360 223 touchmove 158 65 0 0 0 host 0
+reporters_jersey_drives_host 1580819857638 360 223 touchmove 135 75 0 0 0 host 0
+reporters_jersey_drives_host 1580819857654 360 223 touchmove 117 83 0 0 0 host 0
+reporters_jersey_drives_host 1580819857671 360 223 touchmove 104 87 0 0 0 host 0
+reporters_jersey_drives_host 1580819857688 360 223 touchmove 94 89 0 0 0 host 0
+reporters_jersey_drives_host 1580819857705 360 223 touchmove 86 90 0 0 0 host 0
+reporters_jersey_drives_host 1580819857721 360 223 touchmove 80 91 0 0 0 host 0
+reporters_jersey_drives_host 1580819857738 360 223 touchmove 75 92 0 0 0 host 0
+reporters_jersey_drives_host 1580819857754 360 223 touchmove 74 92 0 0 0 host 0
+reporters_jersey_drives_host 1580819857771 360 223 touchmove 71 92 0 0 0 host 0
+reporters_jersey_drives_host 1580819857787 360 223 touchmove 71 93 0 0 0 host 0
+reporters_jersey_drives_host 1580819857804 360 223 touchmove 71 93 0 0 0 host 0
+reporters_jersey_drives_host 1580819857821 360 223 touchmove 71 92 0 0 0 host 0
+reporters_jersey_drives_host 1580819857837 360 223 touchmove 76 88 0 0 0 host 0
+reporters_jersey_drives_host 1580819857854 360 223 touchmove 81 84 0 0 0 host 0
+reporters_jersey_drives_host 1580819857871 360 223 touchmove 99 69 0 0 0 host 0
+reporters_jersey_drives_host 1580819857888 360 223 touchmove 114 58 0 0 0 host 0
+reporters_jersey_drives_host 1580819857904 360 223 touchmove 123 52 0 0 0 host 0
+reporters_jersey_drives_host 1580819857921 360 223 touchmove 148 37 0 0 0 host 0
+reporters_jersey_drives_host 1580819857937 360 223 touchmove 160 28 0 0 0 host 0
+reporters_jersey_drives_host 1580819857954 360 223 touchmove 168 23 0 0 0 host 0
+reporters_jersey_drives_host 1580819857971 360 223 touchmove 172 21 0 0 0 host 0
+reporters_jersey_drives_host 1580819857988 360 223 touchmove 173 20 0 0 0 host 0
+reporters_jersey_drives_host 1580819858004 360 223 touchmove 173 19 0 0 0 host 0
+reporters_jersey_drives_host 1580819858020 360 223 touchmove 174 19 0 0 0 host 0
+reporters_jersey_drives_host 1580819858070 360 223 touchmove 174 20 0 0 0 host 0
+reporters_jersey_drives_host 1580819858095 360 223 touchmove 174 20 0 0 0 host 0
+reporters_jersey_drives_host 1580819858104 360 223 touchmove 174 20 0 0 0 host 0
+reporters_jersey_drives_host 1580819858128 360 223 touchend 174 20 0 0 0 host 0
+webshots_programmer_alaska_bottom 1580819862600 360 223 touchstart 56 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862604 360 223 touchmove 56 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862619 360 223 touchmove 56 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862635 360 223 touchmove 56 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862652 360 223 touchmove 58 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862668 360 223 touchmove 66 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862685 360 223 touchmove 73 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862702 360 223 touchmove 79 33 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862719 360 223 touchmove 84 31 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862735 360 223 touchmove 88 31 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862751 360 223 touchmove 91 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862768 360 223 touchmove 92 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862785 360 223 touchmove 93 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862801 360 223 touchmove 93 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862818 360 223 touchmove 94 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862839 360 223 touchmove 94 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862851 360 223 touchmove 94 30 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862867 360 223 touchmove 95 31 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862884 360 223 touchmove 95 31 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862901 360 223 touchmove 96 32 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862918 360 223 touchmove 96 33 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862934 360 223 touchmove 97 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862951 360 223 touchmove 97 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862968 360 223 touchmove 98 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862985 360 223 touchmove 99 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863001 360 223 touchmove 100 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863018 360 223 touchmove 100 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863035 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863051 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863067 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863086 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863109 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863119 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863134 360 223 touchmove 99 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863151 360 223 touchmove 99 37 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863167 360 223 touchmove 98 38 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863185 360 223 touchmove 98 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863201 360 223 touchmove 97 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863218 360 223 touchmove 97 40 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863234 360 223 touchmove 97 40 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863258 360 223 touchmove 97 40 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863275 360 223 touchmove 97 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863285 360 223 touchmove 97 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863301 360 223 touchmove 97 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863318 360 223 touchmove 97 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863335 360 223 touchmove 97 38 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863351 360 223 touchmove 97 38 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863367 360 223 touchmove 97 38 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863388 360 223 touchmove 98 37 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863401 360 223 touchmove 99 37 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863418 360 223 touchmove 99 37 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863434 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863450 360 223 touchmove 100 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863467 360 223 touchmove 101 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863484 360 223 touchmove 101 36 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863500 360 223 touchmove 102 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863517 360 223 touchmove 102 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863534 360 223 touchmove 102 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863550 360 223 touchmove 103 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863567 360 223 touchmove 103 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863585 360 223 touchmove 103 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863600 360 223 touchmove 104 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863617 360 223 touchmove 104 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863634 360 223 touchmove 104 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863651 360 223 touchmove 105 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863667 360 223 touchmove 105 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863684 360 223 touchmove 106 35 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863701 360 223 touchmove 108 38 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863717 360 223 touchmove 113 45 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863734 360 223 touchmove 121 54 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863750 360 223 touchmove 131 67 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863767 360 223 touchmove 143 81 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863784 360 223 touchmove 156 97 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863802 360 223 touchmove 170 112 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863817 360 223 touchmove 183 126 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863836 360 223 touchmove 196 137 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863851 360 223 touchmove 208 146 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863867 360 223 touchmove 216 151 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863884 360 223 touchmove 218 153 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863901 360 223 touchmove 224 155 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863917 360 223 touchmove 230 157 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863934 360 223 touchmove 234 158 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863950 360 223 touchmove 235 158 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863967 360 223 touchmove 235 159 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819863984 360 223 touchmove 236 159 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864001 360 223 touchmove 235 159 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864017 360 223 touchmove 230 157 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864034 360 223 touchmove 221 154 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864051 360 223 touchmove 208 149 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864068 360 223 touchmove 194 143 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864085 360 223 touchmove 178 135 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864100 360 223 touchmove 161 128 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864117 360 223 touchmove 146 120 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864133 360 223 touchmove 138 116 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864150 360 223 touchmove 116 105 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864167 360 223 touchmove 104 99 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864183 360 223 touchmove 94 96 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864202 360 223 touchmove 87 93 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864217 360 223 touchmove 84 92 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864234 360 223 touchmove 83 91 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864250 360 223 touchmove 82 91 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864272 360 223 touchmove 82 91 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864283 360 223 touchmove 82 91 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864299 360 223 touchmove 83 91 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864316 360 223 touchmove 84 92 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864335 360 223 touchmove 86 93 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864350 360 223 touchmove 89 94 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864367 360 223 touchmove 93 96 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864383 360 223 touchmove 98 97 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864400 360 223 touchmove 102 98 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864416 360 223 touchmove 108 99 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864433 360 223 touchmove 116 101 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864450 360 223 touchmove 124 102 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864466 360 223 touchmove 134 103 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864483 360 223 touchmove 147 104 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864500 360 223 touchmove 160 104 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864517 360 223 touchmove 174 103 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864533 360 223 touchmove 186 101 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864550 360 223 touchmove 192 101 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864567 360 223 touchmove 205 101 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864585 360 223 touchmove 212 100 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864600 360 223 touchmove 217 99 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864616 360 223 touchmove 220 99 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864633 360 223 touchmove 224 98 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864650 360 223 touchmove 227 98 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864666 360 223 touchmove 230 99 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864685 360 223 touchmove 231 99 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864700 360 223 touchmove 232 98 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864716 360 223 touchmove 233 98 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864733 360 223 touchmove 233 97 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864750 360 223 touchmove 234 96 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864766 360 223 touchmove 237 92 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864783 360 223 touchmove 243 83 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864800 360 223 touchmove 247 78 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864817 360 223 touchmove 263 61 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864835 360 223 touchmove 276 49 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864849 360 223 touchmove 288 39 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864866 360 223 touchmove 298 31 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864883 360 223 touchmove 304 27 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864900 360 223 touchmove 307 25 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864917 360 223 touchmove 308 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864933 360 223 touchmove 308 22 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864950 360 223 touchmove 308 21 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864966 360 223 touchmove 305 19 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864983 360 223 touchmove 298 18 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819864999 360 223 touchmove 289 17 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865017 360 223 touchmove 284 17 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865033 360 223 touchmove 262 18 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865050 360 223 touchmove 246 19 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865067 360 223 touchmove 230 20 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865085 360 223 touchmove 214 21 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865099 360 223 touchmove 201 22 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865117 360 223 touchmove 189 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865133 360 223 touchmove 179 24 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865150 360 223 touchmove 171 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865166 360 223 touchmove 166 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865183 360 223 touchmove 163 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865199 360 223 touchmove 162 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865216 360 223 touchmove 161 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865232 360 223 touchmove 160 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865249 360 223 touchmove 160 23 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865266 360 223 touchmove 159 24 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865282 360 223 touchmove 155 25 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865299 360 223 touchmove 149 31 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865316 360 223 touchmove 145 34 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865333 360 223 touchmove 132 45 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865349 360 223 touchmove 122 53 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865366 360 223 touchmove 111 60 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865384 360 223 touchmove 100 66 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865399 360 223 touchmove 91 71 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865415 360 223 touchmove 87 74 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865433 360 223 touchmove 79 81 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865449 360 223 touchmove 76 83 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865469 360 223 touchmove 75 85 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865517 360 223 touchmove 74 85 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865532 360 223 touchmove 74 86 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819865542 360 223 touchend 74 86 0 0 0 webshots 0
+webshots_programmer_alaska_bottom 1580819862600 360 223 touchstart 56 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862604 360 223 touchmove 56 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862619 360 223 touchmove 56 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862635 360 223 touchmove 56 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862652 360 223 touchmove 58 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862668 360 223 touchmove 66 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862685 360 223 touchmove 73 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862702 360 223 touchmove 79 33 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862719 360 223 touchmove 84 31 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862735 360 223 touchmove 88 31 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862751 360 223 touchmove 91 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862768 360 223 touchmove 92 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862785 360 223 touchmove 93 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862801 360 223 touchmove 93 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862818 360 223 touchmove 94 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862839 360 223 touchmove 94 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862851 360 223 touchmove 94 30 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862867 360 223 touchmove 95 31 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862884 360 223 touchmove 95 31 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862901 360 223 touchmove 96 32 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862918 360 223 touchmove 96 33 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862934 360 223 touchmove 97 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862951 360 223 touchmove 97 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862968 360 223 touchmove 98 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819862985 360 223 touchmove 99 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863001 360 223 touchmove 100 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863018 360 223 touchmove 100 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863035 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863051 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863067 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863086 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863109 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863119 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863134 360 223 touchmove 99 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863151 360 223 touchmove 99 37 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863167 360 223 touchmove 98 38 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863185 360 223 touchmove 98 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863201 360 223 touchmove 97 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863218 360 223 touchmove 97 40 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863234 360 223 touchmove 97 40 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863258 360 223 touchmove 97 40 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863275 360 223 touchmove 97 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863285 360 223 touchmove 97 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863301 360 223 touchmove 97 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863318 360 223 touchmove 97 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863335 360 223 touchmove 97 38 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863351 360 223 touchmove 97 38 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863367 360 223 touchmove 97 38 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863388 360 223 touchmove 98 37 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863401 360 223 touchmove 99 37 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863418 360 223 touchmove 99 37 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863434 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863450 360 223 touchmove 100 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863467 360 223 touchmove 101 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863484 360 223 touchmove 101 36 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863500 360 223 touchmove 102 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863517 360 223 touchmove 102 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863534 360 223 touchmove 102 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863550 360 223 touchmove 103 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863567 360 223 touchmove 103 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863585 360 223 touchmove 103 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863600 360 223 touchmove 104 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863617 360 223 touchmove 104 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863634 360 223 touchmove 104 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863651 360 223 touchmove 105 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863667 360 223 touchmove 105 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863684 360 223 touchmove 106 35 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863701 360 223 touchmove 108 38 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863717 360 223 touchmove 113 45 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863734 360 223 touchmove 121 54 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863750 360 223 touchmove 131 67 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863767 360 223 touchmove 143 81 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863784 360 223 touchmove 156 97 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863802 360 223 touchmove 170 112 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863817 360 223 touchmove 183 126 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863836 360 223 touchmove 196 137 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863851 360 223 touchmove 208 146 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863867 360 223 touchmove 216 151 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863884 360 223 touchmove 218 153 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863901 360 223 touchmove 224 155 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863917 360 223 touchmove 230 157 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863934 360 223 touchmove 234 158 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863950 360 223 touchmove 235 158 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863967 360 223 touchmove 235 159 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819863984 360 223 touchmove 236 159 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864001 360 223 touchmove 235 159 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864017 360 223 touchmove 230 157 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864034 360 223 touchmove 221 154 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864051 360 223 touchmove 208 149 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864068 360 223 touchmove 194 143 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864085 360 223 touchmove 178 135 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864100 360 223 touchmove 161 128 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864117 360 223 touchmove 146 120 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864133 360 223 touchmove 138 116 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864150 360 223 touchmove 116 105 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864167 360 223 touchmove 104 99 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864183 360 223 touchmove 94 96 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864202 360 223 touchmove 87 93 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864217 360 223 touchmove 84 92 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864234 360 223 touchmove 83 91 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864250 360 223 touchmove 82 91 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864272 360 223 touchmove 82 91 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864283 360 223 touchmove 82 91 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864299 360 223 touchmove 83 91 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864316 360 223 touchmove 84 92 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864335 360 223 touchmove 86 93 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864350 360 223 touchmove 89 94 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864367 360 223 touchmove 93 96 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864383 360 223 touchmove 98 97 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864400 360 223 touchmove 102 98 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864416 360 223 touchmove 108 99 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864433 360 223 touchmove 116 101 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864450 360 223 touchmove 124 102 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864466 360 223 touchmove 134 103 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864483 360 223 touchmove 147 104 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864500 360 223 touchmove 160 104 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864517 360 223 touchmove 174 103 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864533 360 223 touchmove 186 101 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864550 360 223 touchmove 192 101 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864567 360 223 touchmove 205 101 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864585 360 223 touchmove 212 100 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864600 360 223 touchmove 217 99 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864616 360 223 touchmove 220 99 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864633 360 223 touchmove 224 98 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864650 360 223 touchmove 227 98 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864666 360 223 touchmove 230 99 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864685 360 223 touchmove 231 99 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864700 360 223 touchmove 232 98 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864716 360 223 touchmove 233 98 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864733 360 223 touchmove 233 97 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864750 360 223 touchmove 234 96 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864766 360 223 touchmove 237 92 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864783 360 223 touchmove 243 83 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864800 360 223 touchmove 247 78 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864817 360 223 touchmove 263 61 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864835 360 223 touchmove 276 49 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864849 360 223 touchmove 288 39 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864866 360 223 touchmove 298 31 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864883 360 223 touchmove 304 27 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864900 360 223 touchmove 307 25 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864917 360 223 touchmove 308 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864933 360 223 touchmove 308 22 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864950 360 223 touchmove 308 21 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864966 360 223 touchmove 305 19 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864983 360 223 touchmove 298 18 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819864999 360 223 touchmove 289 17 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865017 360 223 touchmove 284 17 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865033 360 223 touchmove 262 18 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865050 360 223 touchmove 246 19 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865067 360 223 touchmove 230 20 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865085 360 223 touchmove 214 21 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865099 360 223 touchmove 201 22 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865117 360 223 touchmove 189 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865133 360 223 touchmove 179 24 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865150 360 223 touchmove 171 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865166 360 223 touchmove 166 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865183 360 223 touchmove 163 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865199 360 223 touchmove 162 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865216 360 223 touchmove 161 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865232 360 223 touchmove 160 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865249 360 223 touchmove 160 23 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865266 360 223 touchmove 159 24 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865282 360 223 touchmove 155 25 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865299 360 223 touchmove 149 31 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865316 360 223 touchmove 145 34 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865333 360 223 touchmove 132 45 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865349 360 223 touchmove 122 53 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865366 360 223 touchmove 111 60 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865384 360 223 touchmove 100 66 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865399 360 223 touchmove 91 71 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865415 360 223 touchmove 87 74 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865433 360 223 touchmove 79 81 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865449 360 223 touchmove 76 83 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865469 360 223 touchmove 75 85 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865517 360 223 touchmove 74 85 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865532 360 223 touchmove 74 86 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819865542 360 223 touchend 74 86 0 0 0 webshots 0 0
+webshots_programmer_alaska_bottom 1580819866577 360 223 touchstart 339 27 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866589 360 223 touchmove 339 27 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866607 360 223 touchmove 339 27 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866682 360 223 touchmove 338 28 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866698 360 223 touchmove 338 28 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866715 360 223 touchmove 337 28 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866732 360 223 touchmove 337 28 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866748 360 223 touchmove 336 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866766 360 223 touchmove 335 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866782 360 223 touchmove 334 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866798 360 223 touchmove 333 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866814 360 223 touchmove 332 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866832 360 223 touchmove 332 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866849 360 223 touchmove 331 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866865 360 223 touchmove 331 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866881 360 223 touchmove 330 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866898 360 223 touchmove 329 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866915 360 223 touchmove 328 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866932 360 223 touchmove 327 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866948 360 223 touchmove 327 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866966 360 223 touchmove 325 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866983 360 223 touchmove 320 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819866999 360 223 touchmove 312 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867014 360 223 touchmove 301 37 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867031 360 223 touchmove 290 40 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867048 360 223 touchmove 276 42 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867065 360 223 touchmove 260 45 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867082 360 223 touchmove 243 47 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867098 360 223 touchmove 225 49 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867115 360 223 touchmove 208 51 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867132 360 223 touchmove 191 52 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867149 360 223 touchmove 176 52 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867165 360 223 touchmove 162 50 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867181 360 223 touchmove 150 48 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867199 360 223 touchmove 140 46 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867215 360 223 touchmove 132 44 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867232 360 223 touchmove 126 42 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867248 360 223 touchmove 123 41 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867265 360 223 touchmove 121 41 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867281 360 223 touchmove 121 40 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867298 360 223 touchmove 121 40 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867315 360 223 touchmove 122 39 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867331 360 223 touchmove 122 39 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867348 360 223 touchmove 124 39 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867364 360 223 touchmove 129 39 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867381 360 223 touchmove 137 39 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867398 360 223 touchmove 147 39 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867414 360 223 touchmove 160 38 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867431 360 223 touchmove 174 37 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867448 360 223 touchmove 192 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867464 360 223 touchmove 212 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867481 360 223 touchmove 231 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867498 360 223 touchmove 247 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867515 360 223 touchmove 262 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867531 360 223 touchmove 273 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867547 360 223 touchmove 282 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867566 360 223 touchmove 287 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867581 360 223 touchmove 290 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867598 360 223 touchmove 291 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867617 360 223 touchmove 293 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867631 360 223 touchmove 293 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867648 360 223 touchmove 294 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867665 360 223 touchmove 294 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867688 360 223 touchmove 294 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867698 360 223 touchmove 294 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867714 360 223 touchmove 294 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867731 360 223 touchmove 293 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867747 360 223 touchmove 293 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867764 360 223 touchmove 292 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867781 360 223 touchmove 291 32 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867798 360 223 touchmove 288 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867814 360 223 touchmove 283 36 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867831 360 223 touchmove 275 40 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867848 360 223 touchmove 262 45 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867865 360 223 touchmove 246 52 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867881 360 223 touchmove 231 60 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867898 360 223 touchmove 214 66 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867914 360 223 touchmove 200 73 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867931 360 223 touchmove 188 80 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867947 360 223 touchmove 179 86 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867964 360 223 touchmove 174 91 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867981 360 223 touchmove 171 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819867998 360 223 touchmove 169 97 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868014 360 223 touchmove 168 99 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868030 360 223 touchmove 168 100 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868047 360 223 touchmove 167 100 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868063 360 223 touchmove 167 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868080 360 223 touchmove 167 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868097 360 223 touchmove 167 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868113 360 223 touchmove 166 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868130 360 223 touchmove 166 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868147 360 223 touchmove 165 100 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868164 360 223 touchmove 163 99 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868180 360 223 touchmove 161 98 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868197 360 223 touchmove 157 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868213 360 223 touchmove 152 90 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868230 360 223 touchmove 146 82 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868247 360 223 touchmove 143 77 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868264 360 223 touchmove 136 65 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868280 360 223 touchmove 133 57 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868297 360 223 touchmove 130 48 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868314 360 223 touchmove 129 44 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868331 360 223 touchmove 127 38 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868347 360 223 touchmove 125 31 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868364 360 223 touchmove 124 29 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868381 360 223 touchmove 123 28 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868397 360 223 touchmove 122 27 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868413 360 223 touchmove 120 27 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868430 360 223 touchmove 116 30 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868447 360 223 touchmove 109 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868463 360 223 touchmove 99 41 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868480 360 223 touchmove 89 50 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868497 360 223 touchmove 78 60 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868513 360 223 touchmove 68 67 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868530 360 223 touchmove 64 71 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868546 360 223 touchmove 55 81 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868563 360 223 touchmove 50 85 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868580 360 223 touchmove 47 89 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868597 360 223 touchmove 45 90 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868613 360 223 touchmove 43 92 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868630 360 223 touchmove 42 93 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868647 360 223 touchmove 42 93 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868663 360 223 touchmove 42 94 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868680 360 223 touchmove 42 94 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868697 360 223 touchmove 42 94 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868713 360 223 touchmove 42 94 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868730 360 223 touchmove 42 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868746 360 223 touchmove 43 94 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868763 360 223 touchmove 44 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868780 360 223 touchmove 44 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868797 360 223 touchmove 46 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868813 360 223 touchmove 48 95 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868829 360 223 touchmove 51 96 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868846 360 223 touchmove 57 97 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868863 360 223 touchmove 62 99 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868882 360 223 touchmove 69 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868896 360 223 touchmove 77 104 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868913 360 223 touchmove 87 107 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868929 360 223 touchmove 99 111 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868946 360 223 touchmove 114 116 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868963 360 223 touchmove 121 119 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868980 360 223 touchmove 145 128 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819868998 360 223 touchmove 161 133 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869014 360 223 touchmove 170 136 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869030 360 223 touchmove 187 143 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869046 360 223 touchmove 210 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869063 360 223 touchmove 224 154 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869080 360 223 touchmove 230 155 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869097 360 223 touchmove 246 154 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869113 360 223 touchmove 253 154 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869130 360 223 touchmove 257 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869147 360 223 touchmove 260 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869163 360 223 touchmove 263 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869180 360 223 touchmove 264 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869196 360 223 touchmove 267 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869213 360 223 touchmove 270 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869229 360 223 touchmove 271 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869246 360 223 touchmove 271 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869263 360 223 touchmove 271 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869329 360 223 touchmove 271 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869346 360 223 touchmove 271 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869470 360 223 touchmove 271 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869488 360 223 touchmove 271 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869498 360 223 touchmove 270 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869513 360 223 touchmove 269 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869530 360 223 touchmove 268 152 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869546 360 223 touchmove 266 151 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869563 360 223 touchmove 264 150 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869580 360 223 touchmove 263 150 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869596 360 223 touchmove 263 150 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869613 360 223 touchmove 263 149 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869637 360 223 touchmove 263 149 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869647 360 223 touchmove 264 149 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869663 360 223 touchmove 268 150 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869680 360 223 touchmove 270 151 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869696 360 223 touchmove 276 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869713 360 223 touchmove 279 156 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869729 360 223 touchmove 281 157 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869746 360 223 touchmove 284 158 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869766 360 223 touchmove 284 159 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869779 360 223 touchmove 285 159 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869797 360 223 touchmove 285 159 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869814 360 223 touchmove 285 159 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869829 360 223 touchmove 285 159 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869847 360 223 touchmove 284 158 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869862 360 223 touchmove 283 157 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869879 360 223 touchmove 276 153 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869897 360 223 touchmove 266 147 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869913 360 223 touchmove 254 140 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869929 360 223 touchmove 238 131 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869946 360 223 touchmove 221 120 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869962 360 223 touchmove 203 111 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869979 360 223 touchmove 187 101 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819869996 360 223 touchmove 171 92 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870013 360 223 touchmove 156 82 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870029 360 223 touchmove 142 72 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870046 360 223 touchmove 136 68 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870063 360 223 touchmove 117 57 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870079 360 223 touchmove 105 50 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870096 360 223 touchmove 97 46 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870112 360 223 touchmove 90 43 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870129 360 223 touchmove 87 41 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870145 360 223 touchmove 82 37 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870162 360 223 touchmove 82 36 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870179 360 223 touchmove 81 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870196 360 223 touchmove 81 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870212 360 223 touchmove 81 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870228 360 223 touchmove 84 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870245 360 223 touchmove 94 32 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870262 360 223 touchmove 98 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870279 360 223 touchmove 105 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870296 360 223 touchmove 115 32 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870313 360 223 touchmove 120 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870329 360 223 touchmove 121 33 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870345 360 223 touchmove 124 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870362 360 223 touchmove 125 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870382 360 223 touchmove 126 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870395 360 223 touchmove 127 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870412 360 223 touchmove 127 34 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870428 360 223 touchmove 128 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870446 360 223 touchmove 128 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870463 360 223 touchmove 128 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870478 360 223 touchmove 128 35 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870495 360 223 touchmove 129 36 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870512 360 223 touchmove 130 36 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819870514 360 223 touchend 130 36 0 0 0 programmer 0
+webshots_programmer_alaska_bottom 1580819872129 360 223 touchmove 57 90 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872144 360 223 touchmove 63 91 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872160 360 223 touchmove 69 92 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872177 360 223 touchmove 74 95 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872194 360 223 touchmove 75 95 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872211 360 223 touchmove 76 96 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872227 360 223 touchmove 77 96 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872244 360 223 touchmove 77 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872261 360 223 touchmove 78 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872278 360 223 touchmove 78 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872295 360 223 touchmove 78 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872311 360 223 touchmove 79 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872328 360 223 touchmove 82 99 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872344 360 223 touchmove 84 100 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872361 360 223 touchmove 86 100 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872378 360 223 touchmove 95 102 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872394 360 223 touchmove 104 101 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872410 360 223 touchmove 118 100 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872427 360 223 touchmove 137 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872444 360 223 touchmove 157 96 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872461 360 223 touchmove 176 96 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872477 360 223 touchmove 194 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872494 360 223 touchmove 203 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872510 360 223 touchmove 221 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872527 360 223 touchmove 245 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872544 360 223 touchmove 258 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872561 360 223 touchmove 264 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872577 360 223 touchmove 276 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872594 360 223 touchmove 278 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872611 360 223 touchmove 282 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872627 360 223 touchmove 283 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872644 360 223 touchmove 283 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872660 360 223 touchmove 283 98 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872678 360 223 touchmove 276 99 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872694 360 223 touchmove 271 100 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872710 360 223 touchmove 250 104 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872727 360 223 touchmove 232 106 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872744 360 223 touchmove 209 108 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872763 360 223 touchmove 186 107 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872777 360 223 touchmove 162 106 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872794 360 223 touchmove 140 103 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872811 360 223 touchmove 118 100 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872827 360 223 touchmove 99 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872843 360 223 touchmove 90 97 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872860 360 223 touchmove 76 95 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872877 360 223 touchmove 60 93 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872894 360 223 touchmove 52 93 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872910 360 223 touchmove 46 93 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872927 360 223 touchmove 42 93 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872943 360 223 touchmove 40 93 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872960 360 223 touchmove 39 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872977 360 223 touchmove 38 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819872994 360 223 touchmove 38 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819873010 360 223 touchmove 38 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819873034 360 223 touchmove 39 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819873044 360 223 touchmove 39 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819873060 360 223 touchmove 39 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819873069 360 223 touchend 39 94 0 0 0 alaska 0
+webshots_programmer_alaska_bottom 1580819874248 360 223 touchstart 230 153 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874260 360 223 touchmove 230 153 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874269 360 223 touchmove 230 153 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874310 360 223 touchmove 230 153 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874326 360 223 touchmove 231 152 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874343 360 223 touchmove 233 149 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874360 360 223 touchmove 235 146 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874377 360 223 touchmove 245 133 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874393 360 223 touchmove 252 121 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874410 360 223 touchmove 259 109 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874427 360 223 touchmove 265 96 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874443 360 223 touchmove 272 84 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874460 360 223 touchmove 278 74 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874477 360 223 touchmove 283 64 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874493 360 223 touchmove 289 55 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874510 360 223 touchmove 293 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874526 360 223 touchmove 296 44 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874543 360 223 touchmove 297 42 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874561 360 223 touchmove 300 37 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874577 360 223 touchmove 300 35 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874593 360 223 touchmove 301 34 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874610 360 223 touchmove 301 33 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874627 360 223 touchmove 301 33 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874643 360 223 touchmove 301 32 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874660 360 223 touchmove 300 32 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874676 360 223 touchmove 300 32 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874693 360 223 touchmove 298 32 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874710 360 223 touchmove 296 32 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874726 360 223 touchmove 291 33 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874743 360 223 touchmove 283 34 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874760 360 223 touchmove 273 36 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874777 360 223 touchmove 260 39 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874793 360 223 touchmove 246 42 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874809 360 223 touchmove 233 44 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874826 360 223 touchmove 220 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874843 360 223 touchmove 208 46 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874860 360 223 touchmove 198 47 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874876 360 223 touchmove 189 48 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874893 360 223 touchmove 181 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874909 360 223 touchmove 177 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874926 360 223 touchmove 173 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874943 360 223 touchmove 171 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874960 360 223 touchmove 170 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819874976 360 223 touchmove 170 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875009 360 223 touchmove 170 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875026 360 223 touchmove 170 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875042 360 223 touchmove 171 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875059 360 223 touchmove 171 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875076 360 223 touchmove 171 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875092 360 223 touchmove 172 50 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875109 360 223 touchmove 172 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875126 360 223 touchmove 172 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875142 360 223 touchmove 172 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875159 360 223 touchmove 173 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875176 360 223 touchmove 173 49 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875192 360 223 touchmove 174 48 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875209 360 223 touchmove 177 47 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875226 360 223 touchmove 180 47 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875242 360 223 touchmove 183 46 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875259 360 223 touchmove 186 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875276 360 223 touchmove 189 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875292 360 223 touchmove 191 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875309 360 223 touchmove 191 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875326 360 223 touchmove 192 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875342 360 223 touchmove 192 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875359 360 223 touchmove 192 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875376 360 223 touchmove 192 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875392 360 223 touchmove 190 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875412 360 223 touchmove 187 44 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875425 360 223 touchmove 183 43 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875442 360 223 touchmove 180 42 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875459 360 223 touchmove 177 41 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875476 360 223 touchmove 175 40 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875493 360 223 touchmove 175 40 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875509 360 223 touchmove 174 40 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875525 360 223 touchmove 174 39 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875592 360 223 touchmove 174 39 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875676 360 223 touchmove 174 40 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875692 360 223 touchmove 176 40 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875709 360 223 touchmove 177 41 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875726 360 223 touchmove 185 43 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875742 360 223 touchmove 193 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875759 360 223 touchmove 205 46 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875775 360 223 touchmove 218 46 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875792 360 223 touchmove 233 45 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875809 360 223 touchmove 248 43 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875826 360 223 touchmove 261 40 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875842 360 223 touchmove 273 37 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875859 360 223 touchmove 282 34 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875875 360 223 touchmove 289 32 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875892 360 223 touchmove 294 30 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875908 360 223 touchmove 298 29 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875925 360 223 touchmove 300 28 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875942 360 223 touchmove 302 28 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875959 360 223 touchmove 303 28 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875975 360 223 touchmove 304 27 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819875992 360 223 touchmove 305 27 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876009 360 223 touchmove 305 27 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876026 360 223 touchmove 306 27 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876042 360 223 touchmove 306 27 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876058 360 223 touchmove 306 28 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876075 360 223 touchmove 306 29 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876092 360 223 touchmove 305 30 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876108 360 223 touchmove 302 37 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876125 360 223 touchmove 299 44 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876143 360 223 touchmove 295 55 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876159 360 223 touchmove 290 70 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876175 360 223 touchmove 286 88 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876192 360 223 touchmove 284 106 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876209 360 223 touchmove 284 121 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876226 360 223 touchmove 284 131 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876242 360 223 touchmove 285 136 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876258 360 223 touchmove 285 147 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876275 360 223 touchmove 286 151 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876292 360 223 touchmove 285 154 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876308 360 223 touchmove 285 157 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876324 360 223 touchmove 285 159 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876342 360 223 touchmove 285 160 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876358 360 223 touchmove 285 161 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876378 360 223 touchmove 285 161 0 0 0 bottom 0
+webshots_programmer_alaska_bottom 1580819876392 360 223 touchend 285 161 0 0 0 bottom 0
+do_roper_rows_massachusetts 1580819881630 360 223 touchstart 106 98 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881656 360 223 touchmove 106 98 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881680 360 223 touchmove 106 98 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881690 360 223 touchmove 107 98 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881706 360 223 touchmove 112 98 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881724 360 223 touchmove 124 96 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881739 360 223 touchmove 136 92 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881756 360 223 touchmove 153 86 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881772 360 223 touchmove 172 78 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881789 360 223 touchmove 193 70 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881806 360 223 touchmove 216 61 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881822 360 223 touchmove 237 52 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881839 360 223 touchmove 258 45 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881855 360 223 touchmove 273 39 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881872 360 223 touchmove 285 35 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881889 360 223 touchmove 293 32 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881905 360 223 touchmove 297 31 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881922 360 223 touchmove 298 30 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881939 360 223 touchmove 299 30 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881955 360 223 touchmove 299 30 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881972 360 223 touchmove 299 30 0 0 0 do 0
+do_roper_rows_massachusetts 1580819881989 360 223 touchmove 299 31 0 0 0 do 0
+do_roper_rows_massachusetts 1580819882005 360 223 touchmove 298 31 0 0 0 do 0
+do_roper_rows_massachusetts 1580819882022 360 223 touchmove 298 31 0 0 0 do 0
+do_roper_rows_massachusetts 1580819882038 360 223 touchmove 298 32 0 0 0 do 0
+do_roper_rows_massachusetts 1580819882047 360 223 touchend 298 32 0 0 0 do 0
+do_roper_rows_massachusetts 1580819883056 360 223 touchstart 135 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883071 360 223 touchmove 135 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883138 360 223 touchmove 142 47 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883154 360 223 touchmove 147 47 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883170 360 223 touchmove 170 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883187 360 223 touchmove 188 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883204 360 223 touchmove 197 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883220 360 223 touchmove 215 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883237 360 223 touchmove 240 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883254 360 223 touchmove 256 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883270 360 223 touchmove 271 44 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883287 360 223 touchmove 283 42 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883304 360 223 touchmove 292 38 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883320 360 223 touchmove 295 37 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883337 360 223 touchmove 300 35 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883354 360 223 touchmove 301 34 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883374 360 223 touchmove 301 34 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883388 360 223 touchmove 301 34 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883406 360 223 touchmove 301 34 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883421 360 223 touchmove 302 33 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883437 360 223 touchmove 302 33 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883454 360 223 touchmove 306 32 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883471 360 223 touchmove 319 29 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883487 360 223 touchmove 323 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883504 360 223 touchmove 332 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883520 360 223 touchmove 338 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883538 360 223 touchmove 342 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883554 360 223 touchmove 343 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883570 360 223 touchmove 343 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883587 360 223 touchmove 343 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883604 360 223 touchmove 339 27 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883620 360 223 touchmove 335 27 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883637 360 223 touchmove 317 29 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883653 360 223 touchmove 301 33 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883670 360 223 touchmove 293 35 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883687 360 223 touchmove 261 41 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883703 360 223 touchmove 240 44 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883720 360 223 touchmove 219 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883737 360 223 touchmove 201 47 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883753 360 223 touchmove 185 48 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883770 360 223 touchmove 171 48 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883787 360 223 touchmove 157 47 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883804 360 223 touchmove 144 46 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883820 360 223 touchmove 132 44 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883836 360 223 touchmove 123 40 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883854 360 223 touchmove 115 37 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883870 360 223 touchmove 109 33 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883887 360 223 touchmove 104 30 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883903 360 223 touchmove 102 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883919 360 223 touchmove 102 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883936 360 223 touchmove 102 27 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883953 360 223 touchmove 102 27 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883969 360 223 touchmove 104 27 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819883987 360 223 touchmove 111 26 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884003 360 223 touchmove 117 26 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884020 360 223 touchmove 122 27 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884036 360 223 touchmove 126 28 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884053 360 223 touchmove 128 30 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884070 360 223 touchmove 129 31 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884086 360 223 touchmove 128 32 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884103 360 223 touchmove 125 37 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884120 360 223 touchmove 117 45 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884137 360 223 touchmove 105 56 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884153 360 223 touchmove 94 65 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884170 360 223 touchmove 85 74 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884187 360 223 touchmove 79 81 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884203 360 223 touchmove 77 83 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884220 360 223 touchmove 75 86 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884237 360 223 touchmove 73 88 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884255 360 223 touchmove 73 88 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884270 360 223 touchmove 72 89 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884286 360 223 touchmove 72 89 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884303 360 223 touchmove 73 89 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884322 360 223 touchmove 73 89 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884336 360 223 touchmove 73 89 0 0 0 roper 1
+do_roper_rows_massachusetts 1580819884342 360 223 touchend 73 89 0 0 0 roper 1

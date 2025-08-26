@@ -1,0 +1,363 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+acknowledged_luxury_fast_limited 1579709104513 360 212 touchstart 22 77 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104539 360 212 touchmove 22 77 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104559 360 212 touchmove 23 77 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104576 360 212 touchmove 24 77 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104593 360 212 touchmove 26 78 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104610 360 212 touchmove 37 89 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104627 360 212 touchmove 50 104 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104643 360 212 touchmove 63 121 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104659 360 212 touchmove 75 138 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104676 360 212 touchmove 89 151 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104693 360 212 touchmove 99 160 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104710 360 212 touchmove 109 166 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104726 360 212 touchmove 118 167 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104743 360 212 touchmove 129 164 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104760 360 212 touchmove 143 158 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104776 360 212 touchmove 159 149 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104793 360 212 touchmove 176 139 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104810 360 212 touchmove 194 128 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104827 360 212 touchmove 214 116 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104843 360 212 touchmove 233 103 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104860 360 212 touchmove 251 91 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104877 360 212 touchmove 266 82 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104893 360 212 touchmove 278 75 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104910 360 212 touchmove 286 72 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104927 360 212 touchmove 291 72 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104943 360 212 touchmove 293 72 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104960 360 212 touchmove 294 74 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104977 360 212 touchmove 292 76 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709104994 360 212 touchmove 286 82 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105010 360 212 touchmove 277 89 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105027 360 212 touchmove 267 97 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105045 360 212 touchmove 258 104 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105060 360 212 touchmove 250 114 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105077 360 212 touchmove 245 125 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105094 360 212 touchmove 241 138 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105112 360 212 touchmove 240 149 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105127 360 212 touchmove 239 158 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105144 360 212 touchmove 239 165 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105160 360 212 touchmove 240 168 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105177 360 212 touchmove 243 167 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105194 360 212 touchmove 246 162 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105211 360 212 touchmove 252 152 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105227 360 212 touchmove 258 136 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105244 360 212 touchmove 266 116 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105261 360 212 touchmove 276 95 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105279 360 212 touchmove 285 76 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105294 360 212 touchmove 292 59 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105311 360 212 touchmove 298 47 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105327 360 212 touchmove 301 40 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105344 360 212 touchmove 302 36 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105361 360 212 touchmove 299 34 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105377 360 212 touchmove 292 35 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105394 360 212 touchmove 279 39 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105411 360 212 touchmove 261 46 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105427 360 212 touchmove 238 54 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105444 360 212 touchmove 214 63 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105461 360 212 touchmove 184 71 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105478 360 212 touchmove 159 76 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105496 360 212 touchmove 134 79 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105511 360 212 touchmove 111 78 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105528 360 212 touchmove 90 75 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105544 360 212 touchmove 74 69 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105562 360 212 touchmove 63 61 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105578 360 212 touchmove 57 55 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105595 360 212 touchmove 54 50 0.68359375 0.68359375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105611 360 212 touchmove 54 48 0.68359375 0.68359375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105628 360 212 touchmove 56 46 0.68359375 0.68359375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105645 360 212 touchmove 62 46 0.68359375 0.68359375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105662 360 212 touchmove 70 46 0.68359375 0.68359375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105678 360 212 touchmove 84 47 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105695 360 212 touchmove 102 50 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105712 360 212 touchmove 124 55 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105728 360 212 touchmove 150 61 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105747 360 212 touchmove 178 67 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105762 360 212 touchmove 208 71 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105781 360 212 touchmove 240 77 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105795 360 212 touchmove 265 82 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105812 360 212 touchmove 286 87 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105829 360 212 touchmove 303 91 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105845 360 212 touchmove 314 94 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105862 360 212 touchmove 318 96 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105879 360 212 touchmove 316 97 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105895 360 212 touchmove 308 97 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105913 360 212 touchmove 291 97 0.41015625 0.41015625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105929 360 212 touchmove 268 94 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105945 360 212 touchmove 237 89 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105962 360 212 touchmove 202 82 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105979 360 212 touchmove 170 73 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709105996 360 212 touchmove 144 63 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106012 360 212 touchmove 126 53 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106029 360 212 touchmove 113 43 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106046 360 212 touchmove 103 32 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106065 360 212 touchmove 98 24 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106083 360 212 touchmove 96 18 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106096 360 212 touchmove 95 17 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106113 360 212 touchmove 95 18 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106129 360 212 touchmove 95 23 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106147 360 212 touchmove 96 32 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106163 360 212 touchmove 95 46 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106179 360 212 touchmove 94 64 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106196 360 212 touchmove 93 79 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106213 360 212 touchmove 94 91 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106231 360 212 touchmove 95 98 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106246 360 212 touchmove 98 102 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106263 360 212 touchmove 105 102 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106279 360 212 touchmove 118 99 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106296 360 212 touchmove 135 96 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106312 360 212 touchmove 151 92 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106329 360 212 touchmove 162 88 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106346 360 212 touchmove 168 86 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106363 360 212 touchmove 171 85 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106379 360 212 touchmove 172 84 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106396 360 212 touchmove 169 85 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106412 360 212 touchmove 159 87 0.478515625 0.478515625 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106429 360 212 touchmove 144 89 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106447 360 212 touchmove 128 88 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106464 360 212 touchmove 111 84 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106479 360 212 touchmove 96 76 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106497 360 212 touchmove 83 64 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106513 360 212 touchmove 74 51 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106530 360 212 touchmove 70 39 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106547 360 212 touchmove 70 31 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106563 360 212 touchmove 71 26 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106580 360 212 touchmove 72 25 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106597 360 212 touchmove 75 28 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106613 360 212 touchmove 78 37 0.615234375 0.615234375 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106631 360 212 touchmove 81 53 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106647 360 212 touchmove 85 75 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106663 360 212 touchmove 89 95 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106680 360 212 touchmove 99 130 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709106686 360 212 touchend 99 130 0.546875 0.546875 0 acknowledged 0
+acknowledged_luxury_fast_limited 1579709107833 360 212 touchstart 314 92 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107849 360 212 touchmove 313 92 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107866 360 212 touchmove 312 91 0.41015625 0.41015625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107882 360 212 touchmove 305 87 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107900 360 212 touchmove 295 80 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107916 360 212 touchmove 284 69 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107933 360 212 touchmove 271 55 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107949 360 212 touchmove 260 43 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107966 360 212 touchmove 248 30 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107982 360 212 touchmove 239 21 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107999 360 212 touchmove 233 13 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108016 360 212 touchmove 227 8 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108033 360 212 touchmove 223 6 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108050 360 212 touchmove 220 7 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108066 360 212 touchmove 216 10 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108083 360 212 touchmove 210 15 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108100 360 212 touchmove 200 26 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108117 360 212 touchmove 191 38 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108133 360 212 touchmove 182 51 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108150 360 212 touchmove 171 63 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108167 360 212 touchmove 160 77 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108183 360 212 touchmove 147 91 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108199 360 212 touchmove 135 106 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108216 360 212 touchmove 123 120 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108233 360 212 touchmove 114 135 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108250 360 212 touchmove 107 145 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108267 360 212 touchmove 103 153 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108284 360 212 touchmove 101 158 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108300 360 212 touchmove 101 161 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108317 360 212 touchmove 106 160 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108334 360 212 touchmove 114 156 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108350 360 212 touchmove 128 147 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108366 360 212 touchmove 141 134 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108384 360 212 touchmove 154 120 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108400 360 212 touchmove 167 104 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108417 360 212 touchmove 179 88 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108434 360 212 touchmove 189 71 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108450 360 212 touchmove 200 54 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108467 360 212 touchmove 209 40 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108488 360 212 touchmove 216 30 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108501 360 212 touchmove 220 25 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108534 360 212 touchmove 222 22 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108551 360 212 touchmove 221 25 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108567 360 212 touchmove 215 35 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108585 360 212 touchmove 204 52 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108601 360 212 touchmove 195 67 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108617 360 212 touchmove 183 80 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108634 360 212 touchmove 171 90 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108650 360 212 touchmove 157 95 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108668 360 212 touchmove 142 95 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108683 360 212 touchmove 129 90 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108701 360 212 touchmove 119 82 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108717 360 212 touchmove 113 71 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108734 360 212 touchmove 111 58 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108750 360 212 touchmove 113 45 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108767 360 212 touchmove 118 34 0.68359375 0.68359375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108783 360 212 touchmove 125 26 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108801 360 212 touchmove 132 22 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108817 360 212 touchmove 137 20 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108834 360 212 touchmove 143 22 0.68359375 0.68359375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108850 360 212 touchmove 151 25 0.615234375 0.615234375 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108870 360 212 touchmove 160 32 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108885 360 212 touchmove 172 39 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108902 360 212 touchmove 183 44 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108918 360 212 touchmove 192 46 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108934 360 212 touchmove 202 44 0.546875 0.546875 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108946 360 212 touchmove 205 42 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709108947 360 212 touchend 205 42 0.478515625 0.478515625 0 luxury 0
+acknowledged_luxury_fast_limited 1579709107833 360 212 touchstart 314 92 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107849 360 212 touchmove 313 92 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107866 360 212 touchmove 312 91 0.41015625 0.41015625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107882 360 212 touchmove 305 87 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107900 360 212 touchmove 295 80 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107916 360 212 touchmove 284 69 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107933 360 212 touchmove 271 55 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107949 360 212 touchmove 260 43 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107966 360 212 touchmove 248 30 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107982 360 212 touchmove 239 21 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709107999 360 212 touchmove 233 13 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108016 360 212 touchmove 227 8 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108033 360 212 touchmove 223 6 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108050 360 212 touchmove 220 7 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108066 360 212 touchmove 216 10 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108083 360 212 touchmove 210 15 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108100 360 212 touchmove 200 26 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108117 360 212 touchmove 191 38 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108133 360 212 touchmove 182 51 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108150 360 212 touchmove 171 63 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108167 360 212 touchmove 160 77 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108183 360 212 touchmove 147 91 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108199 360 212 touchmove 135 106 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108216 360 212 touchmove 123 120 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108233 360 212 touchmove 114 135 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108250 360 212 touchmove 107 145 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108267 360 212 touchmove 103 153 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108284 360 212 touchmove 101 158 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108300 360 212 touchmove 101 161 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108317 360 212 touchmove 106 160 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108334 360 212 touchmove 114 156 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108350 360 212 touchmove 128 147 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108366 360 212 touchmove 141 134 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108384 360 212 touchmove 154 120 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108400 360 212 touchmove 167 104 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108417 360 212 touchmove 179 88 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108434 360 212 touchmove 189 71 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108450 360 212 touchmove 200 54 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108467 360 212 touchmove 209 40 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108488 360 212 touchmove 216 30 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108501 360 212 touchmove 220 25 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108534 360 212 touchmove 222 22 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108551 360 212 touchmove 221 25 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108567 360 212 touchmove 215 35 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108585 360 212 touchmove 204 52 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108601 360 212 touchmove 195 67 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108617 360 212 touchmove 183 80 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108634 360 212 touchmove 171 90 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108650 360 212 touchmove 157 95 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108668 360 212 touchmove 142 95 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108683 360 212 touchmove 129 90 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108701 360 212 touchmove 119 82 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108717 360 212 touchmove 113 71 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108734 360 212 touchmove 111 58 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108750 360 212 touchmove 113 45 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108767 360 212 touchmove 118 34 0.68359375 0.68359375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108783 360 212 touchmove 125 26 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108801 360 212 touchmove 132 22 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108817 360 212 touchmove 137 20 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108834 360 212 touchmove 143 22 0.68359375 0.68359375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108850 360 212 touchmove 151 25 0.615234375 0.615234375 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108870 360 212 touchmove 160 32 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108885 360 212 touchmove 172 39 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108902 360 212 touchmove 183 44 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108918 360 212 touchmove 192 46 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108934 360 212 touchmove 202 44 0.546875 0.546875 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108946 360 212 touchmove 205 42 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709108947 360 212 touchend 205 42 0.478515625 0.478515625 0 luxury 0 0
+acknowledged_luxury_fast_limited 1579709110160 360 212 touchstart 140 78 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110170 360 212 touchmove 139 78 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110186 360 212 touchmove 138 78 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110203 360 212 touchmove 135 78 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110221 360 212 touchmove 122 76 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110237 360 212 touchmove 99 75 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110253 360 212 touchmove 77 74 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110270 360 212 touchmove 57 75 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110286 360 212 touchmove 41 79 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110304 360 212 touchmove 31 84 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110320 360 212 touchmove 24 86 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110337 360 212 touchmove 22 89 0.41015625 0.41015625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110354 360 212 touchmove 22 92 0.41015625 0.41015625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110370 360 212 touchmove 22 95 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110387 360 212 touchmove 23 98 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110404 360 212 touchmove 27 101 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110420 360 212 touchmove 33 103 0.615234375 0.615234375 0 fast 0
+acknowledged_luxury_fast_limited 1579709110437 360 212 touchmove 40 104 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110453 360 212 touchmove 51 102 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110470 360 212 touchmove 64 97 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110487 360 212 touchmove 79 89 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110504 360 212 touchmove 95 78 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110520 360 212 touchmove 110 68 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110537 360 212 touchmove 124 58 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110554 360 212 touchmove 139 48 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110570 360 212 touchmove 152 39 0.546875 0.546875 0 fast 0
+acknowledged_luxury_fast_limited 1579709110587 360 212 touchmove 163 33 0.615234375 0.615234375 0 fast 0
+acknowledged_luxury_fast_limited 1579709110604 360 212 touchmove 172 31 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709110609 360 212 touchend 172 31 0.478515625 0.478515625 0 fast 0
+acknowledged_luxury_fast_limited 1579709111447 360 212 touchstart 327 82 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111455 360 212 touchmove 327 81 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111472 360 212 touchmove 325 80 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111489 360 212 touchmove 317 75 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111506 360 212 touchmove 301 62 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111522 360 212 touchmove 283 47 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111539 360 212 touchmove 270 35 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111556 360 212 touchmove 259 27 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111572 360 212 touchmove 252 23 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111589 360 212 touchmove 249 24 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111605 360 212 touchmove 249 27 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111623 360 212 touchmove 249 35 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111640 360 212 touchmove 249 49 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111656 360 212 touchmove 252 65 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111675 360 212 touchmove 256 82 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111689 360 212 touchmove 262 99 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111706 360 212 touchmove 269 115 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111723 360 212 touchmove 276 128 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111740 360 212 touchmove 281 138 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111756 360 212 touchmove 284 144 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111773 360 212 touchmove 285 148 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111789 360 212 touchmove 285 147 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111809 360 212 touchmove 282 140 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111823 360 212 touchmove 278 127 0.41015625 0.41015625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111840 360 212 touchmove 274 108 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111856 360 212 touchmove 271 80 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111873 360 212 touchmove 271 57 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709111890 360 212 touchmove 270 40 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111906 360 212 touchmove 268 29 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111923 360 212 touchmove 265 23 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111940 360 212 touchmove 261 22 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111956 360 212 touchmove 255 24 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111974 360 212 touchmove 246 30 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709111990 360 212 touchmove 230 41 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112006 360 212 touchmove 213 52 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112023 360 212 touchmove 194 61 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709112040 360 212 touchmove 178 66 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112057 360 212 touchmove 165 66 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112074 360 212 touchmove 155 62 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112090 360 212 touchmove 150 53 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112107 360 212 touchmove 147 42 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112123 360 212 touchmove 146 31 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112140 360 212 touchmove 145 23 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112157 360 212 touchmove 143 18 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112173 360 212 touchmove 140 17 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112190 360 212 touchmove 133 19 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112211 360 212 touchmove 124 22 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112223 360 212 touchmove 115 26 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112240 360 212 touchmove 106 29 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112257 360 212 touchmove 97 32 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112274 360 212 touchmove 89 33 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112290 360 212 touchmove 82 32 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112307 360 212 touchmove 78 32 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112324 360 212 touchmove 77 32 0.68359375 0.68359375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112340 360 212 touchmove 76 32 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112357 360 212 touchmove 78 33 0.68359375 0.68359375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112374 360 212 touchmove 80 35 0.615234375 0.615234375 0 limited 0
+acknowledged_luxury_fast_limited 1579709112391 360 212 touchmove 83 40 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112407 360 212 touchmove 88 48 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112424 360 212 touchmove 93 59 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112441 360 212 touchmove 98 71 0.478515625 0.478515625 0 limited 0
+acknowledged_luxury_fast_limited 1579709112458 360 212 touchmove 104 82 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112478 360 212 touchmove 107 90 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112490 360 212 touchmove 110 98 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112504 360 212 touchmove 112 102 0.546875 0.546875 0 limited 0
+acknowledged_luxury_fast_limited 1579709112505 360 212 touchend 112 102 0.546875 0.546875 0 limited 0

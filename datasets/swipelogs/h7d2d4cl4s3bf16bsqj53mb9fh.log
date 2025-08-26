@@ -1,0 +1,15 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+copco_sell_catalogue_resistant 1580174828904 320 187 touchstart 264 40 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174829016 320 187 touchend 264 40 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174829252 320 187 touchend 305 36 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174829460 320 187 touchend 285 27 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831811 320 187 touchstart 259 86 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831859 320 187 touchmove 259 84 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831875 320 187 touchmove 259 81 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831894 320 187 touchmove 260 69 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831909 320 187 touchmove 260 60 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831926 320 187 touchmove 263 35 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831942 320 187 touchmove 267 6 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831961 320 187 touchmove 270 -10 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831977 320 187 touchmove 284 -63 0 0 0 copco  1
+copco_sell_catalogue_resistant 1580174831985 320 187 touchend 284 -63 0 0 0 copco  1

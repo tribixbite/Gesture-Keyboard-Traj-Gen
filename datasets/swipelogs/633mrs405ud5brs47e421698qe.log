@@ -1,0 +1,77 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+no_employment_claims_for_gas_or_power 1583156471919 360 195 touchstart 257 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156471967 360 195 touchmove 255 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156471983 360 195 touchmove 255 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156471998 360 195 touchmove 255 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472045 360 195 touchmove 254 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472112 360 195 touchmove 254 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472165 360 195 touchmove 253 137 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472198 360 195 touchmove 253 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472262 360 195 touchmove 252 137 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472280 360 195 touchmove 252 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472435 360 195 touchmove 250 137 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472453 360 195 touchmove 250 137 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472580 360 195 touchmove 250 136 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156472611 360 195 touchend 250 136 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156473765 360 195 touchstart 102 32 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156473846 360 195 touchmove 103 32 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156473864 360 195 touchmove 103 33 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156473912 360 195 touchmove 103 33 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156473962 360 195 touchmove 104 34 2 2 0 no 1
+no_employment_claims_for_gas_or_power 1583156474010 360 195 touchmove 104 34 2 2 0 no 1
+no_employment_claims_for_gas_or_power 1583156474128 360 195 touchmove 104 33 2 2 0 no 1
+no_employment_claims_for_gas_or_power 1583156474134 360 195 touchend 104 33 2 2 0 no 1
+no_employment_claims_for_gas_or_power 1583156476178 360 195 touchstart 96 40 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156476316 360 195 touchmove 97 41 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476336 360 195 touchmove 98 42 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476357 360 195 touchmove 99 43 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476365 360 195 touchmove 100 43 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476379 360 195 touchmove 101 44 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476395 360 195 touchmove 102 45 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476412 360 195 touchmove 103 45 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476428 360 195 touchmove 104 46 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476445 360 195 touchmove 104 46 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476461 360 195 touchmove 105 47 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476478 360 195 touchmove 105 47 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476494 360 195 touchmove 106 47 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476545 360 195 touchmove 107 47 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476595 360 195 touchmove 107 46 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476630 360 195 touchmove 107 45 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476640 360 195 touchmove 107 45 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156476648 360 195 touchend 107 45 2.25 2.25 0 no 1
+no_employment_claims_for_gas_or_power 1583156477980 360 195 touchstart 253 149 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478029 360 195 touchmove 252 149 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478046 360 195 touchmove 251 149 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478111 360 195 touchmove 250 149 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478179 360 195 touchmove 250 148 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478199 360 195 touchmove 250 148 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478220 360 195 touchmove 250 148 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156478224 360 195 touchend 250 148 1.5 1.5 0 no 1
+no_employment_claims_for_gas_or_power 1583156480834 360 195 touchstart 245 137 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156480861 360 195 touchmove 243 137 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156480915 360 195 touchmove 241 138 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156480962 360 195 touchmove 241 139 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156480996 360 195 touchmove 240 139 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481079 360 195 touchmove 241 140 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481144 360 195 touchmove 240 140 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481367 360 195 touchmove 247 126 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481378 360 195 touchmove 254 109 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481381 360 195 touchend 254 109 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156480834 360 195 touchstart 245 137 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156480861 360 195 touchmove 243 137 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156480915 360 195 touchmove 241 138 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156480962 360 195 touchmove 241 139 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156480996 360 195 touchmove 240 139 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156481079 360 195 touchmove 241 140 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156481144 360 195 touchmove 240 140 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156481367 360 195 touchmove 247 126 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156481378 360 195 touchmove 254 109 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156481381 360 195 touchend 254 109 1.75 1.75 0 no 1 1
+no_employment_claims_for_gas_or_power 1583156481509 360 195 touchstart 310 22 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481548 360 195 touchmove 309 23 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481564 360 195 touchmove 309 23 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481580 360 195 touchmove 308 23 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481644 360 195 touchmove 308 22 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481731 360 195 touchmove 308 23 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481758 360 195 touchmove 309 25 1.75 1.75 0 no 1
+no_employment_claims_for_gas_or_power 1583156481765 360 195 touchend 309 25 1.75 1.75 0 no 1

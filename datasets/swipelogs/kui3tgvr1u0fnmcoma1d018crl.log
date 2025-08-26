@@ -1,0 +1,470 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+qurate_mixed_burton_forums 1580957876816 423 257 touchstart 25 39 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876834 423 257 touchmove 26 39 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876853 423 257 touchmove 31 38 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876871 423 257 touchmove 43 39 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876887 423 257 touchmove 57 42 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876907 423 257 touchmove 73 46 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876919 423 257 touchmove 91 51 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876934 423 257 touchmove 109 55 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876949 423 257 touchmove 129 58 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876966 423 257 touchmove 151 58 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876984 423 257 touchmove 173 58 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877004 423 257 touchmove 194 57 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877017 423 257 touchmove 213 55 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877032 423 257 touchmove 228 53 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877052 423 257 touchmove 240 51 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877066 423 257 touchmove 250 49 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877084 423 257 touchmove 257 47 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877101 423 257 touchmove 261 45 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877117 423 257 touchmove 265 43 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877133 423 257 touchmove 268 42 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877149 423 257 touchmove 269 42 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877166 423 257 touchmove 270 40 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877182 423 257 touchmove 271 40 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877201 423 257 touchmove 269 40 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877220 423 257 touchmove 257 36 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877243 423 257 touchmove 240 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877251 423 257 touchmove 225 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877267 423 257 touchmove 212 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877282 423 257 touchmove 197 34 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877300 423 257 touchmove 182 34 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877316 423 257 touchmove 168 34 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877333 423 257 touchmove 158 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877350 423 257 touchmove 149 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877367 423 257 touchmove 145 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877383 423 257 touchmove 144 32 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877399 423 257 touchmove 143 31 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877416 423 257 touchmove 143 31 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877433 423 257 touchmove 143 31 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877482 423 257 touchmove 142 31 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877504 423 257 touchmove 142 31 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877519 423 257 touchmove 141 31 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877535 423 257 touchmove 137 34 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877551 423 257 touchmove 128 39 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877566 423 257 touchmove 119 46 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877582 423 257 touchmove 110 55 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877598 423 257 touchmove 105 60 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877616 423 257 touchmove 94 71 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877633 423 257 touchmove 77 88 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877649 423 257 touchmove 68 97 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877665 423 257 touchmove 57 106 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877683 423 257 touchmove 49 113 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877699 423 257 touchmove 44 118 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877716 423 257 touchmove 40 120 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877733 423 257 touchmove 39 122 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877749 423 257 touchmove 38 122 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877767 423 257 touchmove 40 119 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877784 423 257 touchmove 61 102 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877800 423 257 touchmove 94 79 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877819 423 257 touchmove 132 58 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877834 423 257 touchmove 168 41 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877850 423 257 touchmove 192 30 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877867 423 257 touchmove 205 24 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877888 423 257 touchmove 210 21 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877901 423 257 touchmove 210 20 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877916 423 257 touchmove 210 19 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877933 423 257 touchmove 205 18 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877955 423 257 touchmove 188 18 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877970 423 257 touchmove 168 20 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877984 423 257 touchmove 150 22 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957877999 423 257 touchmove 133 26 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878016 423 257 touchmove 118 29 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878032 423 257 touchmove 105 33 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878049 423 257 touchmove 96 35 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878067 423 257 touchmove 92 35 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878083 423 257 touchmove 91 36 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878099 423 257 touchmove 91 36 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878115 423 257 touchmove 92 37 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957878117 423 257 touchend 92 37 0 0 0 qurate 0
+qurate_mixed_burton_forums 1580957876816 423 257 touchstart 25 39 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876834 423 257 touchmove 26 39 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876853 423 257 touchmove 31 38 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876871 423 257 touchmove 43 39 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876887 423 257 touchmove 57 42 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876907 423 257 touchmove 73 46 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876919 423 257 touchmove 91 51 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876934 423 257 touchmove 109 55 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876949 423 257 touchmove 129 58 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876966 423 257 touchmove 151 58 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957876984 423 257 touchmove 173 58 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877004 423 257 touchmove 194 57 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877017 423 257 touchmove 213 55 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877032 423 257 touchmove 228 53 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877052 423 257 touchmove 240 51 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877066 423 257 touchmove 250 49 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877084 423 257 touchmove 257 47 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877101 423 257 touchmove 261 45 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877117 423 257 touchmove 265 43 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877133 423 257 touchmove 268 42 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877149 423 257 touchmove 269 42 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877166 423 257 touchmove 270 40 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877182 423 257 touchmove 271 40 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877201 423 257 touchmove 269 40 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877220 423 257 touchmove 257 36 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877243 423 257 touchmove 240 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877251 423 257 touchmove 225 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877267 423 257 touchmove 212 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877282 423 257 touchmove 197 34 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877300 423 257 touchmove 182 34 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877316 423 257 touchmove 168 34 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877333 423 257 touchmove 158 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877350 423 257 touchmove 149 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877367 423 257 touchmove 145 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877383 423 257 touchmove 144 32 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877399 423 257 touchmove 143 31 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877416 423 257 touchmove 143 31 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877433 423 257 touchmove 143 31 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877482 423 257 touchmove 142 31 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877504 423 257 touchmove 142 31 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877519 423 257 touchmove 141 31 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877535 423 257 touchmove 137 34 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877551 423 257 touchmove 128 39 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877566 423 257 touchmove 119 46 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877582 423 257 touchmove 110 55 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877598 423 257 touchmove 105 60 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877616 423 257 touchmove 94 71 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877633 423 257 touchmove 77 88 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877649 423 257 touchmove 68 97 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877665 423 257 touchmove 57 106 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877683 423 257 touchmove 49 113 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877699 423 257 touchmove 44 118 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877716 423 257 touchmove 40 120 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877733 423 257 touchmove 39 122 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877749 423 257 touchmove 38 122 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877767 423 257 touchmove 40 119 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877784 423 257 touchmove 61 102 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877800 423 257 touchmove 94 79 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877819 423 257 touchmove 132 58 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877834 423 257 touchmove 168 41 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877850 423 257 touchmove 192 30 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877867 423 257 touchmove 205 24 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877888 423 257 touchmove 210 21 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877901 423 257 touchmove 210 20 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877916 423 257 touchmove 210 19 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877933 423 257 touchmove 205 18 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877955 423 257 touchmove 188 18 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877970 423 257 touchmove 168 20 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877984 423 257 touchmove 150 22 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957877999 423 257 touchmove 133 26 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878016 423 257 touchmove 118 29 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878032 423 257 touchmove 105 33 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878049 423 257 touchmove 96 35 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878067 423 257 touchmove 92 35 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878083 423 257 touchmove 91 36 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878099 423 257 touchmove 91 36 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878115 423 257 touchmove 92 37 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878117 423 257 touchend 92 37 0 0 0 qurate 0 1
+qurate_mixed_burton_forums 1580957878646 423 257 touchstart 291 206 0 0 0 mixed 1
+qurate_mixed_burton_forums 1580957878666 423 257 touchmove 293 207 0 0 0 mixed 1
+qurate_mixed_burton_forums 1580957878684 423 257 touchmove 298 209 0 0 0 mixed 1
+qurate_mixed_burton_forums 1580957878690 423 257 touchend 298 209 0 0 0 mixed 1
+qurate_mixed_burton_forums 1580957879714 423 257 touchstart 338 169 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879732 423 257 touchmove 338 169 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879750 423 257 touchmove 338 169 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879765 423 257 touchmove 337 168 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879784 423 257 touchmove 335 159 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879801 423 257 touchmove 331 137 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879818 423 257 touchmove 325 110 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879833 423 257 touchmove 320 87 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879848 423 257 touchmove 315 67 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879864 423 257 touchmove 311 51 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879881 423 257 touchmove 309 40 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879901 423 257 touchmove 307 30 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879917 423 257 touchmove 306 23 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879931 423 257 touchmove 306 19 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879950 423 257 touchmove 306 17 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879965 423 257 touchmove 306 17 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879981 423 257 touchmove 306 17 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957879998 423 257 touchmove 309 19 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880014 423 257 touchmove 311 22 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880031 423 257 touchmove 312 28 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880049 423 257 touchmove 310 36 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880064 423 257 touchmove 304 46 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880087 423 257 touchmove 290 59 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880102 423 257 touchmove 272 73 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880114 423 257 touchmove 255 86 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880129 423 257 touchmove 240 98 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880146 423 257 touchmove 225 110 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880163 423 257 touchmove 210 121 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880181 423 257 touchmove 203 126 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880197 423 257 touchmove 181 141 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880213 423 257 touchmove 168 147 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880230 423 257 touchmove 159 152 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880246 423 257 touchmove 152 155 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880263 423 257 touchmove 145 158 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880280 423 257 touchmove 138 162 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880297 423 257 touchmove 131 166 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880315 423 257 touchmove 125 169 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880331 423 257 touchmove 121 172 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880347 423 257 touchmove 119 174 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880365 423 257 touchmove 118 174 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880381 423 257 touchmove 118 174 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880398 423 257 touchmove 118 171 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880413 423 257 touchmove 123 155 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880430 423 257 touchmove 131 132 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880453 423 257 touchmove 137 111 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880468 423 257 touchmove 140 89 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880481 423 257 touchmove 142 69 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880496 423 257 touchmove 142 51 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880514 423 257 touchmove 141 37 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880530 423 257 touchmove 139 27 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880547 423 257 touchmove 136 22 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880563 423 257 touchmove 132 20 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880581 423 257 touchmove 129 19 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880597 423 257 touchmove 126 19 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880613 423 257 touchmove 123 21 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880634 423 257 touchmove 123 22 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880652 423 257 touchmove 119 31 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880672 423 257 touchmove 115 46 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880681 423 257 touchmove 115 53 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880696 423 257 touchmove 114 59 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880713 423 257 touchmove 115 78 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880731 423 257 touchmove 116 88 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880784 423 257 touchmove 122 113 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880797 423 257 touchmove 124 119 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880816 423 257 touchmove 126 124 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880830 423 257 touchmove 127 126 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880847 423 257 touchmove 129 128 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880863 423 257 touchmove 129 129 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880880 423 257 touchmove 130 130 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880897 423 257 touchmove 132 131 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880913 423 257 touchmove 133 131 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957880920 423 257 touchend 133 131 0 0 0 mixed 0
+qurate_mixed_burton_forums 1580957882161 423 257 touchstart 215 176 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882213 423 257 touchmove 221 174 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882229 423 257 touchmove 225 171 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882248 423 257 touchmove 229 170 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882264 423 257 touchmove 231 169 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882281 423 257 touchmove 232 169 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882299 423 257 touchmove 232 168 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882313 423 257 touchmove 232 168 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882330 423 257 touchmove 232 167 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882346 423 257 touchmove 232 167 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882362 423 257 touchmove 233 166 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882382 423 257 touchmove 233 166 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882398 423 257 touchmove 233 165 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882446 423 257 touchmove 234 164 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882462 423 257 touchmove 234 162 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882481 423 257 touchmove 235 162 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882504 423 257 touchmove 235 162 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882520 423 257 touchmove 235 163 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882531 423 257 touchmove 235 163 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882546 423 257 touchmove 236 164 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957882562 423 257 touchend 236 164 0 0 0 burton 0
+qurate_mixed_burton_forums 1580957884356 423 257 touchstart 324 171 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957884395 423 257 touchmove 324 171 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957884413 423 257 touchmove 324 171 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957884415 423 257 touchend 324 171 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885574 423 257 touchstart 181 109 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885594 423 257 touchmove 182 109 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885615 423 257 touchmove 199 105 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885636 423 257 touchmove 223 99 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885645 423 257 touchmove 253 91 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885664 423 257 touchmove 293 77 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885679 423 257 touchmove 335 59 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885694 423 257 touchmove 364 47 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885710 423 257 touchmove 371 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885726 423 257 touchmove 372 38 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885743 423 257 touchmove 370 33 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885760 423 257 touchmove 365 30 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885777 423 257 touchmove 358 28 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885794 423 257 touchmove 352 27 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885814 423 257 touchmove 344 28 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885831 423 257 touchmove 338 29 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885843 423 257 touchmove 320 31 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885860 423 257 touchmove 308 34 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885876 423 257 touchmove 292 36 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885893 423 257 touchmove 275 39 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885912 423 257 touchmove 255 41 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885926 423 257 touchmove 238 43 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885943 423 257 touchmove 217 45 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885960 423 257 touchmove 195 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885976 423 257 touchmove 170 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957885993 423 257 touchmove 148 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886010 423 257 touchmove 129 44 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886027 423 257 touchmove 117 41 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886043 423 257 touchmove 111 38 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886060 423 257 touchmove 110 35 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886077 423 257 touchmove 111 34 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886097 423 257 touchmove 128 28 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886110 423 257 touchmove 164 22 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886127 423 257 touchmove 200 21 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886143 423 257 touchmove 232 26 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886161 423 257 touchmove 259 33 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886181 423 257 touchmove 279 40 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886197 423 257 touchmove 291 44 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886211 423 257 touchmove 296 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886226 423 257 touchmove 297 47 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886243 423 257 touchmove 297 48 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886263 423 257 touchmove 292 50 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886277 423 257 touchmove 286 55 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886293 423 257 touchmove 280 66 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886310 423 257 touchmove 276 89 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886326 423 257 touchmove 280 116 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886343 423 257 touchmove 292 139 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886359 423 257 touchmove 308 156 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886379 423 257 touchmove 324 171 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886393 423 257 touchmove 342 184 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886409 423 257 touchmove 350 191 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957886419 423 257 touchend 350 191 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887427 423 257 touchstart 154 98 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887460 423 257 touchmove 161 97 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887481 423 257 touchmove 179 96 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887499 423 257 touchmove 201 92 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887516 423 257 touchmove 233 85 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887533 423 257 touchmove 250 82 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887542 423 257 touchmove 257 80 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887559 423 257 touchmove 271 76 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887575 423 257 touchmove 286 71 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887592 423 257 touchmove 302 64 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887608 423 257 touchmove 319 57 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887626 423 257 touchmove 331 51 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887641 423 257 touchmove 339 48 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887658 423 257 touchmove 342 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887676 423 257 touchmove 349 44 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887692 423 257 touchmove 351 43 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887709 423 257 touchmove 352 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887725 423 257 touchmove 353 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887742 423 257 touchmove 353 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887764 423 257 touchmove 353 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887776 423 257 touchmove 353 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887792 423 257 touchmove 347 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887809 423 257 touchmove 333 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887825 423 257 touchmove 315 43 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887842 423 257 touchmove 299 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887858 423 257 touchmove 282 49 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887875 423 257 touchmove 266 52 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887895 423 257 touchmove 253 54 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887909 423 257 touchmove 241 57 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887926 423 257 touchmove 230 58 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887945 423 257 touchmove 220 60 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887958 423 257 touchmove 215 60 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887975 423 257 touchmove 208 60 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957887995 423 257 touchmove 197 59 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888008 423 257 touchmove 191 58 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888029 423 257 touchmove 183 56 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888042 423 257 touchmove 175 54 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888058 423 257 touchmove 168 52 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888076 423 257 touchmove 163 51 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888092 423 257 touchmove 159 49 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888108 423 257 touchmove 158 48 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888125 423 257 touchmove 158 47 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888142 423 257 touchmove 159 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888158 423 257 touchmove 173 44 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888175 423 257 touchmove 201 40 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888191 423 257 touchmove 230 38 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888208 423 257 touchmove 251 39 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888225 423 257 touchmove 266 41 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888242 423 257 touchmove 275 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888258 423 257 touchmove 281 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888276 423 257 touchmove 283 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888292 423 257 touchmove 284 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888308 423 257 touchmove 284 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888324 423 257 touchmove 284 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888342 423 257 touchmove 283 42 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888359 423 257 touchmove 282 46 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888375 423 257 touchmove 282 60 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888391 423 257 touchmove 286 83 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888408 423 257 touchmove 295 109 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888425 423 257 touchmove 304 131 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888442 423 257 touchmove 314 146 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888462 423 257 touchmove 322 157 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888475 423 257 touchmove 329 164 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888492 423 257 touchmove 337 169 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888509 423 257 touchmove 343 173 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888525 423 257 touchmove 348 176 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888541 423 257 touchmove 350 178 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957888558 423 257 touchend 350 178 0 0 0 forums 1
+qurate_mixed_burton_forums 1580957890527 423 257 touchstart 168 101 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890540 423 257 touchmove 168 101 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890558 423 257 touchmove 169 101 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890576 423 257 touchmove 174 101 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890597 423 257 touchmove 184 99 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890608 423 257 touchmove 199 95 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890624 423 257 touchmove 217 88 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890640 423 257 touchmove 237 80 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890657 423 257 touchmove 257 73 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890674 423 257 touchmove 281 64 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890691 423 257 touchmove 303 55 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890707 423 257 touchmove 322 49 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890732 423 257 touchmove 336 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890741 423 257 touchmove 345 41 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890757 423 257 touchmove 351 38 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890773 423 257 touchmove 354 37 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890790 423 257 touchmove 355 36 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890806 423 257 touchmove 356 35 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890824 423 257 touchmove 356 35 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890865 423 257 touchmove 355 36 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890881 423 257 touchmove 355 36 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890890 423 257 touchmove 354 37 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890906 423 257 touchmove 351 39 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890922 423 257 touchmove 340 42 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890941 423 257 touchmove 324 44 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890959 423 257 touchmove 306 49 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890973 423 257 touchmove 288 52 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957890990 423 257 touchmove 271 54 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891007 423 257 touchmove 258 57 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891023 423 257 touchmove 247 57 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891039 423 257 touchmove 237 58 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891056 423 257 touchmove 229 58 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891073 423 257 touchmove 219 57 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891089 423 257 touchmove 209 57 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891106 423 257 touchmove 199 55 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891123 423 257 touchmove 194 55 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891139 423 257 touchmove 181 53 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891156 423 257 touchmove 177 52 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891173 423 257 touchmove 164 50 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891189 423 257 touchmove 154 48 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891208 423 257 touchmove 147 47 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891223 423 257 touchmove 141 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891239 423 257 touchmove 140 44 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891257 423 257 touchmove 138 43 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891273 423 257 touchmove 138 43 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891289 423 257 touchmove 148 42 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891306 423 257 touchmove 167 41 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891322 423 257 touchmove 193 39 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891340 423 257 touchmove 217 40 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891356 423 257 touchmove 237 42 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891374 423 257 touchmove 252 44 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891389 423 257 touchmove 261 44 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891406 423 257 touchmove 267 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891423 423 257 touchmove 269 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891439 423 257 touchmove 270 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891458 423 257 touchmove 270 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891473 423 257 touchmove 270 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891491 423 257 touchmove 271 45 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891507 423 257 touchmove 273 46 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891523 423 257 touchmove 277 50 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891540 423 257 touchmove 284 60 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891556 423 257 touchmove 292 75 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891573 423 257 touchmove 298 93 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891589 423 257 touchmove 303 112 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891606 423 257 touchmove 307 127 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891622 423 257 touchmove 312 140 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891639 423 257 touchmove 317 150 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891656 423 257 touchmove 321 158 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891674 423 257 touchmove 325 164 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891689 423 257 touchmove 327 169 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891706 423 257 touchmove 328 171 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891723 423 257 touchmove 328 173 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891742 423 257 touchmove 322 171 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891756 423 257 touchmove 298 159 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891773 423 257 touchmove 269 146 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891789 423 257 touchmove 256 140 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891806 423 257 touchmove 223 128 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891822 423 257 touchmove 203 123 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891839 423 257 touchmove 182 116 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891855 423 257 touchmove 159 109 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891872 423 257 touchmove 134 104 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891889 423 257 touchmove 114 102 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891907 423 257 touchmove 106 102 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891922 423 257 touchmove 92 101 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891938 423 257 touchmove 87 101 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891956 423 257 touchmove 84 100 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891973 423 257 touchmove 83 100 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957891989 423 257 touchmove 82 100 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957892006 423 257 touchmove 82 100 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957892023 423 257 touchmove 83 100 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957892039 423 257 touchmove 85 100 0 0 0 forums 0
+qurate_mixed_burton_forums 1580957892047 423 257 touchend 85 100 0 0 0 forums 0

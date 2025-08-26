@@ -1,0 +1,8 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+nuclear_risk_herb_ri 1581438734451 360 229 touchstart 311 106 2.75 2.75 0 nuclear 1
+nuclear_risk_herb_ri 1581438734473 360 229 touchmove 308 99 2.75 2.75 0 nuclear 1
+nuclear_risk_herb_ri 1581438734490 360 229 touchmove 304 78 3.25 3.25 0 nuclear 1
+nuclear_risk_herb_ri 1581438734506 360 229 touchmove 303 50 4.75 4.75 0 nuclear 1
+nuclear_risk_herb_ri 1581438734523 360 229 touchmove 309 13 3.5 3.5 0 nuclear 1
+nuclear_risk_herb_ri 1581438734540 360 229 touchmove 320 -24 2.25 2.25 0 nuclear 1
+nuclear_risk_herb_ri 1581438734547 360 229 touchend 320 -24 2.25 2.25 0 nuclear 1

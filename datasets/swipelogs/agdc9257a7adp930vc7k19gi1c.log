@@ -1,0 +1,475 @@
+sentence timestamp keyb_width keyb_height event x_pos y_pos x_radius y_radius angle word is_err
+this_looks_fine 1581345457961 360 226 touchstart 168 31 0.5 0.5 0 this 1
+this_looks_fine 1581345458003 360 226 touchmove 166 29 0.5 0.5 0 this 1
+this_looks_fine 1581345458035 360 226 touchmove 165 30 0.5 0.5 0 this 1
+this_looks_fine 1581345458040 360 226 touchmove 165 35 0.5 0.5 0 this 1
+this_looks_fine 1581345458047 360 226 touchmove 165 40 0.5 0.5 0 this 1
+this_looks_fine 1581345458051 360 226 touchend 165 40 0.5 0.5 0 this 1
+this_looks_fine 1581345458471 360 226 touchmove 228 102 0.25 0.25 0 this 1
+this_looks_fine 1581345458473 360 226 touchend 228 102 0.25 0.25 0 this 1
+this_looks_fine 1581345458471 360 226 touchmove 228 102 0.25 0.25 0 this 1 1
+this_looks_fine 1581345458473 360 226 touchend 228 102 0.25 0.25 0 this 1 1
+this_looks_fine 1581345458756 360 226 touchstart 277 26 0.25 0.25 0 this 1
+this_looks_fine 1581345458803 360 226 touchmove 274 25 0.25 0.25 0 this 1
+this_looks_fine 1581345458819 360 226 touchmove 274 26 0.5 0.5 0 this 1
+this_looks_fine 1581345458836 360 226 touchmove 273 27 0.5 0.5 0 this 1
+this_looks_fine 1581345458850 360 226 touchmove 269 30 0.5 0.5 0 this 1
+this_looks_fine 1581345458853 360 226 touchend 269 30 0.5 0.5 0 this 1
+this_looks_fine 1581345459143 360 226 touchstart 80 96 0.25 0.25 0 this 1
+this_looks_fine 1581345459187 360 226 touchmove 79 98 0.25 0.25 0 this 1
+this_looks_fine 1581345459204 360 226 touchmove 80 99 0.25 0.25 0 this 1
+this_looks_fine 1581345459221 360 226 touchmove 82 102 0.25 0.25 0 this 1
+this_looks_fine 1581345459228 360 226 touchmove 83 103 0.25 0.25 0 this 1
+this_looks_fine 1581345459231 360 226 touchend 83 103 0.25 0.25 0 this 1
+this_looks_fine 1581345460656 360 226 touchmove 217 214 0.5 0.5 0 this 1
+this_looks_fine 1581345460672 360 226 touchmove 224 213 0.5 0.5 0 this 1
+this_looks_fine 1581345460675 360 226 touchend 224 213 0.5 0.5 0 this 1
+this_looks_fine 1581345460980 360 226 touchstart 338 95 0.25 0.25 0 this 1
+this_looks_fine 1581345461080 360 226 touchend 338 95 0.25 0.25 0 this 1
+this_looks_fine 1581345460656 360 226 touchmove 217 214 0.5 0.5 0 this 1 1
+this_looks_fine 1581345460672 360 226 touchmove 224 213 0.5 0.5 0 this 1 1
+this_looks_fine 1581345460675 360 226 touchend 224 213 0.5 0.5 0 this 1 1
+this_looks_fine 1581345460980 360 226 touchstart 338 95 0.25 0.25 0 this 1 1
+this_looks_fine 1581345461080 360 226 touchend 338 95 0.25 0.25 0 this 1 1
+this_looks_fine 1581345461374 360 226 touchstart 307 28 0.25 0.25 0 this 1
+this_looks_fine 1581345461408 360 226 touchmove 305 27 0.25 0.25 0 this 1
+this_looks_fine 1581345461424 360 226 touchmove 304 26 0.5 0.5 0 this 1
+this_looks_fine 1581345461440 360 226 touchmove 305 26 0.5 0.5 0 this 1
+this_looks_fine 1581345461482 360 226 touchend 305 26 0.5 0.5 0 this 1
+this_looks_fine 1581345461877 360 226 touchstart 310 42 0.25 0.25 0 this 1
+this_looks_fine 1581345461910 360 226 touchmove 309 41 0.25 0.25 0 this 1
+this_looks_fine 1581345461924 360 226 touchmove 307 38 0.25 0.25 0 this 1
+this_looks_fine 1581345461941 360 226 touchmove 307 37 0.5 0.5 0 this 1
+this_looks_fine 1581345461958 360 226 touchmove 307 37 0.5 0.5 0 this 1
+this_looks_fine 1581345461974 360 226 touchmove 307 38 0.5 0.5 0 this 1
+this_looks_fine 1581345461979 360 226 touchmove 307 39 0.5 0.5 0 this 1
+this_looks_fine 1581345461982 360 226 touchend 307 39 0.5 0.5 0 this 1
+this_looks_fine 1581345461877 360 226 touchstart 310 42 0.25 0.25 0 this 1 1
+this_looks_fine 1581345461910 360 226 touchmove 309 41 0.25 0.25 0 this 1 1
+this_looks_fine 1581345461924 360 226 touchmove 307 38 0.25 0.25 0 this 1 1
+this_looks_fine 1581345461941 360 226 touchmove 307 37 0.5 0.5 0 this 1 1
+this_looks_fine 1581345461958 360 226 touchmove 307 37 0.5 0.5 0 this 1 1
+this_looks_fine 1581345461974 360 226 touchmove 307 38 0.5 0.5 0 this 1 1
+this_looks_fine 1581345461979 360 226 touchmove 307 39 0.5 0.5 0 this 1 1
+this_looks_fine 1581345461982 360 226 touchend 307 39 0.5 0.5 0 this 1 1
+this_looks_fine 1581345462104 360 226 touchstart 273 118 0.25 0.25 0 this 1
+this_looks_fine 1581345462141 360 226 touchmove 274 118 0.5 0.5 0 this 1
+this_looks_fine 1581345462157 360 226 touchmove 276 118 0.5 0.5 0 this 1
+this_looks_fine 1581345462173 360 226 touchmove 278 119 0.25 0.25 0 this 1
+this_looks_fine 1581345462175 360 226 touchend 278 119 0.25 0.25 0 this 1
+this_looks_fine 1581345462843 360 226 touchstart 74 103 0.25 0.25 0 this 1
+this_looks_fine 1581345462891 360 226 touchmove 74 101 0.25 0.25 0 this 1
+this_looks_fine 1581345462909 360 226 touchmove 76 102 0.25 0.25 0 this 1
+this_looks_fine 1581345462920 360 226 touchmove 77 103 0.25 0.25 0 this 1
+this_looks_fine 1581345462925 360 226 touchend 77 103 0.25 0.25 0 this 1
+this_looks_fine 1581345467265 360 226 touchmove 169 202 0.5 0.5 0 this 0
+this_looks_fine 1581345467282 360 226 touchmove 169 201 0.5 0.5 0 this 0
+this_looks_fine 1581345467354 360 226 touchmove 181 200 0.5 0.5 0 this 0
+this_looks_fine 1581345467358 360 226 touchend 180 200 0.5 0.5 0 this 0
+this_looks_fine 1581345468298 360 226 touchstart 147 96 0.5 0.5 0 this 0
+this_looks_fine 1581345468332 360 226 touchmove 146 94 0.5 0.5 0 this 0
+this_looks_fine 1581345468350 360 226 touchmove 146 93 0.5 0.5 0 this 0
+this_looks_fine 1581345468383 360 226 touchmove 150 96 0.5 0.5 0 this 0
+this_looks_fine 1581345468400 360 226 touchmove 155 97 0.5 0.5 0 this 0
+this_looks_fine 1581345468402 360 226 touchend 155 97 0.5 0.5 0 this 0
+this_looks_fine 1581345467265 360 226 touchmove 169 202 0.5 0.5 0 this 0 1
+this_looks_fine 1581345467282 360 226 touchmove 169 201 0.5 0.5 0 this 0 1
+this_looks_fine 1581345467354 360 226 touchmove 181 200 0.5 0.5 0 this 0 1
+this_looks_fine 1581345467358 360 226 touchend 180 200 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468298 360 226 touchstart 147 96 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468332 360 226 touchmove 146 94 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468350 360 226 touchmove 146 93 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468383 360 226 touchmove 150 96 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468400 360 226 touchmove 155 97 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468402 360 226 touchend 155 97 0.5 0.5 0 this 0 1
+this_looks_fine 1581345468717 360 226 touchstart 272 25 0.25 0.25 0 looks 1
+this_looks_fine 1581345468766 360 226 touchmove 271 23 0.25 0.25 0 looks 1
+this_looks_fine 1581345468810 360 226 touchmove 271 28 0.5 0.5 0 looks 1
+this_looks_fine 1581345468812 360 226 touchend 271 28 0.5 0.5 0 looks 1
+this_looks_fine 1581345469044 360 226 touchstart 252 168 0.25 0.25 0 looks 1
+this_looks_fine 1581345469100 360 226 touchmove 251 165 0.25 0.25 0 looks 1
+this_looks_fine 1581345469117 360 226 touchmove 251 164 0.25 0.25 0 looks 1
+this_looks_fine 1581345469134 360 226 touchmove 252 159 0.25 0.25 0 looks 1
+this_looks_fine 1581345469139 360 226 touchmove 252 159 0.25 0.25 0 looks 1
+this_looks_fine 1581345469143 360 226 touchend 252 159 0.25 0.25 0 looks 1
+this_looks_fine 1581345471320 360 226 touchstart 329 105 0.25 0.25 0 looks 1
+this_looks_fine 1581345471370 360 226 touchmove 326 100 0.5 0.5 0 looks 1
+this_looks_fine 1581345471386 360 226 touchmove 327 99 0.5 0.5 0 looks 1
+this_looks_fine 1581345471405 360 226 touchmove 327 98 0.5 0.5 0 looks 1
+this_looks_fine 1581345471420 360 226 touchmove 328 98 0.5 0.5 0 looks 1
+this_looks_fine 1581345471437 360 226 touchmove 328 98 0.5 0.5 0 looks 1
+this_looks_fine 1581345471454 360 226 touchmove 328 99 0.5 0.5 0 looks 1
+this_looks_fine 1581345471456 360 226 touchend 328 99 0.5 0.5 0 looks 1
+this_looks_fine 1581345472359 360 226 touchstart 312 29 0.5 0.5 0 looks 1
+this_looks_fine 1581345472388 360 226 touchmove 311 29 0.5 0.5 0 looks 1
+this_looks_fine 1581345472405 360 226 touchmove 310 28 0.5 0.5 0 looks 1
+this_looks_fine 1581345472421 360 226 touchmove 310 27 0.5 0.5 0 looks 1
+this_looks_fine 1581345472471 360 226 touchmove 311 28 0.75 0.75 0 looks 1
+this_looks_fine 1581345472486 360 226 touchmove 311 29 0.5 0.5 0 looks 1
+this_looks_fine 1581345472489 360 226 touchend 311 29 0.5 0.5 0 looks 1
+this_looks_fine 1581345472359 360 226 touchstart 312 29 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345472388 360 226 touchmove 311 29 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345472405 360 226 touchmove 310 28 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345472421 360 226 touchmove 310 27 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345472471 360 226 touchmove 311 28 0.75 0.75 0 looks 1 1
+this_looks_fine 1581345472486 360 226 touchmove 311 29 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345472489 360 226 touchend 311 29 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345472653 360 226 touchstart 309 30 0.25 0.25 0 looks 1
+this_looks_fine 1581345472746 360 226 touchend 309 30 0.25 0.25 0 looks 1
+this_looks_fine 1581345475241 360 226 touchmove 194 208 0.5 0.5 0 looks 1
+this_looks_fine 1581345475259 360 226 touchmove 198 209 0.5 0.5 0 looks 1
+this_looks_fine 1581345475275 360 226 touchmove 201 210 0.75 0.75 0 looks 1
+this_looks_fine 1581345475291 360 226 touchmove 203 210 0.75 0.75 0 looks 1
+this_looks_fine 1581345475308 360 226 touchmove 205 208 0.75 0.75 0 looks 1
+this_looks_fine 1581345475315 360 226 touchmove 206 208 0.75 0.75 0 looks 1
+this_looks_fine 1581345475318 360 226 touchend 206 208 0.75 0.75 0 looks 1
+this_looks_fine 1581345475968 360 226 touchstart 151 94 0.25 0.25 0 looks 1
+this_looks_fine 1581345476009 360 226 touchmove 149 94 0.25 0.25 0 looks 1
+this_looks_fine 1581345476059 360 226 touchmove 151 97 0.5 0.5 0 looks 1
+this_looks_fine 1581345476076 360 226 touchmove 152 98 0.5 0.5 0 looks 1
+this_looks_fine 1581345476079 360 226 touchend 152 98 0.5 0.5 0 looks 1
+this_looks_fine 1581345476509 360 226 touchmove 272 28 0.5 0.5 0 looks 1
+this_looks_fine 1581345476514 360 226 touchmove 273 29 0.5 0.5 0 looks 1
+this_looks_fine 1581345476517 360 226 touchend 273 29 0.5 0.5 0 looks 1
+this_looks_fine 1581345476509 360 226 touchmove 272 28 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345476514 360 226 touchmove 273 29 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345476517 360 226 touchend 273 29 0.5 0.5 0 looks 1 1
+this_looks_fine 1581345476781 360 226 touchstart 248 162 0.25 0.25 0 looks 1
+this_looks_fine 1581345476827 360 226 touchmove 247 160 0.5 0.5 0 looks 1
+this_looks_fine 1581345476876 360 226 touchmove 248 161 0.5 0.5 0 looks 1
+this_looks_fine 1581345476900 360 226 touchmove 248 160 0.5 0.5 0 looks 1
+this_looks_fine 1581345476904 360 226 touchend 248 160 0.5 0.5 0 looks 1
+this_looks_fine 1581345477177 360 226 touchstart 94 40 0.25 0.25 0 looks 1
+this_looks_fine 1581345477211 360 226 touchmove 94 38 0.5 0.5 0 looks 1
+this_looks_fine 1581345477227 360 226 touchmove 95 38 0.5 0.5 0 looks 1
+this_looks_fine 1581345477243 360 226 touchmove 97 41 0.5 0.5 0 looks 1
+this_looks_fine 1581345477255 360 226 touchmove 99 43 0.5 0.5 0 looks 1
+this_looks_fine 1581345477257 360 226 touchend 99 43 0.5 0.5 0 looks 1
+essentially_ecommerce_craig_documentation 1581345488169 360 226 touchstart 92 33 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345488208 360 226 touchmove 90 33 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345488258 360 226 touchmove 92 37 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345488261 360 226 touchend 92 37 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489525 360 226 touchstart 70 91 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489593 360 226 touchmove 70 92 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489610 360 226 touchmove 71 93 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489627 360 226 touchmove 71 93 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489629 360 226 touchend 71 93 0.5 0.5 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489525 360 226 touchstart 70 91 0.25 0.25 0 essentially 1 1
+essentially_ecommerce_craig_documentation 1581345489593 360 226 touchmove 70 92 0.5 0.5 0 essentially 1 1
+essentially_ecommerce_craig_documentation 1581345489610 360 226 touchmove 71 93 0.5 0.5 0 essentially 1 1
+essentially_ecommerce_craig_documentation 1581345489627 360 226 touchmove 71 93 0.5 0.5 0 essentially 1 1
+essentially_ecommerce_craig_documentation 1581345489629 360 226 touchend 71 93 0.5 0.5 0 essentially 1 1
+essentially_ecommerce_craig_documentation 1581345489775 360 226 touchstart 69 93 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489843 360 226 touchmove 69 94 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489860 360 226 touchmove 70 94 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345489863 360 226 touchend 70 94 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345493625 360 226 touchstart 99 35 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345493698 360 226 touchmove 99 34 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345493702 360 226 touchend 99 34 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345494801 360 226 touchstart 256 160 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345494833 360 226 touchmove 255 159 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345494850 360 226 touchmove 255 158 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345494901 360 226 touchmove 253 159 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345494904 360 226 touchend 254 159 0.25 0.25 0 essentially 1
+essentially_ecommerce_craig_documentation 1581345496202 360 226 touchstart 167 28 0.25 0.25 0 essentially 0
+essentially_ecommerce_craig_documentation 1581345496252 360 226 touchmove 166 27 0.5 0.5 0 essentially 0
+essentially_ecommerce_craig_documentation 1581345496269 360 226 touchmove 167 29 0.5 0.5 0 essentially 0
+essentially_ecommerce_craig_documentation 1581345496286 360 226 touchmove 169 31 0.5 0.5 0 essentially 0
+essentially_ecommerce_craig_documentation 1581345496294 360 226 touchmove 172 34 0.5 0.5 0 essentially 0
+essentially_ecommerce_craig_documentation 1581345496297 360 226 touchend 172 34 0.5 0.5 0 essentially 0
+essentially_ecommerce_craig_documentation 1581345496768 360 226 touchmove 273 45 0.5 0.5 0 ecommerce 1
+essentially_ecommerce_craig_documentation 1581345496770 360 226 touchend 273 45 0.5 0.5 0 ecommerce 1
+essentially_ecommerce_craig_documentation 1581345497170 360 226 touchmove 25 81 0.25 0.25 0 ecommerce 1
+essentially_ecommerce_craig_documentation 1581345497187 360 226 touchmove 28 82 0.5 0.5 0 ecommerce 1
+essentially_ecommerce_craig_documentation 1581345497199 360 226 touchmove 31 83 0.25 0.25 0 ecommerce 1
+essentially_ecommerce_craig_documentation 1581345497202 360 226 touchend 31 83 0.25 0.25 0 ecommerce 1
+essentially_ecommerce_craig_documentation 1581345500982 360 226 touchstart 94 36 0.25 0.25 0 ecommerce 0
+essentially_ecommerce_craig_documentation 1581345501043 360 226 touchmove 94 36 0.25 0.25 0 ecommerce 0
+essentially_ecommerce_craig_documentation 1581345501091 360 226 touchmove 94 38 0.25 0.25 0 ecommerce 0
+essentially_ecommerce_craig_documentation 1581345501094 360 226 touchend 94 38 0.25 0.25 0 ecommerce 0
+essentially_ecommerce_craig_documentation 1581345504116 360 226 touchstart 154 154 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345504133 360 226 touchmove 152 154 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345504162 360 226 touchmove 150 154 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345504181 360 226 touchmove 149 154 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345504199 360 226 touchmove 150 155 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345504215 360 226 touchmove 151 155 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345504218 360 226 touchend 151 155 0.25 0.25 0 craig 0
+essentially_ecommerce_craig_documentation 1581345507190 360 226 touchstart 112 90 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507233 360 226 touchmove 110 91 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507250 360 226 touchmove 110 92 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507267 360 226 touchmove 111 93 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507284 360 226 touchmove 112 93 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507293 360 226 touchmove 113 94 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507296 360 226 touchend 113 94 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507716 360 226 touchmove 293 36 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345507736 360 226 touchend 293 36 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345508910 360 226 touchstart 146 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345509006 360 226 touchmove 153 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345509014 360 226 touchmove 158 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345509016 360 226 touchend 158 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345518978 360 226 touchstart 144 153 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519015 360 226 touchmove 143 152 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519031 360 226 touchmove 143 151 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519048 360 226 touchmove 143 151 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519064 360 226 touchmove 147 151 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519081 360 226 touchmove 153 150 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519084 360 226 touchend 153 150 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345518978 360 226 touchstart 144 153 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519015 360 226 touchmove 143 152 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519031 360 226 touchmove 143 151 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519048 360 226 touchmove 143 151 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519064 360 226 touchmove 147 151 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519081 360 226 touchmove 153 150 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519084 360 226 touchend 153 150 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345519378 360 226 touchstart 227 42 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519399 360 226 touchmove 226 41 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519415 360 226 touchmove 226 40 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519433 360 226 touchmove 226 40 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519448 360 226 touchmove 227 41 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519464 360 226 touchmove 228 45 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519473 360 226 touchmove 229 46 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345519476 360 226 touchend 229 46 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520730 360 226 touchstart 294 148 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520767 360 226 touchmove 291 148 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520784 360 226 touchmove 291 148 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520800 360 226 touchmove 291 149 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520816 360 226 touchmove 291 150 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520833 360 226 touchmove 291 150 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520842 360 226 touchmove 291 150 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345520844 360 226 touchend 291 150 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522401 360 226 touchstart 90 28 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522469 360 226 touchmove 91 28 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522485 360 226 touchmove 96 32 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522487 360 226 touchend 96 32 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522887 360 226 touchmove 241 157 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522947 360 226 touchmove 241 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522950 360 226 touchend 241 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345522887 360 226 touchmove 241 157 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345522947 360 226 touchmove 241 156 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345522950 360 226 touchend 241 156 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345523199 360 226 touchstart 158 24 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523270 360 226 touchmove 159 28 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523275 360 226 touchmove 159 29 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523278 360 226 touchend 159 29 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523425 360 226 touchstart 31 71 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523486 360 226 touchmove 32 74 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523504 360 226 touchmove 34 76 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523510 360 226 touchmove 35 77 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523513 360 226 touchend 35 77 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523937 360 226 touchmove 170 27 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523947 360 226 touchmove 172 28 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345523950 360 226 touchend 172 28 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524525 360 226 touchstart 274 31 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524572 360 226 touchmove 273 31 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524589 360 226 touchmove 274 32 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524608 360 226 touchmove 276 34 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524612 360 226 touchmove 276 34 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524615 360 226 touchend 276 34 0.5 0.5 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524525 360 226 touchstart 274 31 0.25 0.25 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345524572 360 226 touchmove 273 31 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345524589 360 226 touchmove 274 32 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345524608 360 226 touchmove 276 34 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345524612 360 226 touchmove 276 34 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345524615 360 226 touchend 276 34 0.5 0.5 0 documentation 1 1
+essentially_ecommerce_craig_documentation 1581345524743 360 226 touchstart 305 31 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524805 360 226 touchmove 302 34 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524822 360 226 touchmove 301 41 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524837 360 226 touchmove 301 45 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345524840 360 226 touchend 301 45 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345525029 360 226 touchstart 262 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345525055 360 226 touchmove 259 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345525073 360 226 touchmove 257 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345525130 360 226 touchmove 256 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345525134 360 226 touchmove 255 156 0.25 0.25 0 documentation 1
+essentially_ecommerce_craig_documentation 1581345525137 360 226 touchend 256 156 0.25 0.25 0 documentation 1
+trusts_purposes_ctbc_encyclopedia 1581345547169 360 200 touchstart 165 27 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547202 360 200 touchmove 164 27 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547252 360 200 touchmove 164 28 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547267 360 200 touchmove 164 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547269 360 200 touchend 164 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547169 360 200 touchstart 165 27 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345547202 360 200 touchmove 164 27 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345547252 360 200 touchmove 164 28 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345547267 360 200 touchmove 164 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345547269 360 200 touchend 164 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345547441 360 200 touchstart 128 24 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547501 360 200 touchmove 130 24 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547518 360 200 touchmove 133 26 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547527 360 200 touchmove 134 27 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345547529 360 200 touchend 134 27 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548540 360 200 touchstart 227 28 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548586 360 200 touchmove 226 25 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548604 360 200 touchmove 226 25 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548619 360 200 touchmove 226 28 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548636 360 200 touchmove 225 35 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548644 360 200 touchmove 225 35 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345548647 360 200 touchend 225 35 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549037 360 200 touchmove 80 86 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549054 360 200 touchmove 82 88 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549063 360 200 touchmove 83 89 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549066 360 200 touchend 83 89 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549037 360 200 touchmove 80 86 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345549054 360 200 touchmove 82 88 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345549063 360 200 touchmove 83 89 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345549066 360 200 touchend 83 89 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345549296 360 200 touchstart 151 30 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549338 360 200 touchmove 149 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549355 360 200 touchmove 149 30 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549364 360 200 touchmove 148 33 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345549368 360 200 touchend 148 33 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550673 360 200 touchmove 209 183 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550689 360 200 touchmove 209 181 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550707 360 200 touchmove 209 181 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550724 360 200 touchmove 211 181 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550742 360 200 touchmove 217 180 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550745 360 200 touchend 217 180 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551034 360 200 touchstart 343 34 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551090 360 200 touchmove 341 34 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551107 360 200 touchmove 340 34 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551124 360 200 touchmove 340 34 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551159 360 200 touchend 340 34 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550673 360 200 touchmove 209 183 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550689 360 200 touchmove 209 181 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550707 360 200 touchmove 209 181 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550724 360 200 touchmove 211 181 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550742 360 200 touchmove 217 180 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550745 360 200 touchend 217 180 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551034 360 200 touchstart 343 34 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551090 360 200 touchmove 341 34 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551107 360 200 touchmove 340 34 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551124 360 200 touchmove 340 34 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551159 360 200 touchend 340 34 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551603 360 200 touchstart 232 31 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551641 360 200 touchmove 232 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551658 360 200 touchmove 233 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551673 360 200 touchmove 234 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551691 360 200 touchmove 235 29 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551707 360 200 touchmove 237 29 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551723 360 200 touchmove 239 31 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551732 360 200 touchmove 239 31 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345551735 360 200 touchend 239 31 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550673 360 200 touchmove 209 183 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550689 360 200 touchmove 209 181 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550707 360 200 touchmove 209 181 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550724 360 200 touchmove 211 181 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550742 360 200 touchmove 217 180 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550745 360 200 touchend 217 180 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551034 360 200 touchstart 343 34 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551090 360 200 touchmove 341 34 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551107 360 200 touchmove 340 34 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551124 360 200 touchmove 340 34 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551159 360 200 touchend 340 34 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551603 360 200 touchstart 232 31 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551641 360 200 touchmove 232 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551658 360 200 touchmove 233 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551673 360 200 touchmove 234 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551691 360 200 touchmove 235 29 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551707 360 200 touchmove 237 29 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551723 360 200 touchmove 239 31 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551732 360 200 touchmove 239 31 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551735 360 200 touchend 239 31 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345552132 360 200 touchstart 123 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552218 360 200 touchmove 128 33 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552220 360 200 touchend 128 33 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345550673 360 200 touchmove 209 183 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550689 360 200 touchmove 209 181 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550707 360 200 touchmove 209 181 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550724 360 200 touchmove 211 181 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550742 360 200 touchmove 217 180 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345550745 360 200 touchend 217 180 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551034 360 200 touchstart 343 34 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551090 360 200 touchmove 341 34 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551107 360 200 touchmove 340 34 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551124 360 200 touchmove 340 34 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551159 360 200 touchend 340 34 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551603 360 200 touchstart 232 31 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551641 360 200 touchmove 232 29 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551658 360 200 touchmove 233 29 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551673 360 200 touchmove 234 29 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551691 360 200 touchmove 235 29 0.5 0.5 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551707 360 200 touchmove 237 29 0.5 0.5 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551723 360 200 touchmove 239 31 0.5 0.5 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551732 360 200 touchmove 239 31 0.5 0.5 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345551735 360 200 touchend 239 31 0.5 0.5 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345552132 360 200 touchstart 123 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345552218 360 200 touchmove 128 33 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345552220 360 200 touchend 128 33 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345552433 360 200 touchstart 348 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552526 360 200 touchmove 343 31 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552536 360 200 touchmove 343 32 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552539 360 200 touchend 343 32 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552651 360 200 touchstart 310 16 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552709 360 200 touchmove 312 18 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552726 360 200 touchmove 313 20 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552736 360 200 touchmove 312 22 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345552738 360 200 touchend 312 22 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553176 360 200 touchmove 67 89 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553193 360 200 touchmove 67 89 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553210 360 200 touchmove 67 89 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553226 360 200 touchmove 68 89 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553240 360 200 touchmove 68 88 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553242 360 200 touchend 68 88 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553176 360 200 touchmove 67 89 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345553193 360 200 touchmove 67 89 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345553210 360 200 touchmove 67 89 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345553226 360 200 touchmove 68 89 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345553240 360 200 touchmove 68 88 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345553242 360 200 touchend 68 88 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345553372 360 200 touchstart 86 30 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553426 360 200 touchmove 85 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553443 360 200 touchmove 86 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345553450 360 200 touchend 86 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345554733 360 200 touchstart 88 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345554812 360 200 touchmove 88 30 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345554814 360 200 touchend 88 30 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345554733 360 200 touchstart 88 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345554812 360 200 touchmove 88 30 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345554814 360 200 touchend 88 30 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345554950 360 200 touchstart 70 82 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345555031 360 200 touchmove 71 86 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345555038 360 200 touchmove 71 87 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345555041 360 200 touchend 71 87 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557348 360 200 touchmove 187 177 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557364 360 200 touchmove 186 175 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557382 360 200 touchmove 185 175 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557430 360 200 touchmove 187 176 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557448 360 200 touchmove 188 177 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557462 360 200 touchmove 188 177 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557464 360 200 touchend 188 177 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557770 360 200 touchstart 144 141 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557832 360 200 touchmove 147 142 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557849 360 200 touchmove 149 144 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557865 360 200 touchmove 151 147 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557875 360 200 touchmove 151 148 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345557878 360 200 touchend 151 148 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345559291 360 200 touchstart 165 23 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345559334 360 200 touchmove 163 22 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345559390 360 200 touchmove 164 23 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345559392 360 200 touchend 164 23 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345560481 360 200 touchstart 223 142 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345560594 360 200 touchmove 220 143 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345560595 360 200 touchend 220 143 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345560481 360 200 touchstart 223 142 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560594 360 200 touchmove 220 143 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560595 360 200 touchend 220 143 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560875 360 200 touchstart 146 136 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345564249 360 200 touchend 146 136 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345560481 360 200 touchstart 223 142 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560594 360 200 touchmove 220 143 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560595 360 200 touchend 220 143 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560875 360 200 touchstart 146 136 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564249 360 200 touchend 146 136 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564255 360 200 touchstart 100 29 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345564257 360 200 touchmove 101 31 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345564259 360 200 touchend 101 31 0.5 0.5 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345560481 360 200 touchstart 223 142 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560594 360 200 touchmove 220 143 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560595 360 200 touchend 220 143 0.25 0.25 0 trusts 1 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345560875 360 200 touchstart 146 136 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564249 360 200 touchend 146 136 0.25 0.25 0 trusts 1 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564255 360 200 touchstart 100 29 0.25 0.25 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564257 360 200 touchmove 101 31 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564259 360 200 touchend 101 31 0.5 0.5 0 trusts 1 1
+trusts_purposes_ctbc_encyclopedia 1581345564265 360 200 touchstart 250 142 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345564268 360 200 touchmove 248 141 0.25 0.25 0 trusts 1
+trusts_purposes_ctbc_encyclopedia 1581345564271 360 200 touchend 248 141 0.25 0.25 0 trusts 1
