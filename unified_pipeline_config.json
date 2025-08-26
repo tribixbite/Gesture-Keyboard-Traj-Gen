@@ -1,0 +1,51 @@
+{
+  "generators": {
+    "rule_based": [
+      "enhanced_swype_generator",
+      "improved_swype_generator",
+      "optimized_swype_generator",
+      "real_calibrated_generator"
+    ],
+    "optimization": [
+      "jerk_minimization"
+    ],
+    "neural": {
+      "rnn": {
+        "tf2": "RNN-Based TF2/rnn.py",
+        "pytorch": "pytorch_rnn_trainer.py"
+      },
+      "gan": {
+        "cyclegan": "GAN-Based/cycle_main.py",
+        "wgan_gp": "optimized_gan_trainer.py"
+      }
+    }
+  },
+  "datasets": {
+    "real": "datasets/swipelogs",
+    "synthetic": "datasets/synthetic_all",
+    "combined": "datasets/combined"
+  },
+  "training": {
+    "batch_size": 32,
+    "epochs": 100,
+    "learning_rate": 0.001,
+    "optimizer": "adam",
+    "checkpoint_interval": 10
+  },
+  "validation": {
+    "metrics": [
+      "dtw",
+      "frechet",
+      "recognition_accuracy"
+    ],
+    "test_words": [
+      "hello",
+      "world",
+      "the",
+      "quick",
+      "brown",
+      "fox"
+    ],
+    "cross_validation": true
+  }
+}
