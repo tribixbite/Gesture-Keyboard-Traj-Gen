@@ -1,0 +1,130 @@
+{
+  "test/loss": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.5
+    ]
+  },
+  "test/losses/train": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.4
+    ]
+  },
+  "test/losses/val": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.6
+    ]
+  },
+  "Loss/Train": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.4
+    ]
+  },
+  "Loss/Validation": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.6
+    ]
+  },
+  "Loss/Comparison/train": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.4
+    ]
+  },
+  "Loss/Comparison/validation": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.6
+    ]
+  },
+  "Optimizer/Learning_Rate": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.001
+    ]
+  },
+  "Parameters/weight/mean": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.015324020758271217
+    ]
+  },
+  "Parameters/weight/std": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.1780981421470642
+    ]
+  },
+  "Parameters/weight/min": {
+    "steps": [
+      0
+    ],
+    "values": [
+      -0.3137314021587372
+    ]
+  },
+  "Parameters/weight/max": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.3139280676841736
+    ]
+  },
+  "Parameters/bias/mean": {
+    "steps": [
+      0
+    ],
+    "values": [
+      -0.03160330653190613
+    ]
+  },
+  "Parameters/bias/std": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.21305616199970245
+    ]
+  },
+  "Parameters/bias/min": {
+    "steps": [
+      0
+    ],
+    "values": [
+      -0.29143986105918884
+    ]
+  },
+  "Parameters/bias/max": {
+    "steps": [
+      0
+    ],
+    "values": [
+      0.2805079221725464
+    ]
+  }
+}

@@ -24,8 +24,10 @@ class GeneratorType(Enum):
     REAL_CALIBRATED = "real_calibrated"
     RNN_ATTENTION = "rnn_attention"
     RNN_SIMPLE = "rnn_simple"
+    RNN_TF1_COMPAT = "rnn_tf1_compat"
     WGAN_GP = "wgan_gp"
     TRANSFORMER = "transformer"
+    PROGRESSIVE_GAN = "progressive_gan"
     JERK_MINIMIZATION = "jerk_minimization"
 
 class GenerationResult:
@@ -403,6 +405,199 @@ class WGANGenerator(BaseGenerator):
             }
         )
 
+class TF1CompatGenerator(BaseGenerator):
+    """Wrapper for TF1 compatibility RNN generator"""
+    
+    def __init__(self):
+        super().__init__("TF1 Compatible RNN Generator")
+        self.generator_type = GeneratorType.RNN_TF1_COMPAT.value
+        self._model = None
+        self._char_to_idx = None
+        self._load_model()
+    
+    def _load_model(self):
+        try:
+            import torch
+            from pytorch_tf1_compat import TF1CompatModel
+            
+            # Try to load trained model
+            model_path = Path("models/tf1_compat_model.pt")
+            if model_path.exists():
+                checkpoint = torch.load(model_path, map_location='cpu')
+                config = checkpoint.get('model_config', {})
+                self._char_to_idx = checkpoint.get('char_to_idx', {})
+                
+                self._model = TF1CompatModel(
+                    rnn_size=config.get('rnn_size', 400),
+                    num_mixtures=config.get('num_mixtures', 20),
+                    num_window_mixtures=config.get('num_window_mixtures', 10),
+                    alphabet_size=config.get('alphabet_size', len(self._char_to_idx))
+                )
+                self._model.load_state_dict(checkpoint['model_state_dict'])
+                self._model.eval()
+                self.is_loaded = True
+            else:
+                # Create model with default parameters
+                self._char_to_idx = {chr(i+ord('a')): i for i in range(26)}
+                self._char_to_idx.update({' ': 26, '.': 27, ',': 28, '!': 29})
+                
+                self._model = TF1CompatModel(
+                    rnn_size=256,
+                    num_mixtures=10,
+                    num_window_mixtures=5,
+                    alphabet_size=len(self._char_to_idx)
+                )
+                print("TF1 compatible model created but not trained")
+                
+        except ImportError as e:
+            print(f"TF1 compatible model not available: {e}")
+    
+    def is_available(self) -> bool:
+        return self._model is not None
+    
+    def generate(self, word: str, **kwargs) -> GenerationResult:
+        if not self.is_available():
+            raise RuntimeError("TF1 compatible model not available")
+        
+        import torch
+        
+        # Create one-hot character sequence
+        max_char_len = kwargs.get('max_char_length', 20)
+        char_sequence = torch.zeros(1, max_char_len, len(self._char_to_idx))
+        
+        for i, char in enumerate(word.lower()[:max_char_len]):
+            if char in self._char_to_idx:
+                char_sequence[0, i, self._char_to_idx[char]] = 1.0
+        
+        # Generate trajectory
+        with torch.no_grad():
+            trajectory_tensor = self._model.sample(
+                char_sequence,
+                max_length=kwargs.get('max_length', 200),
+                temperature=kwargs.get('temperature', 0.8),
+                bias=kwargs.get('bias', 0.0)
+            )
+        
+        # Convert to standard format
+        trajectory = []
+        traj_np = trajectory_tensor[0].numpy()
+        for i, point in enumerate(traj_np):
+            trajectory.append({
+                'x': float(point[0]) * 100 + 300,  # Scale and offset
+                'y': float(point[1]) * 50 + 250,
+                't': i * 20.0,  # 50 Hz sampling
+                'p': 1 if point[2] < 0.5 else 0
+            })
+        
+        return GenerationResult(
+            trajectory=trajectory,
+            word=word,
+            generator_type=self.generator_type,
+            metadata={
+                'temperature': kwargs.get('temperature', 0.8),
+                'bias': kwargs.get('bias', 0.0),
+                'model_trained': self.is_loaded,
+                'architecture': 'tf1_compatible_rnn_attention_mdn'
+            }
+        )
+
+class TransformerGenerator(BaseGenerator):
+    """Wrapper for transformer-based generator"""
+    
+    def __init__(self):
+        super().__init__("Transformer Generator")
+        self.generator_type = GeneratorType.TRANSFORMER.value
+        self._model = None
+        self._char_to_idx = None
+        self._load_model()
+    
+    def _load_model(self):
+        try:
+            import torch
+            from pytorch_transformer_generator import TrajectoryTransformer
+            
+            # Try to load trained model
+            model_path = Path("models/transformer_model.pt")
+            if model_path.exists():
+                checkpoint = torch.load(model_path, map_location='cpu')
+                self._char_to_idx = checkpoint.get('char_to_idx', {})
+                
+                self._model = TrajectoryTransformer(
+                    vocab_size=len(self._char_to_idx),
+                    d_model=256,
+                    n_heads=8,
+                    num_mixture_components=20
+                )
+                self._model.load_state_dict(checkpoint['model_state_dict'])
+                self._model.eval()
+                self.is_loaded = True
+            else:
+                # Create model with default vocabulary
+                self._char_to_idx = {chr(i+ord('a')): i for i in range(26)}
+                self._char_to_idx.update({' ': 26, '<PAD>': 27, '<SOS>': 28, '<EOS>': 29})
+                
+                self._model = TrajectoryTransformer(
+                    vocab_size=len(self._char_to_idx),
+                    d_model=128,
+                    n_heads=4,
+                    num_mixture_components=10
+                )
+                print("Transformer model created but not trained")
+                
+        except ImportError as e:
+            print(f"Transformer not available: {e}")
+    
+    def is_available(self) -> bool:
+        return self._model is not None
+    
+    def generate(self, word: str, **kwargs) -> GenerationResult:
+        if not self.is_available():
+            raise RuntimeError("Transformer not available")
+        
+        import torch
+        
+        # Prepare character sequence
+        max_word_len = kwargs.get('max_word_length', 20)
+        char_seq = torch.full((1, max_word_len), self._char_to_idx.get('<PAD>', 0), dtype=torch.long)
+        char_seq[0, 0] = self._char_to_idx.get('<SOS>', 0)
+        
+        for i, char in enumerate(word.lower()):
+            if i + 1 < max_word_len - 1:
+                char_seq[0, i + 1] = self._char_to_idx.get(char, self._char_to_idx.get('<PAD>', 0))
+        
+        if len(word) + 2 < max_word_len:
+            char_seq[0, len(word) + 1] = self._char_to_idx.get('<EOS>', 0)
+        
+        # Generate trajectory
+        with torch.no_grad():
+            trajectory_tensor = self._model.generate(
+                char_seq,
+                max_length=kwargs.get('max_length', 100),
+                temperature=kwargs.get('temperature', 1.0)
+            )
+        
+        # Convert to standard format
+        trajectory = []
+        traj_np = trajectory_tensor[0].numpy()
+        for i, point in enumerate(traj_np):
+            trajectory.append({
+                'x': float(point[0]) * 150 + 400,  # Scale and offset
+                'y': float(point[1]) * 100 + 300,
+                't': i * 16.67,
+                'p': 1 if point[2] < 0.5 else 0
+            })
+        
+        return GenerationResult(
+            trajectory=trajectory,
+            word=word,
+            generator_type=self.generator_type,
+            metadata={
+                'temperature': kwargs.get('temperature', 1.0),
+                'model_trained': self.is_loaded,
+                'architecture': 'encoder_decoder_transformer'
+            }
+        )
+
 class JerkMinimizationGenerator(BaseGenerator):
     """Wrapper for jerk minimization generator"""
     
@@ -439,6 +634,99 @@ class JerkMinimizationGenerator(BaseGenerator):
             metadata=kwargs
         )
 
+class ProgressiveGANGenerator(BaseGenerator):
+    """Wrapper for Progressive GAN generator"""
+    
+    def __init__(self):
+        super().__init__("Progressive GAN Generator")
+        self.generator_type = GeneratorType.PROGRESSIVE_GAN.value
+        self._trainer = None
+        self._load_model()
+    
+    def _load_model(self):
+        try:
+            from progressive_gan_trainer import ProgressiveGANTrainer
+            import torch
+            
+            # Try to load checkpoint
+            checkpoint_dir = Path("checkpoints")
+            checkpoint_files = list(checkpoint_dir.glob("progressive_gan_epoch_*.pt"))
+            
+            if checkpoint_files:
+                latest_checkpoint = max(checkpoint_files, key=lambda x: int(x.stem.split('_')[-1]))
+                checkpoint = torch.load(latest_checkpoint, map_location='cpu')
+                
+                # Initialize trainer with saved parameters
+                vocab_size = checkpoint.get('vocab_size', 27)  # Default alphabet size
+                max_traj_len = checkpoint.get('max_trajectory_length', 100)
+                
+                self._trainer = ProgressiveGANTrainer(
+                    vocab_size=vocab_size,
+                    max_trajectory_length=max_traj_len
+                )
+                
+                # Load generator state
+                self._trainer.generator.load_state_dict(checkpoint['generator_state_dict'])
+                self._trainer.generator.eval()
+                
+                self.is_loaded = True
+                print(f"Loaded Progressive GAN from {latest_checkpoint}")
+            else:
+                print("No Progressive GAN checkpoint found - will use random initialization")
+                
+        except ImportError as e:
+            print(f"Progressive GAN not available: {e}")
+        except Exception as e:
+            print(f"Failed to load Progressive GAN: {e}")
+    
+    def is_available(self) -> bool:
+        return self._trainer is not None
+    
+    def generate(self, word: str, **kwargs) -> GenerationResult:
+        if not self.is_available():
+            raise RuntimeError("Progressive GAN not available")
+        
+        import torch
+        
+        # Create character encoding
+        char_to_idx = {chr(i): i-ord('a') for i in range(ord('a'), ord('z')+1)}
+        char_to_idx[' '] = 26
+        
+        word_encoded = torch.zeros(1, len(word), dtype=torch.long)
+        for i, char in enumerate(word.lower()):
+            if i < len(word):
+                word_encoded[0, i] = char_to_idx.get(char, 26)  # Unknown -> space
+        
+        # Generate trajectory
+        with torch.no_grad():
+            trajectory_tensor = self._trainer.generate_sample(
+                word_encoded, 
+                max_length=kwargs.get('max_length', 100),
+                temperature=kwargs.get('temperature', 1.0)
+            )
+        
+        # Convert to standard format
+        trajectory = []
+        traj_np = trajectory_tensor[0].numpy()
+        for i, point in enumerate(traj_np):
+            trajectory.append({
+                'x': float(point[0]) * 150 + 400,  # Scale and offset
+                'y': float(point[1]) * 100 + 300,
+                't': i * 16.67,
+                'p': 1 if point[2] < 0.5 else 0
+            })
+        
+        return GenerationResult(
+            trajectory=trajectory,
+            word=word,
+            generator_type=self.generator_type,
+            metadata={
+                'temperature': kwargs.get('temperature', 1.0),
+                'model_trained': self.is_loaded,
+                'architecture': 'progressive_gan_with_self_attention'
+            }
+        )
+
 class UnifiedGeneratorAPI:
     """Unified API for all trajectory generators"""
     
@@ -453,6 +741,9 @@ class UnifiedGeneratorAPI:
             RealCalibratedGenerator,
             AttentionRNNGenerator,
             WGANGenerator,
+            TF1CompatGenerator,
+            TransformerGenerator,
+            ProgressiveGANGenerator,
             JerkMinimizationGenerator
         ]
         

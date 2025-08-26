@@ -335,8 +335,12 @@ class CheckpointManager:
             return None
         
         try:
-            # Load checkpoint data
-            checkpoint_data = torch.load(checkpoint.checkpoint_path, map_location=device)
+            # Load checkpoint data (handle PyTorch 2.6 weights_only change)
+            try:
+                checkpoint_data = torch.load(checkpoint.checkpoint_path, map_location=device, weights_only=False)
+            except Exception:
+                # Fallback for older PyTorch versions
+                checkpoint_data = torch.load(checkpoint.checkpoint_path, map_location=device)
             
             # Load model state
             model.load_state_dict(checkpoint_data['model_state_dict'])

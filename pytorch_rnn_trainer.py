@@ -16,6 +16,7 @@ from torch.utils.data import Dataset, DataLoader
 import time
 from pytorch_attention_rnn import AttentionRNN, AttentionTrainer
 from model_checkpoint_manager import CheckpointManager
+from tensorboard_logger import TensorboardTrainingMixin
 
 class SwipelogDataset(Dataset):
     """PyTorch Dataset for swipelog data"""
@@ -191,14 +192,43 @@ class TrajectoryRNN(nn.Module):
         
         return [x.item(), y.item(), e]
 
-def train_model(model, train_loader, val_loader, epochs=30, lr=0.001, device='cpu'):
-    """Train the RNN model"""
+def train_model(model, train_loader, val_loader, epochs=30, lr=0.001, device='cpu', use_tensorboard=True):
+    """Train the RNN model with optional Tensorboard logging"""
     
     model = model.to(device)
     optimizer = optim.Adam(model.parameters(), lr=lr)
     word_criterion = nn.CrossEntropyLoss(ignore_index=0)  # Ignore padding
     
     history = {'train_loss': [], 'val_loss': []}
+    
+    # Initialize Tensorboard logger if requested
+    tb_logger = None
+    if use_tensorboard:
+        from tensorboard_logger import TrajectoryTensorboardLogger
+        tb_logger = TrajectoryTensorboardLogger(
+            experiment_name=f"pytorch_rnn_{int(time.time())}",
+            model_name="PyTorch_RNN"
+        )
+        
+        # Log model architecture
+        try:
+            dummy_input = torch.randn(1, 100, 3).to(device)
+            dummy_words = torch.randint(0, 27, (1, 20)).to(device)
+            tb_logger.log_model_architecture(model, (1, 100, 3))
+        except:
+            print("Could not log model architecture")
+        
+        # Log hyperparameters
+        hparams = {
+            'learning_rate': lr,
+            'epochs': epochs,
+            'batch_size': train_loader.batch_size,
+            'mixture_components': model.mixture_components,
+            'hidden_size': model.hidden_size,
+            'char_embed_size': model.char_embed_size
+        }
+        
+        # We'll log final metrics at the end
     
     for epoch in range(epochs):
         print(f"\nEpoch {epoch + 1}/{epochs}")
@@ -291,10 +321,83 @@ def train_model(model, train_loader, val_loader, epochs=30, lr=0.001, device='cp
         print(f"  Train Loss: {avg_train_loss:.4f}")
         print(f"  Val Loss: {avg_val_loss:.4f}")
         
+        # Log to Tensorboard
+        if tb_logger:
+            tb_logger.log_training_metrics(
+                epoch=epoch,
+                train_loss=avg_train_loss,
+                val_loss=avg_val_loss,
+                learning_rate=optimizer.param_groups[0]['lr']
+            )
+            
+            # Log loss components
+            tb_logger.log_loss_components({
+                'word_loss': word_loss.item() if 'word_loss' in locals() else 0,
+                'traj_loss': traj_loss.item() if 'traj_loss' in locals() else 0
+            }, epoch)
+            
+            # Log model parameters every 5 epochs
+            if epoch % 5 == 0:
+                tb_logger.log_model_parameters(model, epoch)
+            
+            # Generate and log sample trajectories every 10 epochs
+            if epoch % 10 == 0:
+                try:
+                    model.eval()
+                    sample_words = ['hello', 'world', 'test']
+                    sample_trajectories = []
+                    
+                    with torch.no_grad():
+                        for word in sample_words:
+                            # Generate word encoding
+                            word_encoded = torch.zeros(1, 20, dtype=torch.long)
+                            for i, char in enumerate(word.lower()):
+                                if i < 19 and ord(char) >= ord('a') and ord(char) <= ord('z'):
+                                    word_encoded[0, i] = ord(char) - ord('a') + 1
+                            word_encoded = word_encoded.to(device)
+                            
+                            # Generate trajectory
+                            points = model.generate_trajectory(word_encoded, max_length=50)
+                            
+                            # Convert to trajectory format
+                            trajectory = []
+                            for i, point in enumerate(points):
+                                trajectory.append({
+                                    'x': float(point[0]) * 400 + 200,
+                                    'y': float(point[1]) * 300 + 150,
+                                    't': i * 16.67,
+                                    'p': 1 if point[2] > 0.5 else 0
+                                })
+                            
+                            sample_trajectories.append(trajectory)
+                    
+                    tb_logger.log_trajectory_visualization(
+                        sample_trajectories, 
+                        sample_words, 
+                        epoch,
+                        "Sample_Trajectories"
+                    )
+                    
+                    model.train()
+                    
+                except Exception as e:
+                    print(f"Failed to log sample trajectories: {e}")
+        
         # Early stopping
         if epoch > 5 and history['val_loss'][-1] > history['val_loss'][-3]:
             print("Early stopping triggered")
             break
+    
+    # Log final hyperparameters and metrics
+    if tb_logger:
+        final_metrics = {
+            'final_train_loss': history['train_loss'][-1],
+            'final_val_loss': history['val_loss'][-1],
+            'best_val_loss': min(history['val_loss']),
+            'epochs_trained': len(history['train_loss'])
+        }
+        tb_logger.log_hyperparameters(hparams, final_metrics)
+        tb_logger.close()
     
     return history
 
