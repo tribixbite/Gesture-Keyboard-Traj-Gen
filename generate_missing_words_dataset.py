@@ -61,7 +61,7 @@ class MissingWordsGenerator:
         print(f"Loaded {len(self.dict_words)} words from dictionary")
         return self.dict_words
     
-    def find_missing_words(self, max_words: int = 1000) -> List[str]:
+    def find_missing_words(self, max_words: int = None) -> List[str]:
         """Find high-frequency words not in real dataset"""
         
         # Get words in dictionary but not in real dataset
@@ -71,7 +71,7 @@ class MissingWordsGenerator:
                 # Filter to reasonable length words (2-10 chars)
                 if 2 <= len(word) <= 10 and word.isalpha():
                     missing.append(word)
-                    if len(missing) >= max_words:
+                    if max_words and len(missing) >= max_words:
                         break
         
         print(f"Found {len(missing)} missing words to generate")
@@ -237,16 +237,20 @@ def main():
     dict_words = generator.load_dictionary()
     
     # Find missing high-frequency words
-    missing_words = generator.find_missing_words(max_words=500)
+    missing_words = generator.find_missing_words()  # Get ALL missing words
     
     print(f"\nTop 20 missing words to generate:")
     for word in missing_words[:20]:
         print(f"  - {word}")
     
+    # Ask user for batch size
+    batch_size = min(1000, len(missing_words))  # Process in batches to avoid memory issues
+    print(f"\nGenerating traces for first {batch_size} words (out of {len(missing_words)} total)")
+    
     # Generate synthetic traces
     sessions = generator.generate_synthetic_traces(
-        words=missing_words[:200],  # Start with 200 words
-        samples_per_word=3  # 3 samples per word
+        words=missing_words[:batch_size],
+        samples_per_word=2  # 2 samples per word to manage size
     )
     
     # Save dataset

@@ -1,0 +1,10 @@
+{
+  "total_sessions": 7402,
+  "total_words": 7402,
+  "samples_per_word": 1,
+  "timestamp": 1756184921.924197,
+  "generator": "RealCalibratedGenerator",
+  "missing_words_count": 7402,
+  "real_words_count": 2606,
+  "dictionary_size": 10000
+}
