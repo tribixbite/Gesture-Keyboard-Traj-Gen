@@ -14,7 +14,8 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader
 import time
-# Simple train/val split without sklearn
+from pytorch_attention_rnn import AttentionRNN, AttentionTrainer
+from model_checkpoint_manager import CheckpointManager
 
 class SwipelogDataset(Dataset):
     """PyTorch Dataset for swipelog data"""
@@ -223,8 +224,19 @@ def train_model(model, train_loader, val_loader, epochs=30, lr=0.001, device='cp
                 words_flat = words[:, 1:].contiguous().view(-1)
                 word_loss = word_criterion(word_logits_flat, words_flat)
             
-            # Simple MSE loss for trajectory (simplified)
-            traj_loss = torch.mean((mixture_params[:, :, :3] - trajectories) ** 2)
+            # Reconstruction loss using mixture mean positions
+            # Extract mu_x and mu_y from first component (indices 20-40)
+            m = model.mixture_components
+            mu_x = mixture_params[:, :, m:2*m]  # mu_x components
+            mu_y = mixture_params[:, :, 2*m:3*m]  # mu_y components
+            
+            # Use first component as prediction for simplicity
+            traj_pred_x = mu_x[:, :, 0]  # First component mu_x
+            traj_pred_y = mu_y[:, :, 0]  # First component mu_y
+            
+            # Reconstruction loss for x and y coordinates
+            traj_loss = torch.mean((traj_pred_x - trajectories[:, :, 0]) ** 2) + \
+                       torch.mean((traj_pred_y - trajectories[:, :, 1]) ** 2)
             
             # Combined loss
             total_loss = word_loss + 0.5 * traj_loss
@@ -255,7 +267,17 @@ def train_model(model, train_loader, val_loader, epochs=30, lr=0.001, device='cp
                     words_flat = words[:, 1:].contiguous().view(-1)
                     word_loss = word_criterion(word_logits_flat, words_flat)
                 
-                traj_loss = torch.mean((mixture_params[:, :, :3] - trajectories) ** 2)
+                # Reconstruction loss using mixture mean positions (same as training)
+                m = model.mixture_components
+                mu_x = mixture_params[:, :, m:2*m]  # mu_x components
+                mu_y = mixture_params[:, :, 2*m:3*m]  # mu_y components
+                
+                # Use first component as prediction
+                traj_pred_x = mu_x[:, :, 0]
+                traj_pred_y = mu_y[:, :, 0]
+                
+                traj_loss = torch.mean((traj_pred_x - trajectories[:, :, 0]) ** 2) + \
+                           torch.mean((traj_pred_y - trajectories[:, :, 1]) ** 2)
                 total_loss = word_loss + 0.5 * traj_loss
                 
                 val_losses.append(total_loss.item())
@@ -273,6 +295,83 @@ def train_model(model, train_loader, val_loader, epochs=30, lr=0.001, device='cp
         if epoch > 5 and history['val_loss'][-1] > history['val_loss'][-3]:
             print("Early stopping triggered")
             break
+    
+    return history
+
+def train_attention_model(trainer, train_loader, val_loader, epochs=10):
+    """Training function for attention-based model"""
+    
+    history = {'train_loss': [], 'val_loss': []}
+    
+    for epoch in range(epochs):
+        print(f"\nEpoch {epoch + 1}/{epochs}")
+        
+        # Training
+        train_losses = []
+        trainer.model.train()
+        
+        for batch_idx, (trajectories, words) in enumerate(train_loader):
+            trajectories = trajectories.to(trainer.device)
+            words = words.to(trainer.device)
+            
+            # Convert to appropriate format for attention model
+            # Words should be padded to same length for batch processing
+            max_word_len = words.size(1)
+            word_lengths = torch.sum(words != 0, dim=1)
+            
+            try:
+                loss = trainer.train_step(words, trajectories, word_lengths)
+                train_losses.append(loss)
+                
+                if batch_idx % 10 == 0:
+                    print(f"  Batch {batch_idx}: loss={loss:.4f}")
+                    
+            except Exception as e:
+                print(f"  Batch {batch_idx} failed: {e}")
+                continue
+        
+        if not train_losses:
+            print("  No successful training batches")
+            continue
+            
+        # Validation
+        val_losses = []
+        trainer.model.eval()
+        with torch.no_grad():
+            for trajectories, words in val_loader:
+                trajectories = trajectories.to(trainer.device)
+                words = words.to(trainer.device)
+                
+                word_lengths = torch.sum(words != 0, dim=1)
+                
+                try:
+                    # Simple validation loss computation
+                    traj_input = trajectories[:, :-1]
+                    traj_target = trajectories[:, 1:]
+                    
+                    mixture_params = trainer.model(traj_input, words, word_lengths)
+                    loss = trainer.mixture_loss(mixture_params[:, :traj_target.size(1)], traj_target)
+                    val_losses.append(loss.item())
+                except Exception as e:
+                    continue
+        
+        avg_train_loss = np.mean(train_losses) if train_losses else float('inf')
+        avg_val_loss = np.mean(val_losses) if val_losses else float('inf')
+        
+        history['train_loss'].append(avg_train_loss)
+        history['val_loss'].append(avg_val_loss)
+        
+        print(f"  Train Loss: {avg_train_loss:.4f}")
+        print(f"  Val Loss: {avg_val_loss:.4f}")
+        
+        # Update learning rate
+        trainer.scheduler.step(avg_val_loss)
+        
+        # Early stopping
+        if epoch > 5 and len(history['val_loss']) > 3:
+            if history['val_loss'][-1] > history['val_loss'][-3]:
+                print("Early stopping triggered")
+                break
     
     return history
 
@@ -303,6 +402,7 @@ def load_data():
                         traj = word_df[['x_pos', 'y_pos']].values
                         
                         if len(traj) > 2 and len(traj) < 150:
+                            # Ensure we always add both trace and label together
                             traces.append(traj)
                             labels.append(word.lower())
                             count += 1
@@ -311,6 +411,11 @@ def load_data():
                                 break
             except Exception as e:
                 continue
+    
+    # Ensure traces and labels have same length
+    min_len = min(len(traces), len(labels))
+    traces = traces[:min_len]
+    labels = labels[:min_len]
     
     print(f"Loaded {len(traces)} traces")
     
@@ -324,10 +429,33 @@ def load_data():
     
     return traces, labels, char_to_idx, idx_to_char
 
+def create_attention_model(vocab_size, use_attention=True):
+    """Create either attention-based or simple RNN model"""
+    if use_attention:
+        print("Using Attention-based RNN Model")
+        model = AttentionRNN(
+            vocab_size=vocab_size,
+            embedding_size=128,
+            hidden_size=256,
+            num_attn_mixtures=10,
+            num_output_mixtures=20,
+            dropout=0.2
+        )
+    else:
+        print("Using Simple RNN Model")
+        model = TrajectoryRNN(
+            vocab_size=vocab_size,
+            hidden_size=256,
+            num_layers=2,
+            mixture_components=20,
+            dropout=0.2
+        )
+    return model
+
 def main():
     """Main training function"""
     print("="*60)
-    print("PYTORCH RNN TRAINING")
+    print("PYTORCH RNN TRAINING WITH ATTENTION")
     print("="*60)
     
     # Load data
@@ -382,19 +510,60 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
     
-    model = TrajectoryRNN(
-        vocab_size=len(char_to_idx),
-        hidden_size=256,
-        num_layers=2,
-        mixture_components=20,
-        dropout=0.2
+    # Try attention model first, fallback to simple RNN
+    try:
+        model = create_attention_model(len(char_to_idx), use_attention=True)
+        use_attention_training = True
+        print("✅ Attention model created successfully")
+    except Exception as e:
+        print(f"⚠️ Attention model failed: {e}")
+        print("Falling back to simple RNN model")
+        model = create_attention_model(len(char_to_idx), use_attention=False)
+        use_attention_training = False
+    
+    # Train with appropriate trainer
+    if use_attention_training:
+        # Use attention-specific training
+        trainer = AttentionTrainer(model, device=str(device), learning_rate=0.001)
+        history = train_attention_model(trainer, train_loader, val_loader, epochs=10)
+    else:
+        # Use original training
+        history = train_model(model, train_loader, val_loader, 
+                             epochs=10, lr=0.001, device=device)
+    
+    # Save model with checkpoint manager
+    checkpoint_manager = CheckpointManager()
+    
+    # Determine final epoch and model type
+    final_epoch = len(history['train_loss'])
+    model_type = "rnn_attention" if use_attention_training else "rnn_simple"
+    
+    # Save final checkpoint
+    checkpoint = checkpoint_manager.save_checkpoint(
+        model=model,
+        model_type=model_type,
+        model_name="pytorch_rnn",
+        epoch=final_epoch,
+        optimizer=trainer.optimizer if use_attention_training else None,
+        metrics={
+            'train_loss': history['train_loss'][-1] if history['train_loss'] else 0,
+            'val_loss': history['val_loss'][-1] if history['val_loss'] else 0
+        },
+        config={
+            'vocab_size': len(char_to_idx),
+            'use_attention': use_attention_training,
+            'data_size': len(traces)
+        },
+        extra_data={
+            'char_to_idx': char_to_idx,
+            'idx_to_char': idx_to_char,
+            'history': history
+        }
     )
     
-    # Train
-    history = train_model(model, train_loader, val_loader, 
-                         epochs=10, lr=0.001, device=device)
+    print(f"✅ Saved checkpoint: {checkpoint.checkpoint_path}")
     
-    # Save model
+    # Also save to legacy location for compatibility
     os.makedirs('models', exist_ok=True)
     torch.save({
         'model_state_dict': model.state_dict(),
