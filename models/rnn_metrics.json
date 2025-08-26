@@ -1,0 +1,6 @@
+{
+  "mean_test_loss": 7351114.402183436,
+  "std_test_loss": 3675233.365343969,
+  "mean_trajectory_length": 64.88,
+  "total_parameters": 17283
+}
