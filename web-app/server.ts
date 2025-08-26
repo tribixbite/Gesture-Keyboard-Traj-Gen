@@ -4,7 +4,8 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const PORT = 8888;
+// Try to find an available port
+const PORT = process.env.PORT || 9999;
 
 // Ensure directories exist
 if (!existsSync(join(__dirname, "datasets"))) {

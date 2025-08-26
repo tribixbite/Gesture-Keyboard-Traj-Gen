@@ -355,17 +355,25 @@ def main():
     
     # Custom collate function to handle variable length sequences
     def collate_fn(batch):
+        if not batch:
+            return torch.zeros(0, 150, 3), torch.zeros(0, 1, dtype=torch.long)
+            
         trajectories, labels = zip(*batch)
         
         # Pad labels to same length
-        max_label_len = max(len(l) for l in labels)
+        max_label_len = max(len(l) for l in labels) if labels else 1
         padded_labels = []
         for label in labels:
             padded = torch.zeros(max_label_len, dtype=torch.long)
-            padded[:len(label)] = label
+            if len(label) > 0:
+                padded[:len(label)] = label
             padded_labels.append(padded)
         
-        return torch.stack(list(trajectories)), torch.stack(padded_labels)
+        # Stack trajectories (already padded to same length)
+        traj_tensor = torch.stack(list(trajectories))
+        label_tensor = torch.stack(padded_labels) if padded_labels else torch.zeros(0, max_label_len, dtype=torch.long)
+        
+        return traj_tensor, label_tensor
     
     train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
     val_loader = DataLoader(val_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn)
