@@ -1,0 +1,628 @@
+{
+  "summary": {
+    "quality_score": 0,
+    "avg_dtw": 80.95880691395654,
+    "avg_frechet": 1.1360501416315312,
+    "avg_velocity_correlation": 0.105195091711734,
+    "points_ratio": 12.527103135377269,
+    "duration_ratio": 4.949081550896727,
+    "issues": [
+      "High DTW distance (80.96)",
+      "High Fr\u00e9chet distance (1.14)",
+      "Low velocity correlation (0.11)",
+      "Duration mismatch (4.95x)"
+    ]
+  },
+  "word_results": [
+    {
+      "word": "the",
+      "num_comparisons": 5,
+      "avg_dtw": 65.02166281666157,
+      "avg_frechet": 1.1543397972108094,
+      "avg_vel_corr": NaN,
+      "points_ratio": 13.307839827092703,
+      "duration_ratio": 6.2639307721493,
+      "individual_results": [
+        {
+          "dtw_distance": 225.94776130780545,
+          "dtw_normalized": 41.73233262870603,
+          "frechet_distance": 1.1543397972108094,
+          "velocity_correlation": -0.01620280762359782,
+          "real_points": 60,
+          "synth_points": 369,
+          "real_duration": 508.743,
+          "synth_duration": 3.6978956348263003
+        },
+        {
+          "dtw_distance": 159.09262033450554,
+          "dtw_normalized": 39.773155083626385,
+          "frechet_distance": 1.1543397972108094,
+          "velocity_correlation": -0.3212567193866366,
+          "real_points": 17,
+          "synth_points": 369,
+          "real_duration": 0.486,
+          "synth_duration": 3.6978956348263003
+        },
+        {
+          "dtw_distance": 166.25335138208433,
+          "dtw_normalized": 41.56333784552108,
+          "frechet_distance": 1.1543397972108094,
+          "velocity_correlation": -0.05934181746184067,
+          "real_points": 30,
+          "synth_points": 369,
+          "real_duration": 0.597,
+          "synth_duration": 3.6978956348263003
+        },
+        {
+          "dtw_distance": 289.7009227577921,
+          "dtw_normalized": 102.4247434990175,
+          "frechet_distance": 1.1543397972108094,
+          "velocity_correlation": -0.1394445538616158,
+          "real_points": 53,
+          "synth_points": 369,
+          "real_duration": 0.889,
+          "synth_duration": 3.6978956348263003
+        },
+        {
+          "dtw_distance": 281.75304685744965,
+          "dtw_normalized": 99.61474502643685,
+          "frechet_distance": 1.1543397972108094,
+          "velocity_correlation": -0.6178115894882139,
+          "real_points": 19,
+          "synth_points": 369,
+          "real_duration": 0.277,
+          "synth_duration": 3.6978956348263003
+        }
+      ]
+    },
+    {
+      "word": "and",
+      "num_comparisons": 5,
+      "avg_dtw": 114.05715955792009,
+      "avg_frechet": 1.0626190921391245,
+      "avg_vel_corr": 0.10817858944732091,
+      "points_ratio": 16.227442103966492,
+      "duration_ratio": 9.03057391242065,
+      "individual_results": [
+        {
+          "dtw_distance": 398.267995417116,
+          "dtw_normalized": 99.566998854279,
+          "frechet_distance": 1.0626190921391245,
+          "velocity_correlation": 0.04786995721003796,
+          "real_points": 48,
+          "synth_points": 625,
+          "real_duration": 0.897,
+          "synth_duration": 6.255273386461229
+        },
+        {
+          "dtw_distance": 474.21709983231705,
+          "dtw_normalized": 167.66106352302467,
+          "frechet_distance": 1.0626190921391245,
+          "velocity_correlation": 0.16848722168460387,
+          "real_points": 24,
+          "synth_points": 625,
+          "real_duration": 0.449,
+          "synth_duration": 6.255273386461229
+        },
+        {
+          "dtw_distance": 466.2324174008685,
+          "dtw_normalized": 136.55631344771749,
+          "frechet_distance": 1.0626190921391245,
+          "velocity_correlation": -0.20033589856281614,
+          "real_points": 41,
+          "synth_points": 625,
+          "real_duration": 0.653,
+          "synth_duration": 6.255273386461229
+        },
+        {
+          "dtw_distance": 336.82154125287593,
+          "dtw_normalized": 84.20538531321898,
+          "frechet_distance": 1.0626190921391245,
+          "velocity_correlation": -0.29213268028577183,
+          "real_points": 66,
+          "synth_points": 625,
+          "real_duration": 1.282,
+          "synth_duration": 6.255273386461229
+        },
+        {
+          "dtw_distance": 329.18414660544124,
+          "dtw_normalized": 82.29603665136031,
+          "frechet_distance": 1.0626190921391245,
+          "velocity_correlation": -0.428391784812538,
+          "real_points": 36,
+          "synth_points": 625,
+          "real_duration": 0.639,
+          "synth_duration": 6.255273386461229
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "num_comparisons": 5,
+      "avg_dtw": 6.758292350809403,
+      "avg_frechet": 1.0128116174380468,
+      "avg_vel_corr": 0.00039446532304319765,
+      "points_ratio": 5.69644211363003,
+      "duration_ratio": 0.0344487862484494,
+      "individual_results": [
+        {
+          "dtw_distance": 200.99540136009833,
+          "dtw_normalized": 6.9117063849833205,
+          "frechet_distance": 1.0127952525454347,
+          "velocity_correlation": -0.12413926575309009,
+          "real_points": 129,
+          "synth_points": 347,
+          "real_duration": 490.218,
+          "synth_duration": 3.4733333333333336
+        },
+        {
+          "dtw_distance": 193.5504676804148,
+          "dtw_normalized": 6.655694579233315,
+          "frechet_distance": 1.0128361647769646,
+          "velocity_correlation": -0.05427467248809769,
+          "real_points": 86,
+          "synth_points": 347,
+          "real_duration": 99.167,
+          "synth_duration": 3.4733333333333336
+        },
+        {
+          "dtw_distance": 197.1372619553194,
+          "dtw_normalized": 6.779035057292636,
+          "frechet_distance": 1.0127952525454347,
+          "velocity_correlation": -0.13444119412415595,
+          "real_points": 29,
+          "synth_points": 347,
+          "real_duration": 37.1,
+          "synth_duration": 3.4733333333333336
+        },
+        {
+          "dtw_distance": 191.84662574298258,
+          "dtw_normalized": 6.597103909405729,
+          "frechet_distance": 1.0128361647769646,
+          "velocity_correlation": 0.00039446532304319765,
+          "real_points": 63,
+          "synth_points": 347,
+          "real_duration": 283.014,
+          "synth_duration": 3.4733333333333336
+        },
+        {
+          "dtw_distance": 199.1405188034933,
+          "dtw_normalized": 6.847921823132015,
+          "frechet_distance": 1.0127952525454347,
+          "velocity_correlation": -0.13931951863843822,
+          "real_points": 81,
+          "synth_points": 347,
+          "real_duration": 143.289,
+          "synth_duration": 3.4733333333333336
+        }
+      ]
+    },
+    {
+      "word": "this",
+      "num_comparisons": 5,
+      "avg_dtw": 80.68725105230763,
+      "avg_frechet": 1.0966417340047854,
+      "avg_vel_corr": 0.14390815214006555,
+      "points_ratio": 11.33116068461283,
+      "duration_ratio": 3.768354951750699,
+      "individual_results": [
+        {
+          "dtw_distance": 332.9678595875234,
+          "dtw_normalized": 83.24196489688084,
+          "frechet_distance": 1.0946243846684331,
+          "velocity_correlation": -0.3294109067691091,
+          "real_points": 89,
+          "synth_points": 623,
+          "real_duration": 271.04,
+          "synth_duration": 6.230454418415497
+        },
+        {
+          "dtw_distance": 363.96525398620946,
+          "dtw_normalized": 105.62571813462324,
+          "frechet_distance": 1.0996677580093142,
+          "velocity_correlation": 0.13577501786511867,
+          "real_points": 42,
+          "synth_points": 623,
+          "real_duration": 56.093,
+          "synth_duration": 6.230454418415497
+        },
+        {
+          "dtw_distance": 361.07112964077373,
+          "dtw_normalized": 90.26778241019343,
+          "frechet_distance": 1.0996677580093142,
+          "velocity_correlation": 0.2255968473535062,
+          "real_points": 48,
+          "synth_points": 623,
+          "real_duration": 0.796,
+          "synth_duration": 6.230454418415497
+        },
+        {
+          "dtw_distance": 358.298961624141,
+          "dtw_normalized": 39.81099573601566,
+          "frechet_distance": 1.0946243846684331,
+          "velocity_correlation": 0.07035259120157183,
+          "real_points": 177,
+          "synth_points": 623,
+          "real_duration": 75.525,
+          "synth_duration": 6.230454418415497
+        },
+        {
+          "dtw_distance": 337.9591763352995,
+          "dtw_normalized": 84.48979408382488,
+          "frechet_distance": 1.0946243846684331,
+          "velocity_correlation": -0.2210348909716345,
+          "real_points": 34,
+          "synth_points": 623,
+          "real_duration": 0.577,
+          "synth_duration": 6.230454418415497
+        }
+      ]
+    },
+    {
+      "word": "that",
+      "num_comparisons": 5,
+      "avg_dtw": 87.40057772166054,
+      "avg_frechet": 1.2197707928568942,
+      "avg_vel_corr": 0.11457342151426018,
+      "points_ratio": 12.605400662289206,
+      "duration_ratio": 3.4650877044631576,
+      "individual_results": [
+        {
+          "dtw_distance": 421.63158339795166,
+          "dtw_normalized": 128.49570960487685,
+          "frechet_distance": 1.217130796789503,
+          "velocity_correlation": 0.2229625394598276,
+          "real_points": 42,
+          "synth_points": 710,
+          "real_duration": 15.088,
+          "synth_duration": 7.101228968159633
+        },
+        {
+          "dtw_distance": 298.1697926415974,
+          "dtw_normalized": 74.54244816039935,
+          "frechet_distance": 1.2204307918737418,
+          "velocity_correlation": -0.10502226645597883,
+          "real_points": 52,
+          "synth_points": 710,
+          "real_duration": 0.97,
+          "synth_duration": 7.101228968159633
+        },
+        {
+          "dtw_distance": 300.397344994001,
+          "dtw_normalized": 75.09933624850025,
+          "frechet_distance": 1.2204307918737418,
+          "velocity_correlation": 0.10501292692269705,
+          "real_points": 57,
+          "synth_points": 710,
+          "real_duration": 37.755,
+          "synth_duration": 7.101228968159633
+        },
+        {
+          "dtw_distance": 301.29701109494147,
+          "dtw_normalized": 75.32425277373537,
+          "frechet_distance": 1.2204307918737418,
+          "velocity_correlation": -0.1808055543753476,
+          "real_points": 48,
+          "synth_points": 710,
+          "real_duration": 0.77,
+          "synth_duration": 7.101228968159633
+        },
+        {
+          "dtw_distance": 334.1645672831633,
+          "dtw_normalized": 83.54114182079083,
+          "frechet_distance": 1.2204307918737418,
+          "velocity_correlation": 0.01574479816025587,
+          "real_points": 136,
+          "synth_points": 710,
+          "real_duration": 57.515,
+          "synth_duration": 7.101228968159633
+        }
+      ]
+    },
+    {
+      "word": "what",
+      "num_comparisons": 5,
+      "avg_dtw": 109.62148943431548,
+      "avg_frechet": 1.2221906571334484,
+      "avg_vel_corr": 0.17727338980828355,
+      "points_ratio": 19.263848103186994,
+      "duration_ratio": 8.957933624252885,
+      "individual_results": [
+        {
+          "dtw_distance": 426.41702072273296,
+          "dtw_normalized": 106.60425518068324,
+          "frechet_distance": 1.2221906571334484,
+          "velocity_correlation": 0.09594702399110715,
+          "real_points": 112,
+          "synth_points": 900,
+          "real_duration": 3.275,
+          "synth_duration": 9.001791427556569
+        },
+        {
+          "dtw_distance": 405.7976806682685,
+          "dtw_normalized": 101.44942016706713,
+          "frechet_distance": 1.2221906571334484,
+          "velocity_correlation": 0.05078939995916777,
+          "real_points": 23,
+          "synth_points": 900,
+          "real_duration": 0.677,
+          "synth_duration": 9.001791427556569
+        },
+        {
+          "dtw_distance": 536.7480027771276,
+          "dtw_normalized": 134.1870006942819,
+          "frechet_distance": 1.2221906571334484,
+          "velocity_correlation": 0.2684879132474203,
+          "real_points": 73,
+          "synth_points": 900,
+          "real_duration": 1.386,
+          "synth_duration": 9.001791427556569
+        },
+        {
+          "dtw_distance": 414.5713010173143,
+          "dtw_normalized": 103.64282525432857,
+          "frechet_distance": 1.2221906571334484,
+          "velocity_correlation": 0.2938692220354391,
+          "real_points": 72,
+          "synth_points": 900,
+          "real_duration": 1.297,
+          "synth_duration": 9.001791427556569
+        },
+        {
+          "dtw_distance": 408.89578350086657,
+          "dtw_normalized": 102.22394587521664,
+          "frechet_distance": 1.2221906571334484,
+          "velocity_correlation": -0.3447181012369566,
+          "real_points": 37,
+          "synth_points": 900,
+          "real_duration": 0.588,
+          "synth_duration": 9.001791427556569
+        }
+      ]
+    },
+    {
+      "word": "for",
+      "num_comparisons": 5,
+      "avg_dtw": 112.56585282492361,
+      "avg_frechet": 1.0904581838715202,
+      "avg_vel_corr": 0.07910690799839334,
+      "points_ratio": 17.55867112964207,
+      "duration_ratio": 4.809926493367823,
+      "individual_results": [
+        {
+          "dtw_distance": 384.143935349867,
+          "dtw_normalized": 96.03598383746674,
+          "frechet_distance": 1.113059737969081,
+          "velocity_correlation": 0.12342479232733077,
+          "real_points": 83,
+          "synth_points": 652,
+          "real_duration": 22.957,
+          "synth_duration": 6.528254681657123
+        },
+        {
+          "dtw_distance": 351.41452120909236,
+          "dtw_normalized": 87.85363030227309,
+          "frechet_distance": 1.113059737969081,
+          "velocity_correlation": 0.03478902366945593,
+          "real_points": 45,
+          "synth_points": 652,
+          "real_duration": 17.697,
+          "synth_duration": 6.528254681657123
+        },
+        {
+          "dtw_distance": 421.4570254973155,
+          "dtw_normalized": 140.48567516577182,
+          "frechet_distance": 1.113059737969081,
+          "velocity_correlation": -0.17966226264644472,
+          "real_points": 17,
+          "synth_points": 652,
+          "real_duration": 0.5,
+          "synth_duration": 6.528254681657123
+        },
+        {
+          "dtw_distance": 367.52147610536815,
+          "dtw_normalized": 91.88036902634204,
+          "frechet_distance": 1.0000519674812776,
+          "velocity_correlation": -0.16156602093311312,
+          "real_points": 77,
+          "synth_points": 652,
+          "real_duration": 42.015,
+          "synth_duration": 6.528254681657123
+        },
+        {
+          "dtw_distance": 439.720817378293,
+          "dtw_normalized": 146.57360579276434,
+          "frechet_distance": 1.113059737969081,
+          "velocity_correlation": -0.43476346173791425,
+          "real_points": 35,
+          "synth_points": 652,
+          "real_duration": 0.641,
+          "synth_duration": 6.528254681657123
+        }
+      ]
+    },
+    {
+      "word": "are",
+      "num_comparisons": 5,
+      "avg_dtw": 48.400235561572,
+      "avg_frechet": 1.1655602466741926,
+      "avg_vel_corr": NaN,
+      "points_ratio": 8.976808236808235,
+      "duration_ratio": 3.314050089371635,
+      "individual_results": [
+        {
+          "dtw_distance": 186.99668058304246,
+          "dtw_normalized": 31.166113430507078,
+          "frechet_distance": 1.1655602466741926,
+          "velocity_correlation": -0.15830080822026107,
+          "real_points": 66,
+          "synth_points": 257,
+          "real_duration": 89.368,
+          "synth_duration": 2.570277230884919
+        },
+        {
+          "dtw_distance": 170.9941053582305,
+          "dtw_normalized": 42.74852633955763,
+          "frechet_distance": 1.1655602466741926,
+          "velocity_correlation": -0.5645648454530612,
+          "real_points": 21,
+          "synth_points": 257,
+          "real_duration": 0.362,
+          "synth_duration": 2.570277230884919
+        },
+        {
+          "dtw_distance": 184.85842856215524,
+          "dtw_normalized": 61.61947618738508,
+          "frechet_distance": 1.1655602466741926,
+          "velocity_correlation": -0.5912794775443849,
+          "real_points": 15,
+          "synth_points": 257,
+          "real_duration": 0.47,
+          "synth_duration": 2.570277230884919
+        },
+        {
+          "dtw_distance": 173.7009946873254,
+          "dtw_normalized": 43.42524867183135,
+          "frechet_distance": 1.1655602466741926,
+          "velocity_correlation": -0.2109294252206439,
+          "real_points": 55,
+          "synth_points": 257,
+          "real_duration": 140.231,
+          "synth_duration": 2.570277230884919
+        },
+        {
+          "dtw_distance": 189.12543953573663,
+          "dtw_normalized": 63.04181317857888,
+          "frechet_distance": 1.1655602466741926,
+          "velocity_correlation": -0.10730991217989246,
+          "real_points": 37,
+          "synth_points": 257,
+          "real_duration": 0.65,
+          "synth_duration": 2.570277230884919
+        }
+      ]
+    },
+    {
+      "word": "was",
+      "num_comparisons": 5,
+      "avg_dtw": 17.007007387252642,
+      "avg_frechet": 1.1107472987518978,
+      "avg_vel_corr": 0.11293071575077121,
+      "points_ratio": 6.474458507436836,
+      "duration_ratio": 3.8632361605724403,
+      "individual_results": [
+        {
+          "dtw_distance": 49.31495935837577,
+          "dtw_normalized": 16.43831978612526,
+          "frechet_distance": 1.1107472987518978,
+          "velocity_correlation": 0.07165473153926068,
+          "real_points": 17,
+          "synth_points": 147,
+          "real_duration": 0.312,
+          "synth_duration": 1.4727414038813094
+        },
+        {
+          "dtw_distance": 50.461897337000146,
+          "dtw_normalized": 16.820632445666714,
+          "frechet_distance": 1.1107472987518978,
+          "velocity_correlation": -0.2930277453663126,
+          "real_points": 25,
+          "synth_points": 147,
+          "real_duration": 0.43,
+          "synth_duration": 1.4727414038813094
+        },
+        {
+          "dtw_distance": 51.56252276731249,
+          "dtw_normalized": 17.18750758910416,
+          "frechet_distance": 1.1107472987518978,
+          "velocity_correlation": 0.15420669996228173,
+          "real_points": 26,
+          "synth_points": 147,
+          "real_duration": 0.401,
+          "synth_duration": 1.4727414038813094
+        },
+        {
+          "dtw_distance": 49.31495935837577,
+          "dtw_normalized": 16.43831978612526,
+          "frechet_distance": 1.1107472987518978,
+          "velocity_correlation": -0.3422770337261945,
+          "real_points": 19,
+          "synth_points": 147,
+          "real_duration": 0.292,
+          "synth_duration": 1.4727414038813094
+        },
+        {
+          "dtw_distance": 54.45077198772543,
+          "dtw_normalized": 18.15025732924181,
+          "frechet_distance": 1.1107472987518978,
+          "velocity_correlation": -0.13285456492954872,
+          "real_points": 33,
+          "synth_points": 147,
+          "real_duration": 0.6,
+          "synth_duration": 1.4727414038813094
+        }
+      ]
+    },
+    {
+      "word": "with",
+      "num_comparisons": 5,
+      "avg_dtw": 168.06854043214244,
+      "avg_frechet": 1.2253619962345912,
+      "avg_vel_corr": NaN,
+      "points_ratio": 13.828959985107286,
+      "duration_ratio": 5.983273014370234,
+      "individual_results": [
+        {
+          "dtw_distance": 544.8567061326052,
+          "dtw_normalized": 181.61890204420172,
+          "frechet_distance": 1.252767402954657,
+          "velocity_correlation": -0.0950426597252185,
+          "real_points": 70,
+          "synth_points": 736,
+          "real_duration": 1.463,
+          "synth_duration": 7.364358888926856
+        },
+        {
+          "dtw_distance": 509.89404946395683,
+          "dtw_normalized": 169.96468315465228,
+          "frechet_distance": 1.252767402954657,
+          "velocity_correlation": -0.34800509418375647,
+          "real_points": 33,
+          "synth_points": 736,
+          "real_duration": 0.563,
+          "synth_duration": 7.364358888926856
+        },
+        {
+          "dtw_distance": 518.9276499730535,
+          "dtw_normalized": 172.97588332435114,
+          "frechet_distance": 1.252767402954657,
+          "velocity_correlation": -0.20308247030542434,
+          "real_points": 43,
+          "synth_points": 736,
+          "real_duration": 10.016,
+          "synth_duration": 7.364358888926856
+        },
+        {
+          "dtw_distance": 573.1810168712183,
+          "dtw_normalized": 191.06033895707276,
+          "frechet_distance": 1.252767402954657,
+          "velocity_correlation": -0.43109554329843236,
+          "real_points": 103,
+          "synth_points": 736,
+          "real_duration": 1.811,
+          "synth_duration": 7.364358888926856
+        },
+        {
+          "dtw_distance": 498.8915787217372,
+          "dtw_normalized": 124.7228946804343,
+          "frechet_distance": 1.1157403693543277,
+          "velocity_correlation": -0.2802705651028093,
+          "real_points": 61,
+          "synth_points": 736,
+          "real_duration": 1.052,
+          "synth_duration": 7.364358888926856
+        }
+      ]
+    }
+  ]
+}
