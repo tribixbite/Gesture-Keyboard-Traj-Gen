@@ -150,6 +150,8 @@ class Discriminator(nn.Module):
     def __init__(self, vocab_size: int, max_length: int = 150):
         super().__init__()
         
+        self.max_length = max_length
+        
         # Word embedding
         self.word_embedding = nn.Embedding(vocab_size, 64)
         
@@ -165,9 +167,15 @@ class Discriminator(nn.Module):
             nn.LeakyReLU(0.2)
         )
         
+        # Calculate actual output size by running a dummy input
+        with torch.no_grad():
+            dummy_input = torch.zeros(1, 3, max_length)
+            dummy_output = self.traj_conv(dummy_input)
+            conv_output_size = dummy_output.reshape(1, -1).shape[1]
+        
         # Final critic layers
         self.critic = nn.Sequential(
-            nn.Linear(256 * (max_length // 8) + 64, 512),
+            nn.Linear(conv_output_size + 64, 512),
             nn.LeakyReLU(0.2),
             nn.Dropout(0.3),
             nn.Linear(512, 256),
@@ -180,7 +188,7 @@ class Discriminator(nn.Module):
         # Encode trajectory
         traj = trajectory.transpose(1, 2)  # (B, 3, L)
         traj_features = self.traj_conv(traj)
-        traj_features = traj_features.view(traj_features.size(0), -1)
+        traj_features = traj_features.reshape(traj_features.size(0), -1)
         
         # Embed word
         word_emb = self.word_embedding(word).mean(dim=1)
@@ -237,7 +245,7 @@ class WGAN_GP_Trainer:
             retain_graph=True
         )[0]
         
-        gradients = gradients.view(batch_size, -1)
+        gradients = gradients.reshape(batch_size, -1)
         gradient_penalty = ((gradients.norm(2, dim=1) - 1) ** 2).mean()
         
         return gradient_penalty

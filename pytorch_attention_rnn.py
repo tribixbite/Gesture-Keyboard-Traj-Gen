@@ -350,6 +350,103 @@ class AttentionRNN(nn.Module):
         return torch.stack([x, y, pen], dim=-1)
 
 
+class AttentionTrainer:
+    """Trainer for attention RNN model"""
+    
+    def __init__(self, model: AttentionRNN, 
+                 device: str = 'cpu',
+                 learning_rate: float = 0.0001):
+        
+        self.model = model.to(device)
+        self.device = device
+        self.optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
+        self.scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+            self.optimizer, patience=5, factor=0.5
+        )
+        
+    def mixture_loss(self, params: torch.Tensor, targets: torch.Tensor) -> torch.Tensor:
+        """Negative log-likelihood loss for mixture density network"""
+        
+        batch_size, seq_len, _ = targets.size()
+        num_mixtures = self.model.num_output_mixtures
+        
+        # Parse parameters
+        pi, mu_x, mu_y, sigma_x, sigma_y, rho, eos = torch.split(
+            params,
+            [num_mixtures, num_mixtures, num_mixtures, 
+             num_mixtures, num_mixtures, num_mixtures, 1],
+            dim=-1
+        )
+        
+        # Apply activations
+        pi = F.softmax(pi, dim=-1)
+        sigma_x = torch.exp(sigma_x) + 1e-6
+        sigma_y = torch.exp(sigma_y) + 1e-6
+        rho = torch.tanh(rho)
+        eos = torch.sigmoid(eos)
+        
+        # Target coordinates
+        target_x = targets[..., 0:1]
+        target_y = targets[..., 1:2]
+        target_pen = targets[..., 2:3]
+        
+        # Expand for mixture components
+        target_x = target_x.unsqueeze(2)
+        target_y = target_y.unsqueeze(2)
+        mu_x = mu_x.unsqueeze(-1)
+        mu_y = mu_y.unsqueeze(-1)
+        sigma_x = sigma_x.unsqueeze(-1)
+        sigma_y = sigma_y.unsqueeze(-1)
+        rho = rho.unsqueeze(-1)
+        
+        # Compute 2D Gaussian log-likelihood
+        z_x = (target_x - mu_x) / sigma_x
+        z_y = (target_y - mu_y) / sigma_y
+        
+        z = z_x**2 + z_y**2 - 2*rho*z_x*z_y
+        
+        norm = 2 * np.pi * sigma_x * sigma_y * torch.sqrt(1 - rho**2 + 1e-6)
+        
+        log_probs = -z / (2 * (1 - rho**2 + 1e-6)) - torch.log(norm)
+        
+        # Mixture log-likelihood
+        log_probs = log_probs.squeeze(-1)
+        log_mixture = torch.logsumexp(torch.log(pi + 1e-6) + log_probs, dim=-1)
+        
+        # Pen state loss (binary cross-entropy)
+        target_pen = torch.clamp(target_pen, 0, 1)  # Ensure valid range
+        pen_loss = F.binary_cross_entropy(eos, target_pen, reduction='none').squeeze(-1)
+        
+        # Total loss
+        total_loss = -log_mixture + pen_loss
+        
+        return total_loss.mean()
+    
+    def train_step(self, words: torch.Tensor, trajectories: torch.Tensor, 
+                  word_lengths: Optional[torch.Tensor] = None) -> float:
+        """Single training step"""
+        
+        self.model.train()
+        self.optimizer.zero_grad()
+        
+        # Shift trajectories for teacher forcing
+        traj_input = trajectories[:, :-1]
+        traj_target = trajectories[:, 1:]
+        
+        # Forward pass
+        mixture_params = self.model(traj_input, words, word_lengths)
+        
+        # Compute loss
+        loss = self.mixture_loss(mixture_params[:, :traj_target.size(1)], traj_target)
+        
+        # Backward pass
+        loss.backward()
+        torch.nn.utils.clip_grad_norm_(self.model.parameters(), 5.0)
+        self.optimizer.step()
+        
+        return loss.item()
+
+
 def test_attention_rnn():
     """Test the attention RNN implementation"""
     
