@@ -1,0 +1,14 @@
+{
+  "name": "swipe-dataset-studio",
+  "version": "1.0.0",
+  "description": "Web app for generating and viewing swipe gesture datasets",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run server.ts",
+    "build": "bun build ./server.ts --outdir ./dist --target bun"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "^1.0.0"
+  }
+}
