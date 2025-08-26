@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gesture Keyboard Trajectory Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 1200px;
+            width: 100%;
+            padding: 40px;
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .input-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .input-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        label {
+            color: #555;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        input, select {
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        
+        input:focus, select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        
+        button {
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+        
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .secondary-btn {
+            background: #f5f5f5;
+            color: #333;
+        }
+        
+        .visualization {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .canvas-container {
+            background: #f9f9f9;
+            border: 2px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            position: relative;
+        }
+        
+        canvas {
+            width: 100%;
+            height: 300px;
+            background: white;
+            border-radius: 8px;
+        }
+        
+        .canvas-title {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            background: white;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #666;
+            font-weight: 500;
+        }
+        
+        .metrics {
+            background: #f9f9f9;
+            border-radius: 12px;
+            padding: 20px;
+        }
+        
+        .metric-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .metric-row:last-child {
+            border-bottom: none;
+        }
+        
+        .metric-label {
+            color: #666;
+            font-weight: 500;
+        }
+        
+        .metric-value {
+            color: #333;
+            font-weight: 600;
+        }
+        
+        .status {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            display: inline-block;
+        }
+        
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .status.processing {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .export-section {
+            background: #f9f9f9;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .export-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        @media (max-width: 768px) {
+            .input-section,
+            .visualization {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Gesture Trajectory Generator</h1>
+        <p class="subtitle">Generate synthetic swype gestures for keyboard input</p>
+        
+        <div class="input-section">
+            <div class="input-group">
+                <label for="word">Enter Word</label>
+                <input type="text" id="word" placeholder="hello" value="hello">
+            </div>
+            
+            <div class="input-group">
+                <label for="method">Generation Method</label>
+                <select id="method">
+                    <option value="optimized">Optimized (Recommended)</option>
+                    <option value="improved">Improved</option>
+                    <option value="enhanced">Enhanced</option>
+                </select>
+            </div>
+            
+            <div class="input-group">
+                <label for="style">Style</label>
+                <select id="style">
+                    <option value="natural">Natural</option>
+                    <option value="precise">Precise</option>
+                    <option value="fast">Fast</option>
+                    <option value="sloppy">Sloppy</option>
+                </select>
+            </div>
+            
+            <div class="input-group">
+                <label for="speed">Speed Factor</label>
+                <input type="range" id="speed" min="0.5" max="2.0" step="0.1" value="1.0">
+                <span id="speedValue">1.0x</span>
+            </div>
+        </div>
+        
+        <div class="button-group">
+            <button onclick="generateTrace()">Generate Trajectory</button>
+            <button onclick="generateBatch()" class="secondary-btn">Batch Generate</button>
+            <button onclick="clearCanvas()" class="secondary-btn">Clear</button>
+        </div>
+        
+        <div id="status"></div>
+        
+        <div class="visualization">
+            <div class="canvas-container">
+                <span class="canvas-title">Trajectory Path</span>
+                <canvas id="trajectoryCanvas"></canvas>
+            </div>
+            
+            <div class="canvas-container">
+                <span class="canvas-title">Velocity Profile</span>
+                <canvas id="velocityCanvas"></canvas>
+            </div>
+        </div>
+        
+        <div class="metrics" id="metrics" style="display: none;">
+            <h3>Trajectory Metrics</h3>
+            <div class="metric-row">
+                <span class="metric-label">Points</span>
+                <span class="metric-value" id="metricPoints">-</span>
+            </div>
+            <div class="metric-row">
+                <span class="metric-label">Duration</span>
+                <span class="metric-value" id="metricDuration">-</span>
+            </div>
+            <div class="metric-row">
+                <span class="metric-label">Path Length</span>
+                <span class="metric-value" id="metricLength">-</span>
+            </div>
+            <div class="metric-row">
+                <span class="metric-label">Mean Velocity</span>
+                <span class="metric-value" id="metricVelocity">-</span>
+            </div>
+            <div class="metric-row">
+                <span class="metric-label">Max Jerk</span>
+                <span class="metric-value" id="metricJerk">-</span>
+            </div>
+            <div class="metric-row">
+                <span class="metric-label">Recognition Score</span>
+                <span class="metric-value" id="metricRecognition">-</span>
+            </div>
+        </div>
+        
+        <div class="export-section" id="exportSection" style="display: none;">
+            <h3>Export Options</h3>
+            <div class="export-buttons">
+                <button onclick="exportJSON()">Export JSON</button>
+                <button onclick="exportCSV()">Export CSV</button>
+                <button onclick="copyToClipboard()">Copy Data</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // API configuration
+        const API_URL = window.location.hostname === 'localhost' 
+            ? 'http://localhost:8080' 
+            : '/api';
+        
+        let currentTrajectory = null;
+        
+        // Update speed display
+        document.getElementById('speed').addEventListener('input', function(e) {
+            document.getElementById('speedValue').textContent = e.target.value + 'x';
+        });
+        
+        function setStatus(message, type = 'processing') {
+            const statusEl = document.getElementById('status');
+            statusEl.innerHTML = `<span class="status ${type}">${message}</span>`;
+        }
+        
+        async function generateTrace() {
+            const word = document.getElementById('word').value.trim();
+            if (!word) {
+                setStatus('Please enter a word', 'error');
+                return;
+            }
+            
+            setStatus('Generating trajectory...', 'processing');
+            
+            const params = {
+                word: word,
+                method: document.getElementById('method').value,
+                style: document.getElementById('style').value,
+                user_speed: parseFloat(document.getElementById('speed').value)
+            };
+            
+            try {
+                // Simulate API call (replace with actual API endpoint)
+                const response = await simulateGeneration(params);
+                
+                currentTrajectory = response;
+                
+                // Visualize trajectory
+                drawTrajectory(response.trajectory);
+                drawVelocityProfile(response.trajectory);
+                
+                // Update metrics
+                updateMetrics(response);
+                
+                setStatus('Generation complete!', 'success');
+                
+                // Show export section
+                document.getElementById('exportSection').style.display = 'block';
+                
+            } catch (error) {
+                setStatus('Generation failed: ' + error.message, 'error');
+            }
+        }
+        
+        function simulateGeneration(params) {
+            // Simulate trajectory generation (replace with actual API call)
+            return new Promise((resolve) => {
+                setTimeout(() => {
+                    const points = 100;
+                    const trajectory = [];
+                    
+                    // Generate sample trajectory
+                    for (let i = 0; i < points; i++) {
+                        const t = i / points;
+                        trajectory.push([
+                            200 + 300 * Math.sin(t * Math.PI * 2) * (1 + 0.1 * Math.sin(t * 20)),
+                            150 + 100 * Math.cos(t * Math.PI * 3) * (1 + 0.1 * Math.cos(t * 15)),
+                            t * 2000
+                        ]);
+                    }
+                    
+                    resolve({
+                        word: params.word,
+                        trajectory: trajectory,
+                        metrics: {
+                            points: points,
+                            duration: 2.0,
+                            path_length: 850.5,
+                            mean_velocity: 425.2,
+                            max_jerk: 920000,
+                            recognition_score: 0.95
+                        }
+                    });
+                }, 500);
+            });
+        }
+        
+        function drawTrajectory(trajectory) {
+            const canvas = document.getElementById('trajectoryCanvas');
+            const ctx = canvas.getContext('2d');
+            
+            // Set canvas size
+            canvas.width = canvas.offsetWidth;
+            canvas.height = canvas.offsetHeight;
+            
+            // Clear canvas
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            if (!trajectory || trajectory.length < 2) return;
+            
+            // Draw keyboard outline
+            ctx.strokeStyle = '#e0e0e0';
+            ctx.lineWidth = 1;
+            ctx.strokeRect(20, 20, canvas.width - 40, canvas.height - 40);
+            
+            // Normalize trajectory to canvas
+            const xValues = trajectory.map(p => p[0]);
+            const yValues = trajectory.map(p => p[1]);
+            const xMin = Math.min(...xValues);
+            const xMax = Math.max(...xValues);
+            const yMin = Math.min(...yValues);
+            const yMax = Math.max(...yValues);
+            
+            const xScale = (canvas.width - 60) / (xMax - xMin || 1);
+            const yScale = (canvas.height - 60) / (yMax - yMin || 1);
+            const scale = Math.min(xScale, yScale) * 0.9;
+            
+            const xOffset = (canvas.width - (xMax - xMin) * scale) / 2;
+            const yOffset = (canvas.height - (yMax - yMin) * scale) / 2;
+            
+            // Draw trajectory
+            ctx.strokeStyle = '#667eea';
+            ctx.lineWidth = 3;
+            ctx.lineCap = 'round';
+            ctx.lineJoin = 'round';
+            
+            ctx.beginPath();
+            trajectory.forEach((point, i) => {
+                const x = xOffset + (point[0] - xMin) * scale;
+                const y = yOffset + (point[1] - yMin) * scale;
+                
+                if (i === 0) {
+                    ctx.moveTo(x, y);
+                    // Draw start point
+                    ctx.fillStyle = '#4CAF50';
+                    ctx.beginPath();
+                    ctx.arc(x, y, 6, 0, 2 * Math.PI);
+                    ctx.fill();
+                    ctx.beginPath();
+                    ctx.moveTo(x, y);
+                } else {
+                    ctx.lineTo(x, y);
+                }
+            });
+            ctx.stroke();
+            
+            // Draw end point
+            const lastPoint = trajectory[trajectory.length - 1];
+            const lastX = xOffset + (lastPoint[0] - xMin) * scale;
+            const lastY = yOffset + (lastPoint[1] - yMin) * scale;
+            ctx.fillStyle = '#F44336';
+            ctx.beginPath();
+            ctx.arc(lastX, lastY, 6, 0, 2 * Math.PI);
+            ctx.fill();
+        }
+        
+        function drawVelocityProfile(trajectory) {
+            const canvas = document.getElementById('velocityCanvas');
+            const ctx = canvas.getContext('2d');
+            
+            canvas.width = canvas.offsetWidth;
+            canvas.height = canvas.offsetHeight;
+            
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            if (!trajectory || trajectory.length < 2) return;
+            
+            // Calculate velocities
+            const velocities = [];
+            for (let i = 1; i < trajectory.length; i++) {
+                const dx = trajectory[i][0] - trajectory[i-1][0];
+                const dy = trajectory[i][1] - trajectory[i-1][1];
+                const dt = (trajectory[i][2] - trajectory[i-1][2]) / 1000 || 0.01;
+                const velocity = Math.sqrt(dx*dx + dy*dy) / dt;
+                velocities.push(velocity);
+            }
+            
+            // Draw axes
+            ctx.strokeStyle = '#e0e0e0';
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            ctx.moveTo(40, canvas.height - 30);
+            ctx.lineTo(canvas.width - 20, canvas.height - 30);
+            ctx.moveTo(40, 20);
+            ctx.lineTo(40, canvas.height - 30);
+            ctx.stroke();
+            
+            // Draw velocity curve
+            const maxVel = Math.max(...velocities);
+            const xStep = (canvas.width - 60) / velocities.length;
+            const yScale = (canvas.height - 60) / maxVel;
+            
+            ctx.strokeStyle = '#764ba2';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            velocities.forEach((vel, i) => {
+                const x = 40 + i * xStep;
+                const y = canvas.height - 30 - vel * yScale;
+                if (i === 0) {
+                    ctx.moveTo(x, y);
+                } else {
+                    ctx.lineTo(x, y);
+                }
+            });
+            ctx.stroke();
+            
+            // Draw labels
+            ctx.fillStyle = '#666';
+            ctx.font = '12px sans-serif';
+            ctx.fillText('Time', canvas.width / 2, canvas.height - 5);
+            ctx.save();
+            ctx.translate(15, canvas.height / 2);
+            ctx.rotate(-Math.PI / 2);
+            ctx.fillText('Velocity', 0, 0);
+            ctx.restore();
+        }
+        
+        function updateMetrics(response) {
+            const metricsEl = document.getElementById('metrics');
+            metricsEl.style.display = 'block';
+            
+            const m = response.metrics;
+            document.getElementById('metricPoints').textContent = m.points;
+            document.getElementById('metricDuration').textContent = m.duration.toFixed(2) + 's';
+            document.getElementById('metricLength').textContent = m.path_length.toFixed(1) + ' units';
+            document.getElementById('metricVelocity').textContent = m.mean_velocity.toFixed(1) + ' u/s';
+            document.getElementById('metricJerk').textContent = (m.max_jerk / 1000).toFixed(0) + 'K u/s³';
+            document.getElementById('metricRecognition').textContent = (m.recognition_score * 100).toFixed(1) + '%';
+        }
+        
+        function clearCanvas() {
+            const canvases = ['trajectoryCanvas', 'velocityCanvas'];
+            canvases.forEach(id => {
+                const canvas = document.getElementById(id);
+                const ctx = canvas.getContext('2d');
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+            });
+            
+            document.getElementById('metrics').style.display = 'none';
+            document.getElementById('exportSection').style.display = 'none';
+            document.getElementById('status').innerHTML = '';
+            currentTrajectory = null;
+        }
+        
+        function exportJSON() {
+            if (!currentTrajectory) return;
+            
+            const dataStr = JSON.stringify(currentTrajectory, null, 2);
+            const blob = new Blob([dataStr], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `trajectory_${currentTrajectory.word}.json`;
+            link.click();
+        }
+        
+        function exportCSV() {
+            if (!currentTrajectory) return;
+            
+            let csv = 'x,y,time\n';
+            currentTrajectory.trajectory.forEach(point => {
+                csv += `${point[0]},${point[1]},${point[2]}\n`;
+            });
+            
+            const blob = new Blob([csv], {type: 'text/csv'});
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `trajectory_${currentTrajectory.word}.csv`;
+            link.click();
+        }
+        
+        function copyToClipboard() {
+            if (!currentTrajectory) return;
+            
+            navigator.clipboard.writeText(JSON.stringify(currentTrajectory))
+                .then(() => setStatus('Copied to clipboard!', 'success'))
+                .catch(() => setStatus('Copy failed', 'error'));
+        }
+        
+        async function generateBatch() {
+            const words = prompt('Enter words separated by commas:', 'hello,world,test');
+            if (!words) return;
+            
+            const wordList = words.split(',').map(w => w.trim()).filter(w => w);
+            setStatus(`Generating ${wordList.length} trajectories...`, 'processing');
+            
+            // Simulate batch generation
+            setTimeout(() => {
+                setStatus(`Generated ${wordList.length} trajectories successfully!`, 'success');
+            }, 1000);
+        }
+        
+        // Initialize on load
+        window.addEventListener('load', () => {
+            generateTrace();
+        });
+    </script>
+</body>
+</html>
