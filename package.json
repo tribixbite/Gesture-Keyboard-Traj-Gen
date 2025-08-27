@@ -1,0 +1,26 @@
+{
+  "name": "gesture-keyboard-traj-gen",
+  "version": "1.0.0",
+  "description": "Swipe Dataset Studio - Generate and visualize keyboard gesture trajectories",
+  "main": "web-app/server.ts",
+  "scripts": {
+    "dev": "bun web-app/server.ts",
+    "build": "bun build-static.ts",
+    "start": "bun web-app/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnshenjx/Gesture-Keyboard-Traj-Gen.git"
+  },
+  "keywords": [
+    "gesture",
+    "keyboard", 
+    "trajectory",
+    "machine-learning",
+    "neural-networks",
+    "swipe",
+    "dataset"
+  ],
+  "author": "Junxiao Shen, John Dudley, Per Ola Kristensson",
+  "license": "MIT"
+}
