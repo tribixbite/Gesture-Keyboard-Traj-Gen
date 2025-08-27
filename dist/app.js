@@ -1,771 +1,4 @@
-import { serve } from "bun";
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from "fs";
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-// Let system choose an available port
-const PORT = parseInt(process.env.PORT || "0");
-
-// Ensure directories exist
-if (!existsSync(join(__dirname, "datasets"))) {
-  mkdirSync(join(__dirname, "datasets"), { recursive: true });
-}
-
-// Serve the app
-const server = serve({
-  port: PORT,
-  
-  async fetch(req) {
-    const url = new URL(req.url);
-    
-    // API Routes
-    if (url.pathname.startsWith("/api")) {
-      return handleAPI(req, url);
-    }
-    
-    // Static files
-    if (url.pathname === "/" || url.pathname === "/index.html") {
-      return new Response(getIndexHTML(), {
-        headers: { "Content-Type": "text/html" }
-      });
-    }
-    
-    if (url.pathname === "/app.js") {
-      return new Response(getAppJS(), {
-        headers: { "Content-Type": "application/javascript" }
-      });
-    }
-    
-    if (url.pathname === "/styles.css") {
-      return new Response(getStyles(), {
-        headers: { "Content-Type": "text/css" }
-      });
-    }
-    
-    return new Response("Not Found", { status: 404 });
-  }
-});
-
-// API Handler
-async function handleAPI(req: Request, url: URL) {
-  const headers = {
-    "Content-Type": "application/json",
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type"
-  };
-  
-  if (req.method === "OPTIONS") {
-    return new Response(null, { headers });
-  }
-  
-  // Generate dataset endpoint
-  if (url.pathname === "/api/generate" && req.method === "POST") {
-    try {
-      const body = await req.json();
-      const dataset = await generateDataset(body);
-      return new Response(JSON.stringify(dataset), { headers });
-    } catch (error) {
-      return new Response(JSON.stringify({ error: error.message }), {
-        status: 500,
-        headers
-      });
-    }
-  }
-  
-  // Parse wordlist endpoint
-  if (url.pathname === "/api/parse-wordlist" && req.method === "POST") {
-    try {
-      const body = await req.json();
-      const words = await parseWordlist(body.content, body.format);
-      return new Response(JSON.stringify({ words }), { headers });
-    } catch (error) {
-      return new Response(JSON.stringify({ error: error.message }), {
-        status: 500,
-        headers
-      });
-    }
-  }
-  
-  // Fetch wordlist from URL endpoint (CORS proxy)
-  if (url.pathname === "/api/fetch-wordlist" && req.method === "POST") {
-    try {
-      const body = await req.json();
-      const response = await fetch(body.url);
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-      }
-      const content = await response.text();
-      return new Response(JSON.stringify({ content }), { headers });
-    } catch (error) {
-      return new Response(JSON.stringify({ error: error.message }), {
-        status: 500,
-        headers
-      });
-    }
-  }
-  
-  // Save dataset endpoint
-  if (url.pathname === "/api/save-dataset" && req.method === "POST") {
-    try {
-      const body = await req.json();
-      const filename = `dataset_${Date.now()}.json`;
-      const filepath = join(__dirname, "datasets", filename);
-      writeFileSync(filepath, JSON.stringify(body.dataset, null, 2));
-      return new Response(JSON.stringify({ filename, success: true }), { headers });
-    } catch (error) {
-      return new Response(JSON.stringify({ error: error.message }), {
-        status: 500,
-        headers
-      });
-    }
-  }
-  
-  return new Response(JSON.stringify({ error: "Not Found" }), {
-    status: 404,
-    headers
-  });
-}
-
-// Dataset generation logic
-async function generateDataset(config: any) {
-  const { generator, words, options } = config;
-  
-  // Filter words based on options
-  let filteredWords = words;
-  if (options.minLength) {
-    filteredWords = filteredWords.filter((w: string) => w.length >= options.minLength);
-  }
-  if (options.maxLength) {
-    filteredWords = filteredWords.filter((w: string) => w.length <= options.maxLength);
-  }
-  if (options.noDuplicates) {
-    filteredWords = [...new Set(filteredWords)];
-  }
-  
-  // Apply randomization if requested
-  if (options.random) {
-    filteredWords = filteredWords.sort(() => Math.random() - 0.5);
-  }
-  
-  // Apply max quantity limit (regardless of random option)
-  if (options.maxQuantity && options.maxQuantity > 0) {
-    filteredWords = filteredWords.slice(0, options.maxQuantity);
-  }
-  
-  // Generate traces based on generator type
-  const traces = [];
-  for (const word of filteredWords) {
-    const trace = generateTrace(word, generator);
-    traces.push({
-      word,
-      trace,
-      metadata: {
-        generator: generator.type,
-        timestamp: Date.now(),
-        duration: trace.length * 16.67, // Approximate ms
-        points: trace.length
-      }
-    });
-  }
-  
-  return {
-    version: "1.0",
-    generator: generator.type,
-    timestamp: Date.now(),
-    words: filteredWords.length,
-    traces
-  };
-}
-
-// Simple trace generation (replace with actual model inference)
-function generateTrace(word: string, generator: any) {
-  const points = [];
-  const numPoints = word.length * 10 + Math.random() * 20;
-  
-  // Simple path through keyboard positions
-  for (let i = 0; i < numPoints; i++) {
-    const t = i / numPoints;
-    points.push({
-      x: Math.sin(t * Math.PI * 2) * 100 + 180,
-      y: Math.cos(t * Math.PI * word.length) * 50 + 400,
-      t: i * 16.67, // Timestamp in ms
-      p: i === numPoints - 1 ? 0 : 1 // Pen state
-    });
-  }
-  
-  return points;
-}
-
-// Parse wordlist from various formats
-async function parseWordlist(content: string, format: string) {
-  const words: string[] = [];
-  
-  switch (format) {
-    case "plain":
-      // One word per line
-      words.push(...content.split(/\r?\n/).filter(w => w.trim()));
-      break;
-      
-    case "frequency":
-      // Word<tab>frequency format
-      content.split(/\r?\n/).forEach(line => {
-        const [word] = line.split(/\t/);
-        if (word && word.trim()) {
-          words.push(word.trim());
-        }
-      });
-      break;
-      
-    case "csv":
-      // CSV with word in first column
-      content.split(/\r?\n/).forEach(line => {
-        const [word] = line.split(/,/);
-        if (word && word.trim()) {
-          words.push(word.trim().replace(/^["']|["']$/g, ''));
-        }
-      });
-      break;
-      
-    default:
-      // Try to auto-detect
-      if (content.includes('\t')) {
-        return parseWordlist(content, "frequency");
-      } else if (content.includes(',')) {
-        return parseWordlist(content, "csv");
-      } else {
-        return parseWordlist(content, "plain");
-      }
-  }
-  
-  return words.filter(w => w.length > 0);
-}
-
-// HTML Template
-export function getIndexHTML() {
-  return `<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Swipe Dataset Studio</title>
-  <link rel="stylesheet" href="/styles.css">
-</head>
-<body>
-  <div id="app">
-    <header>
-      <h1>🎯 Swipe Dataset Studio</h1>
-      <div class="tabs">
-        <button class="tab active" data-tab="generator">Generator</button>
-        <button class="tab" data-tab="viewer">Viewer</button>
-      </div>
-    </header>
-    
-    <main>
-      <!-- Generator Tab -->
-      <div id="generator-tab" class="tab-content active">
-        <div class="controls">
-          <div class="control-group">
-            <label>Generator Type</label>
-            <select id="generator-type">
-              <option value="rnn">RNN (LSTM)</option>
-              <option value="gan">GAN (WGAN-GP)</option>
-              <option value="transformer">Transformer.js</option>
-              <option value="rule-based">Rule-based</option>
-            </select>
-          </div>
-          
-          <div id="generator-settings" class="control-group">
-            <!-- Dynamic settings based on generator -->
-          </div>
-          
-          <div class="control-group">
-            <label>Wordlist</label>
-            <div class="file-input">
-              <input type="file" id="wordlist-file" accept=".txt,.csv,.tsv">
-              <span>Choose file or enter URL</span>
-            </div>
-            <input type="url" id="wordlist-url" placeholder="https://example.com/wordlist.txt" value="https://raw.githubusercontent.com/first20hours/google-10000-english/refs/heads/master/google-10000-english.txt">
-            <select id="wordlist-format">
-              <option value="auto">Auto-detect</option>
-              <option value="plain">Plain text</option>
-              <option value="frequency">Word + Frequency</option>
-              <option value="csv">CSV</option>
-            </select>
-          </div>
-          
-          <div class="control-group">
-            <label>Output Options</label>
-            <div class="options">
-              <label class="checkbox">
-                <input type="checkbox" id="no-duplicates" checked>
-                <span>No duplicates</span>
-              </label>
-              <label class="checkbox">
-                <input type="checkbox" id="random-order">
-                <span>Random order</span>
-              </label>
-              <div class="input-group">
-                <label>Min length</label>
-                <input type="number" id="min-length" value="2" min="1">
-              </div>
-              <div class="input-group">
-                <label>Max length</label>
-                <input type="number" id="max-length" value="10" min="1">
-              </div>
-              <div class="input-group">
-                <label>Max quantity</label>
-                <input type="number" id="max-quantity" value="100" min="1">
-              </div>
-            </div>
-          </div>
-          
-          <div class="control-group">
-            <label>Keyboard Layout</label>
-            <select id="keyboard-layout">
-              <option value="qwerty">QWERTY</option>
-              <option value="qwertz">QWERTZ</option>
-              <option value="azerty">AZERTY</option>
-              <option value="custom">Custom</option>
-            </select>
-          </div>
-          
-          <div class="actions">
-            <button id="generate-btn" class="primary">Generate Dataset</button>
-            <button id="export-btn" disabled>Export</button>
-            <button id="view-generated-btn" disabled>View Generated</button>
-          </div>
-        </div>
-        
-        <div id="generation-status" class="status"></div>
-        <div id="generation-preview" class="preview"></div>
-      </div>
-      
-      <!-- Viewer Tab -->
-      <div id="viewer-tab" class="tab-content">
-        <div class="controls">
-          <div class="control-group">
-            <label>Upload Dataset</label>
-            <div class="file-input">
-              <input type="file" id="dataset-file" accept=".json">
-              <span>Choose dataset file</span>
-            </div>
-          </div>
-          
-          <div class="control-group">
-            <label>Filter</label>
-            <input type="text" id="filter-input" placeholder="Filter by word...">
-            <select id="sort-by">
-              <option value="word">Sort by word</option>
-              <option value="length">Sort by length</option>
-              <option value="points">Sort by points</option>
-              <option value="duration">Sort by duration</option>
-            </select>
-          </div>
-        </div>
-        
-        <div id="dataset-info" class="info"></div>
-        <div id="trace-list" class="trace-list"></div>
-        <canvas id="trace-canvas" width="560" height="400"></canvas>
-        <div id="trace-details" class="details"></div>
-      </div>
-    </main>
-  </div>
-  
-  <script src="/app.js"></script>
-</body>
-</html>`;
-}
-
-// CSS Styles
-export function getStyles() {
-  return `
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background: #0a0a0a;
-  color: #e0e0e0;
-  min-height: 100vh;
-}
-
-#app {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-header {
-  margin-bottom: 30px;
-  border-bottom: 1px solid #2a2a2a;
-  padding-bottom: 20px;
-}
-
-h1 {
-  font-size: 28px;
-  font-weight: 600;
-  margin-bottom: 20px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.tabs {
-  display: flex;
-  gap: 10px;
-}
-
-.tab {
-  padding: 10px 20px;
-  background: #1a1a1a;
-  border: 1px solid #2a2a2a;
-  border-radius: 8px;
-  color: #888;
-  cursor: pointer;
-  transition: all 0.3s;
-  font-size: 14px;
-}
-
-.tab:hover {
-  background: #222;
-  color: #aaa;
-}
-
-.tab.active {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  border-color: transparent;
-}
-
-.tab-content {
-  display: none;
-  animation: fadeIn 0.3s;
-}
-
-.tab-content.active {
-  display: block;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-.controls {
-  background: #1a1a1a;
-  padding: 25px;
-  border-radius: 12px;
-  margin-bottom: 20px;
-  border: 1px solid #2a2a2a;
-}
-
-.control-group {
-  margin-bottom: 20px;
-}
-
-.control-group label {
-  display: block;
-  margin-bottom: 8px;
-  font-size: 13px;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  color: #888;
-  font-weight: 500;
-}
-
-select, input[type="text"], input[type="url"], input[type="number"] {
-  width: 100%;
-  padding: 10px;
-  background: #0a0a0a;
-  border: 1px solid #333;
-  border-radius: 6px;
-  color: #e0e0e0;
-  font-size: 14px;
-  transition: border-color 0.3s;
-}
-
-select:focus, input:focus {
-  outline: none;
-  border-color: #667eea;
-}
-
-.file-input {
-  position: relative;
-  display: inline-block;
-  width: 100%;
-  margin-bottom: 10px;
-}
-
-.file-input input[type="file"] {
-  position: absolute;
-  opacity: 0;
-  width: 100%;
-  height: 100%;
-  cursor: pointer;
-}
-
-.file-input span {
-  display: block;
-  padding: 10px;
-  background: #0a0a0a;
-  border: 2px dashed #333;
-  border-radius: 6px;
-  text-align: center;
-  color: #888;
-  cursor: pointer;
-  transition: all 0.3s;
-}
-
-.file-input:hover span {
-  border-color: #667eea;
-  color: #667eea;
-}
-
-.options {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 15px;
-  margin-top: 10px;
-}
-
-.checkbox {
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-  font-size: 14px;
-}
-
-.checkbox input {
-  margin-right: 8px;
-  width: auto;
-}
-
-.checkbox span {
-  color: #aaa;
-}
-
-.input-group {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.input-group label {
-  font-size: 12px;
-  margin: 0;
-}
-
-.input-group input {
-  width: 100%;
-}
-
-.actions {
-  display: flex;
-  gap: 10px;
-  margin-top: 25px;
-}
-
-button {
-  padding: 12px 24px;
-  background: #2a2a2a;
-  border: none;
-  border-radius: 6px;
-  color: #e0e0e0;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 500;
-  transition: all 0.3s;
-}
-
-button:hover:not(:disabled) {
-  background: #333;
-}
-
-button.primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-}
-
-button.primary:hover {
-  opacity: 0.9;
-}
-
-button:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.status {
-  padding: 15px;
-  background: #1a1a1a;
-  border-radius: 8px;
-  margin-bottom: 20px;
-  border-left: 3px solid #667eea;
-  display: none;
-}
-
-.status.show {
-  display: block;
-}
-
-.preview {
-  background: #1a1a1a;
-  padding: 20px;
-  border-radius: 8px;
-  max-height: 400px;
-  overflow-y: auto;
-  display: none;
-}
-
-.preview.show {
-  display: block;
-}
-
-.preview pre {
-  background: #0a0a0a;
-  padding: 15px;
-  border-radius: 6px;
-  overflow-x: auto;
-  font-size: 12px;
-  line-height: 1.5;
-  color: #aaa;
-}
-
-.info {
-  background: #1a1a1a;
-  padding: 20px;
-  border-radius: 8px;
-  margin-bottom: 20px;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 15px;
-}
-
-.info-item {
-  text-align: center;
-}
-
-.info-item .value {
-  font-size: 24px;
-  font-weight: bold;
-  color: #667eea;
-}
-
-.info-item .label {
-  font-size: 12px;
-  color: #888;
-  text-transform: uppercase;
-  margin-top: 5px;
-}
-
-.trace-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 15px;
-  margin-bottom: 20px;
-}
-
-.trace-item {
-  background: #1a1a1a;
-  padding: 15px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: all 0.3s;
-  border: 1px solid #2a2a2a;
-}
-
-.trace-item:hover {
-  border-color: #667eea;
-  transform: translateY(-2px);
-}
-
-.trace-item.selected {
-  border-color: #667eea;
-  background: #222;
-}
-
-.trace-item .word {
-  font-size: 18px;
-  font-weight: 500;
-  margin-bottom: 8px;
-}
-
-.trace-item .meta {
-  font-size: 12px;
-  color: #888;
-}
-
-#trace-canvas {
-  width: 100%;
-  max-width: 700px;
-  height: auto;
-  aspect-ratio: 1.4;
-  background: #0a0a0a;
-  border-radius: 8px;
-  border: 1px solid #2a2a2a;
-  margin: 20px auto;
-  display: block;
-}
-
-.details {
-  background: #1a1a1a;
-  padding: 20px;
-  border-radius: 8px;
-  display: none;
-}
-
-.details.show {
-  display: block;
-}
-
-.details h3 {
-  margin-bottom: 15px;
-  color: #667eea;
-}
-
-.details table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.details td {
-  padding: 8px;
-  border-bottom: 1px solid #2a2a2a;
-}
-
-.details td:first-child {
-  color: #888;
-  width: 150px;
-}
-
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: #1a1a1a;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #333;
-  border-radius: 4px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #444;
-}`;
-}
-
-// JavaScript Application
-export function getAppJS() {
-  return `
 // App state
 let currentDataset = null;
 let generatedDataset = null;
@@ -945,7 +178,7 @@ function updateGeneratorSettings() {
   
   switch (type) {
     case 'rnn':
-      html += \`
+      html += `
         <div class="options">
           <div class="input-group">
             <label>Temperature</label>
@@ -960,11 +193,11 @@ function updateGeneratorSettings() {
             </select>
           </div>
         </div>
-      \`;
+      `;
       break;
       
     case 'gan':
-      html += \`
+      html += `
         <div class="options">
           <div class="input-group">
             <label>Noise dim</label>
@@ -979,11 +212,11 @@ function updateGeneratorSettings() {
             </select>
           </div>
         </div>
-      \`;
+      `;
       break;
       
     case 'transformer':
-      html += \`
+      html += `
         <div class="options">
           <div class="input-group">
             <label>Model</label>
@@ -998,11 +231,11 @@ function updateGeneratorSettings() {
             <input type="number" id="transformer-beam" value="5" min="1" max="10">
           </div>
         </div>
-      \`;
+      `;
       break;
       
     case 'rule-based':
-      html += \`
+      html += `
         <div class="options">
           <div class="input-group">
             <label>Smoothness</label>
@@ -1013,7 +246,7 @@ function updateGeneratorSettings() {
             <input type="range" id="rule-noise" min="0" max="1" step="0.1" value="0.2">
           </div>
         </div>
-      \`;
+      `;
       break;
   }
   
@@ -1135,7 +368,7 @@ function setupViewer() {
       
       currentDataset = dataset;
       displayDataset(currentDataset);
-      showStatus(\`Successfully loaded \${dataset.traces?.length || 0} traces\`, 'success');
+      showStatus(`Successfully loaded ${dataset.traces?.length || 0} traces`, 'success');
       
     } catch (error) {
       console.error('Dataset loading error:', error);
@@ -1225,24 +458,24 @@ function displayDataset(dataset) {
   
   // Show info
   const infoDiv = document.getElementById('dataset-info');
-  infoDiv.innerHTML = \`
+  infoDiv.innerHTML = `
     <div class="info-item">
-      <div class="value">\${dataset.traces.length}</div>
+      <div class="value">${dataset.traces.length}</div>
       <div class="label">Traces</div>
     </div>
     <div class="info-item">
-      <div class="value">\${dataset.words || dataset.traces.length}</div>
+      <div class="value">${dataset.words || dataset.traces.length}</div>
       <div class="label">Words</div>
     </div>
     <div class="info-item">
-      <div class="value">\${dataset.generator || 'Unknown'}</div>
+      <div class="value">${dataset.generator || 'Unknown'}</div>
       <div class="label">Generator</div>
     </div>
     <div class="info-item">
-      <div class="value">\${new Date(dataset.timestamp).toLocaleDateString()}</div>
+      <div class="value">${new Date(dataset.timestamp).toLocaleDateString()}</div>
       <div class="label">Generated</div>
     </div>
-  \`;
+  `;
   
   // Filter and sort traces
   const filterText = document.getElementById('filter-input').value.toLowerCase();
@@ -1269,15 +502,15 @@ function displayDataset(dataset) {
   
   // Display trace list
   const listDiv = document.getElementById('trace-list');
-  listDiv.innerHTML = traces.slice(0, 50).map((trace, i) => \`
-    <div class="trace-item" data-index="\${i}">
-      <div class="word">\${trace.word}</div>
+  listDiv.innerHTML = traces.slice(0, 50).map((trace, i) => `
+    <div class="trace-item" data-index="${i}">
+      <div class="word">${trace.word}</div>
       <div class="meta">
-        \${trace.trace.length} points · 
-        \${((trace.metadata?.duration || 0) / 1000).toFixed(1)}s
+        ${trace.trace.length} points · 
+        ${((trace.metadata?.duration || 0) / 1000).toFixed(1)}s
       </div>
     </div>
-  \`).join('');
+  `).join('');
   
   // Handle trace selection
   document.querySelectorAll('.trace-item').forEach(item => {
@@ -1529,31 +762,31 @@ function drawTrace(traceData) {
 function showTraceDetails(traceData) {
   const detailsDiv = document.getElementById('trace-details');
   
-  detailsDiv.innerHTML = \`
-    <h3>Trace Details: \${traceData.word}</h3>
+  detailsDiv.innerHTML = `
+    <h3>Trace Details: ${traceData.word}</h3>
     <table>
       <tr>
         <td>Word</td>
-        <td>\${traceData.word}</td>
+        <td>${traceData.word}</td>
       </tr>
       <tr>
         <td>Points</td>
-        <td>\${traceData.trace.length}</td>
+        <td>${traceData.trace.length}</td>
       </tr>
       <tr>
         <td>Duration</td>
-        <td>\${((traceData.metadata?.duration || 0) / 1000).toFixed(2)}s</td>
+        <td>${((traceData.metadata?.duration || 0) / 1000).toFixed(2)}s</td>
       </tr>
       <tr>
         <td>Generator</td>
-        <td>\${traceData.metadata?.generator || 'Unknown'}</td>
+        <td>${traceData.metadata?.generator || 'Unknown'}</td>
       </tr>
       <tr>
         <td>Average speed</td>
-        <td>\${calculateSpeed(traceData.trace).toFixed(1)} px/s</td>
+        <td>${calculateSpeed(traceData.trace).toFixed(1)} px/s</td>
       </tr>
     </table>
-  \`;
+  `;
   
   detailsDiv.classList.add('show');
 }
@@ -1618,20 +851,4 @@ function showPreview(dataset) {
     JSON.stringify(sample, null, 2) + '</pre>';
   
   previewDiv.classList.add('show');
-}`;
-}
-
-// Only start server if this file is run directly (not imported)
-if (import.meta.main) {
-  console.log(`
-🚀 Swipe Dataset Studio Server
-📡 Running on http://localhost:${server.port}
-🎯 Features:
-  - Generate datasets with RNN/GAN/Transformer
-  - Parse various wordlist formats
-  - Visualize swipe trajectories
-  - Export/import datasets
-  
-Press Ctrl+C to stop the server
-`);
 }

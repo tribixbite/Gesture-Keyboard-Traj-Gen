@@ -1,0 +1,140 @@
+
+<!--
+  This is a static version of Swipe Dataset Studio deployed on GitHub Pages.
+  Some server-side features are limited, but the core functionality works client-side.
+  
+  For full functionality, run the Bun server locally:
+  bun web-app/server.ts
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Swipe Dataset Studio</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>🎯 Swipe Dataset Studio</h1>
+      <div class="tabs">
+        <button class="tab active" data-tab="generator">Generator</button>
+        <button class="tab" data-tab="viewer">Viewer</button>
+      </div>
+    </header>
+    
+    <main>
+      <!-- Generator Tab -->
+      <div id="generator-tab" class="tab-content active">
+        <div class="controls">
+          <div class="control-group">
+            <label>Generator Type</label>
+            <select id="generator-type">
+              <option value="rnn">RNN (LSTM)</option>
+              <option value="gan">GAN (WGAN-GP)</option>
+              <option value="transformer">Transformer.js</option>
+              <option value="rule-based">Rule-based</option>
+            </select>
+          </div>
+          
+          <div id="generator-settings" class="control-group">
+            <!-- Dynamic settings based on generator -->
+          </div>
+          
+          <div class="control-group">
+            <label>Wordlist</label>
+            <div class="file-input">
+              <input type="file" id="wordlist-file" accept=".txt,.csv,.tsv">
+              <span>Choose file or enter URL</span>
+            </div>
+            <input type="url" id="wordlist-url" placeholder="https://example.com/wordlist.txt" value="https://raw.githubusercontent.com/first20hours/google-10000-english/refs/heads/master/google-10000-english.txt">
+            <select id="wordlist-format">
+              <option value="auto">Auto-detect</option>
+              <option value="plain">Plain text</option>
+              <option value="frequency">Word + Frequency</option>
+              <option value="csv">CSV</option>
+            </select>
+          </div>
+          
+          <div class="control-group">
+            <label>Output Options</label>
+            <div class="options">
+              <label class="checkbox">
+                <input type="checkbox" id="no-duplicates" checked>
+                <span>No duplicates</span>
+              </label>
+              <label class="checkbox">
+                <input type="checkbox" id="random-order">
+                <span>Random order</span>
+              </label>
+              <div class="input-group">
+                <label>Min length</label>
+                <input type="number" id="min-length" value="2" min="1">
+              </div>
+              <div class="input-group">
+                <label>Max length</label>
+                <input type="number" id="max-length" value="10" min="1">
+              </div>
+              <div class="input-group">
+                <label>Max quantity</label>
+                <input type="number" id="max-quantity" value="100" min="1">
+              </div>
+            </div>
+          </div>
+          
+          <div class="control-group">
+            <label>Keyboard Layout</label>
+            <select id="keyboard-layout">
+              <option value="qwerty">QWERTY</option>
+              <option value="qwertz">QWERTZ</option>
+              <option value="azerty">AZERTY</option>
+              <option value="custom">Custom</option>
+            </select>
+          </div>
+          
+          <div class="actions">
+            <button id="generate-btn" class="primary">Generate Dataset</button>
+            <button id="export-btn" disabled>Export</button>
+            <button id="view-generated-btn" disabled>View Generated</button>
+          </div>
+        </div>
+        
+        <div id="generation-status" class="status"></div>
+        <div id="generation-preview" class="preview"></div>
+      </div>
+      
+      <!-- Viewer Tab -->
+      <div id="viewer-tab" class="tab-content">
+        <div class="controls">
+          <div class="control-group">
+            <label>Upload Dataset</label>
+            <div class="file-input">
+              <input type="file" id="dataset-file" accept=".json">
+              <span>Choose dataset file</span>
+            </div>
+          </div>
+          
+          <div class="control-group">
+            <label>Filter</label>
+            <input type="text" id="filter-input" placeholder="Filter by word...">
+            <select id="sort-by">
+              <option value="word">Sort by word</option>
+              <option value="length">Sort by length</option>
+              <option value="points">Sort by points</option>
+              <option value="duration">Sort by duration</option>
+            </select>
+          </div>
+        </div>
+        
+        <div id="dataset-info" class="info"></div>
+        <div id="trace-list" class="trace-list"></div>
+        <canvas id="trace-canvas" width="560" height="400"></canvas>
+        <div id="trace-details" class="details"></div>
+      </div>
+    </main>
+  </div>
+  
+  <script src="/app.js"></script>
+</body>
+</html>
