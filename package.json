@@ -5,16 +5,22 @@
   "main": "web-app/server.ts",
   "scripts": {
     "dev": "bun web-app/server.ts",
-    "build": "bun build-static.ts",
+    "server": "bun web-app/server.ts",
+    "build": "bun extract-assets && bun simple-build.ts",
+    "extract-assets": "bun extract-css.ts && bun extract-js.ts",
     "start": "bun web-app/server.ts"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3",
+    "@types/node": "^24.3.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shawnshenjx/Gesture-Keyboard-Traj-Gen.git"
+    "url": "https://github.com/tribixbite/Gesture-Keyboard-Traj-Gen.git"
   },
   "keywords": [
     "gesture",
-    "keyboard", 
+    "keyboard",
     "trajectory",
     "machine-learning",
     "neural-networks",
