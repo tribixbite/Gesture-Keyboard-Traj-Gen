@@ -4,8 +4,8 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-// Try to find an available port
-const PORT = process.env.PORT || 9999;
+// Let system choose an available port
+const PORT = parseInt(process.env.PORT || "0");
 
 // Ensure directories exist
 if (!existsSync(join(__dirname, "datasets"))) {
@@ -125,10 +125,15 @@ async function generateDataset(config: any) {
   if (options.noDuplicates) {
     filteredWords = [...new Set(filteredWords)];
   }
-  if (options.random && options.maxQuantity) {
-    filteredWords = filteredWords
-      .sort(() => Math.random() - 0.5)
-      .slice(0, options.maxQuantity);
+  
+  // Apply randomization if requested
+  if (options.random) {
+    filteredWords = filteredWords.sort(() => Math.random() - 0.5);
+  }
+  
+  // Apply max quantity limit (regardless of random option)
+  if (options.maxQuantity && options.maxQuantity > 0) {
+    filteredWords = filteredWords.slice(0, options.maxQuantity);
   }
   
   // Generate traces based on generator type
@@ -263,7 +268,7 @@ function getIndexHTML() {
               <input type="file" id="wordlist-file" accept=".txt,.csv,.tsv">
               <span>Choose file or enter URL</span>
             </div>
-            <input type="url" id="wordlist-url" placeholder="https://example.com/wordlist.txt">
+            <input type="url" id="wordlist-url" placeholder="https://example.com/wordlist.txt" value="https://raw.githubusercontent.com/first20hours/google-10000-english/refs/heads/master/google-10000-english.txt">
             <select id="wordlist-format">
               <option value="auto">Auto-detect</option>
               <option value="plain">Plain text</option>
@@ -344,7 +349,7 @@ function getIndexHTML() {
         
         <div id="dataset-info" class="info"></div>
         <div id="trace-list" class="trace-list"></div>
-        <canvas id="trace-canvas" width="360" height="200"></canvas>
+        <canvas id="trace-canvas" width="560" height="400"></canvas>
         <div id="trace-details" class="details"></div>
       </div>
     </main>
@@ -679,8 +684,9 @@ button:disabled {
 
 #trace-canvas {
   width: 100%;
-  max-width: 600px;
-  height: 300px;
+  max-width: 700px;
+  height: auto;
+  aspect-ratio: 1.4;
   background: #0a0a0a;
   border-radius: 8px;
   border: 1px solid #2a2a2a;
@@ -752,6 +758,12 @@ document.addEventListener('DOMContentLoaded', () => {
   setupTabs();
   setupGenerator();
   setupViewer();
+  
+  // Auto-load default wordlist
+  const defaultUrl = document.getElementById('wordlist-url').value;
+  if (defaultUrl) {
+    setTimeout(() => loadWordlistFromUrl(defaultUrl), 100);
+  }
 });
 
 // Tab switching
@@ -786,6 +798,11 @@ function setupGenerator() {
   generatorType.addEventListener('change', updateGeneratorSettings);
   updateGeneratorSettings();
   
+  // Auto-load default wordlist
+  if (wordlistUrl.value) {
+    loadWordlistFromUrl(wordlistUrl.value);
+  }
+  
   // Handle wordlist file upload
   wordlistFile.addEventListener('change', async (e) => {
     const file = e.target.files[0];
@@ -812,24 +829,8 @@ function setupGenerator() {
   // Handle URL input
   wordlistUrl.addEventListener('blur', async () => {
     const url = wordlistUrl.value.trim();
-    if (!url) return;
-    
-    try {
-      const response = await fetch(url);
-      const content = await response.text();
-      const format = document.getElementById('wordlist-format').value;
-      
-      const parseResponse = await fetch('/api/parse-wordlist', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ content, format })
-      });
-      
-      const data = await parseResponse.json();
-      wordlistFile.dataset.words = JSON.stringify(data.words);
-      showStatus('Loaded ' + data.words.length + ' words from URL', 'success');
-    } catch (error) {
-      showStatus('Error loading wordlist from URL: ' + error.message, 'error');
+    if (url) {
+      loadWordlistFromUrl(url);
     }
   });
   
@@ -990,6 +991,43 @@ function updateGeneratorSettings() {
   settingsDiv.innerHTML = html;
 }
 
+// Load wordlist from URL
+async function loadWordlistFromUrl(url) {
+  if (!url) return;
+  
+  try {
+    showStatus('Loading wordlist from URL...', 'info');
+    
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(\`HTTP \${response.status}: \${response.statusText}\`);
+    }
+    
+    const content = await response.text();
+    const format = document.getElementById('wordlist-format').value;
+    
+    const parseResponse = await fetch('/api/parse-wordlist', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ content, format })
+    });
+    
+    const data = await parseResponse.json();
+    
+    if (data.error) {
+      throw new Error(data.error);
+    }
+    
+    const wordlistFile = document.getElementById('wordlist-file');
+    wordlistFile.dataset.words = JSON.stringify(data.words);
+    showStatus('Loaded ' + data.words.length + ' words from URL', 'success');
+    
+  } catch (error) {
+    console.error('URL loading error:', error);
+    showStatus('Error loading wordlist from URL: ' + error.message, 'error');
+  }
+}
+
 // Get current generator settings
 function getGeneratorSettings() {
   const type = document.getElementById('generator-type').value;
@@ -1028,18 +1066,119 @@ function setupViewer() {
     const file = e.target.files[0];
     if (!file) return;
     
+    // Show loading status
+    showStatus('Loading dataset...', 'info');
+    
     try {
+      // Check file type
+      if (!file.name.toLowerCase().endsWith('.json')) {
+        throw new Error('Please select a JSON file (.json)');
+      }
+      
+      // Check file size (max 10MB)
+      if (file.size > 10 * 1024 * 1024) {
+        throw new Error('File is too large. Maximum size is 10MB.');
+      }
+      
       const content = await file.text();
-      currentDataset = JSON.parse(content);
+      
+      // Validate JSON format
+      let dataset;
+      try {
+        dataset = JSON.parse(content);
+      } catch (parseError) {
+        throw new Error('Invalid JSON format. Please check your file.');
+      }
+      
+      // Validate dataset structure
+      if (!validateDatasetStructure(dataset)) {
+        throw new Error('Invalid dataset format. Expected structure: {traces: [{word, trace: [{x, y, t, p}]}]}');
+      }
+      
+      currentDataset = dataset;
       displayDataset(currentDataset);
+      showStatus(\`Successfully loaded \${dataset.traces?.length || 0} traces\`, 'success');
+      
     } catch (error) {
+      console.error('Dataset loading error:', error);
       showStatus('Error loading dataset: ' + error.message, 'error');
+      
+      // Clear the file input
+      datasetFile.value = '';
     }
   });
   
   // Filter and sort
   filterInput.addEventListener('input', () => displayDataset(currentDataset));
   sortBy.addEventListener('change', () => displayDataset(currentDataset));
+}
+
+// Validate dataset structure
+function validateDatasetStructure(dataset) {
+  try {
+    // Check if it's an object
+    if (!dataset || typeof dataset !== 'object') {
+      return false;
+    }
+    
+    // Check if it has traces array
+    if (!Array.isArray(dataset.traces)) {
+      return false;
+    }
+    
+    // Check if traces are not empty
+    if (dataset.traces.length === 0) {
+      return false;
+    }
+    
+    // Validate first few traces structure
+    const samplesToCheck = Math.min(5, dataset.traces.length);
+    
+    for (let i = 0; i < samplesToCheck; i++) {
+      const trace = dataset.traces[i];
+      
+      // Check trace structure
+      if (!trace || typeof trace !== 'object') {
+        return false;
+      }
+      
+      // Check if it has word and trace
+      if (typeof trace.word !== 'string' || !Array.isArray(trace.trace)) {
+        return false;
+      }
+      
+      // Check if trace has points
+      if (trace.trace.length === 0) {
+        continue; // Allow empty traces
+      }
+      
+      // Check first point structure
+      const point = trace.trace[0];
+      if (!point || typeof point !== 'object') {
+        return false;
+      }
+      
+      // Check point has required properties
+      if (typeof point.x !== 'number' || typeof point.y !== 'number') {
+        return false;
+      }
+      
+      // t and p are optional but should be numbers if present
+      if (point.t !== undefined && typeof point.t !== 'number') {
+        return false;
+      }
+      
+      if (point.p !== undefined && typeof point.p !== 'number') {
+        return false;
+      }
+    }
+    
+    return true;
+    
+  } catch (error) {
+    console.error('Validation error:', error);
+    return false;
+  }
 }
 
 // Display dataset in viewer
@@ -1121,62 +1260,230 @@ function displayDataset(dataset) {
   }
 }
 
-// Draw trace on canvas
+// QWERTY keyboard layout definition
+const QWERTY_LAYOUT = [
+  ['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'],
+  ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'],
+  ['Z', 'X', 'C', 'V', 'B', 'N', 'M']
+];
+
+// Get keyboard coordinates for QWERTY layout
+function getKeyboardCoordinates(width, height) {
+  const keys = {};
+  const keyWidth = width / 10; // Base width on 10 keys in top row
+  const keyHeight = height / 4; // 4 rows including space for spacing
+  const startY = keyHeight * 0.2; // Small top margin
+  
+  // Top row (QWERTYUIOP)
+  QWERTY_LAYOUT[0].forEach((key, i) => {
+    keys[key] = {
+      x: i * keyWidth + keyWidth / 2,
+      y: startY + keyHeight / 2,
+      width: keyWidth * 0.9,
+      height: keyHeight * 0.8
+    };
+  });
+  
+  // Middle row (ASDFGHJKL) - slightly offset
+  const middleOffset = keyWidth * 0.25;
+  QWERTY_LAYOUT[1].forEach((key, i) => {
+    keys[key] = {
+      x: middleOffset + i * keyWidth + keyWidth / 2,
+      y: startY + keyHeight * 1.2 + keyHeight / 2,
+      width: keyWidth * 0.9,
+      height: keyHeight * 0.8
+    };
+  });
+  
+  // Bottom row (ZXCVBNM) - more offset
+  const bottomOffset = keyWidth * 0.75;
+  QWERTY_LAYOUT[2].forEach((key, i) => {
+    keys[key] = {
+      x: bottomOffset + i * keyWidth + keyWidth / 2,
+      y: startY + keyHeight * 2.4 + keyHeight / 2,
+      width: keyWidth * 0.9,
+      height: keyHeight * 0.8
+    };
+  });
+  
+  // Space bar
+  keys[' '] = {
+    x: width / 2,
+    y: startY + keyHeight * 3.6 + keyHeight / 2,
+    width: keyWidth * 4,
+    height: keyHeight * 0.6
+  };
+  
+  return keys;
+}
+
+// Draw QWERTY keyboard
+function drawKeyboard(canvas, ctx) {
+  const width = canvas.width;
+  const height = canvas.height;
+  const keys = getKeyboardCoordinates(width, height);
+  
+  // Draw keyboard background
+  ctx.fillStyle = '#1a1a1a';
+  ctx.fillRect(0, 0, width, height);
+  
+  // Draw keys
+  ctx.strokeStyle = '#333';
+  ctx.lineWidth = 1;
+  ctx.fillStyle = '#2a2a2a';
+  ctx.font = '12px monospace';
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  
+  Object.entries(keys).forEach(([key, pos]) => {
+    // Draw key background
+    const x = pos.x - pos.width / 2;
+    const y = pos.y - pos.height / 2;
+    
+    ctx.fillStyle = '#2a2a2a';
+    ctx.fillRect(x, y, pos.width, pos.height);
+    ctx.strokeRect(x, y, pos.width, pos.height);
+    
+    // Draw key label
+    ctx.fillStyle = '#888';
+    ctx.fillText(key === ' ' ? 'SPACE' : key, pos.x, pos.y);
+  });
+  
+  return keys;
+}
+
+// Draw trace on keyboard
 function drawTrace(traceData) {
   const canvas = document.getElementById('trace-canvas');
+  if (!canvas) {
+    console.error('Canvas not found!');
+    return;
+  }
   const ctx = canvas.getContext('2d');
   const trace = traceData.trace;
   
-  // Clear canvas
+  // Ensure canvas maintains 1.4:1 aspect ratio
+  const displayWidth = canvas.clientWidth;
+  const displayHeight = displayWidth / 1.4;
+  
+  if (canvas.width !== displayWidth || canvas.height !== displayHeight) {
+    canvas.width = displayWidth;
+    canvas.height = displayHeight;
+  }
+  
+  // Clear canvas and draw keyboard
   ctx.clearRect(0, 0, canvas.width, canvas.height);
+  const keys = drawKeyboard(canvas, ctx);
   
   if (trace.length < 2) return;
   
-  // Find bounds
-  let minX = Infinity, maxX = -Infinity;
-  let minY = Infinity, maxY = -Infinity;
+  // Analyze trace coordinate range to determine scaling
+  const minX = Math.min(...trace.map(p => p.x));
+  const maxX = Math.max(...trace.map(p => p.x));
+  const minY = Math.min(...trace.map(p => p.y));
+  const maxY = Math.max(...trace.map(p => p.y));
   
-  trace.forEach(point => {
-    minX = Math.min(minX, point.x);
-    maxX = Math.max(maxX, point.x);
-    minY = Math.min(minY, point.y);
-    maxY = Math.max(maxY, point.y);
-  });
+  const rangeX = maxX - minX;
+  const rangeY = maxY - minY;
   
-  // Add padding
-  const padding = 20;
-  const scaleX = (canvas.width - 2 * padding) / (maxX - minX || 1);
-  const scaleY = (canvas.height - 2 * padding) / (maxY - minY || 1);
-  const scale = Math.min(scaleX, scaleY);
+  // Determine if coordinates need scaling
+  let normalizeX, normalizeY;
   
-  // Draw trace
+  if (maxX <= canvas.width && maxY <= canvas.height && minX >= 0 && minY >= 0) {
+    // Coordinates seem to be in canvas pixel range
+    normalizeX = (x) => x;
+    normalizeY = (y) => y;
+  } else if (maxX <= 1 && maxY <= 1 && minX >= 0 && minY >= 0) {
+    // Coordinates are normalized 0-1
+    normalizeX = (x) => x * canvas.width;
+    normalizeY = (y) => y * canvas.height;
+  } else {
+    // Scale to fit canvas with padding
+    const padding = 40;
+    normalizeX = (x) => padding + ((x - minX) / rangeX) * (canvas.width - 2 * padding);
+    normalizeY = (y) => padding + ((y - minY) / rangeY) * (canvas.height - 2 * padding);
+  }
+  
+  // Draw trace path
   ctx.strokeStyle = '#667eea';
-  ctx.lineWidth = 2;
+  ctx.lineWidth = 3;
   ctx.lineCap = 'round';
   ctx.lineJoin = 'round';
+  ctx.shadowColor = '#667eea';
+  ctx.shadowBlur = 5;
   
   ctx.beginPath();
-  trace.forEach((point, i) => {
-    const x = padding + (point.x - minX) * scale;
-    const y = padding + (point.y - minY) * scale;
-    
-    if (i === 0 || point.p === 0) {
-      ctx.moveTo(x, y);
-    } else {
-      ctx.lineTo(x, y);
-    }
-  });
-  ctx.stroke();
+  let pathStarted = false;
+  let wasUp = false;
   
-  // Draw points
-  ctx.fillStyle = '#764ba2';
   trace.forEach((point, i) => {
-    const x = padding + (point.x - minX) * scale;
-    const y = padding + (point.y - minY) * scale;
+    const x = normalizeX(point.x);
+    const y = normalizeY(point.y);
+    const isPenDown = point.p === undefined || point.p === 0; // Default to pen down if no p value
+    
+    
+    if (i === 0 || (wasUp && isPenDown)) {
+      // Start new path segment
+      if (pathStarted) {
+        ctx.stroke();
+        ctx.beginPath();
+      }
+      ctx.moveTo(x, y);
+      pathStarted = true;
+    } else if (isPenDown) {
+      // Continue current path
+      ctx.lineTo(x, y);
+    } else {
+      // Pen up - don't draw but keep track
+      ctx.moveTo(x, y);
+    }
+    
+    wasUp = !isPenDown;
+  });
+  
+  if (pathStarted) {
+    ctx.stroke();
+  }
+  
+  // Reset shadow
+  ctx.shadowBlur = 0;
+  
+  // Draw key highlights for word letters
+  if (traceData.word) {
+    ctx.fillStyle = 'rgba(102, 126, 234, 0.2)';
+    ctx.strokeStyle = '#667eea';
+    ctx.lineWidth = 2;
+    
+    for (const char of traceData.word.toUpperCase()) {
+      if (keys[char]) {
+        const key = keys[char];
+        const x = key.x - key.width / 2;
+        const y = key.y - key.height / 2;
+        
+        ctx.fillRect(x, y, key.width, key.height);
+        ctx.strokeRect(x, y, key.width, key.height);
+      }
+    }
+  }
+  
+  // Draw trace points
+  ctx.fillStyle = '#764ba2';
+  ctx.strokeStyle = '#ffffff';
+  ctx.lineWidth = 1;
+  
+  trace.forEach((point, i) => {
+    const x = normalizeX(point.x);
+    const y = normalizeY(point.y);
+    
+    const radius = i === 0 ? 6 : i === trace.length - 1 ? 5 : 2;
     
     ctx.beginPath();
-    ctx.arc(x, y, i === 0 || i === trace.length - 1 ? 4 : 2, 0, Math.PI * 2);
+    ctx.arc(x, y, radius, 0, Math.PI * 2);
     ctx.fill();
+    
+    if (i === 0 || i === trace.length - 1) {
+      ctx.stroke();
+    }
   });
 }
 
@@ -1234,13 +1541,34 @@ function calculateSpeed(trace) {
 
 // Show status message
 function showStatus(message, type = 'info') {
-  const statusDiv = document.getElementById('generation-status');
-  statusDiv.textContent = message;
-  statusDiv.className = 'status show ' + type;
+  // Try to show in current tab's status area
+  const activeTab = document.querySelector('.tab.active')?.dataset.tab;
+  let statusDiv;
   
-  setTimeout(() => {
-    statusDiv.classList.remove('show');
-  }, 5000);
+  if (activeTab === 'viewer') {
+    // Create or find status div in viewer
+    statusDiv = document.getElementById('viewer-status');
+    if (!statusDiv) {
+      statusDiv = document.createElement('div');
+      statusDiv.id = 'viewer-status';
+      statusDiv.className = 'status';
+      const viewerControls = document.querySelector('#viewer-tab .controls');
+      if (viewerControls) {
+        viewerControls.parentNode.insertBefore(statusDiv, viewerControls.nextSibling);
+      }
+    }
+  } else {
+    statusDiv = document.getElementById('generation-status');
+  }
+  
+  if (statusDiv) {
+    statusDiv.textContent = message;
+    statusDiv.className = 'status show ' + type;
+    
+    setTimeout(() => {
+      statusDiv.classList.remove('show');
+    }, 5000);
+  }
 }
 
 // Show preview
@@ -1257,7 +1585,7 @@ function showPreview(dataset) {
 
 console.log(`
 🚀 Swipe Dataset Studio Server
-📡 Running on http://localhost:${PORT}
+📡 Running on http://localhost:${server.port}
 🎯 Features:
   - Generate datasets with RNN/GAN/Transformer
   - Parse various wordlist formats
@@ -1266,5 +1594,3 @@ console.log(`
   
 Press Ctrl+C to stop the server
 `);
-
-export default server;
