@@ -3,6 +3,8 @@
 <img src= "https://github.com/shawnshenjx/Gesture-Keyboard-Traj-Gen/blob/main/img/image.png">
 </p> 
 
+🚀 **Live Demo**: [Swipe Dataset Studio](https://shawnshenjx.github.io/Gesture-Keyboard-Traj-Gen/) - Generate and visualize swipe trajectories online!
+
 ## Simulating Realistic Human Motion Trajectories of Mid-Air Gesture Typing
 The code in this repository is an implementation of the different models and algorithms described in the ISMAR paper:
 
