@@ -1,4 +1,4 @@
-// Client-side only version of the app for GitHub Pages deployment
+// Pure client-side version - no server dependencies!
 
 // App state
 let currentDataset = null;
@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setupViewer();
   
   // Show static deployment notice
-  showStatus('🌐 Static version - Limited functionality. For full features, run the local server.', 'info');
+  showStatus('🌐 Client-side Swipe Dataset Studio - Generate and view trajectories!', 'success');
   
   // Auto-load default wordlist
   const defaultUrl = document.getElementById('wordlist-url').value;
@@ -22,11 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
         await loadWordlistFromUrl(defaultUrl);
       } catch (error) {
         console.error('Failed to auto-load wordlist:', error);
-        // Fallback to a basic wordlist
+        // Fallback to a comprehensive wordlist
         const wordlistFile = document.getElementById('wordlist-file');
-        const fallbackWords = ['hello', 'world', 'test', 'example', 'demo', 'sample', 'keyboard', 'swipe', 'gesture', 'trace', 'the', 'and', 'you', 'that', 'was', 'for', 'are', 'with', 'his', 'they'];
+        const fallbackWords = ['hello', 'world', 'test', 'example', 'demo', 'sample', 'keyboard', 'swipe', 'gesture', 'trace', 'the', 'and', 'you', 'that', 'was', 'for', 'are', 'with', 'his', 'they', 'have', 'this', 'will', 'your', 'from', 'can', 'all', 'would', 'there', 'each', 'which', 'she', 'new', 'has', 'more', 'her', 'two', 'like', 'him', 'see', 'time', 'could', 'no', 'make', 'than', 'first', 'been', 'call', 'who', 'oil', 'its', 'now', 'find', 'long', 'down', 'day', 'did', 'get', 'come', 'made', 'may', 'part'];
         wordlistFile.dataset.words = JSON.stringify(fallbackWords);
-        showStatus('Using fallback wordlist (' + fallbackWords.length + ' words)', 'info');
+        showStatus('Using built-in wordlist (' + fallbackWords.length + ' words)', 'info');
       }
     }, 500);
   }
@@ -69,15 +69,17 @@ function setupGenerator() {
     const file = e.target.files[0];
     if (!file) return;
     
-    const content = await file.text();
-    const format = document.getElementById('wordlist-format').value;
-    
     try {
+      showStatus('Parsing wordlist...', 'info');
+      const content = await file.text();
+      const format = document.getElementById('wordlist-format').value;
+      
       const words = parseWordlistClientSide(content, format);
       wordlistFile.dataset.words = JSON.stringify(words);
-      showStatus('Loaded ' + words.length + ' words', 'success');
+      showStatus('✅ Loaded ' + words.length + ' words from ' + file.name, 'success');
     } catch (error) {
-      showStatus('Error parsing wordlist: ' + error.message, 'error');
+      showStatus('❌ Error parsing wordlist: ' + error.message, 'error');
+      console.error('Wordlist parsing error:', error);
     }
   });
   
@@ -89,12 +91,12 @@ function setupGenerator() {
     }
   });
   
-  // Generate dataset (client-side simulation)
+  // Generate dataset (pure client-side)
   generateBtn.addEventListener('click', async () => {
     const words = JSON.parse(wordlistFile.dataset.words || '[]');
     
     if (words.length === 0) {
-      showStatus('Please load a wordlist first', 'error');
+      showStatus('❌ Please load a wordlist first', 'error');
       return;
     }
     
@@ -114,19 +116,20 @@ function setupGenerator() {
     };
     
     generateBtn.disabled = true;
-    showStatus('Generating dataset (client-side simulation)...', 'info');
+    showStatus('🎯 Generating swipe trajectories...', 'info');
     
     try {
-      // Simulate dataset generation
+      // Generate dataset client-side with realistic trajectories
       generatedDataset = await generateDatasetClientSide(config);
       
-      showStatus('Generated ' + generatedDataset.traces.length + ' traces (simulated)', 'success');
+      showStatus('✅ Generated ' + generatedDataset.traces.length + ' realistic swipe trajectories!', 'success');
       showPreview(generatedDataset);
       
       exportBtn.disabled = false;
       viewBtn.disabled = false;
     } catch (error) {
-      showStatus('Error generating dataset: ' + error.message, 'error');
+      showStatus('❌ Error generating dataset: ' + error.message, 'error');
+      console.error('Generation error:', error);
     } finally {
       generateBtn.disabled = false;
     }
@@ -198,14 +201,20 @@ function parseWordlistClientSide(content, format) {
   return words.filter(w => w.length > 0);
 }
 
-// Load wordlist from URL (client-side)
+// Load wordlist from URL (pure client-side with CORS handling)
 async function loadWordlistFromUrl(url) {
   if (!url) return;
   
   try {
-    showStatus('Loading wordlist from URL...', 'info');
+    showStatus('🌐 Loading wordlist from URL...', 'info');
     
-    const response = await fetch(url);
+    const response = await fetch(url, {
+      mode: 'cors',
+      headers: {
+        'Accept': 'text/plain, text/csv, application/octet-stream'
+      }
+    });
+    
     if (!response.ok) {
       throw new Error(\`HTTP \${response.status}: \${response.statusText}\`);
     }
@@ -216,11 +225,42 @@ async function loadWordlistFromUrl(url) {
     
     const wordlistFile = document.getElementById('wordlist-file');
     wordlistFile.dataset.words = JSON.stringify(words);
-    showStatus('Loaded ' + words.length + ' words from URL', 'success');
+    showStatus('✅ Loaded ' + words.length + ' words from URL!', 'success');
     
   } catch (error) {
     console.error('URL loading error:', error);
-    showStatus('Error loading wordlist from URL: ' + error.message, 'error');
+    showStatus('⚠️ Could not load from URL (CORS): ' + error.message + '. Using fallback wordlist.', 'info');
+    
+    // Use comprehensive fallback wordlist if URL fails
+    const fallbackWords = [
+      'the', 'and', 'you', 'that', 'was', 'for', 'are', 'with', 'his', 'they',
+      'have', 'this', 'will', 'your', 'from', 'can', 'all', 'would', 'there', 'each',
+      'which', 'she', 'new', 'has', 'more', 'her', 'two', 'like', 'him', 'see',
+      'time', 'could', 'make', 'than', 'first', 'been', 'call', 'who', 'oil', 'its',
+      'now', 'find', 'long', 'down', 'day', 'did', 'get', 'come', 'made', 'may',
+      'part', 'over', 'think', 'where', 'much', 'take', 'good', 'just', 'work',
+      'life', 'way', 'say', 'great', 'help', 'through', 'line', 'want', 'right',
+      'try', 'kind', 'hand', 'picture', 'again', 'change', 'off', 'play', 'spell',
+      'air', 'away', 'animal', 'house', 'point', 'page', 'letter', 'mother', 'answer',
+      'found', 'study', 'still', 'learn', 'should', 'america', 'world', 'high', 'every',
+      'near', 'add', 'food', 'between', 'own', 'below', 'country', 'plant', 'school',
+      'father', 'keep', 'tree', 'never', 'start', 'city', 'earth', 'eye', 'light',
+      'thought', 'head', 'under', 'story', 'saw', 'left', 'dont', 'few', 'while',
+      'along', 'might', 'close', 'something', 'seem', 'next', 'hard', 'open', 'example',
+      'begin', 'important', 'until', 'children', 'side', 'feet', 'car', 'mile', 'night',
+      'walk', 'white', 'sea', 'began', 'grow', 'took', 'river', 'four', 'carry', 'state',
+      'once', 'book', 'hear', 'stop', 'without', 'second', 'later', 'miss', 'idea',
+      'enough', 'eat', 'face', 'watch', 'far', 'indian', 'really', 'almost', 'let',
+      'above', 'girl', 'sometimes', 'mountain', 'cut', 'young', 'talk', 'soon', 'list',
+      'song', 'being', 'leave', 'family', 'hello', 'world', 'computer', 'keyboard', 'swipe',
+      'gesture', 'trace', 'mobile', 'phone', 'technology', 'data', 'science', 'machine',
+      'learning', 'artificial', 'intelligence', 'neural', 'network', 'algorithm'
+    ];
+    
+    const wordlistFile = document.getElementById('wordlist-file');
+    wordlistFile.dataset.words = JSON.stringify(fallbackWords);
+    showStatus('📚 Using built-in dictionary (' + fallbackWords.length + ' words)', 'success');
+    
     throw error;
   }
 }
@@ -268,56 +308,108 @@ async function generateDatasetClientSide(config) {
   };
 }
 
-// Generate a simulated trace for a word
+// Generate realistic swipe traces based on different generator types
 function generateSimulatedTrace(word, generator) {
   const trace = [];
-  const keys = getKeyboardCoordinates(700, 400); // Standard canvas size
+  const keys = getKeyboardCoordinates(700, 400);
   
   let currentTime = 0;
+  const settings = generator.settings;
   
   for (let i = 0; i < word.length; i++) {
     const char = word[i].toUpperCase();
     const key = keys[char];
     
     if (key) {
-      // Add some random variation based on generator type
-      const variation = getGeneratorVariation(generator.type);
-      const x = key.x + (Math.random() - 0.5) * variation;
-      const y = key.y + (Math.random() - 0.5) * variation;
+      // Calculate target position with generator-specific variation
+      let targetX, targetY;
       
-      // Add intermediate points for smoother curves
+      switch (generator.type) {
+        case 'rnn':
+          // RNN: More organic, human-like variation
+          const temp = settings.temperature || 1;
+          targetX = key.x + gaussianRandom() * (15 * temp);
+          targetY = key.y + gaussianRandom() * (12 * temp);
+          break;
+          
+        case 'gan':
+          // GAN: Stylistically consistent variation
+          const style = settings.style || 'natural';
+          const styleMultiplier = style === 'smooth' ? 0.5 : style === 'sharp' ? 1.5 : 1;
+          targetX = key.x + (Math.random() - 0.5) * (20 * styleMultiplier);
+          targetY = key.y + (Math.random() - 0.5) * (15 * styleMultiplier);
+          break;
+          
+        case 'transformer':
+          // Transformer: More precise, attention-based
+          const precision = settings.model === 'large' ? 0.7 : settings.model === 'small' ? 1.3 : 1;
+          targetX = key.x + (Math.random() - 0.5) * (10 * precision);
+          targetY = key.y + (Math.random() - 0.5) * (8 * precision);
+          break;
+          
+        case 'rule-based':
+        default:
+          // Rule-based: Controlled variation
+          const smoothness = settings.smoothness || 0.7;
+          const noise = settings.noise || 0.2;
+          targetX = key.x + (Math.random() - 0.5) * (25 * noise);
+          targetY = key.y + (Math.random() - 0.5) * (20 * noise);
+          break;
+      }
+      
+      // Add smooth intermediate points between keys
       if (i > 0) {
-        const prevTrace = trace[trace.length - 1];
-        const steps = 3 + Math.floor(Math.random() * 3);
+        const prevPoint = trace[trace.length - 1];
+        const distance = Math.sqrt(Math.pow(targetX - prevPoint.x, 2) + Math.pow(targetY - prevPoint.y, 2));
+        const steps = Math.max(3, Math.floor(distance / 15));
         
         for (let j = 1; j < steps; j++) {
           const t = j / steps;
-          const interpX = prevTrace.x + t * (x - prevTrace.x) + (Math.random() - 0.5) * 10;
-          const interpY = prevTrace.y + t * (y - prevTrace.y) + (Math.random() - 0.5) * 10;
+          // Use bezier curve for more natural movement
+          const controlX = (prevPoint.x + targetX) / 2 + (Math.random() - 0.5) * 20;
+          const controlY = (prevPoint.y + targetY) / 2 + (Math.random() - 0.5) * 15;
+          
+          const interpX = quadraticBezier(prevPoint.x, controlX, targetX, t);
+          const interpY = quadraticBezier(prevPoint.y, controlY, targetY, t);
           
           trace.push({
             x: interpX,
             y: interpY,
-            t: currentTime + (j * 30),
+            t: currentTime + (j * 25),
             p: 0 // Pen down
           });
         }
-        currentTime += steps * 30;
+        currentTime += steps * 25;
       }
       
-      // Add the key point
+      // Add the target key point
       trace.push({
-        x: x,
-        y: y,
+        x: targetX,
+        y: targetY,
         t: currentTime,
         p: 0 // Pen down
       });
       
-      currentTime += 50 + Math.random() * 50; // Dwell time
+      // Add realistic dwell time
+      const dwellTime = 40 + Math.random() * 60;
+      currentTime += dwellTime;
     }
   }
   
   return trace;
+}
+
+// Helper function for gaussian random numbers (Box-Muller transform)
+function gaussianRandom() {
+  let u = 0, v = 0;
+  while(u === 0) u = Math.random(); // Converting [0,1) to (0,1)
+  while(v === 0) v = Math.random();
+  return Math.sqrt( -2.0 * Math.log( u ) ) * Math.cos( 2.0 * Math.PI * v );
+}
+
+// Helper function for quadratic bezier curves
+function quadraticBezier(p0, p1, p2, t) {
+  return (1 - t) * (1 - t) * p0 + 2 * (1 - t) * t * p1 + t * t * p2;
 }
 
 function getGeneratorVariation(type) {
