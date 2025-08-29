@@ -216,7 +216,7 @@ async function loadWordlistFromUrl(url) {
     });
     
     if (!response.ok) {
-      throw new Error(\`HTTP \${response.status}: \${response.statusText}\`);
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
     
     const content = await response.text();
