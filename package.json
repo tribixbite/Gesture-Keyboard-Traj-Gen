@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "bun web-app/server.ts",
     "server": "bun web-app/server.ts",
-    "build": "bun extract-assets && bun simple-build.ts",
-    "extract-assets": "bun extract-css.ts && bun extract-js.ts",
+    "build": "bun build-static-simple.ts",
     "start": "bun web-app/server.ts"
   },
   "devDependencies": {
